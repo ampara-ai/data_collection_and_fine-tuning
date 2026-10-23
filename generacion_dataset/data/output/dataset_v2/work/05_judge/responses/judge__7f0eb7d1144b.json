@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00575_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Sanciona humillación o maltrato psicológico reiterado aun sin lesión ni daño psicológico."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0004::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Prevé servicio comunitario de ochenta a cien jornadas o multa por maltrato sin lesión entre convivientes."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra responsabilidad de ambos por agresiones recíprocas, pero no distingue legítima defensa de maltrato mutuo."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "si",
+      "rationale": "Explica la reserva del fallo condenatorio por dos años como alternativa aplicada a un responsable de maltrato."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Dispone comparecencia simple ante falta de solicitud fiscal de prisión preventiva y exige motivar la decisión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

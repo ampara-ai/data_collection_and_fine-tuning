@@ -1,0 +1,14 @@
+{
+ "candidato_descartado_test": 251,
+ "candidato_descartado_excluido": 41,
+ "candidato_descartado_dev": 94,
+ "caso_omitido_su_sentencia_esta_en_dev_o_test": 45,
+ "caso_no_candidato": 33,
+ "caso_sin_candidatos_train": 1,
+ "casos_elegibles": 132,
+ "casos_en_esta_ola": 132,
+ "casos_con_preguntas": 132,
+ "rechazada_solapamiento_alto": 30,
+ "casos_procesados": 132,
+ "preguntas_aceptadas": 709
+}

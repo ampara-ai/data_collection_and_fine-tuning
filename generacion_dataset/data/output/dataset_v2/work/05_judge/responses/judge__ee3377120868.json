@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente a agraviados entre beneficiarios de protección procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Prevé protección de agraviada sin extenderla expresamente a padres e hijos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección estatal a niños sin detallar cobertura de padres y descendientes por represalias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "Tipifica rufianismo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "Tipifica proxenetismo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia simple."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registro personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula protección en cooperación con Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Activa protección a víctima según riesgo sin extensión expresa a familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deber de proteger al agraviado sin cubrir expresamente sus familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Incluye peligro grave para ascendientes y descendientes entre supuestos de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deber de proteger a madre e hijo sin cobertura expresa de ascendientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula uso de información de colaboradores eficaces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata discriminación en investigación sin protección de familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Exige apreciación racional de peligro grave para persona, libertad o bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Incluye peligro grave para bienes como supuesto de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_247_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Incluye testigos en las medidas cuando exista peligro grave."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0019_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "si",
+      "rationale": "La ausencia de ADN no excluye automáticamente responsabilidad y exige valorar conjuntamente las demás pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "si",
+      "rationale": "Anula una absolución fundada en la falta de ADN y ordena un nuevo pronunciamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "si",
+      "rationale": "Analiza como violación de persona incapaz de resistir el acceso sexual no consentido con la víctima inconsciente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

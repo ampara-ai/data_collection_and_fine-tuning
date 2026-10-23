@@ -1,0 +1,73 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "La mamá del niño no se presentó a declarar en el juicio aunque la citaron. ¿El juez puede hacer que la traigan?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_379_01"
+   ],
+   "positive_selection_reason": "El art. 379 del CPP dice qué hace el juez cuando un testigo citado no comparece: ordena su conducción compulsiva y pide colaboración a quien lo propuso.",
+   "expected_answer_focus": "Que si el testigo citado no llega, el juez ordena que sea llevado por la fuerza y quien lo propuso debe colaborar con la diligencia.",
+   "victim_voice_rationale": "Una familiar del niño se pregunta qué pasa cuando un testigo importante no aparece al juicio."
+  },
+  {
+   "query": "Mandaron a la policía por la testigo dos veces y no la hallaron. Su declaración es clave, ¿igual siguen el juicio sin ella?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00462_e0003_01",
+    "chunk_tipo03_cpp_art_379_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia indica que, si el testimonio es de vital importancia, se debe insistir aunque los primeros intentos fallen. El art. 379 CPP establece la regla general de prescindir de la prueba si no se la localiza, y sirve de contraste.",
+   "expected_answer_focus": "Que la regla general permite seguir sin el testigo no localizado, pero la Corte Suprema exige seguir insistiendo cuando su declaración es de vital importancia, y no bastan dos intentos fallidos.",
+   "victim_voice_rationale": "La familia teme que el juicio avance sin una testigo clave tras intentos fallidos de traerla."
+  },
+  {
+   "query": "Mi sobrino de 10 años dice que un familiar le tocó sus partes íntimas. ¿Eso es delito aunque no lo hayan violado y qué castigo tiene?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_176-a_01"
+   ],
+   "positive_selection_reason": "El art. 176-A del Código Penal tipifica los tocamientos indebidos y actos de connotación sexual contra menores de catorce años sin acceso carnal, y fija su sanción.",
+   "expected_answer_focus": "Que los tocamientos o actos libidinosos contra un menor de catorce años son delito aunque no haya penetración, y que tienen pena de cárcel.",
+   "victim_voice_rationale": "Un familiar duda si los tocamientos, sin violación, ya son delito."
+  },
+  {
+   "query": "Una familiar vio algo pero no quiere ir a declarar por miedo a problemas. ¿Le pueden hacer algo si no va?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_371_01",
+    "chunk_tipo03_cpp_art_379_01"
+   ],
+   "positive_selection_reason": "El art. 371 del Código Penal sanciona al testigo que se abstiene de comparecer o declarar cuando se le requiere legalmente. El art. 379 del CPP añade que el juez puede ordenar que lo lleven por la fuerza.",
+   "expected_answer_focus": "Que negarse a comparecer o declarar cuando se es requerido legalmente puede tener sanción penal, y que el juez puede ordenar que el testigo sea conducido.",
+   "victim_voice_rationale": "Una persona con miedo quiere saber si negarse a declarar tiene consecuencias."
+  },
+  {
+   "query": "Voy a ir al juicio por lo que le pasó a mi sobrino. ¿Cómo empieza la audiencia y quién habla primero?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_371_01"
+   ],
+   "positive_selection_reason": "El art. 371 del CPP describe cómo se instala el juicio y el orden de intervención: juez, fiscal, abogados de las partes y defensa del acusado.",
+   "expected_answer_focus": "Que el juez abre la audiencia identificando el caso, luego expone el fiscal, después las partes civiles y por último la defensa; el acusado puede o no declarar.",
+   "victim_voice_rationale": "Un familiar sin conocimientos legales quiere saber qué esperar al asistir al juicio."
+  },
+  {
+   "query": "Absolvieron a quien abusó de mi sobrino diciendo que faltaban pruebas, pero no insistieron en traer a una testigo clave. ¿Se puede repetir el juicio?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00462_e0003_01"
+   ],
+   "positive_selection_reason": "La sentencia anuló una absolución porque la Sala no agotó la conducción compulsiva de una testigo de vital importancia, y ordenó un nuevo juicio oral.",
+   "expected_answer_focus": "Que la Corte Suprema puede anular una absolución si no se agotaron las diligencias para traer a un testigo esencial, y ordenar un nuevo juicio.",
+   "victim_voice_rationale": "La familia siente que absolvieron al agresor sin que se hiciera todo lo posible por probar los hechos."
+  }
+ ]
+}

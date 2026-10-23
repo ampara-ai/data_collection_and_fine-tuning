@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "Resuelve plazos de notificación y casación, sin establecer criterios sobre tentativa de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula la sentencia de apelación y sus facultades."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Sanciona hacer consumir drogas a otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada y entrevistas de menores, no la calificación de los actos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "Regula la detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata la revictimización en diligencias de reconstrucción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el abuso sexual como violencia contra la mujer, sin distinguir tentativa de violación y tocamientos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica tocamientos a menores sin propósito de acceso carnal, pero no desarrolla la tentativa de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula la procedencia del recurso de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "Regula la anomalía psíquica sobrevenida del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "si",
+      "rationale": "Distingue tentativa de violación y actos contra el pudor exigiendo actos inequívocos de ejecución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "Distingue acoso y acto sexual violento bajo legislación colombiana, sin resolver tentativa de violación en Perú."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "si",
+      "rationale": "Califica como tentativa de violación hechos de ingreso, tocamientos y desvestimiento de una niña de doce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "si",
+      "rationale": "Indica la condena de siete años y dos mil soles de reparación civil por tentativa de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "si",
+      "rationale": "Reconoce tentativa de violación pese a la interrupción por la madre y la ausencia de penetración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

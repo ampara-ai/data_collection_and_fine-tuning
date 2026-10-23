@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0058::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "si",
+      "rationale": "El consentimiento de una menor de catorce años es irrelevante para excluir el delito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "La grave amenaza y la coacción permiten configurar violación sin golpes físicos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé una pena agravada por aprovechar una posición que genera confianza en la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "La reparación se fija junto con la pena y el juez garantiza su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos y exclusiones de suspensión, incluyendo los delitos sexuales del capítulo indicado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Aumenta cinco años los extremos de pena por crueldad o degradación en los delitos sexuales enumerados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0058::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No explica el aumento de pena por crueldad o humillación en la agresión sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

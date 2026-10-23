@@ -1,0 +1,92 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_13_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Pedí que me paguen por el daño del maltrato pero ya no quiero seguir. ¿Hasta cuándo puedo echarme para atrás?",
+     "topic": "reparacion_civil",
+     "barrier": "otro",
+     "expected_answer_focus": "El actor civil puede desistirse hasta antes de la etapa intermedia."
+    },
+    {
+     "query": "Si dejo de reclamar dinero dentro del juicio penal, ¿pierdo para siempre el derecho a cobrarlo?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El desistimiento no impide reclamar la reparación en la vía civil."
+    },
+    {
+     "query": "¿Tendría que pagar algún gasto si me arrepiento de pedir indemnización en el proceso?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "El desistimiento genera obligación de pagar costas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_111_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermano murió porque un conductor borracho lo atropelló sin querer matarlo. ¿Cuántos años de cárcel le tocan?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si usa vehículo estando ebrio, la pena es de cuatro a ocho años e inhabilitación."
+    },
+    {
+     "query": "Un médico descuidado causó la muerte de mi esposa. ¿La pena es distinta que si fue un simple accidente?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si la muerte resulta de no seguir las reglas de la profesión, la pena sube a uno a cuatro años."
+    },
+    {
+     "query": "En un accidente murieron varias personas de mi familia por descuido del responsable. ¿Eso aumenta el castigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Cuando son varias las víctimas del mismo hecho la pena es de uno a seis años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_425_01",
+   "skip": true,
+   "skip_reason": "Definición administrativa de quién es funcionario público; ninguna víctima la preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_117_01",
+   "skip": true,
+   "skip_reason": "Regla técnica interna sobre fecha y hora de actuaciones procesales; no genera pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_15_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que abusó de mi hija dice que en su pueblo así es la costumbre. ¿Por eso lo pueden librar de culpa?",
+     "topic": "identificacion_delito",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Quien por su cultura no comprende el carácter delictivo queda exento o con pena atenuada, con lineamientos interculturales para delitos sexuales contra menores."
+    },
+    {
+     "query": "¿Las costumbres de la comunidad sirven de excusa para quien comete un delito grave contra una niña?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La eximente cultural se aplica con lineamientos interculturales, también cuando la víctima es menor o no consintió libremente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_325_01",
+   "skip": true,
+   "skip_reason": "Regla técnica interna sobre valor probatorio de las actuaciones de investigación; no genera pregunta natural de una víctima.",
+   "questions": []
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

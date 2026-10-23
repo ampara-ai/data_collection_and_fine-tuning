@@ -1,0 +1,84 @@
+{
+ "questions": [
+  {
+   "query": "Mi hermanita de 12 años tiene que contar lo que le pasó. ¿Puede hacerlo una sola vez, con alguien preparado, y que quede grabado para no repetirlo?",
+   "topic": "procedimiento_penal",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_19_01",
+    "chunk_tipo03_cpp_art_242_01"
+   ],
+   "positive_selection_reason": "El art. 19 de la Ley 30364 exige que la declaración de niñas, niños y adolescentes se tome en una sola entrevista como prueba anticipada, en ambiente privado y seguro. El art. 242.1.d CPP regula la declaración de menores agraviados de delitos sexuales con psicólogos especializados, en cámara Gesell, filmada para evitar la revictimización.",
+   "expected_answer_focus": "Que la declaración de la menor víctima se toma una sola vez, en un ambiente reservado, con psicólogos especializados y grabada, para evitar que repita el relato y se la revictimice.",
+   "victim_voice_rationale": "Una familiar teme que la niña tenga que revivir el relato varias veces.",
+   "topic_note": "entrevista única"
+  },
+  {
+   "query": "Mi hija tiene 12 años y el agresor la manoseó. ¿La pueden poner frente a frente con él para que discutan lo que cada uno dijo?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "El art. 182.3 CPP establece que no procede el careo entre el imputado y la víctima menor de catorce años, salvo que su representante o defensa lo pida expresamente.",
+   "expected_answer_focus": "Que, por regla, no se hace el careo con una víctima menor de catorce años, y que solo procede si quien la representa o su defensa lo solicita expresamente.",
+   "victim_voice_rationale": "Una madre teme que su hija tenga que enfrentarse cara a cara con quien la agredió."
+  },
+  {
+   "query": "Lo que mi hija contó al inicio quedó grabado. Si después en el juicio ya no quiere hablar, ¿esa grabación sirve igual como prueba?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_242_01",
+    "chunk_tipo03_cpp_art_325_01"
+   ],
+   "positive_selection_reason": "El art. 242 CPP permite adelantar la declaración de menores víctimas y de testigos expuestos a amenazas para que no declaren. El art. 325 CPP precisa que la prueba anticipada recibida conforme a esas reglas tiene valor de prueba para la sentencia.",
+   "expected_answer_focus": "Que la declaración adelantada, tomada con las formalidades de la prueba anticipada, puede valer como prueba en la sentencia aunque la víctima no declare después.",
+   "victim_voice_rationale": "Una madre teme que su hija cambie la versión por presión y se pierda todo."
+  },
+  {
+   "query": "El abogado del acusado dice que la declaración de mi hija no vale porque no se hizo como debía. ¿Se anula todo por ese error de trámite?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00252_e0001_01"
+   ],
+   "positive_selection_reason": "La casación resolvió que no hacer la entrevista como prueba anticipada no la invalida si se incorporó bien, se permitió contradecirla y no es la única prueba. Además, el interés superior del niño justifica flexibilizar las formas.",
+   "expected_answer_focus": "Que ese defecto formal es relativo y no anula la entrevista si hubo contradictorio y otras pruebas, priorizando la protección de la menor.",
+   "victim_voice_rationale": "Una familiar teme que un tecnicismo deje sin valor lo que dijo la niña."
+  },
+  {
+   "query": "Condenaron al hombre que abusó de mi hermana, pero quiere ir a la Corte Suprema. ¿Qué tiene que presentar y en cuánto tiempo deciden si lo aceptan?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_430_01"
+   ],
+   "positive_selection_reason": "El art. 430 CPP detalla cómo se presenta y admite el recurso de casación: requisitos, traslado a las partes y plazo de veinte días para decidir si procede conocer el fondo, con admisión excepcional si la pena es de prisión efectiva.",
+   "expected_answer_focus": "Requisitos del escrito de casación, traslado a las demás partes y plazo para decidir su admisión.",
+   "victim_voice_rationale": "La familia quiere saber cuánto puede alargarse el proceso tras la condena."
+  },
+  {
+   "query": "Cuando condenan a alguien por abusar de una niña, ¿ella recibe algún dinero por el daño sufrido? ¿Eso se decide en la misma sentencia?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00252_e0001_01"
+   ],
+   "positive_selection_reason": "La casación mantuvo la condena junto con una reparación civil a favor de la menor, fijada en la misma sentencia.",
+   "expected_answer_focus": "Que junto con la pena se fija una suma de dinero a favor de la víctima, y que en este caso fue confirmada por la Corte Suprema.",
+   "victim_voice_rationale": "Una familiar quiere saber si la niña tiene derecho a una compensación económica."
+  },
+  {
+   "query": "Si la pareja de mi hermana abusó varias veces de mi hermanita de 12 años en la misma casa, ¿qué castigo muy grave puede recibir?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00252_e0001_01"
+   ],
+   "positive_selection_reason": "El caso trata de un conviviente de la hermana condenado por violar reiteradamente a una menor de catorce años en la vivienda común, con la pena más grave confirmada por la Corte Suprema.",
+   "expected_answer_focus": "Que en un caso similar se impuso y confirmó cadena perpetua, aclarando que se aplicó la normativa vigente en 2020.",
+   "victim_voice_rationale": "Una familiar duda si el agresor será realmente sancionado con severidad."
+  }
+ ]
+}

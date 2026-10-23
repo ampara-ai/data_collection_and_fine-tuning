@@ -1,0 +1,177 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_552_01",
+   "skip": true,
+   "skip_reason": "Trata de cooperación internacional sobre entrega vigilada de bienes (operaciones antidroga); es un procedimiento institucional entre la Fiscalía y autoridades extranjeras que ninguna víctima de violencia familiar preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hijo de 12 años fue tocado y obligado por un adulto a hacer cosas sexuales en el baño. ¿Eso cuenta como violación o solo como tocamientos?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El sexo oral y la penetración anal forzada contra un menor se consideran violación sexual (acceso carnal), no solo tocamientos indebidos."
+    },
+    {
+     "query": "El agresor dice que solo fueron tocamientos, pero admitió una parte de lo que pasó. ¿Eso le sirve para librarse de la acusación grave?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Aunque el procesado reconoció los hechos solo parcialmente y alegó actos contra el pudor, se le condenó por violación porque los actos constituyen acceso carnal."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le pueden dar a un hombre que abusó sexualmente de un niño de 12 años?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó una condena de 30 años de prisión por violación sexual de un menor, además de una suma por reparación civil."
+    },
+    {
+     "query": "Mi sobrino tiene mucho miedo y casi no habla. ¿Le van a creer a un niño si lo único que hay es su palabra contra la del adulto?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El testimonio del menor se evalúa con criterios de credibilidad: ausencia de motivos para mentir, verosimilitud corroborada con otras pruebas (peritajes psicológicos, reconocimiento parcial) y persistencia."
+    },
+    {
+     "query": "A mi hijo lo obligaron a hacerle algo al agresor, no al revés. ¿Igual se considera violación?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El acceso carnal incluye tanto la penetración activa como la pasiva, incluso si el menor es obligado a introducir su miembro en el agresor."
+    },
+    {
+     "query": "Al niño lo entrevistaron una sola vez en una sala especial y el examen médico lo firmó un solo doctor. ¿Eso invalida el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se desestimaron los reclamos formales: el certificado médico firmado por un solo perito es un acto preliminar válido y la entrevista única en Cámara Gesell, ratificada en juicio, fue aceptada."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un hombre se llevó a mi hija de 4 años a una casa abandonada, le bajó la ropa y la besó en la boca. ¿Qué delito es y qué castigo tiene?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Bajar la ropa y besar a una menor de 4 años, sin intento claro de penetración, se califica como actos contra el pudor en menor, con condena de cinco años y reparación civil."
+    },
+    {
+     "query": "A mi niña no le encontraron heridas en el examen médico. ¿Eso significa que no pasó nada grave o que no hay delito?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aunque no hubo lesiones genitales, la conducta aceptada por el acusado configuró un delito (actos contra el pudor); la falta de lesiones no impide la condena, pero sí influye en que no se pruebe una violación intentada."
+    },
+    {
+     "query": "El hombre se escapó cuando mi hija gritó y otro niño se acercó. ¿Cuenta como intento de violación aunque no llegó a más?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No se acreditó que hubiera comenzado la ejecución de la violación (actos dirigidos inequívocamente a penetrar), por lo que no se admitió la tentativa de violación."
+    },
+    {
+     "query": "El agresor admitió que le bajó el pantalón a la niña y la besó. ¿Eso le reduce la pena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se aplicó el beneficio de confesión sincera para reducir la pena, ya que el acusado reconoció haber bajado el pantalón y besado a la menor."
+    },
+    {
+     "query": "Absolvieron al acusado del intento de violación, pero el fiscal no está de acuerdo. ¿Se puede revisar esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte declaró nula la absolución por tentativa de violación en ese extremo, y confirmó la condena por actos contra el pudor de cinco años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_345_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El fiscal quiere archivar mi denuncia y no estoy de acuerdo. ¿Cuánto tiempo tengo para oponerme y qué debo presentar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los sujetos procesales tienen diez días para oponerse; la oposición debe estar fundamentada (si no, es inadmisible) y puede pedir diligencias adicionales indicando su objeto."
+    },
+    {
+     "query": "Si el fiscal pide dar por terminado el caso de mi agresor, ¿el juez me va a escuchar antes de decidir?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez cita a una audiencia donde escucha por orden al fiscal y a los demás sujetos procesales para debatir el pedido de archivo."
+    },
+    {
+     "query": "¿En cuántos días el juez tiene que decidir si cierran mi caso después de la audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La resolución se emite en tres días tras la audiencia."
+    },
+    {
+     "query": "Siento que mi caso se va a quedar olvidado después de que el fiscal pidió archivarlo. ¿Hay un tiempo máximo para que se haga la audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Entre el pedido de archivo y la audiencia no pueden pasar más de 30 días, o 60 en casos complejos y de criminalidad organizada, bajo responsabilidad."
+    },
+    {
+     "query": "¿Puedo pedir que se investigue más antes de que archiven mi denuncia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Al oponerse al archivo se puede solicitar actos de investigación adicionales, señalando para qué sirven y qué medios se proponen."
+    },
+    {
+     "query": "¿Se puede postergar la audiencia donde deciden si archivan mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La audiencia de control del sobreseimiento es inaplazable y se realiza con los asistentes presentes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_225_01",
+   "skip": true,
+   "skip_reason": "Regula el trámite técnico de copias de documentos incautados por la Fiscalía; no genera una pregunta natural en una víctima de violencia familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Cuando denuncié, me preguntaron más por mi forma de vivir que por lo que me hizo él. ¿Eso es correcto o es una injusticia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Centrar la investigación en la vida personal de la víctima por prejuicios de género es una investigación inadecuada, revictimizante y viola el derecho a la justicia."
+    },
+    {
+     "query": "Me da miedo que la policía o el fiscal piensen que yo me lo busqué por cómo soy. ¿Pueden dejar que esos prejuicios afecten mi caso?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los estereotipos de género distorsionan las decisiones y afectan la objetividad; los funcionarios deben evitar prejuicios al investigar la violencia contra la mujer."
+    },
+    {
+     "query": "¿Qué pasa si el Estado no investiga bien un caso de violencia contra una mujer por culpa de prejuicios?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "El Estado puede ser declarado internacionalmente responsable por violar derechos como integridad, protección judicial e igualdad, y se ordenan medidas de reparación."
+    },
+    {
+     "query": "A una mujer la secuestraron meses y la agredieron mucho, y las autoridades solo hablaron de su vida privada. ¿Qué dijo la justicia internacional?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Interamericana declaró responsable al Estado venezolano por prevención e investigación deficientes marcadas por estereotipos, en un caso de secuestro y violencia física, psicológica y sexual."
+    },
+    {
+     "query": "¿Tengo derecho a que investiguen mi denuncia de violencia sin juzgarme como mujer?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Existe la obligación estatal de investigar con perspectiva de género, sin estereotipos, garantizando el derecho a una vida libre de violencia y acceso a la justicia."
+    }
+   ]
+  }
+ ]
+}

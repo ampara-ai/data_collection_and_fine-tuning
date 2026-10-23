@@ -1,0 +1,119 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_12_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "si",
+      "rationale": "Reconoce cambio de lugar y horario de estudios sin menoscabo de derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_12_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "si",
+      "rationale": "Reconoce justificación de inasistencias por violencia y fija sus límites temporales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_12_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "si",
+      "rationale": "Obliga al Estado a favorecer permanencia y reinserción educativa de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_12_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "si",
+      "rationale": "Reconoce atención educativa especializada de las secuelas de la violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa]» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "si",
+      "rationale": "Tipifica la exigencia de dinero por amenaza y agrava el empleo de imágenes del entorno familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 294. Internamiento previo para observación y examen» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 301.- Coacción al consumo de droga» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Sugilaciones en relación consentida (Casación 201-2014, Ica)» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Casación 603-2019, Piura, ff. jj. 2-3» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 207. Presupuestos y Ejecución» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 261. Detención Preliminar Judicial» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Casación 603-2019, Piura» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos» y no aporta información para resolver la calificación del chantaje económico mediante imágenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "parcial",
+      "rationale": "Fija penas de extorsión, pero la agravación específica por lesiones graves descrita exige rehén, circunstancia no indicada en la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 129-G.- Gestión de la explotación sexual» y no aporta información para resolver la distinción entre tentativa de violación y actos contra el pudor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

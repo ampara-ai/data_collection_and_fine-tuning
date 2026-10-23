@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_16_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "si",
+      "rationale": "Define y sanciona la tentativa aunque el delito no se consume."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_16_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "si",
+      "rationale": "Establece la reducción de pena por tentativa y sus límites."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Faculta recibir denuncias verbales y exige documentarlas mediante acta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Permite detener en flagrancia e informar inmediatamente al intervenido sus derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Regula aislar y proteger el lugar y recoger y conservar indicios y evidencias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0084::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Explica que la ausencia de lesiones por el tiempo transcurrido no desacredita por sí sola el relato."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Señala que la ausencia de afectación psicológica no vuelve inverosímil el testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece penas y agravantes generales de violación, pero no contiene el régimen específico para una niña menor de catorce años."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia durante la investigación, no ejecución de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Regula aumento de pena por parentesco, sin resolver su suspensión ni el cumplimiento domiciliario."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "Regula obligaciones de colaboradores eficaces, sin establecer su aplicación a esta condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza prisión preventiva antes de condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "Regula consentimiento sexual, no ejecución de penas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe una condena de prisión por violación de una menor, sin resolver cuándo puede evitarse el ingreso en cárcel."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficios de explotación sexual, un delito diferente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz, no el régimen ordinario de esta condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "Analiza fines de prisión preventiva, no cumplimiento de condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Contiene requisitos y exclusiones de suspensión, pero no identifica expresamente qué exclusión corresponde al abuso sexual de la sobrina."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios por colaboración eficaz, sin establecer su procedencia para este abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0084::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Define violación por violencia o entorno coercitivo que impide el libre consentimiento, sin exigir gritos ni resistencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

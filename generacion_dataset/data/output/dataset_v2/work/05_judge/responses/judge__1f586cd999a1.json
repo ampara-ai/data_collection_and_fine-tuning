@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00540_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula la revocación de beneficios de colaboración eficaz, no la apelación de la víctima contra una absolución consentida por la fiscalía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

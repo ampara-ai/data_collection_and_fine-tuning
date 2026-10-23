@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "si",
+      "rationale": "La incomparecencia del tercero incorporado no impide el proceso ni sus obligaciones indemnizatorias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "si",
+      "rationale": "Permite llamar al asegurador como tercero civilmente responsable."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "si",
+      "rationale": "Fija plazos de audiencia y máximo entre acusación y resolución."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "si",
+      "rationale": "Describe el debate de las partes en la audiencia preliminar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "si",
+      "rationale": "Limita la siguiente sesión a ocho días hábiles y establece plazo total máximo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_465_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_465_01",
+      "relevance": "no",
+      "rationale": "Regula sucesión de querellantes en acción privada y no persecución de violencia familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

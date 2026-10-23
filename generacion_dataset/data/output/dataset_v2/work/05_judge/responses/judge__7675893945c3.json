@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_140_01",
+      "relevance": "si",
+      "rationale": "Permite reponer expedientes con copias certificadas o archivos informáticos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "si",
+      "rationale": "Establece diez días y ofrecimiento de pruebas para incrementar la reparación civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "si",
+      "rationale": "Contempla pedir sobreseimiento y, cuando corresponda, terminación anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "si",
+      "rationale": "Permite ofrecer testigos y peritos e indica sus datos requeridos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

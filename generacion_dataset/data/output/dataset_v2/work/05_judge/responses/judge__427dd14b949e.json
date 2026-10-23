@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Explica quién declara doctrina vinculante, su alcance y el mecanismo del pleno casatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Ordena reunir el Pleno Casatorio ante criterios supremos discrepantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Resuelve contradicciones entre peritos y no entre criterios judiciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "Detalla competencias de Cortes Superiores y no unificación de criterios supremos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Fija pautas de violencia sexual sin explicar el mecanismo para resolver discrepancias supremas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "Regula actuación sin revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce casación excepcional para desarrollar doctrina, pero no el pleno que unifica discrepancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "Resuelve valoración de ADN sin explicar unificación entre salas supremas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula inscripción de reserva del fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la competencia casatoria sobre errores jurídicos, sin explicar la unificación de criterios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "parcial",
+      "rationale": "Da un ejemplo de doctrina jurisprudencial, sin desarrollar el mecanismo ante discrepancias supremas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula error culturalmente condicionado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "Regula alcance de la anulación en casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Explica la competencia casatoria, pero no cómo se publica la doctrina vinculante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "parcial",
+      "rationale": "Menciona una doctrina jurisprudencial, pero no informa dónde se publica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "Regula un protocolo intersectorial y no publicación de doctrina suprema."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica obligatoriedad de doctrina sin indicar su publicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Describe una doctrina vinculante específica sin indicar dónde se publica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "Regula decisión de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente la publicación de la doctrina jurisprudencial en el diario oficial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "Trata obligatoriedad de enfoque de género, no publicación de criterios supremos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos de función."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula registro confidencial de reserva del fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "parcial",
+      "rationale": "Menciona doctrina establecida como causa de inadmisibilidad, pero no su publicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de contenido sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_433_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "Regula anulación parcial y cosa juzgada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,251 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00651_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "si",
+      "rationale": "Confirma multa al defensor por recurso improcedente y alegar desconocimiento o falta de preparación."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "si",
+      "rationale": "Garantiza ayuda, intérprete o traductor a quien no comprende o no se expresa con facilidad."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la asistencia por no comprender el idioma."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "parcial",
+      "rationale": "Permite abreviar plazos y practicar prueba urgente, pero no precisa días u horarios inhábiles."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "si",
+      "rationale": "Permite cualquier día y hora cuando sea absolutamente indispensable por la naturaleza del acto."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la realización de diligencias de noche o en fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza citación y entrevista el mismo día por urgencia, sin resolver expresamente noche o fin de semana."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "parcial",
+      "rationale": "Resuelve que pueden realizarse cualquier día y hora indispensable, pero no regula el cambio de sede."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "parcial",
+      "rationale": "Permite declaraciones por exhorto o videoconferencia para testigos distantes, pero no el régimen general de lugar y hora."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite citación inmediata por urgencia, sin resolver el régimen general de lugar y horario."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el lugar y horario de las diligencias."
+    },
+    {
+      "dataset_id": "case::jp_00651_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "parcial",
+      "rationale": "Permite diligencias fuera del despacho cuando sea indispensable, pero no regula su horario."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

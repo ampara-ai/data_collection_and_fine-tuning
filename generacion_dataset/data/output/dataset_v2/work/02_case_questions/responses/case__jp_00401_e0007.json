@@ -1,0 +1,61 @@
+{
+ "questions": [
+  {
+   "query": "Hace tiempo que el papá de mis hijos no paga lo que ordenó el juez. ¿Mi caso se puede perder si el juicio se demora demasiado?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_80_01",
+    "chunk_tipo02_cp_art_83_01"
+   ],
+   "positive_selection_reason": "Los arts. 80 y 83 regulan prescripción de la acción, su plazo duplicado en asistencia familiar y su interrupción.",
+   "expected_answer_focus": "Que el tiempo para perseguir el delito tiene un plazo (mayor en asistencia familiar) y se interrumpe por actuaciones fiscales o judiciales.",
+   "victim_voice_rationale": "Madre que teme perder el caso por la demora."
+  },
+  {
+   "query": "El fiscal ya levantó cargos contra el papá de mis niños, pero un juez dijo que el caso ya caducó. ¿Puede hacer eso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00401_e0007_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que la acusación directa también suspende el plazo de prescripción.",
+   "expected_answer_focus": "Que la acusación directa del fiscal suspende el plazo para que se extinga la acción penal.",
+   "victim_voice_rationale": "Madre confundida por un juez que dio por vencido el caso."
+  },
+  {
+   "query": "Cada vez que el fiscal o el juez hace algo en mi denuncia, ¿el tiempo para que el caso se cierre por vencimiento empieza otra vez?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_83_01"
+   ],
+   "positive_selection_reason": "El art. 83 explica la interrupción de la prescripción por actuaciones del Ministerio Público o judiciales.",
+   "expected_answer_focus": "Que las actuaciones fiscales o judiciales interrumpen la prescripción y comienza un nuevo plazo.",
+   "victim_voice_rationale": "Persona que no entiende cómo corre el tiempo en su caso."
+  },
+  {
+   "query": "Me dicen que mi denuncia espera a que termine otro trámite. Mientras tanto, ¿sigue corriendo el tiempo para castigar al que no paga?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_84_01"
+   ],
+   "positive_selection_reason": "El art. 84 trata la suspensión de la prescripción cuando el proceso depende de otro procedimiento, con tope de un año.",
+   "expected_answer_focus": "Que la prescripción se suspende si el proceso depende de otra cuestión, sin pasar de un año.",
+   "victim_voice_rationale": "Madre que espera trámites y teme que se agote el tiempo."
+  },
+  {
+   "query": "Mi ex deja a los niños sin un sol para comer. ¿Hasta cuándo me aceptan la queja? ¿Hay más margen que en otras quejas?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_80_01"
+   ],
+   "positive_selection_reason": "El art. 80 fija la regla de prescripción y duplica el plazo en omisión de asistencia familiar.",
+   "expected_answer_focus": "Cómo se calcula el plazo para perseguir el delito y que en omisión de asistencia familiar se duplica.",
+   "victim_voice_rationale": "Madre que desea saber cuánto tiempo tiene para exigir justicia."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

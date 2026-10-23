@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "si",
+      "rationale": "Analiza retractación por enojo e insuficiencia probatoria que condujeron a absolución y libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "si",
+      "rationale": "Rechaza repetir la prueba para suplir la insuficiencia probatoria del fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

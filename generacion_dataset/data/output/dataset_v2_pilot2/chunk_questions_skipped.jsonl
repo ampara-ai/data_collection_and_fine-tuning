@@ -1,0 +1,6 @@
+{"chunk_id": "chunk_tipo03_cpp_art_137_01", "split": "test", "reason": "Trámite técnico interno de formación del expediente judicial sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_318_01", "split": "test", "reason": "Trámite técnico sobre registro y custodia de bienes incautados, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_474_01", "split": "test", "reason": "Trata del beneficio por colaboración eficaz en delitos de crimen organizado, ajeno a víctimas de violencia familiar."}
+{"chunk_id": "chunk_tipo03_cpp_art_9_01", "split": "test", "reason": "Trámite técnico interno de la apelación y copias del expediente fiscal."}
+{"chunk_id": "chunk_tipo03_cpp_art_268-b_01", "split": "train", "reason": "Regula un impedimento procesal para policías en servicio que usan armas reglamentariamente; no genera una pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_472_01", "split": "train", "reason": "Trámite técnico interno del proceso de colaboración eficaz entre fiscales y colaboradores; no es una duda natural de una víctima."}

@@ -1,0 +1,11 @@
+{
+ "chunks_train": 6,
+ "chunks_dev": 6,
+ "chunks_test": 6,
+ "chunks_con_preguntas_dev": 6,
+ "chunks_con_preguntas_test": 2,
+ "chunks_con_preguntas_train": 4,
+ "preguntas_train": 15,
+ "preguntas_dev": 13,
+ "preguntas_test": 4
+}

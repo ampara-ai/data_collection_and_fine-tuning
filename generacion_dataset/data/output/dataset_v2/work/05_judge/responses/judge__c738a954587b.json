@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0092::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé mayor pena por violación cometida por militares valiéndose de sus funciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0092::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso carnal impuesto por amenazas e incluye al cónyuge entre los supuestos agravados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0092::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Regula los requisitos y las exclusiones para suspender la ejecución de una condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0092::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Explica la excepción por juventud y ausencia de antecedentes junto con requisitos y exclusiones."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

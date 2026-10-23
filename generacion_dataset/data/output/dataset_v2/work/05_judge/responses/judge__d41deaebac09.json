@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_371_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Establece el orden y contenido de las intervenciones iniciales del juez, fiscal y abogados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_371_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Reconoce al acusado la libertad de declarar o guardar silencio sobre los hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_371_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Ordena al juez identificar el proceso, al acusado, el delito y al agraviado al iniciar la audiencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

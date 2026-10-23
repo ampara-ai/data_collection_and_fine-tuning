@@ -1,0 +1,731 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-C. Apelación de la medida de protección o cautelar no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Implementar medidas de protección no inmediatas ni constantes son inefectivas [López Soto y otros vs. Venezuela] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 35.- Limitación de días libres no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 187.- Hurto de uso no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 284. Impugnación no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 52. Resolución y diligencias urgentes no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 435. Libertad del imputado no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 278. Apelación no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Expediente 03681-2022-HC/TC no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Estándares mínimos que se deben seguir ante el hallazgo de un cadáver [Veliz Franco y otros vs. Guatemala] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Aporta una regla relacionada con la apelación o la libertad del condenado, pero no determina la ejecución inmediata de la condena de quien estaba libre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "parcial",
+      "rationale": "Aporta una regla relacionada con la apelación o la libertad del condenado, pero no determina la ejecución inmediata de la condena de quien estaba libre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 92.- La reparación civil: Oportunidad de su determinación no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Interpretación del peligro inmediato para medidas de protección [Kurt vs. Austria] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-A. Audiencia de control de la detención con fines de extradición no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "parcial",
+      "rationale": "Aporta una regla relacionada con la apelación o la libertad del condenado, pero no determina la ejecución inmediata de la condena de quien estaba libre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 52.- Conversión de la pena privativa de libertad no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 273. Libertad del imputado no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 9. Derecho a una vida libre de violencia no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 177.- Formas agravadas no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 559. Plazo de la detención y libertad provisional no resuelve si la condena se ejecuta de inmediato mientras se apela."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Expediente 03681-2022-HC/TC no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 424. Audiencia de apelación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-E. Proceso por faltas no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 117. Tiempo no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-C. Apelación de la medida de protección o cautelar no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Apelación 312-2023, Lima no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ejecución provisional o el vencimiento de la pena, pero no ordena expresamente la libertad por pena cumplida mientras se resuelve el recurso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 284. Impugnación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ejecución provisional o el vencimiento de la pena, pero no ordena expresamente la libertad por pena cumplida mientras se resuelve el recurso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 419. Facultades de la Sala Penal Superior no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 204. Impugnación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 60.- Revocación de la suspensión de la pena no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 35.- Limitación de días libres no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 59.- Efectos del incumplimiento no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 11.- Delitos y faltas no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 435. Libertad del imputado no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 425. Sentencia de segunda instancia no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de afectación psicológica (Exp. 122-2020-65) no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_9_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 9. Recurso de Apelación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 278. Apelación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 66.- Revocación del régimen de prueba no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno] no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 9. Derecho a una vida libre de violencia no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 401. Recurso de apelación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_411_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_246_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 246. Apelación no resuelve si corresponde libertad por haber cumplido la pena con la apelación pendiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20. Sentencia no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades o la competencia del tribunal superior para revisar y corregir una sentencia recurrida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 352. Decisiones adoptadas en la audiencia preliminar no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_35_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 35. Comisión Multisectorial de Alto Nivel no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 397. Correlación entre acusación y sentencia no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades o la competencia del tribunal superior para revisar y corregir una sentencia recurrida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 385. Otros medios de prueba y prueba de oficio no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades o la competencia del tribunal superior para revisar y corregir una sentencia recurrida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades o la competencia del tribunal superior para revisar y corregir una sentencia recurrida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 59.- Efectos del incumplimiento no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades o la competencia del tribunal superior para revisar y corregir una sentencia recurrida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto particular: Estado está obligado a proporcionar un mecanismo para la revisión de las órdenes de alejamiento en casos de violencia doméstica [Malagić v. Croacia] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 495. Sentencia declarativa de falsedad instrumental no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 45. Inhibición del Juez no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 491. Incidentes de modificación de la sentencia no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 204. Impugnación no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites o aspectos de la impugnación, sin establecer por sí solo el régimen general de apelación de sentencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 440. Legitimación no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 415. Ámbito no resuelve la posibilidad de revisión de una sentencia por un tribunal superior."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

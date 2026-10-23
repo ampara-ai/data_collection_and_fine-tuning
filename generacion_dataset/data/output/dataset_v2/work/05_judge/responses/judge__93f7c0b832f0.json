@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prueba de violencia por condición de mujer."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_370_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "si",
+      "rationale": "Ordena esperar en ambiente contiguo e ingresar a la sala solo cuando el testigo sea llamado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_370_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "si",
+      "rationale": "Ordena al auxiliar impedir que los testigos dialoguen entre sí mientras esperan."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

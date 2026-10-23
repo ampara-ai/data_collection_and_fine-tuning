@@ -1,0 +1,177 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Hay una guía que obligue a la policía, el juzgado y los centros de salud a trabajar coordinados cuando denuncio maltrato de mi pareja?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Existe un protocolo de actuación conjunta entre instituciones, de cumplimiento obligatorio, que articula la atención a víctimas."
+    },
+    {
+     "query": "Vivo en una comunidad nativa de la selva y me cuesta llegar a los servicios. ¿Toman en cuenta mi situación cuando denuncio violencia?",
+     "topic": "canales_denuncia",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El protocolo debe considerar especialmente a mujeres indígenas, andinas, amazónicas y otras con más dificultades de acceso."
+    },
+    {
+     "query": "Mi hermana tiene una discapacidad y sufre maltrato en su casa. ¿El Estado debe atenderla de una forma especial?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El protocolo contempla de forma especial a mujeres con discapacidad y en situación de exclusión."
+    },
+    {
+     "query": "Si un funcionario no sigue el procedimiento coordinado para atender a las víctimas, ¿tiene alguna consecuencia?",
+     "topic": "otro",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El protocolo es obligatorio y su incumplimiento genera responsabilidad."
+    },
+    {
+     "query": "¿Qué se supone que debe hacer el Estado desde evitar la violencia hasta enseñar al agresor a no repetirla?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El protocolo abarca prevención, atención, protección, detección temprana, sanción y reeducación de manera integral."
+    },
+    {
+     "query": "Soy afrodescendiente y siento que no me van a tratar igual en la comisaría. ¿Hay algo que obligue a atenderme sin discriminación?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El protocolo debe incluir enfoques intercultural, de derechos humanos y atención a mujeres afrodescendientes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 12 años fue abusada por la pareja de su mamá y el psicólogo no halló secuelas. ¿Eso puede hacer que le bajen la condena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La ausencia de afectación emocional no reduce la pena porque no forma parte del delito de violación sexual."
+    },
+    {
+     "query": "El abogado del agresor dice que como mi sobrina no quedó dañada por dentro, él merece menos años de cárcel. ¿Es cierto?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los abogados no pueden usar la falta de daño emocional como atenuante; no incide en la pena."
+    },
+    {
+     "query": "Si el examen de la psicóloga sale normal, ¿mi denuncia por violación pierde valor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La pericia psicológica es prueba complementaria; un resultado negativo no desvirtúa el delito."
+    },
+    {
+     "query": "Mi hija no mostró trauma en la evaluación porque él nos mantiene y ella depende de él. ¿Pueden decir que no pasó nada?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La dependencia emocional y económica de la víctima puede explicar la falta de afectación y no descarta el delito."
+    },
+    {
+     "query": "¿Qué castigo recibe un hombre que violó a la hija de su conviviente cuando ella tenía 12 años y la dejó embarazada?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En el caso se confirmó la cadena perpetua para el padrastro que violó a la menor."
+    },
+    {
+     "query": "Después del abuso, el agresor volvió a vivir con ella, pagaba gastos y prometió casarse. ¿Eso lo libra de la condena?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aunque el agresor volvió a convivir y asumió gastos, se confirmó la condena; esa conducta no atenuó la pena."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Absolvieron al acusado de abusar de una niña porque ella no había contado nada antes. ¿Se puede pedir que se vuelva a hacer el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sentencia absolutoria basada solo en la falta de declaración previa fue anulada y se ordenó un nuevo juicio."
+    },
+    {
+     "query": "¿Solo vale lo que diga la víctima o también se pueden usar testigos e informes de peritos para probar un abuso sexual?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No debe limitarse al testimonio de la víctima; otros medios como testigos de referencia y pericias pueden acreditar la violencia."
+    },
+    {
+     "query": "Mi familia depende del dinero del agresor y por eso mi hija calló durante años. ¿Los jueces deben tomar en cuenta eso?",
+     "topic": "violencia_sexual",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Debe evaluarse la dependencia económica y afectiva, que puede explicar que la víctima no declare."
+    },
+    {
+     "query": "Cuando denuncio un abuso sexual, ¿la fiscalía y la policía deben investigar a fondo o solo se quedan con lo que yo cuente?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe investigar de manera inmediata, seria, imparcial y explorando todas las líneas posibles."
+    },
+    {
+     "query": "El tribunal dijo que sin una declaración antes del juicio no había cómo condenar. ¿Eso está bien?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Es motivación insuficiente absolver solo por falta de declaración previa sin valorar las demás pruebas."
+    },
+    {
+     "query": "Mi hija empezó a sufrir abusos a los 7 años y recién ahora se sabe. ¿Aún se puede investigar y juzgar con otras pruebas?",
+     "topic": "violencia_sexual",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se deben valorar todas las pruebas, incluso periféricas, con enfoque de género, en abusos de larga data contra menores."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_136_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi caso ya va a juicio. ¿Qué papeles y pruebas se juntan en el archivo que maneja el juzgado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El expediente judicial reúne actuados de la acción penal y civil, actas, declaraciones, pericias, documentos y resoluciones."
+    },
+    {
+     "query": "¿Los informes médicos y psicológicos de mi denuncia quedan en el expediente que ve el juez en el juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los informes periciales y documentos se anexan al expediente judicial."
+    },
+    {
+     "query": "Mi declaración y la del agresor, ¿se guardan en el expediente cuando el caso pasa a juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se anexan las actas de actuaciones policiales o fiscales y las declaraciones del imputado."
+    },
+    {
+     "query": "¿Quién decide cómo se cuidan y se guardan los documentos de mi caso en el juzgado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Consejo Ejecutivo del Poder Judicial reglamenta formación, custodia, conservación y archivo del expediente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+   "skip": true,
+   "skip_reason": "Trata sobre la colaboración eficaz (acuerdos con imputados que delatan a otros); ninguna víctima de violencia familiar lo preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_550_01",
+   "skip": true,
+   "skip_reason": "Regula la entrega vigilada de remesas ilícitas en delitos transnacionales; es un trámite técnico sin relación con la violencia familiar.",
+   "questions": []
+  }
+ ]
+}

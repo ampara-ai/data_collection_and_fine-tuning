@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Explica la valoración de riesgo para decidir la protección, sin precisar el plazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite protección urgente sin audiencia previa, pero no indica las horas para resolver."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "si",
+      "rationale": "Fija plazos de veinticuatro o cuarenta y ocho horas y el límite total desde la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para dictar medidas de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "si",
+      "rationale": "Permite prescindir de audiencia en riesgo severo y exige protección inmediata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "si",
+      "rationale": "El juzgado comunica las medidas en el día para su ejecución inmediata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_20_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "si",
+      "rationale": "Establece la exención por legítima defensa y sus requisitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_20_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "si",
+      "rationale": "Exceptúa de la exención a adolescentes de dieciséis y diecisiete años para los delitos sexuales enumerados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

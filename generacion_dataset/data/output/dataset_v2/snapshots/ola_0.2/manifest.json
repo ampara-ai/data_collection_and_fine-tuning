@@ -1,0 +1,70 @@
+{
+ "generated_at": "2026-10-21T21:58:56.777167+00:00",
+ "prompt_version": "v2-chunk-holdout-same-type-negatives-judged",
+ "seed": 520,
+ "generator_model": "anthropic/claude-sonnet-5.5",
+ "judge_model": "anthropic/claude-sonnet-5.5",
+ "inputs_sha256": {
+  "document_chunks_all": "beda338e312d168a00d0cf80fb64405aaebb2bf5863c7f8626948fbdedd8583f",
+  "chunk_split": "90f2929b20f1ad18c40283fd041e64c547cfccd519bf2b8677395c19d2a0e2c8"
+ },
+ "outputs_sha256": {
+  "training.json": "9e61cc955dbb8d8a972503ba7486f7d79ed600323d33cf1048452983a9c9859b",
+  "eval_dev_dataset.jsonl": "915abebc2a9fa0d9914743c7cf702d838bbaca0e5a71cf5d55dcbf01d8f57842",
+  "eval_test_dataset.jsonl": "2adf070ff1d8b1258383010534c21505b9369ea0b285f849da180687a8d4765f"
+ },
+ "params": {
+  "TEST_FRAC": 0.2,
+  "DEV_FRAC": 0.1,
+  "CHUNK_QUESTIONS": {
+   "train": 6,
+   "dev": 3,
+   "test": 2
+  },
+  "MAX_LEXICAL_OVERLAP": 0.3,
+  "N_NEG_SELECT": 12,
+  "N_NEG_FINAL": 10,
+  "MAX_NEG_USES": 150,
+  "MAX_ROWS_PER_POSITIVE": 12,
+  "NEG_JUDGE_FRACTION": 0.25
+ },
+ "provenance": {
+  "generator_models": {
+   "claude-sonnet-5-5": 312
+  },
+  "judge_models": {
+   "gpt-6.1-sol": 1447
+  }
+ },
+ "counts": {
+  "filas": 353,
+  "preguntas": 312,
+  "positivos_distintos": 137,
+  "chunks_train": 546,
+  "chunks_train_con_>=1_fila": 137,
+  "chunks_train_con_>=3_filas": 62,
+  "max_filas_en_un_positivo": 12,
+  "pct_positivos_por_tipo": {
+   "01": 0.105,
+   "02": 0.167,
+   "03": 0.397,
+   "04": 0.331
+  },
+  "pct_negativos_por_tipo": {
+   "01": 0.075,
+   "02": 0.177,
+   "03": 0.436,
+   "04": 0.312
+  },
+  "auc_tipo_de_fuente": 0.53,
+  "filas_por_origen": {
+   "case": 133,
+   "chunk": 220
+  },
+  "eval": {
+   "dev": 24,
+   "test": 37
+  }
+ },
+ "audit_problems": []
+}

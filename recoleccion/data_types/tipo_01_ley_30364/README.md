@@ -48,19 +48,19 @@ El entrypoint recomendado es:
 
 ```bash
 uv sync
-python3 run_recoleccion.py collect
+uv run --frozen python run_recoleccion.py collect
 ```
 
 Con fecha explícita:
 
 ```bash
-python3 run_recoleccion.py collect 20250914
+uv run --frozen python run_recoleccion.py collect 20250914
 ```
 
 Para iniciar el worker:
 
 ```bash
-python3 run_recoleccion.py worker
+uv run --frozen python run_recoleccion.py worker
 ```
 
 ## Ejecución manual avanzada
@@ -70,7 +70,7 @@ Si quieres ejecutar scripts sueltos, usa como `PYTHONPATH` la carpeta `src/` de 
 - bootstrap inicial:
   - `PYTHONPATH=recoleccion/data_types/tipo_01_ley_30364/src uv run python recoleccion/data_types/tipo_01_ley_30364/scripts/bootstrap_law_30364.py`
 - escaneo exploratorio de El Peruano:
-  - `PYTHONPATH=recoleccion/data_types/tipo_01_ley_30364/src python3 recoleccion/data_types/tipo_01_ley_30364/scripts/daily_elperuano_scan.py 20250914`
+  - `PYTHONPATH=recoleccion/data_types/tipo_01_ley_30364/src uv run --frozen python recoleccion/data_types/tipo_01_ley_30364/scripts/daily_elperuano_scan.py 20250914`
 - clasificación vision de un PDF:
   - `PYTHONPATH=recoleccion/data_types/tipo_01_ley_30364/src uv run python recoleccion/data_types/tipo_01_ley_30364/scripts/classify_pdf_with_llm.py <pdf_path>`
 - loop diario del worker:

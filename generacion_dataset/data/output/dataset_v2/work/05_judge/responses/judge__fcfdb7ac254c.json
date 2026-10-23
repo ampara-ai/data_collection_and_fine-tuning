@@ -1,0 +1,53 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo de flagrancia por identificación en cámaras tras la huida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo de flagrancia por identificación en cámaras tras la huida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo de flagrancia por identificación en cámaras tras la huida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "No regula la flagrancia por hallazgo al día siguiente con evidencias del delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "No regula la flagrancia por hallazgo al día siguiente con evidencias del delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "No regula la flagrancia por hallazgo al día siguiente con evidencias del delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_349_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "si",
+      "rationale": "Exige precisar monto civil, bienes que garantizan el pago y beneficiario en la acusación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_349_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal solicitar variación o nuevas medidas de coerción en la acusación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

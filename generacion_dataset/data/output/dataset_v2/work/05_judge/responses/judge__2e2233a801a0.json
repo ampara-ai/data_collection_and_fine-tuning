@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00653_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Distingue las audiencias inaplazables con reemplazo inmediato de las que se reprograman una sola vez."
+    },
+    {
+      "dataset_id": "case::jp_00653_e0011::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "si",
+      "rationale": "Declara nula una condena porque dar solo un día al defensor sustituto vulneró la defensa."
+    },
+    {
+      "dataset_id": "case::jp_00653_e0011::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Describe la apertura del juicio y el orden de intervención del fiscal y los abogados."
+    },
+    {
+      "dataset_id": "case::jp_00653_e0011::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Dispone sancionar al defensor que abandona injustificadamente una diligencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

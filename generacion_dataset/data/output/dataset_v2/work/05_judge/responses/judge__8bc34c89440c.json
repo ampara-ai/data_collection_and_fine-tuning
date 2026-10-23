@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "si",
+      "rationale": "Permite disminuir la pena por debajo del mínimo cuando faltan requisitos de una eximente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "si",
+      "rationale": "Dispone la incautación del arma registrada para las investigaciones preliminares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_21_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "si",
+      "rationale": "Permite al juez disminuir prudencialmente la pena cuando la eximente está incompleta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho de impugnación a los sujetos procesales legalmente legitimados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

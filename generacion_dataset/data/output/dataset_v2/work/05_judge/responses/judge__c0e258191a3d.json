@@ -1,0 +1,161 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "Regula examen remoto de peritos y no efectos de contradicciones en sus conclusiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona impedida de consentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "Regula inspección y reconstrucción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica insuficiencia de indicios para condenar, pero no contradicción pericial en abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "Regula internación psiquiátrica preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias de Salas Superiores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar integralmente relato y pericias, pero no resuelve discrepancias científicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "si",
+      "rationale": "Establece que contradicción pericial y duda insalvable pueden impedir una condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra absolución por evidencia médico-psicológica insuficiente, pero no contradicción entre peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "Regula nombramiento de peritos sin explicar valoración de conclusiones contradictorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce derecho a vivir sin violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación accesoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula reconocimiento de personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la utilidad de prueba pericial conjunta, pero no desarrolla informes sociales o psicológicos de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficios de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "Regula información policial a medios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "Excluye pruebas del comportamiento previo sin analizar informes sociales o psicológicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "Regula validez de pruebas de colaboración eficaz denegada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Incluye informes sociales como criterio de medidas de protección, sin desarrollar su valor en la prueba del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Destaca corroboración periférica del relato infantil sin precisar el papel de esos informes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "parcial",
+      "rationale": "Permite informes y apoyo técnico en investigación, pero no explica su valor en este supuesto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la relevancia corroborativa de la pericia psicológica, sin abordar el informe social."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Regula incorporación de informes al juicio, sin explicar su importancia para comprobar el abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "si",
+      "rationale": "Explica cómo informes sociales y psicológicos contribuyeron a valorar el relato y generar duda razonable."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

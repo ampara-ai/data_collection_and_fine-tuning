@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_337_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "si",
+      "rationale": "Permite acudir al juez de investigación preparatoria si el fiscal rechaza la diligencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_337_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "si",
+      "rationale": "Prevé conducción compulsiva ante la inasistencia injustificada a la citación fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

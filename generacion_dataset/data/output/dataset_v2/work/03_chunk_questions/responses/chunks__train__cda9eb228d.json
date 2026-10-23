@@ -1,0 +1,135 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 9 años fue tocada por un vecino y la fiscalía la citó a contar todo una sola vez con psicólogo. ¿Esa declaración sirve después en el juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La entrevista única de la menor tiene valor de prueba preconstituida y no necesita el trámite de prueba anticipada."
+    },
+    {
+     "query": "El abogado del acusado quiere frenar la entrevista de mi niña diciendo que antes hay que evaluar si miente. ¿Tienen que hacerle esa evaluación primero?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "No es necesaria una pericia previa de credibilidad del testimonio antes de la entrevista única."
+    },
+    {
+     "query": "¿Puede el abogado del denunciado pedirle al juez que anule una diligencia de la fiscalía solo porque cree que más adelante lo va a perjudicar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La tutela de derechos es un mecanismo reparador y no procede ante afectaciones solo potenciales."
+    },
+    {
+     "query": "¿Mi hija tendrá que repetir su relato muchas veces ante distintas autoridades para que cuente como prueba?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La entrevista única grabada tiene calidad de prueba preconstituida, sin requerir un trámite adicional de prueba anticipada."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_193_01",
+   "skip": true,
+   "skip_reason": "Delito patrimonial (apropiación de prenda) sin relación con violencia contra mujeres o integrantes del grupo familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_6_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El abogado del hombre que denuncié dice que lo que hizo no es delito y quiere que archiven todo. ¿Puede pedirle eso al juez y qué pasa si se lo aceptan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La defensa puede alegar que el hecho no es delito; si el juez lo acepta, el proceso termina definitivamente."
+    },
+    {
+     "query": "Mi agresor alega que ya lo juzgaron antes por lo mismo y que no pueden procesarlo otra vez. ¿Eso puede detener mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el mismo hecho ya fue resuelto con decisión firme contra la misma persona, procede la defensa de cosa juzgada y el proceso se cierra."
+    },
+    {
+     "query": "Pasaron muchos años desde lo que me hizo mi ex y su defensa dice que ya venció el tiempo para castigarlo. ¿Eso puede cerrar mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si vencen los plazos legales se extingue la acción penal; de declararse fundada, el proceso se archiva definitivamente."
+    },
+    {
+     "query": "Si el juez acepta una de esas defensas del acusado, ¿el caso se termina para siempre o igual se sigue con otro trámite?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si se acoge la objeción sobre el tipo de trámite, el caso se adecúa al trámite correcto; en las otras, se archiva definitivamente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 16 años fue abusada estando dormida tras darle alcohol su profesor y el juez lo dejó libre. ¿Se puede revertir esa decisión?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El tribunal de apelación anuló la sentencia absolutoria y ordenó emitir una nueva."
+    },
+    {
+     "query": "¿Los jueces están obligados a tomar en cuenta que la víctima es mujer y está en desventaja cuando juzgan un caso de abuso sexual?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los jueces deben aplicar obligatoriamente el protocolo con enfoque de género en todas las etapas; no hacerlo perpetúa la discriminación."
+    },
+    {
+     "query": "Siento que el juez no entendió mi situación de vulnerabilidad y valoró mal mi declaración. ¿Puede el fiscal pelear esa sentencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Ministerio Público puede apelar y la sentencia puede anularse por motivación insuficiente y mala valoración de la declaración de la víctima."
+    },
+    {
+     "query": "¿Qué pasa si la sentencia que libera al acusado ignoró que yo era mujer en desventaja? ¿Se tiene que hacer otro juicio?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declara la nulidad y se ordena emitir un nuevo fallo conforme al protocolo de género."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_191_01",
+   "skip": true,
+   "skip_reason": "Delito patrimonial sobre sustracción de un bien propio, sin vínculo con violencia contra mujeres o grupo familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_265_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Detuvieron a mi hermano por un delito grave y dicen que lo tendrán sin contacto con nadie. ¿Eso es legal y cuánto tiempo puede durar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En delitos con pena superior a seis años el fiscal puede pedir aislamiento del detenido por máximo diez días, sin exceder la duración de la detención."
+    },
+    {
+     "query": "¿Quién decide que un detenido no pueda hablar con otras personas y qué tan rápido responde el juez a ese pedido?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal lo solicita al juez, quien resuelve de inmediato y sin trámite, con resolución motivada."
+    },
+    {
+     "query": "Si mi pareja está detenida y no puede comunicarse con nadie, ¿igual puede hablar a solas con su abogado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El aislamiento no impide reuniones privadas con el abogado defensor, que no requieren autorización previa."
+    }
+   ]
+  }
+ ]
+}

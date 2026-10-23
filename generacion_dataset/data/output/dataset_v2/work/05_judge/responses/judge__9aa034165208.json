@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "parcial",
+      "rationale": "Expone inadmisibilidad general de casación sin precisar su procedencia por reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00190_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige examen genital y paragenital y preservación de evidencia de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00190_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica que fallas tempranas y pérdida de evidencia pueden impedir probar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00190_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige conservación de muestras corporales y cadena de custodia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00190_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Describe responsabilidad estatal por búsqueda e investigación deficientes de una adolescente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

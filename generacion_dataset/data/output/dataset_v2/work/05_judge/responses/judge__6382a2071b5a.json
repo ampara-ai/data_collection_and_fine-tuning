@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_163_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "La comparecencia del testigo justifica la ausencia laboral sin consecuencias jurídicas adversas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00312_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "si",
+      "rationale": "Incrementa la frecuencia del control a mensual ante la obstaculización del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00312_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "si",
+      "rationale": "Los actos de obstaculización sustentan controles más frecuentes y una caución mayor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00312_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "si",
+      "rationale": "Justifica elevar la caución por la solvencia del imputado y la gravedad de los delitos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

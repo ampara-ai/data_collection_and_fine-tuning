@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución en Perú de condenas extranjeras, no agravantes de violación por agentes públicos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica la invalidez del consentimiento bajo coacción, pero no el agravamiento por pertenecer a la fuerza pública."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia y conducción del imputado, no penas por violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves y agravantes por condición de la víctima, no violación cometida por uniformados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "Regula el trámite del sobreseimiento y no las agravantes del delito sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Trata las modalidades de acceso carnal con un menor y no el agravamiento por la función pública del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula técnicas especiales de investigación y agentes encubiertos, no agravantes de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé pena de veinte a veintiséis años para personal de fuerzas públicas que viola valiéndose de sus funciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Examina reducción de pena por circunstancias familiares y no la agravante por condición de uniformado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves y no la pena agravada por violación sexual de un agente público."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves contra mujeres y familiares y no la violación sexual consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata reducción por confesión y conclusión anticipada, no agravantes por el cargo del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "Autoriza auxilio de la fuerza pública para actos procesales, no penas por agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "Regula competencias para extradición, no los medios comisivos de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "Discute tentativa de violación de una menor frente a tocamientos, no acceso carnal mediante amenazas sin golpes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de multas y decomisos extranjeros, no violencia sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "Regula alegatos finales del juicio y no la tipificación de relaciones sexuales forzadas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "Regula prohibición de doble persecución penal, no la configuración de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce violencia sexual sin contacto físico y bajo amenazas o coacción, pero no desarrolla su tipificación penal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada y declaraciones de menores, no el delito por relaciones forzadas sin golpes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Resuelve actos contra el pudor de una menor con discapacidad, una figura distinta de la violación consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata con fines de explotación, no el acceso carnal forzado descrito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y no la violación sexual por amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "parcial",
+      "rationale": "Explica la protección de la libertad sexual y distingue relaciones voluntarias, pero no desarrolla amenazas ni entorno coercitivo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que la ausencia de resistencia no equivale a consentimiento en una relación de control, pero se refiere a un caso español."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica expresamente el acceso carnal impuesto mediante grave amenaza o entorno que impide consentir libremente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos de suspensión de ejecución de la pena y sus exclusiones por delito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula admisibilidad de casación, no requisitos para suspender la ejecución de una condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige atenuantes excepcionales para bajar del mínimo legal, pero no determina la suspensión por juventud y falta de antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento nacional de condenas extranjeras, no la suspensión por edad y antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "Regula investigación judicial de faltas y antecedentes de violencia, no suspensión de penas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios por colaboración eficaz, una vía distinta de la juventud y ausencia de antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Regula la excepción para menores de veinticinco años sin antecedentes y las exclusiones que impiden suspender ciertas condenas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "Exige motivación de medidas coercitivas durante el proceso, no suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento en el extranjero de condenas peruanas y no los requisitos personales para evitar prisión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y sus penas, no suspensión por juventud y falta de antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores, no suspensión de ejecución de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Aplica reserva del fallo en una falta de maltrato mutuo, sin resolver la suspensión de una condena por edad y antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata sobreseimiento por insuficiencia probatoria antes de condenar, no suspensión de una pena impuesta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "Revoca condena sexual por insuficiencia probatoria, no por juventud ni falta de antecedentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Sitúa la restricción para constituirse en actor civil en la notificación del cierre y permite valorar la solicitud presentada después de ella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que el cierre solo restringe el derecho a constituirse en actor civil desde su notificación al agraviado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia y no la oportunidad para constituirse en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce al perjudicado el ejercicio de la acción civil, pero no establece su oportunidad procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Describe facultades del actor civil, pero no cuándo puede solicitarse esa constitución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "Regula la conclusión de la investigación, pero no el efecto de su notificación sobre la constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Identifica la notificación del cierre como hito que restringe la constitución en actor civil y declara oportuna la solicitud de ese mismo día."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata citación urgente a cámara Gesell, no la oportunidad para reclamar como actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "Regula inhibición sobre bienes para asegurar reparación, no la oportunidad de constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Regula notificación y plazo de apelación del condenado, no constitución de la víctima en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad penal, no plazos de reclamación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "Examina notificación de una pericia psicológica, no constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, sin regular la oportunidad de reclamar reparación en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de juicio oral y no incorporación como actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de la apelación del actor civil ya constituido, no la oportunidad para constituirse."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

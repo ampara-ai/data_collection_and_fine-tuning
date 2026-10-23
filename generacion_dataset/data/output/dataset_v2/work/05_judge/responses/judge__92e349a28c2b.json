@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_68_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "si",
+      "rationale": "Autoriza al juez a eximir de pena por responsabilidad mínima y dentro de los límites penales indicados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_68_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Explica la exención por responsabilidad mínima, pero no permite determinar si la agresión de pareja cumple los requisitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_68_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "si",
+      "rationale": "Identifica al juez como autoridad que puede eximir y señala las condiciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva» no establece el umbral económico para recurrir en casación por reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "si",
+      "rationale": "Asigna la ejecución de condenas firmes al juez de investigación preparatoria, con la excepción indicada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "si",
+      "rationale": "Atribuye a ese juez los incidentes surgidos durante la ejecución de sanciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe el control judicial de la vigilancia electrónica, sin identificar el control general de todas las condenas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 46.- Circunstancias de atenuación y agravación» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 480. Revocación de los beneficios» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este]» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "si",
+      "rationale": "Identifica al juez responsable y sus diligencias para asegurar el cumplimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua]» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 254. Requisitos y trámite del auto judicial» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 23-A. Ejecución de la medida de protección» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 341. Agente Encubierto, Agente Especial, Agente Revelador, Agente Virtual e informante o confidente» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 273. Libertad del imputado» no establece la autoridad responsable del cumplimiento de una condena firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 547. Pena de multa y el decomiso» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 36. Inhabilitación» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 27. Competencia de las Salas Penales de las Cortes Superiores» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 10. Indicios de delitos en proceso extra – penal» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017]» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "parcial",
+      "rationale": "Remite los beneficios penitenciarios a su código especial sin identificar quién los concede."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 254. Requisitos y trámite del auto judicial» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho]» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Fija tratamiento e informes obligatorios para los beneficios, pero no la autoridad decisora."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_489_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios]» no establece la autoridad que decide los beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige protección eficaz en la práctica y actuación rápida frente a la violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 98. Constitución y derechos» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige protección estatal efectiva, evaluación continua y un recurso frente al levantamiento de medidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber de proteger a participantes y familiares amenazados durante investigaciones, en un contexto distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Explica que la protección legal debe funcionar en la práctica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Exige diligencia, protección oportuna y sanción de autoridades que incumplen."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 54. Requisitos de la recusación» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 39.- Inhabilitación accesoria» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el deber de proteger a la persona agraviada, sin abordar la efectividad práctica de la ley."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Declara que la falta de protección doméstica vulnera la igualdad ante la ley."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 322. Dirección de la investigación» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Responsabiliza al Estado por no adoptar medidas frente al riesgo doméstico conocido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 104. Facultades del actor civil» no establece el reclamo por incumplimiento estatal del deber de protección frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Considera insuficiente la protección teórica y exige investigar rápidamente sin demoras innecesarias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

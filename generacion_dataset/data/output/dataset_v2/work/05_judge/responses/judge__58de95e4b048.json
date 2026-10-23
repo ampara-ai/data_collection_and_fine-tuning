@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00190_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "parcial",
+      "rationale": "Exige necropsia ante probable criminalidad, pero no desarrolla la obligación general de investigación exhaustiva."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "si",
+      "rationale": "Permite acreditar peritos de parte para asistir a la necropsia."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige buscar signos de violencia sexual en la autopsia y preservar sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 243. Requisitos de la solicitud no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación inmediata y exhaustiva de violencia sexual, sin abordar la búsqueda por desaparición."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 149.- Omisión de prestación de alimentos no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la falta de búsqueda efectiva tras la denuncia inmediata de desaparición de una adolescente."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violencia sexual: líneas de investigación deben estar orientadas a evitar la revictimización [Fernández Ortega y otros vs. México] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 479. Condiciones, Obligaciones y Control del beneficiado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige intervención inmediata ante violencia o amenaza, sin regular específicamente la búsqueda de desaparecidas."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 532. Trámite de las solicitudes no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00190_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica que la pérdida temprana de evidencias puede impedir probar violencia sexual y otros aspectos del homicidio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

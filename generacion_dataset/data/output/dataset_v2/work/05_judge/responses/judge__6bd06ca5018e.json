@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_124-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "si",
+      "rationale": "Equipara el daño psíquico moderado a lesiones leves y lo distingue de la falta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_124-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "si",
+      "rationale": "Relaciona el daño psíquico moderado con lesiones leves y el leve con falta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_124-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "si",
+      "rationale": "Indica la valoración mediante instrumento técnico oficial especializado y sus niveles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_124-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "si",
+      "rationale": "Establece examen pericial u otro medio idóneo y la escala de gravedad del daño psíquico."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

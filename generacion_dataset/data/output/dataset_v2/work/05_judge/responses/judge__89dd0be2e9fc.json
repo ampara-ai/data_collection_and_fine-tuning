@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "Regula careos procesales, no proposiciones sexuales a menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "Sanciona favorecimiento de explotación sexual, una conducta distinta a solicitar fotografías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata prueba de tocamientos físicos, no solicitud de material pornográfico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada, no tipificación ni pena de la solicitud de fotos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "Regula investigación fiscal y policial, no sanción por contacto sexual con menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Sanciona beneficio derivado de explotación sexual, no contacto para solicitar fotos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata actos físicos contra el pudor y discapacidad, no solicitud de fotos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "Regula inspecciones de escenas, no delitos de contacto sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata agravantes de actos físicos contra el pudor, no solicitud de material pornográfico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica contactar a menores de catorce años para solicitar material pornográfico y fija de seis a nueve años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "Regula supervisión de medidas de protección, no pena del delito consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual con aprovechamiento, una conducta diferente del contacto para pedir fotos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "Trata suficiencia probatoria de tentativa de violación física, no contacto para solicitar fotos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_183-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "si",
+      "rationale": "Sanciona proposiciones sexuales a adolescentes de catorce a diecisiete años mediante engaño."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_138_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "si",
+      "rationale": "Permite obtener copias de expedientes y establece gratuidad de las digitalizadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "si",
+      "rationale": "Autoriza copias de las primeras diligencias y actuaciones policiales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

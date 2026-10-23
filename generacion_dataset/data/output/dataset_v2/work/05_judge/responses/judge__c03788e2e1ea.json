@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "si",
+      "rationale": "Permite desistimiento tácito por una inasistencia injustificada si faltan ambas partes, con notificación y apercibimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 16. Proceso especial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Distingue continuación del proceso y abandono del actor civil, sin resolver específicamente la denuncia por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 78.- Causales de extinción» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «RN 2030-2019 Lima» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 483. Iniciación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 499. Personas e Instituciones exentas. Caso especial de imposición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 85. Reemplazo del abogado defensor» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la obligación de investigar sin exigir denuncias reiteradas, pero no regula la inasistencia a audiencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «RN 1865-2015, Huancavelica» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "si",
+      "rationale": "Excluye a la violencia familiar de la regla de desistimiento tácito y remite a su ley especial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 462. Auto de citación a juicio y audiencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "si",
+      "rationale": "Detalla inasistencia injustificada, ausencia de ambas partes, notificación debida y apercibimiento expreso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00030_e0001_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige notificación debida para aplicar el desistimiento tácito por inasistencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_485_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "si",
+      "rationale": "Permite conducir con la fuerza pública al imputado que no acude voluntariamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_485_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "si",
+      "rationale": "Permite prisión preventiva hasta culminar la audiencia si resulta necesaria."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

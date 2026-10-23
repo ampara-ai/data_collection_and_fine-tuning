@@ -1,0 +1,92 @@
+{
+ "questions": [
+  {
+   "query": "Los familiares del agresor me hicieron firmar un documento diciendo que lo perdono y ya no sigo con el caso. ¿Eso hace que el juicio se caiga?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0051_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que un documento firmado ante notario, de forma unilateral, no tiene valor probatorio en el juicio oral. Una retractación válida debe ser voluntaria y hacerse ante la autoridad judicial. Responde directamente la duda.",
+   "expected_answer_focus": "Debe explicar que un papel firmado ante notario por presión de terceros no borra el caso. También debe indicar que una retractación solo cuenta si es voluntaria, con razones sólidas y ante el juez.",
+   "victim_voice_rationale": "Una madre presionada por la familia del agresor quiere saber si firmar ese papel acaba con el proceso."
+  },
+  {
+   "query": "Mi hija era una niña cuando pasó todo y ya pasaron muchos años. ¿Tiene que ir otra vez al juicio a contar lo que vivió?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0051_01"
+   ],
+   "positive_selection_reason": "El criterio de la sentencia dice que no es necesario que la menor víctima testifique en juicio oral, porque implicaría revictimizarla. Su declaración inicial quedó corroborada por el examen médico.",
+   "expected_answer_focus": "Debe indicar que no siempre se exige que la víctima menor vuelva a declarar en juicio, para evitar revivir el trauma, y que su primera declaración, si está corroborada, puede bastar.",
+   "victim_voice_rationale": "Una madre teme que su hija tenga que revivir el trauma frente al tribunal años después."
+  },
+  {
+   "query": "El caso de mi hija se demora más de veinte años. ¿Puede ser que por tanta demora le rebajen los años de cárcel al agresor?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0051_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que el plazo excesivo del proceso justificó reducir la pena de 15 a 8 años aunque se confirmó la condena.",
+   "expected_answer_focus": "Debe explicar que una demora desproporcionada del proceso puede llevar a una rebaja de la pena sin anular la condena, como ocurrió en este caso.",
+   "victim_voice_rationale": "Una familia cansada de la lentitud del sistema teme que la demora beneficie al agresor."
+  },
+  {
+   "query": "Un hombre amenazó con un cuchillo para abusar de una menor de mi familia. ¿Se castiga más fuerte por haber entrado con un cuchillo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo 170 prevé una pena mayor cuando la violación se comete con empleo de arma y contiene el tipo básico de violencia o grave amenaza.",
+   "expected_answer_focus": "Debe señalar que usar un arma en una violación sexual es una circunstancia agravante que eleva el rango de la pena.",
+   "victim_voice_rationale": "Una familiar quiere saber si la amenaza con cuchillo hace más grave el delito."
+  },
+  {
+   "query": "Antes de intentar abusar de ella, el hombre la desnudó y le puso el filo en el cuello para humillarla. ¿Eso aumenta el castigo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El artículo 177 prevé un aumento de pena si el agente actuó con crueldad, alevosía o para degradar a la víctima en los delitos sexuales, y la conducta descrita encaja.",
+   "expected_answer_focus": "Debe explicar que la crueldad o el trato degradante agravan la pena en delitos sexuales, con un incremento de años en los extremos mínimo y máximo.",
+   "victim_voice_rationale": "La familia quiere saber si la残 forma humillante del ataque se toma en cuenta en la condena."
+  },
+  {
+   "query": "Además de que el agresor vaya preso, ¿me corresponde que me paguen por el daño y hasta cuándo se puede cobrar?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El artículo 92 establece que la reparación civil se fija junto con la pena, es un derecho de la víctima y debe hacerse efectiva mientras dura la condena, bajo garantía del juez.",
+   "expected_answer_focus": "Debe indicar que el pago por el daño se decide junto con la condena, es un derecho de la víctima y el juez garantiza su cumplimiento durante la condena.",
+   "victim_voice_rationale": "Una víctima quiere saber si además de la cárcel tiene derecho a una compensación económica."
+  },
+  {
+   "query": "Si lo condenan por intentar abusar de una niña, ¿puede salir libre sin pisar la cárcel por buen comportamiento?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El artículo 57 regula cuándo se puede suspender la ejecución de la pena y excluye de ese beneficio a quienes cometen los delitos del capítulo de violación de la libertad sexual.",
+   "expected_answer_focus": "Debe explicar que la suspensión de la pena tiene requisitos estrictos y que no se aplica a condenados por delitos de violación de la libertad sexual.",
+   "victim_voice_rationale": "Una familia teme que el condenado quede libre sin cumplir cárcel efectiva."
+  },
+  {
+   "query": "Tengo miedo de que el castigo sea poca cosa. ¿Cuál es el máximo de años que alguien puede estar preso por un delito?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_29_01"
+   ],
+   "positive_selection_reason": "El artículo 29 fija la duración mínima y máxima de la pena de prisión temporal y menciona la cadena perpetua.",
+   "expected_answer_focus": "Debe indicar que la pena de cárcel temporal va de dos días a treinta y cinco años y que también existe la cadena perpetua.",
+   "victim_voice_rationale": "Una víctima desconfiada quiere conocer el tope real de la sanción."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "si",
+      "rationale": "Sanciona no comunicar delitos conocidos por razón de una profesión obligada a denunciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "si",
+      "rationale": "Tipifica la omisión profesional de comunicar delitos a las autoridades."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "si",
+      "rationale": "Establece penas de dos a cuatro años para omitir denunciar delitos con pena superior a cinco años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige un mecanismo efectivo de revisión ante el retiro inmotivado de una orden de alejamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "si",
+      "rationale": "Rechaza levantar el alejamiento sin nuevos hechos ni motivación adecuada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,755 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que una absolución puede anularse por motivación insuficiente, aunque trata de retractación y valoración probatoria."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Expone facultades y límites para introducir prueba de oficio, sin resolver la negativa de apoyo psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 114. Idioma» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de impugnación penal por el actor civil, pero no aborda la negativa de soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Permite anular una absolución por falta de motivación o vulneración de derechos fundamentales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivar decisiones sobre actuación de pruebas, sin tratar la asistencia psicológica a la niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 813-2022, Madre de Dios» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Exige entrevista única en ambiente seguro, pero no regula el remedio frente a la denegación de un psicólogo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Permite anular una absolución por motivación insuficiente en un caso sexual, con un defecto distinto del consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Examina defectos de una evaluación psicológica y límites para anular, sin tratar la negativa de soporte en audiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 397. Correlación entre acusación y sentencia» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la corrección de una absolución por errores de valoración psicológica, sin abordar la denegación de asistencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección reforzada de niñas durante el proceso, pero no explica cómo corregir la absolución consultada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica la nulidad por motivación irracional, aunque el problema versa sobre un testimonio tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites a la nulidad para suplir falta de prueba, sin resolver la vulneración por negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Permite cuestionar una valoración defectuosa del relato y su corroboración, pero no aborda el soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Corrige una absolución por valoración indebida de una retractación ante psicólogo, que es un problema diferente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica la corrección de una absolución con motivación ilógica, sin resolver la negativa de asistencia psicológica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 391. Autodefensa del acusado» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 377. Declaración en caso de pluralidad de acusados» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Prohibición de acogerse a confesión sincera y conclusión anticipada en casos de violación sexual es inconstitucional [Consulta 11173-2020, Cajamarca]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Describe responsabilidad estatal por revictimización durante un proceso, sin establecer el remedio específico consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Explica nulidad por motivación insuficiente en violencia sexual, pero por omitir otras pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio de apelación por motivación ilógica y omisión de pericia, sin tratar la denegación de soporte."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 376. Declaración del acusado» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 20.- Inimputabilidad» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige psicólogo y preguntas no sugestivas al recibir declaraciones infantiles, pero no resuelve expresamente la denegación de asistencia consultada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 359. Concurrencia del Juez y de las partes» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este)» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno]» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no aporta la información necesaria para resolver la corrección de una absolución tras negar soporte psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 71. Derechos del imputado» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 376. Declaración del acusado» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 22-B. Medidas cautelares» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 423. Emplazamiento para la audiencia de apelación» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 245. Audiencia de prueba anticipada» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige medidas reforzadas para proteger a niñas víctimas durante el proceso, sin concretar límites de las preguntas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 484. Audiencia» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Limita los supuestos de nueva declaración y exige evitar el contacto con el acusado, sin regular el contrainterrogatorio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Exige psicólogos especializados y registro de declaraciones para evitar revictimización, sin establecer límites concretos al abogado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Protege frente a una segunda declaración innecesaria, sin regular la forma de interrogar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 371. Apertura del juicio y posición de las partes» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 384. Trámite de la oralización» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 391. Autodefensa del acusado» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 381. Audiencia especial para testigos y peritos» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite retirar al acusado para evitar daños a un menor interrogado, sin limitar las preguntas de la defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Declaración víctima prueba directa (Apelación 41-2023)» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 370. Ubicación de las partes en la audiencia» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 85. Reemplazo del abogado defensor» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Restringe la repetición de declaraciones y busca evitar contacto con el acusado, sin desarrollar el trato durante las preguntas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 813-2022, Madre de Dios» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 351. Audiencia Preliminar» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 431. Preparación y Audiencia» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 521-A. Audiencia de control de la detención con fines de extradición» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Examina medidas visuales para proteger la identidad de una víctima adulta, sin fijar límites del interrogatorio de niñas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 369. Instalación de la audiencia» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 271. Audiencia y resolución» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash)» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a interrogar y prohíbe ofender el honor, sin desarrollar las garantías específicas de la niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 119-A. Audiencia» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 603-2019, Piura, ff. jj. 2-3» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Permite utilizar la declaración previa para evitar revictimización, sin regular preguntas o trato de la defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 377. Declaración en caso de pluralidad de acusados» no aporta la información necesaria para resolver los límites de las preguntas del abogado a una niña víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Exige entrevista única en un ambiente cómodo, privado y seguro, sin especificar los límites del abogado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula el uso de declaraciones previas para evitar revictimización, sin precisar cuándo la retractación permite repetirlas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 508-2019, Lima, ff. jj. 5, 8» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 335. Prohibición de nueva denuncia» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 5. Definición de violencia contra las mujeres» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Admite ampliación para aclarar o complementar y rechaza repetición innecesaria, sin tratar específicamente la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa)» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Permite declaración ampliatoria para aclarar o precisar, pero no contempla expresamente el cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo evaluar una retractación, sin establecer cuándo citar nuevamente a la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 813-2022, Madre de Dios» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 359. Concurrencia del Juez y de las partes» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Describe la evaluación de una retractación bajo presión familiar, sin regular la nueva citación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites para reabrir actividad probatoria tras una retractación, sin establecer las excepciones a nueva declaración infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Declaración víctima prueba directa (Apelación 41-2023)» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Analiza la posible influencia familiar en una retractación, sin fijar reglas para volver a declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza traer compulsivamente a menores para evitar revictimización, sin resolver la solicitud de cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe una repetición injustificada y menciona excepciones, pero no identifica la retractación como supuesto habilitante."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la retractación no invalida automáticamente la imputación, sin regular la nueva citación de una niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la solicitud o retractación de la víctima entre las excepciones que permiten un nuevo examen en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Da criterios generales para repetir testimonios en apelación, sin la regla específica sobre retractación infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Establece pautas para valorar la retractación y la versión inicial, sin regular cuándo recibir otra declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica que una retractación posterior no obliga por sí sola a repetir la declaración y admite denegarla para evitar revictimización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Promueve la declaración única y la protección de la víctima, sin desarrollar las excepciones por retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 249. Medidas adicionales» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Enfoque de género obligatorio (Exp. 00134-2023-31)» no aporta la información necesaria para resolver la nueva declaración de una menor que desea cambiar su versión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

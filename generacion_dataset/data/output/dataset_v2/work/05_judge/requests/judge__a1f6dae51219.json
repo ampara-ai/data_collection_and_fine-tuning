@@ -1,0 +1,45 @@
+{
+ "task_id": "judge__a1f6dae51219",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_289_01::q03\",\n  \"question\": \"¿Esa plata que deja mi agresor se la devuelven si lo declaran inocente?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_187_01\",\n    \"title\": \"Artículo 187.- Hurto de uso\",\n    \"text\": \"El que sustrae un bien mueble ajeno con el fin de hacer uso momentáneo y lo devuelve será reprimido con pena privativa de libertad no mayor de un año.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_517_01\",\n    \"title\": \"Artículo 517. Rechazo de la extradición\",\n    \"text\": \"1. No procede la extradición si el hecho materia del proceso no constituya delito tanto en el Estado requirente como en el Perú, y si en ambas legislaciones no tenga prevista una pena privativa de libertad igual o mayor a los dos años. Si se requiere una extradición por varios delitos, bastará que uno de ellos cumpla con esa condición para que proceda respecto de los restantes delitos.\\n2. La extradición no tendrá lugar, igualmente:\\na) Si el Estado solicitante no tuviera jurisdicción o competencia para juzgar el delito;\\nb) Si el extraditado ya hubiera sido absuelto, condenado, indultado, amnistiado o sujeto a otro derecho de gracia equivalente;\\nc) Si hubiera transcurrido el término de la prescripción del delito o de la pena, conforme a la ley nacional o del Estado requirente; siempre que no sobrepase el término de la legislación peruana;\\nd) Si el extraditado hubiere de responder en el Estado requirente ante tribunal de excepción o el proceso al que se le va a someter no cumple las exigencias internacionales del debido proceso;\\ne) Si el delito fuere exclusivamente militar, contra la religión, político o conexo con él, de prensa, o de opinión. La circunstancia de que la víctima del hecho punible de que se trata ejerciera funciones públicas, no justifica por sí sola que dicho delito sea calificado como político. Tampoco politiza el hecho de que el extraditado ejerciere funciones políticas. De igual manera están fuera de la consideración de delitos políticos, los actos de terrorismo, los delitos contra la humanidad y los delitos respecto de los cuales el Perú hubiera asumido una obligación convencional internacional de extraditar o enjuiciar;\\nf) Si el delito es perseguible a instancia de parte y si se trata de una falta; y,\\ng) Si el delito fuere tributario, salvo que se cometa por una declaración intencionalmente falsa, o por una omisión intencional, con el objeto de ocultar ingresos provenientes de cualquier otro delito.\\n3. Tampoco se dispondrá la extradición, cuando:\\na) La demanda de extradición motivada por una infracción de derecho común ha sido presentada con el fin de perseguir o de castigar a un individuo por consideraciones de raza, religión, nacionalidad o de opiniones políticas o que la situación del extraditado se exponga a agravarse por una u otra de estas razones;\\nb) Existan especiales razones de soberanía nacional, seguridad u orden público u otros intereses esenciales del Perú, que tornen inconveniente el acogimiento del pedido;\\nc) El Estado requirente no diere seguridades de que se computará el tiempo de privación de libertad que demande el trámite de extradición, así como el tiempo que el extraditado hubiese sufrido en el curso del proceso que motivó el requerimiento;\\nd) El delito por el que se solicita la extradición tuviere pena de muerte en el Estado requirente y éste no diere seguridades de que no será aplicable.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_ii_01\",\n    \"title\": \"Artículo II. Presunción de inocencia\",\n    \"text\": \"1. Toda persona imputada de la comisión de un hecho punible es considerada inocente, y debe ser tratada como tal, mientras no se demuestre lo contrario y se haya declarado su responsabilidad mediante sentencia firme debidamente motivada. Para estos efectos, se requiere de una suficiente actividad probatoria de cargo, obtenida y actuada con las debidas garantías procesales.\\nEn caso de duda sobre la responsabilidad penal debe resolverse a favor del imputado.\\n2. Hasta antes de la sentencia firme, ningún funcionario o autoridad pública puede presentar a una persona como culpable o brindar información en tal sentido.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_488_01\",\n    \"title\": \"Artículo 488. Derechos\",\n    \"text\": \"1. El condenado, el tercero civil y las personas jurídicas afectadas podrán ejercer, durante la ejecución de la sentencia condenatoria, los derechos y las facultades que este Código y las Leyes le otorgan.\\n2. El condenado y las demás partes legitimadas están facultadas a plantear ante el Juez de la Investigación Preparatoria los requerimientos y observaciones que legalmente correspondan respecto de la ejecución de la sanción penal, de la reparación civil y de las demás consecuencias accesorias impuestas en la sentencia.\\n3. Sin perjuicio de lo establecido en los numerales anteriores, corresponde al Ministerio Público el control de la ejecución de las sanciones penales en general, instando las medidas de supervisión y control que correspondan, y formulando al Juez de la Investigación Preparatoria los requerimientos que fueren necesarios para la correcta aplicación de la Ley.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_61_01\",\n    \"title\": \"Artículo 61.- Condena no pronunciada\",\n    \"text\": \"La condena se considera como no pronunciada si transcurre el plazo de prueba sin que el condenado cometa nuevo delito doloso, ni infrinja de manera persistente y obstinada las reglas de conducta establecidas en la sentencia.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo03_cpp_art_289_01::q03",
+     "chunk_tipo02_cp_art_187_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_289_01::q03",
+     "chunk_tipo02_cp_art_61_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_289_01::q03",
+     "chunk_tipo03_cpp_art_517_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_289_01::q03",
+     "chunk_tipo03_cpp_art_488_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_289_01::q03",
+     "chunk_tipo03_cpp_art_ii_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__a1f6dae51219.json"
+}

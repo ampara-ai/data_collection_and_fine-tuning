@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo IX. Derecho de Defensa y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 470. Declaración inexistente y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 377.- Omisión, rehusamiento o demora de actos funcionales y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 19. Declaración de la víctima y entrevista única y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 154.- Violación de la intimidad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "si",
+      "rationale": "Fija dos días para decidir la solicitud de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 83.- Interrupción de la prescripción de la acción penal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 525. Ámbito e Iniciación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 560. Detención provisional con fines de entrega y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 91. Oportunidad y trámite y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 2451-2022, Cajamarca y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 484. Audiencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Exp. 00039-2018-57 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite notificación y entrevista el mismo día por urgencia, pero no establece el plazo ordinario de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 462. Auto de citación a juicio y audiencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "si",
+      "rationale": "Establece que la audiencia no puede celebrarse antes del décimo día de la citación, salvo urgencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 368.- Resistencia o desobediencia a la autoridad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 430. Interposición y admisión y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 177.- Formas agravadas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 424. Audiencia de apelación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 16-C. Apelación de la medida de protección o cautelar y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 54. Requisitos de la recusación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 154.- Violación de la intimidad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "si",
+      "rationale": "Permite actuar inmediatamente la prueba sin traslado ante peligro inminente de pérdida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_244_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "si",
+      "rationale": "Ordena designar defensor de oficio cuando resulta imposible comunicar la actuación a la defensa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

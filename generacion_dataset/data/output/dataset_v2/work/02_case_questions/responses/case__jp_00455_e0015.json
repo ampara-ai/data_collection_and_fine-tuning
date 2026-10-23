@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "Mi hija de 14 años contó todo con firmeza y la psicóloga vio que quedó afectada, pero el tribunal soltó al hombre sin darle peso a eso. ¿Su palabra sí vale como prueba?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00455_e0015_01"
+   ],
+   "positive_selection_reason": "La sentencia señala que la declaración coherente, consistente y persistente de la menor, corroborada por la pericia psicológica, debía valorarse y no se hizo.",
+   "expected_answer_focus": "Que el relato firme y sostenido de la víctima, junto con el informe psicológico, es prueba relevante que el tribunal debe valorar en conjunto.",
+   "victim_voice_rationale": "Una madre teme que el testimonio de su hija adolescente no sea tomado en serio."
+  },
+  {
+   "query": "En pleno juicio el fiscal se dio cuenta de que lo que le hizo ese hombre a mi hija encaja también en otro delito. ¿Puede agregar o cambiar lo que le imputa?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_374_01"
+   ],
+   "positive_selection_reason": "El art. 374 numeral 2 permite al fiscal ampliar la acusación durante el juicio y advertir la variación de la calificación jurídica.",
+   "expected_answer_focus": "Que el fiscal puede presentar una acusación complementaria en el juicio, debe advertir el cambio y la defensa puede pedir suspensión por un plazo corto.",
+   "victim_voice_rationale": "Pregunta práctica de una familia que no entiende si el fiscal puede corregir su enfoque a mitad del juicio."
+  },
+  {
+   "query": "Si el fiscal pidió castigo por un delito, ¿el juez puede condenar al agresor por otro distinto o con más años de cárcel sin avisar a nadie?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_397_01",
+    "chunk_tipo03_cpp_art_374_01"
+   ],
+   "positive_selection_reason": "El art. 397 limita la condena a los hechos acusados y a la pena pedida, y remite al art. 374 numeral 1 para poder cambiar la calificación; el 374 explica el aviso previo a las partes.",
+   "expected_answer_focus": "Que la sentencia debe respetar los hechos y la pena pedidos por el fiscal, y que cambiar la calificación exige advertir antes a las partes.",
+   "victim_voice_rationale": "La familia quiere saber qué margen real tiene el juez al sentenciar."
+  },
+  {
+   "query": "Un conocido de mi papá le metió el dedo a mi hija de 14 años mientras dormía, sin golpearla. ¿Eso se considera violación aunque no hubo golpes?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 incluye la introducción de una parte del cuerpo por vía vaginal y el aprovechamiento de un entorno que impide dar libre consentimiento, y agrava cuando la víctima es adolescente.",
+   "expected_answer_focus": "Que la violación sexual abarca la introducción de partes del cuerpo y no exige solo violencia física, y que existe una agravante por la edad de la víctima.",
+   "victim_voice_rationale": "Una madre duda si un abuso sin golpes cuenta como el delito más grave."
+  },
+  {
+   "query": "El tribunal vio que lo de mi hija podía ser otro delito menor, pero no avisó a las partes y dejó libre al hombre. ¿Estaba obligado a avisarnos antes?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00455_e0015_01",
+    "chunk_tipo03_cpp_art_374_01"
+   ],
+   "positive_selection_reason": "La sentencia exige que el tribunal plantee a las partes la posibilidad de otra calificación antes de desvincularse; el art. 374 numeral 1 recoge esa advertencia en el proceso penal actual.",
+   "expected_answer_focus": "Que el juez debe advertir al fiscal y a las partes sobre otra posible calificación para que se pronuncien, y que omitirlo afecta el debido proceso.",
+   "victim_voice_rationale": "La familia siente que se usó un tecnicismo para dejar libre al agresor."
+  },
+  {
+   "query": "Absolvieron al hombre que tocó a mi hija de 14 años y siento que no hubo justicia. ¿Esa decisión se puede anular y hacer otro juicio con otros jueces?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00455_e0015_01"
+   ],
+   "positive_selection_reason": "La sentencia resolvió que la absolución afectó el debido proceso por defectuosa valoración y desvinculación omitida, lo que llevó a nulidad y nuevo juicio.",
+   "expected_answer_focus": "Que una absolución puede anularse ante la Corte Suprema si no se valoró bien la prueba ni se siguió el procedimiento, ordenándose un nuevo juicio.",
+   "victim_voice_rationale": "Una madre busca saber si aún hay una salida después de una absolución."
+  }
+ ]
+}

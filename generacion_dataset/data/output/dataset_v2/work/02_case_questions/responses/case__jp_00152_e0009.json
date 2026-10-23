@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "Mi hija con discapacidad no se resistió porque el vecino le dijo que le pegaría si contaba. ¿Eso cuenta como que la obligó, aunque no hubiera forcejeo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00152_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que el agravante por retardo mental exige violencia o grave amenaza, y que la amenaza se evalúa desde la perspectiva de la víctima, considerando su vulnerabilidad y la diferencia de tamaño del agresor. Responde directamente si una amenaza sin forcejeo basta.",
+   "expected_answer_focus": "Que la amenaza se valora según la situación de la víctima (discapacidad, edad, fuerza del agresor) y puede ser eficaz aunque la víctima no se resista físicamente.",
+   "victim_voice_rationale": "Una madre teme que la falta de resistencia de su hija con discapacidad debilite el caso.",
+   "_note": "Se evita fijar penas o cifras históricas."
+  },
+  {
+   "query": "Condenaron al vecino que abusó de mi hija. ¿Me van a pagar algo por el daño que le hizo y hasta cuándo se puede exigir ese pago?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El artículo 92 dice que la reparación civil se decide junto con la pena, es un derecho de la víctima y debe cumplirse mientras dure la condena, con garantía del juez.",
+   "expected_answer_focus": "Que la reparación se fija en la misma sentencia, es derecho de la víctima y el juez debe garantizar que se cumpla durante la condena.",
+   "victim_voice_rationale": "La familia quiere saber si recibirá una compensación y cuándo."
+  },
+  {
+   "query": "Si el vecino apela y pierde, ¿quién paga los gastos del proceso, él o nosotros que lo denunciamos?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_497_01"
+   ],
+   "positive_selection_reason": "El artículo 497 del CPP regula quién soporta las costas: en general el vencido, con posibilidad de exención por razones serias, y el juez debe pronunciarse de oficio.",
+   "expected_answer_focus": "Que las costas están a cargo de quien pierde, salvo exención por razones serias, y que el juez debe decidir sobre ellas.",
+   "victim_voice_rationale": "Preocupación de la familia por los gastos del juicio."
+  },
+  {
+   "query": "Temo que al agresor de mi hija le den una condena corta y lo dejen en la calle. ¿El juez puede dejarlo libre sin ir a la cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El artículo 57 enumera los requisitos para que el juez suspenda la ejecución de la pena y las exclusiones, incluidos delitos del Capítulo IX del Título IV del Libro Segundo.",
+   "expected_answer_focus": "Cuándo puede suspenderse la pena (requisitos) y que existen delitos para los que no procede la suspensión; sin afirmar cifras históricas del caso.",
+   "victim_voice_rationale": "Miedo a que el agresor no cumpla cárcel y quede cerca de la víctima."
+  },
+  {
+   "query": "Mi sobrina no razona como una persona adulta por su condición y un hombre abusó de ella. ¿Es delito grave aunque ella no dijo que no?",
+   "topic": "violencia_sexual",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_172_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 172 sanciona el acceso carnal con quien no puede dar su libre consentimiento por retardo mental, y el art. 170 contempla el agravante cuando la víctima tiene discapacidad y el agente se aprovecha de ello.",
+   "expected_answer_focus": "Que abusar de una persona incapaz de consentir por su condición mental es delito sancionado gravemente, y que aprovecharse de la discapacidad puede agravar la pena.",
+   "victim_voice_rationale": "Una familiar duda si el abuso cuenta cuando la víctima no puede expresar su negativa."
+  },
+  {
+   "query": "El vecino dice que no sabía que mi hija tenía problemas mentales y que por eso no lo castiguen tan fuerte. ¿Esa excusa le sirve?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00152_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia indica que alegar error sobre la condición de la víctima es inaceptable cuando el imputado conocía su discapacidad, al ser vecino.",
+   "expected_answer_focus": "Que la excusa de desconocer la condición no prospera si el agresor la conocía.",
+   "victim_voice_rationale": "Duda sobre si la defensa del agresor puede librarlo de la agravante."
+  }
+ ]
+}

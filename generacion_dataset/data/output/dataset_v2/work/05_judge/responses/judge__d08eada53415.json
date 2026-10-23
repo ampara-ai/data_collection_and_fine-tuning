@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-n_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "si",
+      "rationale": "Sanciona a responsables del medio que autorizan publicidad de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-n_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "si",
+      "rationale": "Fija pena de cuatro a seis años e inhabilitación por autorizar pornografía infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_522_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "Regula la extradición pasiva desde Perú hacia otro Estado, no el plazo para traer a alguien detenido en el extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_522_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "si",
+      "rationale": "Prohíbe nuevos pedidos del mismo Estado por el mismo hecho salvo denegación por defectos de forma."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

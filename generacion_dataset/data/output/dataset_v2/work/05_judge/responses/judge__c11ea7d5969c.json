@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00073_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que citar el mismo día para cámara Gesell es válido en urgencia si no causa indefensión concreta."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Permite citar por teléfono u otros medios en casos urgentes dejando constancia en autos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Describe una casación que revocó la absolución basada en un defecto de citación y ordenó valorar la entrevista en un nuevo pronunciamiento."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "parcial",
+      "rationale": "Encarga al auxiliar gestionar notificaciones y comparecencias, pero no identifica expresamente quién puede entregar la citación en casa."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Autoriza citar víctimas y testigos por medio de la policía o personal oficial fiscal o judicial."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre quién puede entregar una citación a víctimas o testigos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

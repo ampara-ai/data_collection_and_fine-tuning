@@ -1,0 +1,251 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "Resuelve formalidades de notificación de una condena al acusado, no el plazo de constitución en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que la conclusión de la investigación restringe el derecho desde su notificación y que solicitarlo ese mismo día es oportuno."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula plazos para medidas de protección, no la oportunidad de reclamar reparación como actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve límites de la apelación del actor civil, no el plazo para constituirse como tal."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión del juicio oral, no la conclusión de investigación ni la solicitud de actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves y sus penas sin regular el plazo de reclamación civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula la vigilancia electrónica personal sin relación con el plazo de constitución en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata el tiempo de preparación del defensor del acusado, no el plazo para reclamar reparación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "parcial",
+      "rationale": "Explica el trámite de una solicitud de actor civil, pero no su oportunidad frente a la notificación de conclusión de investigación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Regula el maltrato sin lesión y sus sanciones, no el plazo para reclamar reparación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce legitimación para reclamar reparación, pero no cuándo vence la posibilidad de constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y secuestro extorsivo sin abordar la solicitud de reparación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Fija reglas para notificar condenas al imputado y apelar, un supuesto distinto del plazo del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Explica la obligación de iniciar investigaciones sin denuncias repetidas, no cómo obtener la conclusión de una investigación prolongada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial por flagrancia y no el control del plazo de investigación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "Establece deberes de investigación de oficio por tortura y violencia sexual, no el mecanismo para concluirla por vencimiento del plazo."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "si",
+      "rationale": "Permite pedir al juez la conclusión por vencimiento del plazo y obliga al fiscal a acusar o solicitar sobreseimiento tras la orden judicial."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula la ejecución de vigilancia electrónica y no la duración de la investigación fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza el inicio de la persecución penal para el encubrimiento, no la conclusión de investigaciones por demora."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula recursos contra medidas de protección, no el control de plazos de investigación penal."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata el amparo contra decisiones fiscales firmes de archivo, no la conclusión de una investigación aún abierta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de la ejecución de penas y no el cierre de investigaciones."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Establece agravantes del tráfico ilícito de migrantes sin regular plazos fiscales."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la facultad del juez de controlar el plazo de investigación, pero no explica cómo ordenar su conclusión ni sus efectos."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional y sus plazos, un procedimiento distinto del control de la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual y no contiene mecanismos para concluir la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién puede ejercer la acción reparatoria, pero no las facultades para ofrecer pruebas o intervenir en audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Enumera medidas de protección sin regular la intervención probatoria de la víctima en el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Resuelve la citación de testigos de descargo del acusado, no las facultades de la víctima constituida en parte."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica el beneficio por explotación sexual de menores sin regular participación procesal."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata la revictimización de niñas en reconstrucciones e inspecciones, no las facultades de intervención voluntaria de una víctima adulta en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Faculta expresamente al actor civil a ofrecer pruebas, participar en su actuación e intervenir en el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "Regula la ejecución de la reparación civil después de la sentencia, no la participación probatoria en el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula una excusa absolutoria patrimonial, no los derechos procesales de participación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica los límites de intervención recursal del actor civil, pero no su facultad para presentar pruebas y asistir al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual sin reconocer facultades procesales a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica la oportunidad de constitución en actor civil, pero no sus derechos de prueba e intervención en audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Sanciona el beneficio por explotación sexual y no regula participación de la víctima en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Prevé que el abogado del actor civil exponga pretensiones y pruebas en la apertura del juicio, pero no desarrolla su derecho a ofrecer pruebas y participar en las demás audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "Atribuye la acción civil al fiscal y al perjudicado y establece que la constitución en actor civil cesa la legitimación fiscal sobre el objeto civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica las agresiones familiares y agrava la pena por usar armas peligrosas y por realizarlas ante un niño."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

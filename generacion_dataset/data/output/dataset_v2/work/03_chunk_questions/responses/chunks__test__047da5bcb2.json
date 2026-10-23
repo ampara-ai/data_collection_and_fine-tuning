@@ -1,0 +1,100 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_279_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja sigue en libertad mientras lo investigan y me sigue amenazando. ¿Se puede pedir que lo dejen preso antes del juicio y cuánto tarda el juez en decidir?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si surgen indicios fundados durante la investigación, el fiscal puede pedir al juez que ordene la prisión preventiva de quien estaba en libertad; el juez cita a audiencia y resuelve de inmediato o en 48 horas."
+    },
+    {
+     "query": "Si el juez manda preso a mi pareja mientras lo investigan, ¿él puede reclamar esa decisión a otro juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Contra la resolución que dicta la prisión preventiva procede recurso de apelación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_380_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me da pánico declarar en el juicio con mi agresor mirándome. ¿Se puede pedir que él salga de la sala mientras yo hablo?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede ordenar que el acusado no esté presente durante el interrogatorio si se teme que el testigo no dirá la verdad frente a él o hay peligro grave para su integridad o salud."
+    },
+    {
+     "query": "Mi hijo de 12 años tiene que contar lo que vio en casa en el juicio. ¿Puede hacerlo sin que su papá, el acusado, esté ahí?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si el interrogatorio es a un menor de 16 años y se teme un perjuicio relevante para él, el juez puede disponer que el acusado no esté presente; luego se le informa lo dicho en su ausencia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_565_01",
+   "skip": true,
+   "skip_reason": "Trata de la cooperación del Estado con la Corte Penal Internacional para ejecutar penas de peruanos condenados; ninguna víctima de violencia familiar lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_209_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Llegó la policía a revisar la casa y nos dijeron que nadie podía irse del lugar. ¿Por cuántas horas pueden obligarnos a quedarnos ahí?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La policía puede impedir que las personas halladas en el lugar se ausenten durante la diligencia por cuatro horas, ampliables en delitos graves específicos, y luego se requiere orden judicial."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_429_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez dio una sentencia que me parece injusta y mal explicada en mi caso de violencia. ¿En qué situaciones se puede llevar el caso a la Corte Suprema?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se puede interponer casación por vulneración de garantías constitucionales, normas procesales, mala aplicación de la ley penal, motivación ilógica o apartarse de la doctrina de la Corte Suprema o del Tribunal Constitucional."
+    },
+    {
+     "query": "¿Se puede reclamar una sentencia solo porque no estoy de acuerdo, o tiene que haber algún error del juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La casación procede solo por causales específicas de errores en garantías, normas procesales, aplicación de la ley o motivación, no por simple desacuerdo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo no irá a la cárcel por lo que me hizo. ¿El juez puede obligarlo a ir a terapia para que cambie y no me vuelva a agredir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede imponer al agresor tratamiento psicosocial, psiquiátrico o grupos de ayuda, y en la sentencia debe pronunciarse sobre ello si no cumple prisión efectiva; es regla de conducta."
+    },
+    {
+     "query": "¿Desde cuándo pueden mandar al agresor a terapia, solo cuando lo condenan o ya desde que empieza el proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El tratamiento puede aplicarse desde el inicio del procedimiento, no solo tras la condena."
+    }
+   ]
+  }
+ ]
+}

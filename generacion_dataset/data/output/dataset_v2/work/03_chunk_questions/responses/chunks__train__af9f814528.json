@@ -1,0 +1,245 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 8 años me contó que un pariente la tocó, pero no hay testigos. ¿Sirve solo lo que ella cuenta para que lo condenen?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La declaración de la víctima de un delito sexual es prueba directa y puede bastar por sí sola para desvirtuar la presunción de inocencia."
+    },
+    {
+     "query": "Mi sobrina no recuerda la fecha exacta en que pasó todo. ¿Eso hace que no le crean o se caiga el caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No se exige precisión de fechas; se rechazaron las objeciones de la defensa por falta de precisión temporal."
+    },
+    {
+     "query": "Tengo miedo de que no le crean a mi niña por ser menor y ser la afectada. ¿Pueden dudar de ella solo por eso?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se puede cuestionar la credibilidad de la víctima por el solo hecho de serlo; se evalúa verosimilitud, coherencia y persistencia."
+    },
+    {
+     "query": "¿Para qué sirve que una psicóloga evalúe a mi hija después de contarnos lo que le hicieron?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La pericia psicológica sirve como corroboración periférica al mostrar afectación emocional compatible con los hechos."
+    },
+    {
+     "query": "Un familiar lejano de 20 años le tocó los senos a mi hija en casa de sus abuelos. ¿Eso es delito aunque fue por encima o sin violencia?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Tocamientos en zonas íntimas de una menor por un familiar, incluso sobre la ropa o en el contexto de confianza, fueron valorados como delito sexual."
+    },
+    {
+     "query": "Estos delitos no dejan marcas en el cuerpo. ¿Cómo se prueban entonces?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En delitos que no dejan huellas materiales, se pondera la declaración de la víctima junto con corroboraciones periféricas como la pericia psicológica."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_79_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que me denunció que agredí... perdón, al que yo denuncié no va a las citaciones aunque sabe que lo buscan. ¿Qué pasa con el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el acusado sabe que es requerido y no se presenta, puede ser declarado contumaz y se ordena su conducción compulsiva."
+    },
+    {
+     "query": "Mi agresor se escapó de la cárcel donde estaba detenido. ¿Se detiene el proceso o puede seguir?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La fuga es causal de contumacia; la declaración no suspende la investigación preparatoria ni la etapa intermedia."
+    },
+    {
+     "query": "No sabemos dónde está el denunciado, se mudó sin avisar. ¿Se puede seguir con el caso sin que él esté?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Si se ignora su paradero se le declara ausente, se le nombra defensor y la investigación continúa."
+    },
+    {
+     "query": "Si el acusado desaparece en pleno juicio, ¿puede salir condenado igual o se pierde todo lo avanzado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si la contumacia o ausencia ocurre en juicio oral, el proceso se archiva provisionalmente y el ausente puede ser absuelto pero no condenado."
+    },
+    {
+     "query": "¿Quién defiende al denunciado si se esconde y no aparece? ¿Se queda sin abogado?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Se le nombra defensor de oficio o el propuesto por un familiar, que interviene en todas las diligencias."
+    },
+    {
+     "query": "Cuando atrapan al que andaba huyendo, ¿sigue preso si ya tenía orden de que lo encerraran mientras lo juzgan?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Al presentarse cesa la contumacia y la conducción compulsiva, pero no se afecta la detención o prisión preventiva vigente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo ya me golpeó varias veces y cada vez es peor, aunque tengo una orden para que no se me acerque. ¿Las autoridades deben tomar eso en cuenta?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Las autoridades deben considerar el patrón cíclico y creciente de la violencia doméstica al evaluar el riesgo, incluso con orden de alejamiento."
+    },
+    {
+     "query": "Fui a pedir ayuda y me dijeron que no había peligro inmediato porque hoy no me pegó. ¿Es correcto?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El criterio de inmediatez debe interpretarse según la dinámica de la violencia doméstica, donde el daño ya ocurrido es probable que se repita."
+    },
+    {
+     "query": "Si el Estado sabía que mi marido era violento y no nos protegió, ¿tiene alguna responsabilidad si le hace daño a mis hijos?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se examinó la responsabilidad de las autoridades que no evaluaron adecuadamente el riesgo y no protegieron a la madre y sus hijos."
+    },
+    {
+     "query": "¿Por qué un hombre que ya agredió antes a su familia es más peligroso, aunque ahora esté tranquilo?",
+     "topic": "violencia_fisica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Los agresores con antecedentes de violencia doméstica representan un riesgo significativo de violencia adicional."
+    },
+    {
+     "query": "Me da miedo que la orden de alejamiento no sirva de nada y él vuelva más violento. ¿Eso puede pasar?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La violencia suele ser cíclica con aumento de frecuencia e intensidad, por lo que las autoridades deben evaluar la escalada incluso tras la orden."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_290_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que me agredió tiene más de 65 años y dicen que lo dejarán en su casa en vez de la cárcel. ¿Es posible?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si corresponde prisión preventiva pero el imputado es mayor de 65 años, puede imponerse detención domiciliaria."
+    },
+    {
+     "query": "¿En qué casos un acusado puede esperar el juicio encerrado en su casa y no en un penal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Mayor de 65 años, enfermedad grave o incurable, incapacidad física permanente grave o madre gestante, siempre que se evite el peligro de fuga u obstaculización."
+    },
+    {
+     "query": "Si lo dejan en su casa, ¿puede seguir hablando con quien quiera, incluso conmigo?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede imponer límites o prohibiciones de comunicación con personas distintas de quienes viven con él o lo asisten."
+    },
+    {
+     "query": "¿Quién vigila que mi agresor cumpla si está preso en su domicilio? Me da miedo que salga.",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El control corresponde al Ministerio Público y la policía; puede haber custodia o vigilancia electrónica y se puede sumar una caución."
+    },
+    {
+     "query": "El acusado se curó de la enfermedad por la que lo dejaron en su casa. ¿Lo vuelven a meter preso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si desaparecen los motivos (enfermedad, incapacidad, gestación), el juez previo informe pericial ordena la prisión preventiva inmediata."
+    },
+    {
+     "query": "¿Por cuánto tiempo puede estar así detenido en su casa mientras lo investigan?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El plazo de la detención domiciliaria es el mismo que el de la prisión preventiva."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Condenaron al hombre que abusó de mi hija de 13 años, pero un tribunal superior lo absolvió. ¿Se puede hacer algo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Ministerio Público puede interponer casación y la Corte Suprema puede anular la absolución si fue indebida y ordenar nueva audiencia."
+    },
+    {
+     "query": "¿Puede un tribunal de segunda instancia cambiar cómo se creyó a los testigos y a la víctima en el primer juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo puede revalorar la prueba personal si hubo error manifiesto o si fue desvirtuada por pruebas nuevas en segunda instancia."
+    },
+    {
+     "query": "Tengo miedo de que, por apelar, el acusado quede libre aunque ya lo habían sentenciado a muchos años. ¿Eso puede ocurrir sin motivo?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La absolución en apelación sin invocar error manifiesto ni nuevas pruebas excede las facultades de la sala y puede ser anulada."
+    },
+    {
+     "query": "Anularon la sentencia que absolvía al acusado de violar a una menor. ¿Qué pasa ahora con el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Se declaró nula la sentencia de vista y se ordenó que otra sala realice una nueva audiencia y emita nuevo pronunciamiento."
+    },
+    {
+     "query": "¿Cuántos años le dieron al hombre condenado por violar a una adolescente de 13 años en el primer juicio?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "En primera instancia fue condenado a 30 años de prisión por violación sexual de menor de 13 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_177_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor abusó de mí de forma muy cruel para humillarme. ¿Le aumentan la pena por eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si actuó con crueldad, alevosía o para degradar a la víctima, la pena se incrementa en cinco años en mínimo y máximo."
+    },
+    {
+     "query": "Después de la violación quedé con lesiones graves. ¿Cuánta cárcel puede recibir quien me hizo eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si hay lesión grave previsible, la pena es no menor de 30 ni mayor de 35 años."
+    },
+    {
+     "query": "Si por un ataque sexual la víctima muere, ¿qué castigo recibe el culpable?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Si los actos causan la muerte y era previsible, la pena es cadena perpetua."
+    },
+    {
+     "query": "Mi expareja grabó el abuso con su celular y lo mandó a otras personas. ¿Eso empeora su situación legal?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Registrar o transmitir la conducta por medios visuales, auditivos o tecnológicos incrementa la pena en cinco años."
+    },
+    {
+     "query": "¿Hay más pena si el agresor sexual abusó de una niña y además se aprovechó de algún vínculo o de su posición?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En ciertos delitos sexuales la pena sube cinco años si concurren circunstancias agravantes del delito base de violación."
+    }
+   ]
+  }
+ ]
+}

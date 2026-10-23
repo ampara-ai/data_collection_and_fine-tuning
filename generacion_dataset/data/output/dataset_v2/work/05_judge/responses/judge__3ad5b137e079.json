@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "si",
+      "rationale": "Autoriza al fiscal o agraviado a pedir al juez la extradición de quien está en otro Estado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_561_01",
+      "relevance": "no",
+      "rationale": "No regula la solicitud de extradición activa del acusado que huyó al extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_525_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "si",
+      "rationale": "Exige sanción de dos años o más o una pena pendiente de al menos un año."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

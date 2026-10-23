@@ -1,0 +1,1 @@
+{"source_file": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/intermediate/resumeai_batch/cases/jp_00008_e0002.json", "error_type": "ValueError", "error_message": "El LLM seleccionó candidate_ids inexistentes: ['chunk_tipo03_cpp_art_122-b_01']"}

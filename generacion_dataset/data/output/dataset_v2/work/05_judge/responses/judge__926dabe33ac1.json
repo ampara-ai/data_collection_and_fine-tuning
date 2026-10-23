@@ -1,0 +1,401 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata motivación sobre maltrato psicológico."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce abstención en apelación sin deber de informar antes del interrogatorio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Exige advertir silencio, asistencia letrada y consulta previa."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes incompletas."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula abstención de testigos familiares y secreto profesional."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza reemplazo de defensor pero no información previa sobre silencio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica falta de maltrato."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "Regula trámite ante juzgado de familia."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula variación de acusación."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata condena por maltrato mutuo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Exige defensor en prueba anticipada sin información previa sobre silencio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Protege abogado de elección sin tratar advertencias antes de declarar."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Exige tiempo razonable al defensor sin tratar advertencia de silencio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata valor de manifestación policial."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica tráfico ilícito de migrantes agravado."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad de audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Regula derechos del imputado y no representación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "El Ministerio Público ejerce la acción civil si el perjudicado no se constituye en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra las mujeres."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "Regula principios del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "si",
+      "rationale": "Permite al defensor público o abogado del CEM representar a menores y solicitar actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata defensa pública del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza participación del agraviado sin precisar representación gratuita para reparación."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata oralización de Cámara Gesell."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "Tipifica favorecimiento de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficio de explotación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Permite exponer pretensiones y pruebas al iniciar juicio sin regular apelación."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica tocamientos a menores."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "parcial",
+      "rationale": "Define colaboración y objeto civil sin detallar facultades de prueba y recurso."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "no",
+      "rationale": "Regula eficacia de actos de investigación."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Trata valoración de prueba testimonial."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Reconoce ofrecer pruebas, intervenir en juicio e interponer recursos."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata testigos de descargo del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Protege acceso a recursos sin precisar facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula proceso de seguridad."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce derecho a reparación sin facultades procesales del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "Regula agraviado en colaboración eficaz y no actor civil en juicio común."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula abstención testimonial y secreto profesional."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega a Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "Regula secreto bancario."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "si",
+      "rationale": "Permite copias a las partes y distingue reserva de secreto temporal."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión sexual no autorizada."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "Trata consentimiento sexual."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "Regula conclusión de investigación y control de plazo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata maltrato mutuo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata citación de testigos de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata inicio de investigación sin denuncias reiteradas."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registro personal."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata excepcionalidad del careo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "Regula prohibición de doble sanción."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución y custodia de incautación."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimento de salida."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata independencia al investigar violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud o servidumbre."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Describe protección y ejecución policial sin sanción por negar auxilio."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona negativa policial injustificada de auxilio por violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de apelación del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00624_e0008::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "si",
+      "rationale": "Ordena informar cargos, comunicar detención y advertir derechos del detenido."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

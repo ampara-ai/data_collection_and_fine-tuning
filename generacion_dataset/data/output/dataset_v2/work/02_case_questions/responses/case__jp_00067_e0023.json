@@ -1,0 +1,81 @@
+{
+ "questions": [
+  {
+   "query": "Condenaron a quienes maltrataron psicológicamente a mi hijo, pero ahora dicen que no les avisaron bien de la sentencia y que pueden apelar. ¿Eso es válido?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00067_e0023_01"
+   ],
+   "positive_selection_reason": "La sentencia del TC resuelve que, si la condena no se notificó por cédula en el domicilio real, el plazo para apelar no corrió y debe admitirse la apelación. Responde directamente la duda.",
+   "expected_answer_focus": "Explicar que la notificación de una sentencia condenatoria debe hacerse en el domicilio real del condenado, que el plazo para apelar se cuenta desde esa notificación y que, si faltó, se ordena admitir la apelación.",
+   "victim_voice_rationale": "Una madre ve que los condenados intentan apelar tarde y no entiende por qué se les permite."
+  },
+  {
+   "query": "A los que condenaron por dañar a mi hijo les mandaron la sentencia solo a un buzón digital. ¿Ya se les venció el tiempo para apelar o todavía pueden?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00067_e0023_01"
+   ],
+   "positive_selection_reason": "El caso trata de una sentencia notificada solo en la casilla electrónica. El TC concluye que el plazo para impugnar corre desde la notificación en el domicilio real.",
+   "expected_answer_focus": "Indicar desde cuándo se cuenta el plazo para apelar una condena y qué efecto tiene que solo se haya notificado por vía electrónica.",
+   "victim_voice_rationale": "Pregunta por un plazo concreto, como lo haría un familiar que sigue el trámite sin saber de plazos."
+  },
+  {
+   "query": "Mi abogado dice que la condena de quienes maltrataron a mi hijo puede revisarse por un error al avisarles. ¿Mi caso se cae y todo fue en vano?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00067_e0023_01"
+   ],
+   "positive_selection_reason": "La decisión del TC declara nulas las resoluciones que negaron la apelación y ordena admitirla. Esto muestra que se corrige un error de trámite sin que el proceso se acabe.",
+   "expected_answer_focus": "Aclarar que el TC solo ordenó admitir y tramitar la apelación tras corregir la notificación, por lo que el proceso continúa con revisión en segunda instancia.",
+   "victim_voice_rationale": "Expresa el miedo de la víctima a que un error de forma deje sin efecto todo lo avanzado."
+  },
+  {
+   "query": "Me citaron para declarar contra mi pareja. ¿Estoy obligada a ir, y qué pasa si en mi trabajo no me quieren dar permiso ese día?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_163_01"
+   ],
+   "positive_selection_reason": "El art. 163 establece el deber de concurrir como testigo y que la comparecencia justifica la ausencia del trabajo o estudios sin consecuencias adversas.",
+   "expected_answer_focus": "Explicar que quien es citado como testigo debe acudir y decir la verdad, y que acudir justifica faltar al trabajo o estudios sin sanciones.",
+   "victim_voice_rationale": "Una víctima teme perder su empleo por ir a declarar."
+  },
+  {
+   "query": "Si me llaman a declarar sobre lo que pasó en casa, ¿me pueden obligar a contar cosas que me perjudiquen a mí o a mis familiares?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_163_01"
+   ],
+   "positive_selection_reason": "El numeral 2 del art. 163 dispone que el testigo no puede ser obligado a declarar sobre hechos que podrían generarle responsabilidad penal.",
+   "expected_answer_focus": "Señalar el límite a la obligación de declarar: nadie está obligado a declarar sobre hechos que puedan derivar en su propia responsabilidad penal.",
+   "victim_voice_rationale": "Una persona con miedo de que su declaración se vuelva en su contra."
+  },
+  {
+   "query": "Mi hijo pequeño vio cómo nos maltrataban en casa. ¿Su palabra puede servir en el juicio o dirán que es muy chico para que le crean?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_162_01"
+   ],
+   "positive_selection_reason": "El art. 162 establece que toda persona es en principio hábil para dar testimonio y que, si hace falta, se verifica su capacidad física o psíquica con pericias.",
+   "expected_answer_focus": "Explicar que en principio cualquiera puede testificar y que, si hay dudas sobre su capacidad, el juez puede ordenar evaluaciones periciales.",
+   "victim_voice_rationale": "Una madre duda de que el testimonio de su hijo menor sea tomado en cuenta."
+  },
+  {
+   "query": "Denuncié lo que me hace mi pareja y me dijeron que el fiscal podría mandar guardar mi denuncia. ¿Quién decide eso y tiene que explicarme por qué?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_122_01"
+   ],
+   "positive_selection_reason": "El art. 122 dice que el fiscal decide con disposiciones el inicio, la continuación o el archivo de las actuaciones y que deben estar motivadas.",
+   "expected_answer_focus": "Indicar que el Ministerio Público decide mediante disposiciones si inicia, continúa o archiva el caso, y que esas decisiones deben estar motivadas.",
+   "victim_voice_rationale": "La víctima teme que su denuncia sea archivada sin explicación."
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hijo lo entrevistaron en un cuarto especial con psicólogo y a otro niño no. ¿Ese cuarto es solo para casos muy graves?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La cámara Gesell está destinada a víctimas de delitos graves, no a testigos, y no es obligatoria para toda declaración de menores."
+    },
+    {
+     "query": "La psicóloga me vio una sola vez para evaluarme por la violencia de mi pareja. ¿Ese informe ya no sirve?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Una pericia psicológica hecha en una sola sesión no es inválida por sí misma, salvo que se demuestre que el tiempo fue insuficiente."
+    },
+    {
+     "query": "El agresor quiere anular el informe psicológico porque fue en una sola cita. ¿Puede lograrlo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Debe acreditarse que el tiempo fue insuficiente; la sola brevedad de la evaluación no la invalida."
+    },
+    {
+     "query": "Condenaron a mi ex por agredirme y él apela a la instancia más alta. ¿Siempre le aceptan ese último recurso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El recurso de casación se declara inadmisible si el delito no alcanza la pena mínima y no se justifica la especial trascendencia."
+    },
+    {
+     "query": "¿Se puede tomar en cuenta lo que dijeron unos niños si no los entrevistaron en la sala especial para menores?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La falta de cámara Gesell no invalida las declaraciones de menores, porque ese mecanismo es para víctimas de delitos graves."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_472_01",
+   "skip": true,
+   "skip_reason": "Regula el proceso de colaboración eficaz (acuerdos de beneficios con investigados); no es algo que una víctima de violencia familiar preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno de extradición entre Estados y órganos judiciales; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_499_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "No tengo plata para pagar los gastos del juicio contra mi agresor. ¿Me pueden cobrar algo si pierdo?",
+     "topic": "procedimiento_penal",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Quien obtiene auxilio judicial queda exonerado del pago de costas en el proceso penal."
+    },
+    {
+     "query": "Me da miedo denunciar y que después me hagan pagar si no me creen. ¿Pueden cobrarme los gastos del proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Solo se impone el pago de costas al denunciante cuando la denuncia es falsa o temeraria."
+    },
+    {
+     "query": "Mi pareja dice que si lo denuncio y no lo condenan me va a tocar pagar todo. ¿Es cierto?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El pago de costas al denunciante procede solo si provocó el proceso con denuncia falsa o temeraria, no por simple falta de condena."
+    },
+    {
+     "query": "¿Los fiscales y abogados tienen que pagar los gastos del juicio o están libres de eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Fiscales, procuradores, abogados y entidades del Estado están exentos del pago de costas."
+    },
+    {
+     "query": "¿Qué pasa si alguien inventa una denuncia contra su pareja solo para perjudicarla?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien provoca el proceso con una denuncia falsa o temeraria puede ser obligado a pagar total o parcialmente las costas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_3_01",
+   "skip": true,
+   "skip_reason": "Trámite interno entre el Ministerio Público y el juez sobre la continuación de la investigación; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_517_01",
+   "skip": true,
+   "skip_reason": "Regula causales de rechazo de extradición internacional; es un tema técnico ajeno a las preguntas habituales de víctimas de violencia familiar.",
+   "questions": []
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_244_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Dicen que mi declaración se tomará antes del juicio por si luego no puedo venir. ¿Cuánto tiempo tiene el juez para decidir si acepta ese pedido?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez decide en un plazo de dos días si acepta la solicitud de adelantar la prueba y si aplaza la diligencia."
+    },
+    {
+     "query": "Me avisaron que me van a citar para declarar antes del juicio. ¿Cuántos días como mínimo pasan hasta esa audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La audiencia no puede realizarse antes del décimo día de la citación, salvo urgencia, y se cita a todas las partes."
+    },
+    {
+     "query": "Si un testigo corre peligro de desaparecer o no poder declarar después, ¿pueden tomarle su declaración de inmediato sin avisar al denunciado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "En caso de peligro inminente de perder la prueba, el juez a pedido del fiscal puede ordenarla de inmediato, sin traslado a las demás partes."
+    },
+    {
+     "query": "Se va a hacer una diligencia urgente y no se puede avisar al denunciado ni a su abogado. ¿Quién lo defiende en ese acto?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Si es imposible comunicar a la defensa, el juez designa un defensor de oficio para controlar la actuación de la prueba."
+    },
+    {
+     "query": "Si hay que hacer varias pruebas adelantadas en mi caso, ¿me citan muchas veces o se hace todo en un solo día?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Varias pruebas se actúan en una sola audiencia, salvo que sea manifiestamente imposible."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Detuvieron al papá de mis hijos por no pasar la pensión y pasan los días sin que lo lleven a audiencia. ¿Pueden tenerlo preso tanto tiempo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Mantener detenido a alguien por deuda de pensión unos 10 días hasta la audiencia fue considerado irrazonable y violatorio de su libertad."
+    },
+    {
+     "query": "¿Un juez puede mandar a soltar a un detenido por no dar la pensión de alimentos si demoran demasiado en programar su juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Se declaró fundado el hábeas corpus y se ordenó la libertad inmediata por la demora irrazonable del juzgado."
+    },
+    {
+     "query": "Mi expareja faltó a una audiencia por la pensión y lo declararon prófugo. Ya lo capturaron, ¿esa falta justifica que tarden días en verlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La inasistencia previa del imputado no justifica la demora del juzgado en resolver su situación una vez detenido."
+    },
+    {
+     "query": "Si el caso es sencillo, con un solo acusado y pura prueba en papeles, ¿cuánto se puede esperar para el juicio estando detenido?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "En un caso simple el juzgado debe actuar con prioridad y diligencia; 10 días naturales de espera fueron considerados excesivos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que mató a mi hermana se entregó en la comisaría y contó todo. ¿Eso le sirve para que le rebajen la condena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La confesión sincera puede dar beneficio si se renueva ante el fiscal con su abogado, aunque la primera admisión fuera ante la policía."
+    },
+    {
+     "query": "Admitió el crimen solo ante los policías y luego lo repitió ante el fiscal con su abogado. ¿Eso cuenta como confesión válida?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "Es válida si el imputado reitera su confesión ante el fiscal en presencia de su defensa técnica."
+    },
+    {
+     "query": "¿Qué tiene que pasar para que lo que el agresor dijo en la comisaría valga como confesión ante la justicia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe declarar ante fiscal o juez con su abogado; la declaración policial debe ser ratificada así."
+    },
+    {
+     "query": "En un asesinato de una mujer por parte de su expareja, ¿los jueces deben tomar en cuenta que él volvió a confesar ante el fiscal el mismo día?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El tribunal debe valorar la secuencia completa de declaraciones; ignorar la renovación ante el fiscal fue un error que vulnera el debido proceso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "La psicóloga dijo que tengo mucha ansiedad por lo que vivo con mi pareja. ¿Con ese informe me pueden dar protección para que no me moleste?",
+     "topic": "medidas_proteccion",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si la evaluación psicológica muestra indicadores de maltrato o daño psicológico y una reacción ansiosa por los hechos, procede dictar medidas de protección."
+    },
+    {
+     "query": "El examen psicológico encontró señales de maltrato emocional y mucha angustia por lo ocurrido. ¿El juez puede ordenar que mi pareja se aleje de mí?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Con indicadores de maltrato psicológico más reacción ansiosa por los hechos denunciados, el juez puede dictar medidas de protección."
+    },
+    {
+     "query": "¿Se puede considerar maltrato emocional si el informe de la psicóloga muestra que me afectó lo que denuncié?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Puede deducirse que el denunciado ejerció violencia psicológica cuando la evaluación identifica daño o maltrato psicológico y reacción ansiosa por los hechos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_36_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si condenan a mi pareja por agredirnos, ¿puede perder el derecho a decidir sobre nuestros hijos?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La sentencia puede imponer la incapacidad para ejercer la patria potestad, tutela o curatela."
+    },
+    {
+     "query": "Mi expareja tiene un arma y me amenaza. Si lo condenan, ¿le pueden quitar el permiso para tenerla?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se suspende o cancela la autorización de armas, y es definitiva si el delito fue doloso o bajo alcohol o drogas."
+    },
+    {
+     "query": "¿El juez puede ordenar en la sentencia que el agresor no se me acerque ni me llame, ni moleste a mi familia?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La sentencia puede prohibir al condenado aproximarse o comunicarse con la víctima, sus familiares u otras personas."
+    },
+    {
+     "query": "Un profesor condenado por abusar sexualmente de una alumna, ¿puede volver a trabajar en un colegio o con menores?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Quien es condenado por delitos sexuales y otros graves queda incapacitado definitivamente para trabajar en educación o cuidar niños y adolescentes."
+    },
+    {
+     "query": "Un hombre condenado por matar a una mujer, ¿puede seguir manejando o sacar su licencia después?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La sentencia puede suspender, cancelar o impedir definitivamente obtener autorización para conducir vehículos; el feminicidio está entre los delitos que impiden trabajar en educación."
+    },
+    {
+     "query": "Mi agresor es funcionario público elegido por voto. Si lo condenan, ¿pierde su cargo o sigue trabajando en el Estado?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sentencia puede privar de la función o cargo aunque provenga de elección popular y causar incapacidad para obtener cargos públicos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_333_01",
+   "skip": true,
+   "skip_reason": "Delito de provocación pública a la desobediencia militar, ajeno a la violencia contra mujeres e integrantes del grupo familiar; ninguna víctima lo preguntaría.",
+   "questions": []
+  }
+ ]
+}

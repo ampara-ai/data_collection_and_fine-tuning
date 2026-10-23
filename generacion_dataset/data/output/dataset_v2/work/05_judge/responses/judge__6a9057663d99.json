@@ -1,0 +1,293 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0055::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Rechaza que detenerse por el llanto constituya desistimiento voluntario en los hechos analizados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "parcial",
+      "rationale": "Distingue los tocamientos sin propósito de acceso carnal, pero no tipifica ni sanciona la tentativa de violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Define la violación y sus penas, pero no resuelve el supuesto de ejecución frustrada sin penetración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé agravantes por confianza, autoridad, afinidad y convivencia en el mismo hogar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reparación civil como derecho de la víctima y encarga al juez garantizar su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 60.- Revocación de la suspensión de la pena y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 545. Penas no privativas de libertad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 1865-2015, Huancavelica y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión de la pena para los delitos del capítulo de violación de la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 480. Revocación de los beneficios y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 603-2019, Piura, ff. jj. 2-3 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 544. Trámite cuando el Perú solicita el traslado del nacional y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Regula la reserva del fallo de manera general, sin resolver la posibilidad de aplicarla al abuso sexual descrito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Declaración víctima prueba directa (Apelación 41-2023) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q06",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa en cinco años los extremos de la pena por crueldad o intención de degradar a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Expone la valoración conjunta de declaración y pericias, pero su caso sí contaba con evidencia de desfloración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 211. Examen corporal del imputado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "si",
+      "rationale": "Muestra una condena por tentativa de violación pese a que no hubo penetración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la penetración parcial puede consumar la violación, sin abordar un examen médico negativo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 383. Lectura de la prueba documental y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula la acreditación del daño psicológico, sin resolver la prueba de la agresión sexual ante un examen físico negativo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que no se requiere desfloración, pero el caso tenía lesiones vulvares y evidencia biológica."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Trata la ausencia de afectación emocional y no la ausencia de signos físicos de penetración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 189.- Robo agravado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 208. Motivos y objeto de la inspección y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 497. Regla general, excepción y recurso y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0055::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el valor de informes físicos y psicológicos, sin explicar el efecto de un examen sexual negativo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "si",
+      "rationale": "Ordena cortar el proceso penal y poner al adolescente a disposición del fiscal de familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 71. Derechos del imputado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 442.- Maltrato y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 212. Examen corporal de otras personas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 25. Protección de las víctimas en las actuaciones de investigación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "si",
+      "rationale": "Preserva expresamente el derecho del actor civil a reclamar en la vía pertinente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 303. Embargo y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 359. Concurrencia del Juez y de las partes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "si",
+      "rationale": "Regula la resolución judicial previa audiencia cuando la minoría se acredita en etapa intermedia o juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_74_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "si",
+      "rationale": "Dispone poner al adolescente a disposición del fiscal de familia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

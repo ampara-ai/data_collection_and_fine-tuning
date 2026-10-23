@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "si",
+      "rationale": "Aclara que una evaluación psicológica de una sesión no es inválida automáticamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "si",
+      "rationale": "Exige demostrar insuficiencia del tiempo de evaluación para cuestionar una pericia realizada en una sesión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 1442-2022, Puno» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 29.- Duración de la pena privativa de libertad» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 1668-2018, Tacna» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 68.- Exención de pena» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 50.- Concurso real de delitos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 421. Trámite inicial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Condiciona la casación al cumplimiento de requisitos, pero no desarrolla cuáles permiten su admisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una casación denegada por una decisión no apelable, sin resolver el acceso contra una condena por agresiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos para acceder a casación y explica por qué el recurso puede ser inadmisible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos para acceder a casación y explica por qué el recurso puede ser inadmisible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 16. Proceso especial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0003_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "si",
+      "rationale": "Aclara que la cámara Gesell se destina a víctimas de delitos graves y no es obligatoria para todo testigo menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

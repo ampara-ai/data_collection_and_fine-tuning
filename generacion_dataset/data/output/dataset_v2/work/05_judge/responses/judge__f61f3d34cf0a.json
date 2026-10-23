@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_463_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "si",
+      "rationale": "Solo permite comparecencia simple o restrictiva contra el querellado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_463_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "si",
+      "rationale": "Exige peligro razonable de fuga o entorpecimiento para imponer restricciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_463_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "si",
+      "rationale": "Ordena declarar contumacia, conducción compulsiva y reserva del proceso hasta que sea habido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_463_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "si",
+      "rationale": "Autoriza conducción compulsiva si el querellado se ausenta durante el juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00455_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconoce la declaración coherente y persistente de la menor y sus corroboraciones como prueba de cargo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00455_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Detalla los requisitos de desvinculación y la obligación de plantear la tesis a las partes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00455_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Considera la posible tipificación de los tocamientos como actos contra el pudor aunque falten violencia o amenaza."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

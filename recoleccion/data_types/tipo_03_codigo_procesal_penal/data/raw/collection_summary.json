@@ -1,0 +1,39 @@
+{
+  "fetched_at": "2026-10-21T16:35:57Z",
+  "collection_method": "two_part_lp_derecho_html_merge",
+  "pages": [
+    {
+      "part_id": "parte_1",
+      "url": "https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/",
+      "final_url": "https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/",
+      "raw_filename": "codigo_procesal_penal_lpderecho_parte_1.html",
+      "bytes_utf8": 1519277,
+      "article_count": 467,
+      "first_article_id": "I",
+      "last_article_id": "445",
+      "etag": null,
+      "last_modified": "Tue, 20 Oct 2026 00:42:05 GMT"
+    },
+    {
+      "part_id": "parte_2",
+      "url": "https://lpderecho.pe/nuevo-codigo-procesal-penal/",
+      "final_url": "https://lpderecho.pe/nuevo-codigo-procesal-penal/",
+      "raw_filename": "codigo_procesal_penal_lpderecho_parte_2.html",
+      "bytes_utf8": 1053450,
+      "article_count": 130,
+      "first_article_id": "446",
+      "last_article_id": "566",
+      "etag": null,
+      "last_modified": "Wed, 21 Oct 2026 16:12:32 GMT"
+    }
+  ],
+  "coverage": {
+    "total_articles": 597,
+    "numeric_articles": 566,
+    "non_numeric_or_inserted_articles": 31,
+    "first_numeric_article": 1,
+    "last_numeric_article": 566,
+    "missing_numeric_articles": [],
+    "duplicate_article_ids": []
+  }
+}

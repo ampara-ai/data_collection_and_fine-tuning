@@ -1,0 +1,665 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15. Denuncia» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 442.- Maltrato» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "parcial",
+      "rationale": "Explica por qué deben eliminarse estereotipos de género de la investigación, sin desarrollar todas las condiciones de vulnerabilidad consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé personal calificado y atención policial femenina cuando esté disponible, sin explicar el enfoque interseccional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la falta de investigación de móviles de género con discriminación en el acceso a la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 133. Exhortos a autoridades extranjeras» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 512. Autoridad Central» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "parcial",
+      "rationale": "Adapta la competencia y atención a comunidades indígenas y zonas rurales, sin explicar integralmente los enfoques consultados."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "si",
+      "rationale": "Exige respetar las características culturales de las víctimas durante la investigación de violencia sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Violación como tortura (Rosendo Cantú vs. México)» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Exige perspectiva de género y protección especial de la niñez para evitar violencia institucional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe procedimientos discriminatorios y estereotipos, sin desarrollar el trato diferenciado por origen o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aborda atención sensible y diligente a una víctima indígena, pero se centra en evitar la revictimización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Estándares mínimos que se deben seguir ante el hallazgo de un cadáver [Veliz Franco y otros vs. Guatemala]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "si",
+      "rationale": "Ordena considerar especialmente la vulnerabilidad interseccional de mujeres indígenas y con discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Explica la vulnerabilidad interseccional vinculada a identidad de género, sin desarrollar los supuestos concretos de la pregunta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección reforzada con perspectiva de género y niñez, sin abordar origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Reconoce atención según necesidades particulares, en lengua propia y con intérpretes para personas con discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 328. Contenido y forma de la denuncia» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Acoso sexista en protestas (Mujeres Atenco vs. México)» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica la obligación de investigar con enfoque de género, sin desarrollar los demás enfoques consultados."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_3_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no aporta la información necesaria para resolver la atención diferenciada por género, origen indígena o discapacidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 8. Tipos de violencia» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 26. Certificados e informes médicos» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Acoso sexista en protestas (Mujeres Atenco vs. México)» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Consecuencias de la falta de un enfoque de género en la investigación penal [Velásquez Paiz vs. Guatemala]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Prevé monitoreo de hogares de refugio, sin identificar una institución que estudie la violencia nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 16. Proceso especial» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 14. Competencia» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "parcial",
+      "rationale": "Describe un registro de casos que aporta información para políticas e investigación, sin asumir el análisis integral consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_35_01",
+      "relevance": "si",
+      "rationale": "Identifica al ministerio rector encargado de vigilar la aplicación de la ley y a la comisión que evalúa su cumplimiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "parcial",
+      "rationale": "Identifica un centro que promueve capacitación e investigación, pero no tiene como función central monitorear la violencia nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 5. Definición de violencia contra las mujeres» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Caso J. vs. Perú (Corte IDH 2013)» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_43_01",
+      "relevance": "si",
+      "rationale": "Identifica al Observatorio Nacional y sus funciones de monitoreo, estudios e información sobre violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Principios en investigación violencia sexual (J. vs. Perú)» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_36_01",
+      "relevance": "si",
+      "rationale": "Asigna a la Comisión el seguimiento de planes nacionales y la promoción de observatorios regionales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 27. Servicios de promoción, prevención y recuperación de víctimas de violencia» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 10. Derecho a la asistencia y la protección integrales» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala]» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 46. Obligaciones generales de los medios de comunicación» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_40_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no aporta la información necesaria para resolver la existencia de una entidad de estudio y seguimiento nacional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Interpretación del peligro inmediato para medidas de protección [Kurt vs. Austria]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Volodina vs. Rusia, f.j. 7,10» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 200.- Extorsión» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 301.- Coacción al consumo de droga» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "si",
+      "rationale": "Establece inhabilitación accesoria cuando el delito implica abuso de cargo, profesión o poder."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 330. Investigación preliminar» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Violación como tortura (Rosendo Cantú vs. México)» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 419.- Detención ilegal» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 321.- Tortura» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205)» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 413.- Evasión mediante violencia o amenaza» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Queja NCPP 630-2021, Lima Norte» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 129-C.- Explotación sexual» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Deber de proteger ante amenaza real e inmediata [Malagić v. Croacia]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Posible injerencia en vida privada por medidas de protección [Kurt vs. Austria]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 150.- Abandono de mujer gestante y en situación crítica» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Buturugă vs. Rumania, f.j. 60» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 184.- Castigo a cómplices» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Investigación sobre violencia policial realizada por otra unidad policial [Hentschel y Stark vs. Alemania]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 124.- Lesiones Culposas» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 89. Tratamiento y pluralidad de imputados» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 151.- Coacción» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116)» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "parcial",
+      "rationale": "Agrava el maltrato cuando se abusa de autoridad o subordinación, pero regula una falta específica y no la valoración general de la influencia social."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 170.- Violación sexual» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 152.- Secuestro» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 108-B.- Feminicidio» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 117. Tiempo» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 20. Sentencia» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 2284-2022, Selva Central, f. j. 15» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0043_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «jp_00118_e0043» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 176-B.- Acoso sexual» no aporta la información necesaria para resolver el efecto de la influencia del agresor sobre su castigo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

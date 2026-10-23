@@ -1,0 +1,86 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_26_01",
+   "skip": true,
+   "skip_reason": "Artículo de competencia interna de la Sala Penal de la Corte Suprema (casación, queja, extradición, jurisdicción militar); es organización judicial que ninguna víctima preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija fue tocada por un conocido y me da pánico que tenga que ir a contar todo otra vez delante del acusado en el juicio. ¿La pueden obligar a ir?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Obligar a la niña víctima a presentarse al juicio sería volver a dañarla sin necesidad, por lo que se puede prescindir de su declaración en el juicio."
+    },
+    {
+     "query": "Si mi hija menor no declara en el juicio, ¿igual pueden condenar al hombre que le hizo tocamientos? ¿Con qué pruebas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se puede condenar con otras pruebas como la denuncia, actas, pericias psicológicas y mensajes en que el acusado admite los hechos; en el caso hubo condena de nueve años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_513_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que me maltrató y lo están juzgando se escapó a otro país. ¿Pueden traerlo de vuelta para que lo juzguen o cumpla su condena?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Quien está procesado, acusado o condenado y se encuentra en otro Estado puede ser extraditado para ser juzgado o cumplir su pena."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_519_01",
+   "skip": true,
+   "skip_reason": "Regula la preferencia entre varios países que piden extraditar a la misma persona; es un trámite técnico de cooperación internacional que una víctima no preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0022_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me da mucha vergüenza y dolor repetir lo que me hizo mi pareja ante cada autoridad. ¿Hay alguna forma de que cuente mi historia una sola vez?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Existe una guía de entrevista única a víctimas, que se toma como prueba anticipada para evitar que la víctima sufra de nuevo al repetir su relato."
+    },
+    {
+     "query": "¿Para qué sirve que me entrevisten una sola vez si denuncié violencia en mi familia? ¿Después tendré que ir a declarar otra vez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La entrevista única se usa como prueba anticipada, para uniformar criterios y evitar la victimización secundaria."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un hombre abusó de mi hija pequeña pero el médico dijo que no hubo penetración completa. ¿Eso significa que no cuenta como violación?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Para que sea violación basta que el pene pase los labios mayores; no se exige penetración completa ni rotura del himen."
+    },
+    {
+     "query": "¿Qué pena le pueden dar a quien abusó de dos niñas de 6 y 9 años si solo hubo penetración parcial?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "En el caso se confirmó una condena de 35 años de prisión por violación de menores y tocamientos, pese a la penetración parcial."
+    }
+   ]
+  }
+ ]
+}

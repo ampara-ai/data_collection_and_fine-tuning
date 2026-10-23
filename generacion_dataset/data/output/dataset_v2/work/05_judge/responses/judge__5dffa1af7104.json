@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00178_e0013_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "si",
+      "rationale": "Establece que el reconocimiento no es indispensable cuando el imputado es conocido y existen otras pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00178_e0013_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "si",
+      "rationale": "Explica que las irregularidades del reconocimiento no invalidaron la condena porque existían conocimiento previo y otras pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00178_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Aporta una condena concreta por tentativa de violación de menor, pero no el marco de penas aplicable en general."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

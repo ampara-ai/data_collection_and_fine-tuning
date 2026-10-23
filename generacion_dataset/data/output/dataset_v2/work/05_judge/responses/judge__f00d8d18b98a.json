@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia sexual ampliamente, pero no distingue consumación y tentativa por penetración mínima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 237. Procedencia no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 1. Acción penal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Diferencia tentativa y tocamientos en un caso sin penetración, sin resolver la penetración mínima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 342. Plazo no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 295. Solicitud del Fiscal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Afirma que basta penetración mínima desde los labios mayores para consumar la violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124.- Lesiones Culposas no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Señala que la introducción parcial basta para configurar violación sexual consumada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Define ampliamente el acceso carnal, pero no precisa el umbral de penetración mínima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "parcial",
+      "rationale": "Explica la utilidad de diligencias inmediatas para asegurar evidencias, sin valorar específicamente la prontitud de la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "parcial",
+      "rationale": "Relata denuncia inmediata y evidencias recientes, pero no desarrolla el efecto probatorio de denunciar pronto."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación por parentesco o convivencia en el mismo hogar bajo las condiciones indicadas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye la ebriedad superior al umbral indicado como agravante de la violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Atribuye al juez garantizar el pago de reparación civil durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión para los delitos del capítulo de violación de la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0057::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Admite valorar la declaración preliminar con fiscal aunque la menor no concurriera al juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_62_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "si",
+      "rationale": "Enumera supuestos de reserva del fallo y fija plazos ordinarios y excepcionales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

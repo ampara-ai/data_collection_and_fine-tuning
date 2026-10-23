@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "si",
+      "rationale": "Permite prueba de oficio con justificación y respeto al principio acusatorio, imparcialidad y defensa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "si",
+      "rationale": "Atribuye a la Sala Penal Superior la apelación de los incidentes de ejecución y vencimiento de pena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

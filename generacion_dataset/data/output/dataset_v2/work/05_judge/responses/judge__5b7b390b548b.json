@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00468_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "si",
+      "rationale": "El perito institucional no debe concurrir si no se cuestiona el mérito científico y el informe fue oralizado."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "si",
+      "rationale": "Regula incorporación y lectura de informes periciales en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma condena con declaración creíble pese a denuncia meses después."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q04",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Relata revisión y condena en apelación, sin detallar el desarrollo de la audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "si",
+      "rationale": "Describe el debate, actuación probatoria y alegatos en la audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "si",
+      "rationale": "Exige acta de la audiencia y permite registro técnico para acreditar lo ocurrido."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "No regula el registro de las declaraciones durante el juicio oral."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "si",
+      "rationale": "Permite leer informes y examen pericial en la audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00468_e0005::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo se leen informes periciales ante imposibilidad de asistencia del perito."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,215 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0020::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Contempla daño psicológico grave causado al menor en violencia familiar, pero no agrava por la sola presencia del niño."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "no",
+      "rationale": "Aprueba una guía de valoración de lesiones sin establecer agravantes penales."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente al cónyuge entre los vínculos que agravan las lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdos reparatorios, no el incremento de pena por vínculo conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_36_01",
+      "relevance": "no",
+      "rationale": "Regula funciones de una comisión multisectorial."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Resuelve prohibición de conciliación, no agravación de la pena por matrimonio."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula tráfico de migrantes, un delito distinto."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula pensión anticipada y no agravantes penales."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "Regula inhibición de jueces."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "Regula favorecimiento de prostitución, un delito distinto."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Agrava las lesiones leves cuando la víctima es cónyuge del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "Aprueba una guía de evaluación psicológica sin fijar agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "Define destinatarios de medidas de protección procesales."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "Regula legitimación para promover revisión de condena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula prueba de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula robo agravado, no maltrato familiar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Resuelve dosificación de pena en violación sexual de menor, otro delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios protectores sin definir requisitos de agravación penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Excluye exigir denuncias reiteradas y no resuelve agravantes de maltrato."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "Trata testigos de referencia en un proceso por violación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de revisión de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "Regula restricciones de derechos para fines cautelares."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Clasifica daño psíquico sin definir la agravación por condición de mujer."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "Discute una agravante del delito colombiano y no permite determinar los requisitos del régimen peruano."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Distingue la lesión por condición de mujer de otros supuestos de agravación por vínculo familiar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia restrictiva y no agravantes penales."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata el deber estatal de prevenir riesgos para la vida, no agravación de la pena del maltratador."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "Expone un debate sobre el delito colombiano y no cómo acreditar maltrato en el proceso peruano."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye agravantes por violencia contra la mujer y por parentesco del cónyuge, sujetas a lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0020::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "Interpreta una agravante del delito colombiano, sin resolver la calificación bajo la ley peruana."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce contradicción en la prueba del juicio, pero no decide la nulidad por falta de citación de testigos."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula pena accesoria de inhabilitación."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar todas las pruebas e investigar exhaustivamente, pero no resuelve omisiones de citación de testigos defensivos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0013_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Confirma que los tocamientos pueden probarse con testimonio y pericia psicológica aunque no existan lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0013_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Valora el relato prestado a los cinco años y ratificado a los quince, sujeto a criterios de credibilidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

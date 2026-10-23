@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_468_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "si",
+      "rationale": "Permite pronunciarse sobre el acuerdo e impugnar su legalidad dentro del ámbito de intervención de cada parte."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_468_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "si",
+      "rationale": "Permite apelar el monto del acuerdo y aumentar la reparación dentro de la pretensión del actor civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

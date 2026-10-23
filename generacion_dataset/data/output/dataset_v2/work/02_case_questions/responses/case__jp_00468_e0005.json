@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "El abogado del acusado dice que el examen médico de mi hija no sirve porque el doctor no fue al juicio. ¿Es cierto?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00468_e0005_01"
+   ],
+   "positive_selection_reason": "La sentencia resuelve exactamente este punto: cuando la pericia es de una institución oficial y nadie cuestiona su valor científico, no es obligatorio que el perito asista al juicio.",
+   "expected_answer_focus": "Debe poder explicar que, según este criterio, el certificado médico legal puede valorarse sin la presencia del perito si no se cuestiona su mérito científico y fue leído en el juicio.",
+   "victim_voice_rationale": "Una madre escucha el argumento de la defensa y teme que la prueba principal de su hija pierda valor."
+  },
+  {
+   "query": "¿Cómo se presentan ante los jueces los papeles del examen médico de mi hija? ¿Alguien los lee en voz alta durante el juicio?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_383_01"
+   ],
+   "positive_selection_reason": "El artículo 383 regula qué documentos, informes y pericias pueden incorporarse al juicio mediante su lectura y qué incluye esa lectura.",
+   "expected_answer_focus": "Debe indicar que los informes y documentos se incorporan al juicio leyéndolos (oralización), en qué supuestos procede y que la lectura incluye pedir que se escuche o vea la parte pertinente.",
+   "victim_voice_rationale": "Una familiar quiere entender cómo llegan al juicio los resultados médicos de la víctima."
+  },
+  {
+   "query": "Mi hija tardó meses en contarme lo que le hizo un vecino por miedo. ¿Su palabra puede servir para condenarlo aunque haya pasado tiempo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "verguenza",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00468_e0005_01"
+   ],
+   "positive_selection_reason": "El caso trata de una denuncia de violación a una adolescente meses después de los hechos, en que la declaración de la víctima cumplió los criterios de credibilidad y se confirmó la condena.",
+   "expected_answer_focus": "Debe mostrar que la declaración de la víctima puede ser valorada como creíble aunque la denuncia sea posterior y que, junto con otra prueba, sustentó una condena confirmada.",
+   "victim_voice_rationale": "Es común que la víctima calle por miedo o vergüenza y la familia dude de que aún valga denunciar."
+  },
+  {
+   "query": "A quien agredió a mi hija lo dejaron libre en el primer juicio y apelamos. ¿Cómo es la audiencia donde revisan otra vez el caso?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_424_01",
+    "chunk_tipo04_jp_00468_e0005_01"
+   ],
+   "positive_selection_reason": "El artículo 424 describe cómo se desarrolla la audiencia de apelación y la sentencia muestra un caso en que una absolución fue revocada y se condenó.",
+   "expected_answer_focus": "Debe explicar las etapas de la audiencia de apelación (relación de la sentencia, ratificación de motivos, pruebas, alegatos, última palabra) y que una absolución puede ser revocada.",
+   "victim_voice_rationale": "Tras una absolución, la familia necesita saber qué sigue y si hay esperanza en la segunda revisión."
+  },
+  {
+   "query": "Tengo miedo de que luego cambien lo que se dijo en el juicio. ¿Queda registrado por escrito o grabado todo lo que declaran?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_361_01"
+   ],
+   "positive_selection_reason": "El artículo 361 establece que la audiencia se documenta en acta y puede grabarse, y que ese registro demuestra cómo se desarrolló el juicio.",
+   "expected_answer_focus": "Debe indicar que el juicio es oral pero consta en acta, que puede haber grabación y que las partes pueden hacer observaciones al acta.",
+   "victim_voice_rationale": "La víctima desconfía de que lo declarado se tergiverse después."
+  },
+  {
+   "query": "Si el caso pasa a una segunda revisión, ¿vuelven a leer el informe del doctor y del psicólogo o hay que citarlos otra vez?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_424_01",
+    "chunk_tipo03_cpp_art_383_01"
+   ],
+   "positive_selection_reason": "El artículo 424 permite leer en la apelación el informe pericial y lo actuado en primera instancia, dentro de los límites del artículo 383, que regula la lectura de documentos y pericias.",
+   "expected_answer_focus": "Debe explicar que en la audiencia de apelación pueden leerse informes periciales y actuaciones del primer juicio no objetadas, con los límites sobre lectura de prueba documental.",
+   "victim_voice_rationale": "Quiere saber si su familia tendrá que repetir trámites y volver a exponerse a los peritos."
+  }
+ ]
+}

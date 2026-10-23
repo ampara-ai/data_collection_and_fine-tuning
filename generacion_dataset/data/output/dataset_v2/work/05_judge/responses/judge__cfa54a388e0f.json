@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Califica las entrevistas reiterativas a una niña como revictimización y violencia institucional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Condena el trato médico culpabilizante y exige atención integral y protección especial sin revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Ofrece un antecedente de actuación estatal discriminatoria e investigación deficiente en violencia de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual y no revictimización por autoridades."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Describe un caso concreto de sufrimiento añadido por exámenes y entrevistas estatales revictimizantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones agravadas y no actuación institucional revictimizante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Describe falta estatal de investigación y rechazo de exigencias de denuncias reiteradas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias de juzgados de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula derechos educativos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Describe desprotección estatal durante un proceso, pero no revictimización mediante diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Relata violencia policial e impunidad, sin abordar el daño añadido al denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Regula derechos del imputado, no antecedentes de revictimización de denunciantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado de condenados desde el extranjero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe técnicas que alteren autodeterminación o memoria, pero no relata antecedentes de sufrimiento institucional."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

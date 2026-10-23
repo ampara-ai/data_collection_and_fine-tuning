@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_187_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_187_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal transcribir grabaciones en un acta con intervención de las partes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

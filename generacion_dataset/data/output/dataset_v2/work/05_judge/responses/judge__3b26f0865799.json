@@ -1,0 +1,293 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0026::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Prohíbe variar el valor de la prueba personal de primera instancia salvo prueba que la cuestione en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Aclara que precisar detalles en juicio no equivale por sí mismo a incoherencia del relato de la menor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 517. Rechazo de la extradición no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 508-2019, Lima, ff. jj. 5, 8 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 301.- Coacción al consumo de droga aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 2528-2010, Junín, f. j. 6 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica el acceso carnal sin libre consentimiento y agrava la pena por pluralidad de agentes y vínculos de pareja; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 294. Internamiento previo para observación y examen no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo II. Presunción de inocencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 166. Contenido de la declaración no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre jp_00150_e0012 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Regula la suspensión de la pena y excluye expresamente los delitos sexuales y determinadas agresiones familiares."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reparación civil como derecho de la víctima y encarga al juez garantizar su cumplimiento durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q06",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso carnal sin libre consentimiento y agrava la pena por pluralidad de agentes y vínculos de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0026::q06",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 23.-Autoría, autoría mediata y coautoría aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Fija la reducción por confesión y sus exclusiones por flagrancia, reincidencia y determinados delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Fija la reducción por confesión y sus exclusiones por flagrancia, reincidencia y determinados delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Fija la reducción por confesión y sus exclusiones por flagrancia, reincidencia y determinados delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 85. Reemplazo del abogado defensor no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-A.- Trata de personas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 39.- Inhabilitación accesoria no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 472. Solicitud no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Fija la reducción por confesión y sus exclusiones por flagrancia, reincidencia y determinados delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00339-2021-PHC/TC no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 517. Rechazo de la extradición no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 295. Solicitud del Fiscal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo VIII.- Proporcionalidad de las sanciones no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 260. Arresto Ciudadano no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Fija la reducción por confesión y sus exclusiones por flagrancia, reincidencia y determinados delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 61. Atribuciones y obligaciones no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 261. Detención Preliminar Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22-A. Criterios para dictar medidas de protección no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_161_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

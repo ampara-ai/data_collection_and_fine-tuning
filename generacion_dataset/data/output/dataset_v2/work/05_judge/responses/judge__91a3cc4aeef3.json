@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_29-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "No explica el funcionamiento ni el radio de desplazamiento de la vigilancia electrónica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_29-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "No explica el funcionamiento ni el radio de desplazamiento de la vigilancia electrónica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "si",
+      "rationale": "Dispone documentar las actuaciones judiciales en acta y permite su reproducción audiovisual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "si",
+      "rationale": "Establece el acta y eventual grabación de la audiencia como constancia de lo declarado y actuado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No regula la documentación de las declaraciones prestadas en la audiencia del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "si",
+      "rationale": "Exige intervenciones orales y prohíbe leer escritos con excepciones expresas por imposibilidad de hablar o desconocimiento del castellano."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No regula si puede leerse un relato escrito en lugar de declarar oralmente en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "si",
+      "rationale": "Considera notificadas las resoluciones desde su pronunciamiento oral y exige registrarlas en acta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "si",
+      "rationale": "El pleno admite el principio de oportunidad o acuerdo reparatorio para las agresiones del artículo 122-B."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "si",
+      "rationale": "El criterio del pleno permite aplicar principio de oportunidad y acuerdo reparatorio al delito de agresiones del artículo 122-B."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

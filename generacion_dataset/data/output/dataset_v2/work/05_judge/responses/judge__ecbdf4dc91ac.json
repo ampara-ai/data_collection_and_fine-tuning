@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_273_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "si",
+      "rationale": "Ordena libertad inmediata al vencer el plazo de prisión preventiva sin sentencia de primera instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_273_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "si",
+      "rationale": "Permite imponer medidas y restricciones para asegurar presencia del liberado en las diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_273_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "si",
+      "rationale": "Dispone que el juez decrete la libertad de oficio o a solicitud de parte."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_273_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "si",
+      "rationale": "Permite medidas para asegurar la presencia judicial del imputado tras su libertad por vencimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "si",
+      "rationale": "Considera victimización obligar a una niña abusada a participar en inspección y reconstrucción traumáticas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber estatal de proteger e investigar eficazmente, sin resolver la atribución de responsabilidad a la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra mujeres, sin regular cooperación materna en reconstrucciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Enumera agravantes y atenuantes de delitos, no deberes de la madre en diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "Establece deberes de autopsia en homicidios, no participación de niñas en reconstrucciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "parcial",
+      "rationale": "Identifica a juez y fiscal como responsables de ordenar reconstrucciones, pero no resuelve si la madre debe convencer a su hija."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado internacional de condenados, no participación de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece que el Estado no puede trasladar a la madre la responsabilidad por la participación revictimizante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "Examina la negativa a investigar violencia doméstica, no colaboración materna en reconstrucción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "parcial",
+      "rationale": "Asigna al juez disponer medidas para efectuar reconstrucciones, sin resolver el deber atribuido a la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "Describe la forma minuciosa de inspecciones, sin tratar participación ni responsabilidad de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual y agravantes, no diligencias ni deberes de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza culpabilizar a las víctimas y exige investigación diligente, pero no aborda el deber atribuido a la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas, sin regular reconstrucciones ni colaboración materna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Vincula responsabilidad estatal con deberes de investigación que evitan repetición, sin resolver específicamente la reconstrucción impuesta a una niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "parcial",
+      "rationale": "Regula la facultad judicial de ordenar reconstrucciones, sin establecer responsabilidad estatal por revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "Establece responsabilidad por tortura y violencia sexual policial, no por repetición de hechos durante una investigación infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual y penas individuales, no responsabilidad del Estado por revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Regula trata de personas, no revictimización durante investigaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado de condenados desde el extranjero, no investigación de niñas abusadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "Define violación sexual en otro supuesto de abuso estatal, sin tratar repetición de experiencias en la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Declara incumplimiento estatal por exigir reiterar denuncias, pero no aborda concretamente reconstrucciones con niñas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "parcial",
+      "rationale": "Define y asigna reconstrucciones a juez o fiscal, sin fijar consecuencias estatales por revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a evitar declaraciones reiterativas y humillantes, pero no precisa consecuencias para el Estado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé grabaciones y entrevistas especializadas para evitar revictimización, sin establecer consecuencias estatales de incumplir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad internacional del Estado por obligar a una niña a revivir el abuso en diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00187_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "Regula acceso a copias procesales, no responsabilidad por revictimización."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

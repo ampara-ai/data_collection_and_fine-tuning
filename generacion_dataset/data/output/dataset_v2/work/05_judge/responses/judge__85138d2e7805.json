@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_379_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "si",
+      "rationale": "Ordena la conducción compulsiva del testigo debidamente citado que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_379_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "si",
+      "rationale": "Dispone continuar el juicio sin esa prueba si no se localiza al perito para conducirlo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

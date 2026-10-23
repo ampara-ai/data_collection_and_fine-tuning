@@ -1,0 +1,197 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Prioriza patrullaje integrado cerca del domicilio de la víctima en riesgo severo mientras se dictan y ejecutan medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Indica la derivación a los Centros Emergencia Mujer y al servicio de defensa pública cuando el centro no pueda atender."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Exige remitir simultáneamente lo actuado a fiscalía penal y juzgado de familia dentro de veinticuatro horas de conocido el hecho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "Regula desalojo preventivo por usurpación, no remisión policial de denuncias de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Valora denuncia tardía y credibilidad de una víctima, no la remisión del informe policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "Regula remisión judicial de medidas de protección en flagrancia, no el envío del informe desde la comisaría."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado internacional de condenados, no la tramitación policial de la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y sus penas, no el envío del expediente policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Examina el deber de investigar sin exigir denuncias reiteradas, no el plazo de remisión del informe policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve una falta de maltrato mutuo, sin fijar el plazo de remisión policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata retractación notarial y dilación del juicio, no el envío del informe de comisaría."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de extradición, no remisión de denuncias de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Distribuye funciones de investigación entre policía y fiscal, pero no fija el plazo de envío del expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves y no regula la remisión policial de actuaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Exige comunicación inmediata al fiscal al iniciar la investigación, pero no el envío del informe terminado a fiscalía y juzgado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Permite atención por personal femenino a preferencia de la víctima cuando exista disponibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Tipifica suministro forzado de drogas y no impugnación del archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de material sexual y no revisión de una disposición fiscal de archivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula duración de detenciones, no plazo para cuestionar el archivo de una denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional y su apelación, no revisión del archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata impugnación de sobreseimiento o absolución judicial, no el plazo de elevación de un archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial extranjera y recursos contra su autorización, no el archivo de una denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata anulación judicial de absolución o sobreseimiento, sin fijar el plazo de revisión del archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Concede cinco días al denunciante o agraviado para requerir que el archivo sea elevado al fiscal superior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Regula retirada de acusación durante el juicio, una etapa distinta del archivo fiscal de denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Anula una sentencia por falta de motivación sobre violencia psicológica, sin regular el archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "Regula actuaciones de investigación y prioridad por riesgo, sin indicar cómo recurrir el archivo ni su plazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata casación sobre prisión preventiva, no revisión de un archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad del juicio oral y no el plazo para revisar un archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Fija sesenta días como plazo ordinario preliminar y permite cuestionar su duración excesiva ante fiscal y juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Ordena intervención policial para identificar al autor si el hecho es delictuoso y no ha prescrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Ordena notificar al denunciante, agraviado y denunciado la disposición de no continuar y archivar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

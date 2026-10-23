@@ -1,0 +1,209 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me desfiguró la cara a golpes y la sentencia fue muy suave, con la pena sin cárcel. ¿Se puede lograr que la condena sea más dura?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema elevó la pena de 4 años suspendida a 7 años efectivos porque no había razones para imponer una sanción tan baja en lesiones graves por violencia familiar."
+    },
+    {
+     "query": "Si el fiscal no apeló la absolución de mi agresor por uno de los delitos, ¿yo como víctima con mi abogado puedo pedir que lo revisen igual?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el fiscal no apela la absolución, la persecución del delito termina; la parte civil no puede asumir el papel del fiscal para acusar."
+    },
+    {
+     "query": "¿Cómo se decide cuánto dinero me deben pagar por el daño que me hizo mi pareja al golpearme, incluyendo lo que dejé de ganar?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El pago por el daño debe ser proporcional a lo ocurrido e incluir daño moral y lo que se dejó de ganar; en el caso se aumentó el monto."
+    },
+    {
+     "query": "Mi conviviente me fracturó la nariz a golpes. ¿Es un delito grave o lo consideran un simple problema de pareja?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Golpes que causan fractura y deformación del rostro a la pareja convivente se sancionan como lesiones graves por violencia familiar."
+    },
+    {
+     "query": "¿Quién lleva realmente la acusación contra mi agresor, el fiscal o mi abogado? ¿Hasta dónde puede llegar mi abogado?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La persecución penal le corresponde al fiscal; la parte civil no puede sustituirlo en la acusación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me desperté en un hotel con moretones y no recuerdo nada porque estaba inconsciente. ¿Esto puede considerarse una violación aunque no pueda contar qué pasó?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Tener relaciones con una persona inconsciente, sin capacidad de resistir, es violación sexual, aun si la víctima no recuerda lo ocurrido."
+    },
+    {
+     "query": "Pasaron unos días antes de que me animara a denunciar. ¿Todavía se pueden encontrar rastros del agresor en mi cuerpo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Los restos seminales pueden permanecer hasta 4 días en la zona vaginal externa, por lo que aún pueden servir como prueba."
+    },
+    {
+     "query": "Dicen que sin examen de ADN no hay caso contra el que me abusó. ¿Es verdad que sin eso lo van a absolver?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de prueba de ADN no significa que no haya pruebas suficientes; no se puede exigir como condición indispensable."
+    },
+    {
+     "query": "El tribunal absolvió al hombre que abusó de mí cuando estaba inconsciente. ¿Se puede pedir que revisen esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se puede acudir a casación contra la absolución; la Corte anuló la sentencia por motivación insuficiente y ordenó que otro tribunal dicte nueva sentencia."
+    },
+    {
+     "query": "¿Pueden usar indicios, como mis moretones y el estado en que desperté, para probar lo que me hicieron?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "La prueba indiciaria y la pericial deben valorarse correctamente; los indicios y los peritajes sobre restos seminales cuentan para probar el hecho."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_328_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Voy a denunciar a mi pareja por maltrato. ¿Qué datos tengo que dar y cómo cuento lo sucedido para que me tomen en serio?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La denuncia debe incluir la identidad del denunciante, un relato detallado y veraz y, si es posible, quién es el agresor."
+    },
+    {
+     "query": "¿Puedo denunciar sin ir a una comisaría, desde mi celular o computadora?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se puede denunciar por medio digital mediante la plataforma Denuncia Digital, identificándose con ID Perú."
+    },
+    {
+     "query": "No sé escribir bien y no puedo firmar. ¿Igual me aceptan la denuncia?",
+     "topic": "canales_denuncia",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si no puede firmar, coloca su huella digital y se deja constancia en el acta del impedimento."
+    },
+    {
+     "query": "No conozco el nombre completo de quien me agredió. ¿Me pueden rechazar la denuncia por eso?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se debe identificar al presunto responsable solo de ser posible; no es requisito indispensable."
+    },
+    {
+     "query": "¿Puedo contar de palabra lo que me pasó o tengo que llevar todo escrito?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La denuncia puede ser verbal, escrita o digital; si es verbal se levanta un acta."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a mi pareja y dice que mientras no lo condenen lo tienen que tratar como inocente. ¿Eso es cierto? ¿Me quitan la razón?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Toda persona acusada es tratada como inocente hasta que haya una sentencia firme que declare su responsabilidad."
+    },
+    {
+     "query": "Si no tengo testigos de lo que me hizo mi agresor y queda la duda, ¿a quién favorece el juez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "En caso de duda sobre la responsabilidad, se resuelve a favor del acusado; se necesita prueba suficiente obtenida con garantías."
+    },
+    {
+     "query": "¿Pueden las autoridades decir en público que mi agresor es culpable antes de que termine el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Hasta la sentencia firme ningún funcionario puede presentar a una persona como culpable ni dar información en ese sentido."
+    },
+    {
+     "query": "¿Por qué el juicio contra mi agresor exige tantas pruebas antes de condenarlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Para condenar se requiere suficiente actividad probatoria de cargo, obtenida y actuada con garantías procesales, y sentencia motivada."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor es peligroso y el delito es grave. ¿Esa razón basta para que lo dejen preso mientras lo juzgan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La gravedad del delito y las características personales del acusado no bastan; solo se justifica para evitar que obstaculice el proceso o eluda la justicia."
+    },
+    {
+     "query": "¿Cuándo es válido que encarcelen a alguien antes de la sentencia? Temo que mi agresor quede libre y me busque.",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La prisión preventiva solo se justifica con el fin legítimo de asegurar que el acusado no impida el proceso ni se escape."
+    },
+    {
+     "query": "El juez dice que mi agresor no se va a escapar y lo deja libre. ¿Debe probarlo o puede suponerlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El peligro de fuga u obstrucción no se presume; debe verificarse con circunstancias objetivas y ciertas en cada caso."
+    },
+    {
+     "query": "Si el Estado no respeta mis derechos como víctima de violencia sexual, ¿puedo recurrir a algún tribunal internacional?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte IDH declaró responsable al Perú por violar la Convención Americana en un caso de violencia sexual y ordenó reparaciones."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_274_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor está preso mientras lo investigan, pero el proceso se alarga. ¿Se puede extender el tiempo que lo mantienen detenido?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El plazo puede prolongarse hasta 9 meses en procesos comunes, 18 en complejos y 12 en crimen organizado, si hay dificultad especial y riesgo de fuga u obstrucción."
+    },
+    {
+     "query": "¿Quién tiene que pedir que sigan teniendo preso a mi agresor y hasta cuándo puede hacerlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal debe solicitarlo al juez antes de que venza el plazo vigente."
+    },
+    {
+     "query": "Condenaron a mi agresor pero apeló. ¿Sigue preso mientras se resuelve o lo sueltan?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Tras la condena, si fue apelada, la prisión preventiva puede prolongarse hasta la mitad de la pena impuesta."
+    },
+    {
+     "query": "¿En cuánto tiempo decide el juez si mi agresor sigue preso cuando piden más plazo, y se puede apelar?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez decide en audiencia dentro del tercer día de presentado el pedido, y resuelve en el acto o en 72 horas; la decisión es apelable."
+    }
+   ]
+  }
+ ]
+}

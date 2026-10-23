@@ -1,0 +1,82 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi pareja me gritó e insultó cuando llegué tarde del trabajo, pero no me golpeó. ¿Eso también cuenta como violencia o solo si hay golpes?",
+   "topic": "violencia_psicologica",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_8_01"
+   ],
+   "positive_selection_reason": "El art. 8 de la Ley 30364 define la violencia psicológica como la acción dirigida a controlar, humillar o insultar a la persona, sin importar el tiempo de recuperación. Responde directamente que los insultos y el control son violencia sin necesidad de golpes.",
+   "expected_answer_focus": "Debe poder explicar que los insultos, la humillación y el control sobre la persona se consideran violencia psicológica aunque no haya agresión física.",
+   "victim_voice_rationale": "La víctima duda si los gritos e insultos sin golpes son realmente violencia."
+  },
+  {
+   "query": "Si mi conviviente me insultó una sola vez y me dejó muy mal emocionalmente, ¿igual se le puede llevar a juicio o tiene que haberlo hecho muchas veces?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0008_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que un solo acto de insultos puede configurar afectación psicológica sin exigir habitualidad ni secuelas, y dispuso el enjuiciamiento. Es el candidato que contiene este criterio.",
+   "expected_answer_focus": "Debe poder indicar que un solo episodio de insultos con entidad suficiente para afectar psicológicamente puede bastar para llevar al agresor a juicio, sin exigir que sea repetido.",
+   "victim_voice_rationale": "La víctima teme que un único episodio no sea tomado en serio."
+  },
+  {
+   "query": "¿Qué castigo puede tener mi pareja si me hizo daño emocional con insultos pero no me dejó heridas en el cuerpo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El art. 122-B sanciona la afectación psicológica, cognitiva o conductual contra una mujer o integrante del grupo familiar, con pena privativa de libertad e inhabilitación. Responde sobre la sanción posible.",
+   "expected_answer_focus": "Debe poder explicar que causar afectación psicológica a una pareja o familiar es delito con pena de cárcel y otras consecuencias, y que existen agravantes. No se afirma una cifra vigente del caso antiguo.",
+   "victim_voice_rationale": "Quiere saber si el daño emocional tiene consecuencias penales para el agresor."
+  },
+  {
+   "query": "La psicóloga del Centro Emergencia Mujer me evaluó. ¿Ese informe sirve como prueba o necesito ir a otro lado para que me crean?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_26_01"
+   ],
+   "positive_selection_reason": "El art. 26 establece que los informes psicológicos de los Centros Emergencia Mujer tienen valor probatorio del estado de salud mental y que no se requiere ratificación pericial.",
+   "expected_answer_focus": "Debe poder confirmar que el informe psicológico del Centro Emergencia Mujer tiene valor como prueba y que no hace falta que la profesional lo ratifique en audiencia.",
+   "victim_voice_rationale": "Duda de que la evaluación recibida tenga peso real ante el juez."
+  },
+  {
+   "query": "El abogado de mi pareja dice que el informe de la psicóloga no vale. ¿Hace falta que haya un daño psicológico grave para que se tome en cuenta lo que me pasó?",
+   "topic": "violencia_psicologica",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_124-b_01"
+   ],
+   "positive_selection_reason": "El art. 124-B indica que la afectación psicológica puede determinarse con un examen pericial u otro elemento objetivo, sin someterse a la equivalencia del daño psíquico. Responde la duda sobre la gravedad exigida y la prueba.",
+   "expected_answer_focus": "Debe poder explicar que la afectación psicológica puede acreditarse por pericia u otro medio objetivo de entidades especializadas, sin necesidad de alcanzar un nivel de daño psíquico.",
+   "victim_voice_rationale": "Siente que la defensa intenta quitarle valor a su evaluación."
+  },
+  {
+   "query": "Vivo con mi pareja y me controla porque trabajo fuera. ¿Me considera la ley como alguien protegido aunque no estemos casados?",
+   "topic": "identificacion_delito",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_7_01"
+   ],
+   "positive_selection_reason": "El art. 7 incluye expresamente a convivientes y exconvivientes entre los miembros del grupo familiar protegidos, además de a las mujeres en todo su ciclo de vida.",
+   "expected_answer_focus": "Debe poder aclarar que las convivientes, aunque no estén casadas, y las mujeres en general están protegidas por la ley contra la violencia.",
+   "victim_voice_rationale": "No casada, duda si su situación de convivencia le da derecho a protección."
+  },
+  {
+   "query": "¿Una persona condenada por agredir a su pareja puede quedar sin poder acercarse o comunicarse conmigo después de la sentencia?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_36_01"
+   ],
+   "positive_selection_reason": "El art. 36 numeral 11 prevé la prohibición de aproximarse o comunicarse con la víctima y sus familiares como forma de inhabilitación; el numeral 5 trata la patria potestad. Responde la duda sobre restricciones tras la condena.",
+   "expected_answer_focus": "Debe poder explicar que la sentencia puede incluir la prohibición de acercarse o comunicarse con la víctima y sus familiares, entre otras inhabilitaciones.",
+   "victim_voice_rationale": "Teme que, aunque lo condenen, el agresor siga buscándola."
+  }
+ ]
+}

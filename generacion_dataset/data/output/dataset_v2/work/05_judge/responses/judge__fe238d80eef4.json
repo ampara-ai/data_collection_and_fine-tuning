@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0013::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Incluye protección policial, cambio de residencia y otras medidas para preservar la seguridad del protegido y sus familiares."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Permite reservar identidad, domicilio, profesión, lugar de trabajo y otros datos identificadores según el riesgo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección efectiva y rápida ante violencia doméstica, pero no desarrolla el valor de la conducta del agresor fuera del hogar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Permite medidas de protección según riesgo o peligro, pero no explica cómo evaluar la violencia limitada al hogar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el deber de prevenir malos tratos conocidos y proteger a víctimas de violencia doméstica, sin abordar el contraste entre conducta privada y pública."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Exige aplicar y actualizar la valoración de riesgo en denuncias de violencia familiar, sin establecer el criterio sobre ausencia de violencia en la calle."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluar el riesgo y adoptar medidas ante amenazas domésticas, pero no aborda específicamente los antecedentes de violencia fuera del hogar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "si",
+      "rationale": "Establece que los antecedentes y ciclos de violencia doméstica implican riesgo de nueva violencia y deben guiar su evaluación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "No determina si la ausencia de violencia fuera del hogar permite descartar el peligro para la esposa y sus hijos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce gravedad y daño de la violencia doméstica extrema, sin precisar el valor de la ausencia de agresiones en público."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Explica los fines legítimos y requisitos de la prisión preventiva, pero no su duración máxima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "parcial",
+      "rationale": "Establece el plazo para celebrar la audiencia y motivar la prisión preventiva, pero no cuánto puede durar la medida."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Fija límites de nueve, dieciocho o treinta y seis meses de prisión preventiva según el tipo de proceso."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo máximo de duración de la prisión preventiva durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza detención preliminar judicial sin flagrancia bajo requisitos expresos y cuando el sorprendido en flagrancia evita su detención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No regula la orden judicial de detención preliminar de quien huyó sin ser capturado en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "si",
+      "rationale": "Exige resolución especialmente motivada con finalidades y elementos concretos que justifiquen la medida judicial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0013::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "parcial",
+      "rationale": "Exige legalidad, proporcionalidad y elementos de convicción para restringir derechos, sin formular expresamente el deber de motivar la resolución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

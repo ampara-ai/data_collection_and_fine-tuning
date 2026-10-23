@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "si",
+      "rationale": "Indica que en delitos instantáneos el plazo empieza el día de consumación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Distingue consumación y fin de actividad continuada, pero no determina si agresiones mensuales constituyen un delito continuado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "Regula renuncia a plazos procesales, no prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Fija el inicio al cesar la permanencia, pero no califica jurídicamente la retención del hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata prisión preventiva e interés superior del niño, no prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "Analiza suspensión por acusación directa en omisión alimentaria, no inicio del plazo por retención de un hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-a_01",
+      "relevance": "no",
+      "rationale": "Regula instancias regionales de concertación, no prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Regula internamiento para examen psiquiátrico, no prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "no",
+      "rationale": "Fija plazos de recursos, distintos de prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Explica causas de suspensión del cómputo, pero no su inicio en una retención permanente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Examina nulidad y prueba de abuso sexual, no prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "Regula prolongación de prisión preventiva, no prescripción de la acción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Regula interrupción y reinicio del cómputo, pero no cuándo comienza en la retención del hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Analiza suspensión por acusación directa en omisión alimentaria, no inicio por retención de un menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la prescripción como excepción que extingue la acción, sin precisar el inicio del plazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_82_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Indica cuándo inicia el cómputo, pero no su duración ni excepciones para saber si ya prescribió."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Regula investigación de querella particular sin abordar enfoque cultural en violencia sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

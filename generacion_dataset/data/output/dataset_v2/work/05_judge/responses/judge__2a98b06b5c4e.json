@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00122_e0013::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Fija de veinte a veintiséis años por violación con arma o cometida por dos o más sujetos."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "si",
+      "rationale": "Establece la suma y los límites de las penas de delitos independientes en concurso real."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q02",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "parcial",
+      "rationale": "Regula el castigo del robo agravado, pero no su concurso con la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "si",
+      "rationale": "Exige admitir los cargos y esclarecer los hechos para reducir pena por confesión sincera."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves y no el cálculo de la pena por la agresión sexual descrita."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Regula agresiones corporales o psicológicas y no el delito sexual descrito."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "parcial",
+      "rationale": "Exige indicar circunstancias modificatorias y pena solicitada, sin explicar cómo calcularla."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "parcial",
+      "rationale": "Identifica agravantes como minoría de edad, pero no establece el método para fijar los años."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona difusión de contenido sexual, un delito distinto."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición, no determinación de pena."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una reducción por edad del autor, sin explicar el cálculo ante agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata pena por lesiones graves, distinta del delito del caso."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "si",
+      "rationale": "Explica el sistema de tercios y cómo aplicar agravantes y atenuantes para determinar la pena."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Fija límites de la condena respecto de la acusación, sin calcular el efecto de agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra circunstancias que reducen pena por violación, sin desarrollar el cálculo ante agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Resuelve legitimación y pena por lesiones graves, no el cálculo por el delito sexual del caso."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de una diligencia sobre bienes muebles."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Fija penas por lesiones leves, un delito diferente."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q05",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "Incluye la pluralidad de agentes entre las agravantes, salvo que ya integre el tipo específico."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "si",
+      "rationale": "Autoriza control de identidad sin orden y registro del vehículo con motivos fundados."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0013::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Exige confirmación judicial inmediata de restricciones urgentes y fija el plazo para resolver."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

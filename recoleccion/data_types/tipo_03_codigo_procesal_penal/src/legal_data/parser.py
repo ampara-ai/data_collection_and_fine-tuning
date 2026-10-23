@@ -33,30 +33,36 @@ def parse_cpp_html(html: str, source_url: str) -> list[ProcessArticle]:
     current_paragraphs: list[str] = []
     current_jurisprudence_url: str | None = None
 
+    def flush_current_article() -> None:
+        nonlocal current_heading, current_id, current_paragraphs, current_jurisprudence_url
+        if current_heading and current_id:
+            articles.append(
+                ProcessArticle(
+                    article_id=current_id,
+                    heading=current_heading,
+                    title=current_heading,
+                    text="\n".join(current_paragraphs).strip(),
+                    jurisprudence_url=current_jurisprudence_url,
+                    source_url=source_url,
+                    keyword_hits={"strong": [], "medium": [], "context": [], "negative": []},
+                    heuristic_score=0,
+                    candidate_status="unscored",
+                )
+            )
+        current_heading = None
+        current_id = None
+        current_paragraphs = []
+        current_jurisprudence_url = None
+
     for child in content.children:
         if not isinstance(child, Tag):
             continue
 
-        if child.name == "h4":
+        if child.name in {"h1", "h2", "h3", "h4", "h5", "h6"}:
             heading_text = normalize_text(child.get_text(" ", strip=True))
-            if heading_text.startswith("Artículo "):
-                if current_heading and current_id:
-                    articles.append(
-                        ProcessArticle(
-                            article_id=current_id,
-                            heading=current_heading,
-                            title=current_heading,
-                            text="\n".join(current_paragraphs).strip(),
-                            jurisprudence_url=current_jurisprudence_url,
-                            source_url=source_url,
-                            keyword_hits={"strong": [], "medium": [], "context": [], "negative": []},
-                            heuristic_score=0,
-                            candidate_status="unscored",
-                        )
-                    )
+            flush_current_article()
+            if child.name == "h4" and heading_text.startswith("Artículo "):
                 current_id, current_heading = split_heading(heading_text)
-                current_paragraphs = []
-                current_jurisprudence_url = None
             continue
 
         if current_heading is None:
@@ -72,19 +78,6 @@ def parse_cpp_html(html: str, source_url: str) -> list[ProcessArticle]:
             else:
                 current_paragraphs.append(p_text)
 
-    if current_heading and current_id:
-        articles.append(
-            ProcessArticle(
-                article_id=current_id,
-                heading=current_heading,
-                title=current_heading,
-                text="\n".join(current_paragraphs).strip(),
-                jurisprudence_url=current_jurisprudence_url,
-                source_url=source_url,
-                keyword_hits={"strong": [], "medium": [], "context": [], "negative": []},
-                heuristic_score=0,
-                candidate_status="unscored",
-            )
-        )
+    flush_current_article()
 
     return articles

@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "El juez dejó libre a mi expareja porque dice que es papá de mi hijo y hay que cuidar al niño. ¿Puede decidir solo por eso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00285_e0007_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que ser padre no activa de forma automática el interés superior del niño y que el juez debe hacer una ponderación concreta antes de sustituir la prisión preventiva.",
+   "expected_answer_focus": "Que la sola condición de padre no basta para dejar libre al agresor y que el juez debe justificar con una ponderación concreta cómo afecta al menor.",
+   "victim_voice_rationale": "Una víctima que ve liberado a su agresor con el argumento de que es padre de familia pregunta si eso es suficiente."
+  },
+  {
+   "query": "Mi hijo vio cuando su papá me atacó y ahora le tiene miedo. ¿El juez debe pensar en eso antes de dejar libre al agresor?",
+   "topic": "hijos_y_tenencia",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00285_e0007_01"
+   ],
+   "positive_selection_reason": "El criterio de la casación exige evaluar si la decisión afecta directamente al menor y hacer un test de ponderación, no aplicar el principio de forma automática.",
+   "expected_answer_focus": "Que el juez debe analizar el efecto real sobre el niño, incluido el daño por presenciar la violencia, y no asumir que lo mejor es que su padre esté libre.",
+   "victim_voice_rationale": "Una madre teme que el bienestar de su hijo, testigo de la agresión, se use mal para favorecer al agresor."
+  },
+  {
+   "query": "Si el juez cree que no hay razones suficientes para tener preso al acusado, ¿qué pasa con él mientras sigue el proceso?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_286_01"
+   ],
+   "positive_selection_reason": "El artículo 286 dispone que se dicta comparecencia simple cuando el fiscal no pide la prisión o cuando no concurren los presupuestos materiales, y exige motivar la decisión.",
+   "expected_answer_focus": "Que, si no se cumplen los requisitos para encerrarlo, el juez dicta comparecencia simple y debe fundamentar su decisión sin afectar de modo irrazonable los derechos del imputado.",
+   "victim_voice_rationale": "La víctima quiere entender qué pasa con el agresor cuando el juez no lo manda preso."
+  },
+  {
+   "query": "Mi caso llegó a la Corte Suprema por un reclamo contra lo que decidieron antes. ¿En cuántos días resuelven si lo van a revisar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_430_01"
+   ],
+   "positive_selection_reason": "El artículo 430 numeral 6 fija el plazo de veinte días para decidir si el recurso está bien concedido y si se conoce el fondo.",
+   "expected_answer_focus": "El plazo para decidir si se admite el recurso ante la Sala Penal de la Corte Suprema, con la regla de los tres votos.",
+   "victim_voice_rationale": "Una persona ansiosa por la demora quiere saber cuánto tiempo falta para que le digan si revisarán su caso."
+  },
+  {
+   "query": "Si mi caso pasa al tribunal más alto en Lima y yo vivo lejos, ¿tengo que dar una dirección nueva para que me avisen?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_430_01"
+   ],
+   "positive_selection_reason": "El artículo 430 numerales 4 y 5 obliga a fijar nuevo domicilio procesal en el plazo indicado si la causa viene de un distrito judicial distinto de Lima, y regula la notificación si no se hace.",
+   "expected_answer_focus": "Que debe señalarse nuevo domicilio procesal dentro de los diez días de la notificación y que, si no se hace, se considera notificada en la fecha de expedición de la resolución.",
+   "victim_voice_rationale": "Una víctima de provincia teme perder avisos importantes si su caso sube a Lima."
+  },
+  {
+   "query": "Me enteré de que el tribunal superior anuló la orden de mantener preso a mi agresor. ¿Alguien más alto puede corregir eso y volver a encerrarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00285_e0007_01"
+   ],
+   "positive_selection_reason": "La casación declaró fundado el recurso, anuló la decisión de la Sala Superior y confirmó la prisión preventiva dictada en primera instancia.",
+   "expected_answer_focus": "Que la Corte Suprema puede dejar sin efecto una decisión que revocó la prisión preventiva sin ponderación suficiente y restablecer la medida.",
+   "victim_voice_rationale": "Una víctima que siente que la justicia le falló quiere saber si hay una instancia que pueda corregir el error."
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 557. Recepción y trámite» no establece la modificación de la frecuencia del control del investigado ante amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "si",
+      "rationale": "Describe el proceso de seguridad, con representación, pericia mental y sentencia absolutoria o de medida de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 59.- Efectos del incumplimiento» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 352. Decisiones adoptadas en la audiencia preliminar» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 129-F.- Beneficio p or explotación sexual» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 154. Efectos de la nulidad» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 377. Omisión, rehusamiento o demora de actos funcionales» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo I. Justicia Penal» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 484. Audiencia» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "si",
+      "rationale": "Establece que el curador o la persona designada judicialmente ejerce las facultades y representa al imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 247. Personas destinatarias de las medidas de protección» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Casación 2451-2022, Cajamarca» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Apelación 333-2025, Corte Suprema, f. j. 12» no establece la representación del imputado que no puede comprender el proceso por su estado mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 480. Revocación de los beneficios» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 158. Valoración» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 387. Alegato oral del Fiscal» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Exp. 01386-2020-0» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Conducta de víctima no indica consentimiento (Casación 539-2019, Junín)» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 545. Penas no privativas de libertad» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No se debe justificar la imposición de una prisión preventiva con fines preventivo-generales o especiales, sino con un fin legítimo [J. vs. Perú]» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "parcial",
+      "rationale": "Menciona el fundamento público de las medidas de seguridad, sin explicar el desenlace del proceso por incapacidad mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "si",
+      "rationale": "Señala que la sentencia del proceso de seguridad versa sobre absolución o aplicación de una medida de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 397. Correlación entre acusación y sentencia» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 22. Objeto y tipos de medidas de protección» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_457_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Omitir prueba de ADN no descarta responsabilidad (Casación 5-2021, Puno)» no establece el desenlace del proceso de seguridad por incapacidad mental del acusado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

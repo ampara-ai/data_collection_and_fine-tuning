@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "si",
+      "rationale": "Condiciona la exención cultural a la imposibilidad de comprender o autodeterminarse y exige pautas interculturales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo la cultura permite eximir o atenuar y el tratamiento especial de delitos sexuales contra menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_15_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No analiza la exención o atenuación por condicionamiento cultural."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_114_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "si",
+      "rationale": "Obliga a proveer intérprete o traductor a quien no comprende el castellano."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_114_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "si",
+      "rationale": "Prevé intérprete y ayuda para personas con impedimentos auditivos o del habla."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

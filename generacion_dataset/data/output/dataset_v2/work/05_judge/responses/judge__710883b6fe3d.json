@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_387_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "si",
+      "rationale": "Explica el control judicial y la revisión del fiscal superior cuando se retira la acusación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_387_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal pedir ajustes de pena y reparación civil fundados en la prueba del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "si",
+      "rationale": "Aclara que ser padre de un menor no impide automáticamente la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "si",
+      "rationale": "Exige ponderar necesidad de prisión, gravedad del delito e impacto en el hijo mediante motivación reforzada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

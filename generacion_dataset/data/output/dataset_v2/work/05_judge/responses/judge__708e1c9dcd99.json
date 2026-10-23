@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00388_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige conocimiento cierto del delito para que nazca el deber de denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00388_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Resuelve la omisión de denuncia, pero no toda responsabilidad por la atención o falta de registro médico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00388_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "si",
+      "rationale": "Precisa los signos y supuestos que generan la obligación médica de denunciar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

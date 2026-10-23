@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "Regula la acción reparatoria y no la presentación de una querella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia internacional y no copias de una denuncia por injurias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_484_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "si",
+      "rationale": "Prevé nombrar defensor de oficio cuando el imputado carece de abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_484_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "si",
+      "rationale": "Permite sentenciar inmediatamente si admite culpabilidad y no hacen falta otras pruebas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

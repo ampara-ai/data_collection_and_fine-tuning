@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Explica interrupciones y el límite extraordinario del plazo de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Trata la suspensión por acusación directa en alimentos, sin cubrir de forma general el caso planteado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Explica un supuesto de suspensión por acusación directa, sin establecer todos los plazos aplicables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Regula la suspensión del cómputo por cuestiones previas en otro procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No establece las reglas de prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Prevé archivo por extinción y duración de diligencias, pero no determina cuándo prescribe."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Las actuaciones fiscales interrumpen la prescripción y hacen comenzar otro plazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_83_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Un nuevo delito doloso interrumpe la prescripción, sin eliminar el límite extraordinario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que el careo es excepcional y su solicitud no obliga automáticamente a practicarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "si",
+      "rationale": "La denegación del careo no vulnera el derecho a la prueba sin necesidad demostrada y solicitud oportuna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "si",
+      "rationale": "Describe el abuso de la hija de la pareja de trece años mientras dormía y la condena de catorce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Relata cadena perpetua por violación de una hijastra de doce años, sin precisar el supuesto consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00163_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No fija la pena correspondiente a la violación de una menor de trece años mientras dormía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

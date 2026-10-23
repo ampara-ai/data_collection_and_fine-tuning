@@ -1,0 +1,161 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "La apelación de medidas de protección no regula la queja contra denegación de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "si",
+      "rationale": "Reconoce queja de derecho ante el órgano superior contra inadmisibilidad de la apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de prisión preventiva sin tratar rechazo del recurso de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "La suspensión de la pena no trata recursos denegados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "La revaloración de prueba personal presupone una apelación admitida y no regula queja por su rechazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "La admisión de testimonios en apelación no regula remedios contra inadmisibilidad del recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "La esclavitud y servidumbre no regulan impugnaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "La trata de personas no regula recursos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "La prueba de oficio en segunda instancia no determina cómo reclamar una apelación inadmitida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "El principio de oportunidad y la inadmisión de una casación por otra materia no explican cómo reclamar la apelación rechazada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "parcial",
+      "rationale": "Permite reposición cuando la Sala rechaza una apelación pero no recurso ante un órgano superior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Las facultades al sentenciar en apelación no regulan queja contra su inadmisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Indica plazo de tres días para la queja sin precisar que procede contra apelación inadmitida ni ante quién."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "La excusa absolutoria patrimonial no regula efectos de queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Los límites de impugnación del actor civil no regulan suspensión por queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "La revocación del régimen de prueba no regula efectos de una queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "La revocación de suspensión de pena no regula efectos de queja contra inadmisibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "La sanción a un abogado por temeridad no determina el efecto suspensivo de una queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una queja contra casación denegada sin explicar si detiene el proceso principal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una queja y un amparo por apelación denegada sin regular sus efectos suspensivos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Los beneficios por colaboración eficaz corresponden a un procedimiento distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El trámite policial de denuncia no regula quejas procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Fija el plazo de queja pero no si suspende el proceso principal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "La apelación de desalojo por usurpación pertenece a otro procedimiento y no determina el efecto de una queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que la queja no suspende el proceso principal ni la eficacia de la denegación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "La apelación en asistencia judicial internacional no regula queja por apelación rechazada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

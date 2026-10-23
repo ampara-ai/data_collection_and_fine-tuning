@@ -1,0 +1,233 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "si",
+      "rationale": "Autoriza al fiscal a disponer embalsamamiento en muertes sospechosas con informe médico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "si",
+      "rationale": "Exige sentencia firme y autorización judicial para incinerar el cadáver."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_197_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula la cremación de cadáveres en muertes sospechosas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00067_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "si",
+      "rationale": "Explica desde cuándo surte efecto la notificación y comienza el plazo de impugnación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00067_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "si",
+      "rationale": "Declara extemporáneo el recurso presentado un día después de vencer el plazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00067_e0014_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "si",
+      "rationale": "Explica los efectos de notificar electrónicamente en hora inhábil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0089_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "si",
+      "rationale": "Incluye penetración con objetos dentro del concepto de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0089_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "si",
+      "rationale": "Afirma que basta una penetración insignificante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0089_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad del Estado por violencia sexual policial durante detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "si",
+      "rationale": "Ordena reparaciones y adecuación de la legislación discriminatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Menciona reparaciones por investigación discriminatoria, sin abordar una norma discriminatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "No explica las órdenes internacionales frente a normas discriminatorias contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0093_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "si",
+      "rationale": "Rechaza disminuir la protección penal por la ocupación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "si",
+      "rationale": "Distingue falta de formalidad de vulneración de garantías que sí causaría nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "si",
+      "rationale": "Identifica garantías y participantes necesarios para valorar la entrevista."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la validez de la entrevista, pero no decide si debe repetirse en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "Trata diligencias durante conflictos de competencia, no actos anteriores a la formalización."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

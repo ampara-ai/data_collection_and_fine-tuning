@@ -1,0 +1,21 @@
+{
+ "split": "dev",
+ "preguntas": 130,
+ "pares_juzgados": 5518,
+ "nuevos_en_esta_corrida": 5518,
+ "tareas_pendientes": 0,
+ "tareas_invalidas": [],
+ "veredictos": {
+  "no": 4626,
+  "parcial": 667,
+  "si": 225
+ },
+ "jueces": {
+  "gpt-6.1-sol": 5518
+ },
+ "positivos_origen": 132,
+ "positivos_ampliados_si": 357,
+ "positivos_ampliados_si_parcial": 1024,
+ "positivos_extra_por_pregunta_si": 1.73,
+ "muestra_humana": 62
+}

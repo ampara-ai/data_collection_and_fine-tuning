@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "si",
+      "rationale": "Establece que los estereotipos de género pueden vulnerar la presunción de inocencia y la imparcialidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "si",
+      "rationale": "Explica que una condena basada en estereotipos de género vulnera garantías procesales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

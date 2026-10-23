@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "si",
+      "rationale": "Dispone comunicar el falso testimonio a Fiscalía y condiciona su procesamiento a sentencia firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Describe las funciones investigadoras del fiscal, pero no la actuación judicial ante un nuevo responsable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Resuelve una transferencia de competencia por riesgos, no el descubrimiento de otro participante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula el error culturalmente condicionado, no nuevas responsabilidades detectadas en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata el control de identidad y el encubrimiento por una fiscal, no la remisión de hechos descubiertos en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar a Fiscalía la responsabilidad de personas no comprendidas en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "Regula excepciones procesales, no la actuación ante nuevos responsables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula la reserva del fallo condenatorio, no nuevos participantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata la prueba psicológica de la víctima, no nuevos responsables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "Regula la suspensión por anomalía psíquica del acusado, no la incorporación de otros responsables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "Regula detención en flagrancia, no hallazgos durante el juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata motivación de prisión preventiva y daño psicológico, no nuevos responsables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Establece derechos de defensa y participación, sin regular los hallazgos de responsabilidad de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_400_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes incompletas, no la comunicación de nuevos hechos a Fiscalía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

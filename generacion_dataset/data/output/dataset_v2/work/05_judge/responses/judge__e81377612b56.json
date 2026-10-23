@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_189_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "si",
+      "rationale": "Permite reconocer al imputado desde un punto donde quien identifica no pueda ser visto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_189_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "si",
+      "rationale": "Autoriza utilizar fotografía u otros registros cuando no pueda traerse al imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_189_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "si",
+      "rationale": "Exige descripción previa y presentación junto con personas de aspecto exterior semejante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "La prescripción no regula legitimación de la víctima para apelar absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "La interrupción de prescripción no regula apelación por la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "La protección en flagrancia no regula legitimación recursiva de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica los límites del recurso de la víctima ante conformidad fiscal y las excepciones por vulneraciones fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Regula notificación para apelación del condenado y no legitimación de la víctima contra absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "La duración de evaluación psicológica no determina legitimación recursiva de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "La distinción entre tentativa de violación y tocamientos no regula apelación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Permite pretensiones civiles pese a absolución pero no determina si la víctima puede apelar el extremo penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Reserva acción pública al fiscal sin resolver expresamente la impugnación de absoluciones por la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "En el mismo caso de lesiones y secuestro declara que la parte civil no puede impugnar la absolución penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Describe facultades de la segunda instancia frente a absoluciones sin establecer quién puede recurrirlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula incoación y recursos de proceso inmediato y no la apelación de una absolución por la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "La excusa absolutoria patrimonial no regula apelación de absoluciones por secuestro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Eleva la pena por lesiones faciales al no existir atenuantes excepcionales que justifiquen bajar del mínimo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "Confirma una condena por tentativa de violación sin tratar aumento de indemnización por lesiones faciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Describe aumento de reparación civil por lesiones faciales y exige proporcionalidad con el daño."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce derecho a reparación civil y su cumplimiento sin regular aumento del monto fijado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "El embargo garantiza cobro pero no determina cómo aumentar la reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El delito de cheque sin fondos no regula indemnización por lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "Regula querella en delitos de acción privada y no aumento de reparación por las lesiones descritas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "parcial",
+      "rationale": "Permite elevar reparación en apelación de terminación anticipada sin constar ese procedimiento en la consulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "La excusa patrimonial entre familiares no determina aumento de reparación por lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "La nulidad de absolución por derechos fundamentales no regula incremento de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "La impugnación del monto en colaboración eficaz pertenece a un procedimiento distinto no indicado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El recurso de la víctima contra absolución y conformidad fiscal no regula aumento de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "Define violencia familiar sin regular cuantía ni impugnación de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Confirma reparación por violación de menor sin tratar su incremento ni lesiones faciales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

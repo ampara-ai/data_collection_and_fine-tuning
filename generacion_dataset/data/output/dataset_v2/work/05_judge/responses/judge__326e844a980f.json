@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_274_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "si",
+      "rationale": "Define condiciones y plazos para prolongar la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_274_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "si",
+      "rationale": "El fiscal debe pedir la prolongación antes del vencimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_274_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "si",
+      "rationale": "Permite prolongar la prisión preventiva cuando se recurre la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_274_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "si",
+      "rationale": "Fija audiencia, plazo de decisión y posibilidad de apelación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

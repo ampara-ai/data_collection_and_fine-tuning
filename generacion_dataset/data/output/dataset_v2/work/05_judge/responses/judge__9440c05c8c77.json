@@ -1,0 +1,305 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00575_e0003::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "si",
+      "rationale": "Ordena emitir un nuevo pronunciamiento motivado tras anular la sentencia de vista."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Sanciona el maltrato psicológico y la humillación reiterada sin exigir lesión física."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 66-2018, Cusco y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Establece servicios comunitarios o multa para el maltrato y sus agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 931-2016, Cusco y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 478. Colaboración durante las otras etapas del proceso contradictorio y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 143.- Alteración o supresión del estado civil y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 149.- Omisión de prestación de alimentos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 5. Definición de violencia contra las mujeres y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 545. Penas no privativas de libertad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Temeridad: Multan con 5 URP a abogado que sostuvo que no conocía del recurso en cuya instancia intervenía y que no estaba preparado [Revisión de Medida Disciplinaria 8-2022, La Libertad] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "parcial",
+      "rationale": "Explica en qué consisten los servicios comunitarios, pero no cuándo corresponden por este maltrato."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 546. Cumplimiento de penas no privativas de libertad en el Perú y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Contempla la reserva del fallo en general, sin establecer la pena correspondiente al maltrato descrito."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reparación civil como derecho de la víctima del delito."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q05",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "si",
+      "rationale": "Permite reservar el fallo sin omitir la fijación de las responsabilidades civiles."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Explica los requisitos de reserva del fallo, pero no qué ocurre con la responsabilidad civil."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q06",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "parcial",
+      "rationale": "Regula la revocación por un nuevo delito doloso, pero no las consecuencias del incumplimiento de reglas."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q06",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "si",
+      "rationale": "Prevé prorrogar o revocar el régimen de prueba por incumplimiento imputable de sus reglas."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No se debe justificar la imposición de una prisión preventiva con fines preventivo-generales o especiales, sino con un fin legítimo [J. vs. Perú] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 290. Detención domiciliaria y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 274. Prolongación de la prisión preventiva y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 9. Derecho a una vida libre de violencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 278. Apelación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Explica las decisiones fiscales al concluir la detención, sin indicar qué debe ordenar el juez si no se pide prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 419.- Detención ilegal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Ordena comparecencia simple si el fiscal no solicita prisión preventiva en el supuesto previsto."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 10. Indicios de delitos en proceso extra – penal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q07",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 178-2024, Tumbes, f. j. 12 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00575_e0003::q08",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "si",
+      "rationale": "Permite eximir de sanción por responsabilidad mínima en delitos con las penas que especifica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "Atribuye el ejercicio de la acción civil al Ministerio Público y al perjudicado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "Establece que la constitución en actor civil hace cesar la legitimación fiscal sobre el objeto civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 136. Contenido del Expediente Judicial y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 191.- Sustracción de bien propio y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Permite prohibir futuras ventas de bienes comunes, pero no anular una transferencia ya realizada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 12. Ejercicio alternativo y accesoriedad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 225. Copia de documentos incautados y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "Incluye la nulidad de actos jurídicos para garantizar la restitución del bien."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-A.- Trata de personas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Supuestos de acceso carnal (RN 2289-2011, Lima) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_11_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 150. Nulidad absoluta y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

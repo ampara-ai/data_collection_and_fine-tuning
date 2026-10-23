@@ -1,0 +1,203 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Autoriza la entrada al domicilio y la detención inmediata del agresor en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 523. Detención Preventiva con fines de extradición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 266. Detención judicial en caso de flagrancia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 50.- Concurso real de delitos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Temeridad: Multan con 5 URP a abogado que sostuvo que no conocía del recurso en cuya instancia intervenía y que no estaba preparado [Revisión de Medida Disciplinaria 8-2022, La Libertad]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 61. Atribuciones y obligaciones» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 161. Efecto de la confesión sincera» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente el arresto ciudadano ante violencia familiar flagrante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 308. Desafectación y Tercería» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 394.- Cohecho pasivo impropio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Exige levantar acta y comunicar inmediatamente a la fiscalía penal y al juzgado de familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Encarga al juzgado de familia pronunciarse sobre medidas de protección y bienestar de las víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Autoriza la detención policial inmediata ante violencia flagrante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 404.- Encubrimiento personal» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Regula la prueba anticipada y la grabación para evitar revictimización, pero no aclara si esa entrevista ya tomada evita una nueva declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica cómo usar la declaración previa de la menor en juicio evitando su revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 154. Efectos de la nulidad» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica la validez de entrevistas sin trámite anticipado, pero no resuelve directamente si habrá que volver a declarar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 2284-2022, Selva Central, f. j. 15» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula el interrogatorio protegido de menores en juicio, pero no decide si puede sustituirse por la entrevista anterior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé grabar la entrevista para evitar revictimización, sin precisar cuándo reemplaza la declaración en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica que la declaración previa es válida si se respetan las garantías de incorporación al juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Detalla la intervención defensiva, el motivo fundado y la urgencia para incorporar la entrevista."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite oralizar la entrevista previa para evitar que la menor reviva los hechos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

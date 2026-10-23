@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0042_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "si",
+      "rationale": "Analiza expresamente matrimonio e hijo con la víctima como circunstancias consideradas para una pena menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0042_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Describe una condena pese a veintiún años y confesión, pero no explica prescripción o condiciones temporales de persecución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

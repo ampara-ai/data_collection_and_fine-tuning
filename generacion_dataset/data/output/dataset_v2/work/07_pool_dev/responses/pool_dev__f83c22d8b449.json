@@ -1,0 +1,767 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 2528-2010, Junín, f. j. 6» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Explica que una declaración contradictoria sin corroboraciones idóneas no basta para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la validez de una declaración en cámara Gesell, pero no su suficiencia por sí sola para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Aclara el rigor exigible al relato y el error sobre la edad, sin desarrollar íntegramente el estándar de suficiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Valora testimonios y explica que el reconocimiento formal puede ser innecesario, sin fijar el estándar del relato único."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar el relato sin inferir consentimiento de la conducta y considerar pericias, sin resolver por sí solo su suficiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Indica que puede condenarse con otras pruebas aunque no declare la víctima, sin resolver la suficiencia de su relato único."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Penetración hasta himen (RN 28-2016, Ayacucho)» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 13. Desistimiento» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Exp. 000359-2024-PA/TC, f. j. 13» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Explica corroboraciones y valoración de retractación, pero se centra en el cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la necesidad de prueba legal adicional cuando declaraciones previas tienen defectos, sin fijar el estándar del relato único."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Explica la suficiencia del testimonio coherente y persistente corroborado por pericias y denuncia materna."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Se debe realizar un juzgamiento anticipado en casos de violencia familiar si solo se ofreció documentales y demandado es rebelde [Pleno Jurisdiccional Distrital Penal y Civil de Apurímac, 2015]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Explica credibilidad y corroboración de una imputación infantil, pero se centra en la retractación por odio al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Muestra que la declaración puede sustentar la condena cuando cuenta con corroboración testimonial y pericial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Mantiene una condena con pruebas adicionales pese a declaraciones inválidas, sin resolver la suficiencia del testimonio solo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica el papel de la pericia psicológica en prisión preventiva, sin establecer el estándar de condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Explica que el relato sin corroboración periférica suficiente puede resultar insuficiente para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona una absolución por valoración de la retractación, sin fijar condiciones completas de suficiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Resuelve repetición y oralización de la declaración, sin establecer cuándo el relato por sí solo basta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece criterios de claridad, seguridad y coherencia del relato junto con corroboración periférica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece pautas para valorar sustancialmente la declaración infantil, pero se centra en requisitos de nulidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "parcial",
+      "rationale": "Discute la insuficiencia del testimonio de oídas como corroboración, sin desarrollar el estándar completo del relato único."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica insuficiencia probatoria por falta de ratificación y pericias cuestionadas en una tentativa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Reconoce la declaración de la víctima como prueba directa capaz de desvirtuar la presunción de inocencia bajo garantías de credibilidad y corroboración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contacto supera labios mayores (RN 534-2013, Huancavelica)» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 13. Norma aplicable» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 2013-2017, Lima Este, f. j. 3.10-3.12» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad» no aporta la información necesaria para resolver la suficiencia del testimonio de una niña para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica la admisibilidad de una declaración urgente y la existencia de otras pruebas, sin fijar el estándar del testimonio único."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar racionalmente el relato y sus corroboraciones, sin desarrollar todas las garantías de suficiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 344. Decisión del Ministerio Público» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce diligencias policiales por iniciativa propia y deber de comunicar al fiscal, sin resolver expresamente la nulidad de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 327. No obligados a denunciar» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Faculta a la Policía a recibir denuncias y declaraciones de denunciantes sin exigir presencia fiscal en esa recepción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Queja NCPP 376-2021, Tacna» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 407.- Omisión de denuncia» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 2. Principio de oportunidad» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 397. Correlación entre acusación y sentencia» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Prevé remitir al fiscal denuncias y declaraciones recogidas por la Policía, sin regular efectos de su ausencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Permite presentar la denuncia verbal directamente ante la Policía sin otras formalidades."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15. Nulidad de transferencias» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 335. Prohibición de nueva denuncia» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Denuncia tardía resta fuerza (RN 2150-2015, Cusco)» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 499. Personas e Instituciones exentas. Caso especial de imposición» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "parcial",
+      "rationale": "Regula la recepción de denuncias verbales por acta, sin abordar expresamente la falta de fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Dependencia económica en denuncia (RN 668-2025, Lima Sur)» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "parcial",
+      "rationale": "Limita la nulidad por ausencia fiscal a actuaciones de intervención obligatoria, sin precisar si esta declaración lo era."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica que una denuncia basta para activar la investigación, sin resolver la ausencia fiscal durante su recepción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 470. Declaración inexistente» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigar denuncias de violencia doméstica, sin regular la validez de declaraciones sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 350. Notificación de la acusación y objeción de los demás sujetos procesales» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Ordena comunicar y remitir la denuncia policial al fiscal posteriormente, sin una regla explícita de nulidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Niega solvencia probatoria a diligencias policiales sin fiscal, pero no declara que la denuncia quede anulada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Retractación notarial sin valor (RN 1179-2019, Lima)» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 425.- Funcionario o servidor público» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 515-2020, Cajamarca» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 206. Controles policiales públicos en delitos graves» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "si",
+      "rationale": "Indica que la denuncia verbal puede presentarse directamente ante cualquier dependencia policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 483. Iniciación» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 110. Desistimiento del querellante particular» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur]» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 122. Actos del Ministerio Público» no aporta la información necesaria para resolver la validez de una denuncia policial recibida sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Permite valorar una manifestación del imputado sin fiscal como indicio, sin resolver la validez de la denuncia de una víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Distingue denuncia de inicio de persecución penal, sin resolver expresamente su nulidad por ausencia fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Explica la solidez y corroboración del relato al evaluar retractaciones, sin identificar medios específicos para acreditar este abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite obtener prueba de oficio en apelación, sin detallar cuáles corroboran el relato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Guzmán Albarracín y otras vs. Ecuador, f. j. 119» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Identifica la pericia psicológica como corroboración periférica del relato de una víctima menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Medidas de protección deben extremarse en casos de violación sexual de menor [VRP, VPC. y otros vs. Nicaragua]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Valora el testimonio de la hermana y la pericia psicológica como corroboración del relato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Identifica fotografías del lugar como indicios corroborantes y explica que la falta de lesiones o afectación no descarta el abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Expone la necesidad de corroboraciones idóneas y describe exámenes médicos y psicológicos en un caso de violencia sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "parcial",
+      "rationale": "Describe cómo documentar y conservar rastros materiales que pueden ser evidencia, sin la valoración específica de abuso infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Señala que la pericia psicológica y el testimonio materno corroboraban la declaración de la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige corroboración periférica y criterios de credibilidad, sin identificar pruebas concretas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce datos externos y circunstancias como corroboración y rechaza exigir lesiones, sin desarrollar medios concretos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "parcial",
+      "rationale": "Ordena conservar objetos probatorios, pero no explica cómo corroborar el relato de abuso infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "parcial",
+      "rationale": "Permite asegurar bienes que sirvan de prueba, sin identificar corroboraciones del abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 260. Arresto Ciudadano» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Analiza la utilidad y suficiencia de testimonios de referencia y pericias para corroborar una imputación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Caso Angulo Losada vs. Bolivia» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Explica los requisitos de autenticación y ratificación para utilizar documentación médica extraprocesal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "parcial",
+      "rationale": "Describe inspecciones de huellas y reconstrucciones para verificar hechos, sin un estándar específico de credibilidad infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Analiza el valor y las deficiencias de pericias y ratificación en una tentativa de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 108. Requisitos para constituirse en querellante particular» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo incorporar la declaración previa con garantías, sin aportar corroboraciones externas del relato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Discute específicamente los límites del testimonio de oídas como corroboración objetiva del abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "si",
+      "rationale": "Identifica lesiones e intervención policial como corroboraciones que refuerzan la declaración de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Disponer la repetición de entrevista de la víctima no solo revictimiza a la menor agraviada, sino que, además, implica que el Estado incumple su rol tuitivo al contravenir el principio del interés superior del niño, al ocasionarle la dolorosa experiencia de recordar el suceso traumático [Casación 330-2022, Ica, f. j. 12]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica cómo valorar íntegramente la pericia psicológica y por qué la ausencia de afectación no descarta el abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tentativa de violación (RN 316-2021, Lima Este)» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 214. Solicitud y ámbito del allanamiento» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Identifica certificado médico, pericia psicológica y testigos como corroboraciones que deben valorarse racionalmente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Identifica el embarazo acreditado médicamente y otras pruebas como corroboraciones de la incriminación inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Enumera denuncias, informes psicológicos, certificados médicos, testimonios y reconocimiento del acusado como pruebas corroborativas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "parcial",
+      "rationale": "Prevé fotografías y registros probatorios y protege a menores frente a participar, sin explicar su valor corroborativo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica el uso del acta escrita y la valoración racional de pruebas, sin identificar otras corroboraciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Muestra cómo la pericia psicológica y la denuncia de la madre corroboran el relato aun sin lesiones genitales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 100. Requisitos para constituirse en actor civil» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua]» no aporta la información necesaria para resolver las pruebas que corroboran un relato de abuso sexual infantil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

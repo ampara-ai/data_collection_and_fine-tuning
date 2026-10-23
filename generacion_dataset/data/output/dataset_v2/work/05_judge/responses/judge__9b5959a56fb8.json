@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "si",
+      "rationale": "Autoriza incomunicación judicial indispensable con límite de diez días y de la detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención en flagrancia, no incomunicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención ilegal sin regular incomunicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_112_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación del tercero civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza inicio de persecución penal y encubrimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula principio de oportunidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Analiza control policial de identidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Contiene reglas generales de decisión inmediata sobre restricciones, sin identificar el procedimiento de incomunicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "si",
+      "rationale": "El fiscal solicita y el juez resuelve inmediatamente mediante resolución motivada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "Regula complicidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Analiza plazo de detención hasta juicio por omisión de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula plazos para medidas de protección familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_265_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "si",
+      "rationale": "Garantiza conferencias privadas con el abogado sin autorización previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Distingue consumación y tentativa y considera consumados los actos descritos con contacto o introducción parcial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Descarta desistimiento voluntario por llanto cuando ya se ejecutaron los actos descritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia sin resolver el grado de penetración necesario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "Regula alegatos finales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento de querella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento y daño psicológico, no penetración incompleta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Define acceso carnal y vías de penetración sin precisar si basta penetración parcial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "si",
+      "rationale": "Establece que basta penetración por insignificante que sea."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "Regula alcance del sobreseimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Establece consumación con penetración mínima desde los labios mayores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Expresa que basta contacto periférico o introducción parcial para la consumación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual económica de menores, no consumación de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula gestión de explotación sexual de menores, no penetración suficiente para violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Analiza violencia sin lesiones, no el grado de penetración necesario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de reposición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada, no calificación de los actos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Analiza desvestir y acostarse sobre una menor con finalidad sexual y su gravedad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Distingue violación de actos contra el pudor en supuestos con acceso carnal diferente al descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, no el acto sexual descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre actos contra el pudor, aunque trata una víctima y medios comisivos distintos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Analiza ausencia de afectación psicológica y error de edad en una violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "si",
+      "rationale": "Califica como actos contra el pudor desvestir y besar a una niña sin actos inequívocos de penetración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencia de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual, no el ataque corporal descrito contra una niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0055_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada sin resolver la gravedad o calificación del acto."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

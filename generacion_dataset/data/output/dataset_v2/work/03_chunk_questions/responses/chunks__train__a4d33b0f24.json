@@ -1,0 +1,116 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi sobrina de 13 años fue violada y el culpable admitió lo que hizo. ¿Puede conseguir que le bajen la condena por haber reconocido el delito?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Corte Suprema declaró inconstitucional la prohibición, de modo que el violador de una menor que confiesa puede obtener una reducción de pena."
+    },
+    {
+     "query": "Condenaron a cadena perpetua al que abusó de una niña y ahora le rebajaron la pena a 30 años. ¿Eso es legal? Siento que no hay justicia.",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un tribunal rebajó la cadena perpetua a 30 años al inaplicar la prohibición, y la Corte Suprema confirmó esa decisión por vulnerar igualdad y proporcionalidad."
+    },
+    {
+     "query": "¿Por qué un juez puede dejar de aplicar una ley que prohíbe bajar la condena a los violadores?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los jueces pueden no aplicar una norma al caso concreto cuando choca con la Constitución; aquí se consideró contraria a la igualdad y a la proporcionalidad de la pena."
+    },
+    {
+     "query": "Si el agresor de mi hija menor acepta los cargos desde el principio para terminar rápido el juicio, ¿le pueden dar menos años de cárcel?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La decisión permite que los acusados de violación sexual se acojan a la conclusión anticipada del proceso y obtengan una reducción de pena."
+    },
+    {
+     "query": "¿La sentencia de 30 años de cárcel para quien violó a una menor es de cumplimiento real o puede quedar libre pronto?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Se mantuvo una pena de 30 años de prisión efectiva, es decir, de cumplimiento real en el caso analizado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_493_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez ordenó que mi ex me pague por el daño que me causó pero no paga nada. ¿Cómo hago para cobrarle?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El pago de la reparación civil se hace efectivo según las reglas del proceso civil, con participación del fiscal y de quien reclama el pago."
+    },
+    {
+     "query": "Si surge algún problema cuando intentan cobrarle al condenado lo que me debe, ¿en cuánto tiempo lo resuelve el juez?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los incidentes en la ejecución se resuelven en tres días, tras una audiencia con las partes que asistan."
+    },
+    {
+     "query": "No estoy de acuerdo con lo que decidió el juez sobre el cobro de la indemnización. ¿Puedo reclamar o ya no hay nada que hacer?",
+     "topic": "reparacion_civil",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Contra la resolución que resuelve el incidente en la ejecución procede apelación."
+    },
+    {
+     "query": "Mi agresor tiene un carro y un terreno. ¿Se pueden vender sus cosas para pagar la multa que le pusieron?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Para la ejecución forzosa de la multa y la venta o adjudicación de bienes decomisados se aplican las normas del Código Procesal Civil."
+    },
+    {
+     "query": "¿Tengo que contratar a alguien aparte para cobrar la indemnización o interviene el fiscal también?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal provincial y el actor civil intervienen en la ejecución de la reparación civil."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_266_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Agarraron a mi pareja justo cuando me estaba golpeando. ¿Cuánto tiempo más lo pueden tener detenido antes de que decidan si sigue preso?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El fiscal puede pedir al juez una detención judicial de hasta siete días cuando hay peligro procesal, y debe pedirla dentro de las 24 horas de la detención."
+    },
+    {
+     "query": "Tengo miedo de que lo suelten rápido porque la policía lo detuvo apenas ayer. ¿Qué pasa en las siguientes horas?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Antes de las 48 horas el juez realiza una audiencia obligatoria con fiscal, detenido y abogado para decidir si corresponde la detención judicial."
+    },
+    {
+     "query": "¿Quién decide si mi agresor queda preso o sale libre después de que lo detienen en el momento del golpe?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez decide en audiencia sobre la legalidad de la detención y la necesidad de la detención judicial, y luego si dicta prisión preventiva o comparecencia."
+    },
+    {
+     "query": "Si la policía detuvo mal a mi agresor o le violó sus derechos, ¿lo sueltan y ya no hay caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el juez advierte detención ilegal o vulneración de derechos, remite copias a los órganos de control del Ministerio Público y de la Policía, sin perjuicio de lo que resuelva."
+    },
+    {
+     "query": "¿Qué pasa si el juez no acepta el pedido del fiscal para mantener detenido a quien me agredió?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el juez declara improcedente el requerimiento, al vencer la detención policial el fiscal dispone lo que corresponda."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "judgments": [
+  {
+   "dataset_id": "case::jp_00008_e0002::q06",
+   "chunk_id": "chunk_tipo03_cpp_art_111_01",
+   "relevance": "no",
+   "rationale": "Regula citar a terceros civilmente responsables, no quién actúa por un menor."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q06",
+   "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+   "relevance": "parcial",
+   "rationale": "Trata del plazo para constituirse en actor civil, no de quién representa al menor."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q06",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "si",
+   "rationale": "Indica que el defensor público de víctimas o el abogado del CEM representa al menor y solicita la constitución en actor civil."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_1_01",
+   "relevance": "parcial",
+   "rationale": "Atribuye el ejercicio de la acción penal al Ministerio Público, contexto pero no resuelve la impugnación."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_425_01",
+   "relevance": "no",
+   "rationale": "Regula la sentencia de segunda instancia, no la legitimidad de la víctima."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_10_01",
+   "relevance": "no",
+   "rationale": "Trata indicios de delito en proceso extrapenal."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_211_01",
+   "relevance": "no",
+   "rationale": "Examen corporal del imputado, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+   "relevance": "si",
+   "rationale": "La parte civil no puede impugnar la absolución porque la acción penal es del fiscal."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+   "relevance": "no",
+   "rationale": "Medidas de protección, tema distinto."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+   "relevance": "si",
+   "rationale": "Si solo apela el actor civil no se puede revocar la absolución penal porque el objeto penal queda firme."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+   "relevance": "no",
+   "rationale": "Colaboración eficaz, no relacionado."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_442_01",
+   "relevance": "no",
+   "rationale": "Tipo penal de maltrato, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "parcial",
+   "rationale": "Regula la acción reparatoria de la víctima, solo toca el alcance civil."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_36_01",
+   "relevance": "no",
+   "rationale": "Inhabilitación, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+   "relevance": "no",
+   "rationale": "Flagrancia y riesgo severo, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+   "relevance": "si",
+   "rationale": "La parte civil no puede cuestionar la absolución si el fiscal no impugnó."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "parcial",
+   "rationale": "Da legitimación para la acción reparatoria pero no enumera facultades."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q02",
+   "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+   "relevance": "parcial",
+   "rationale": "Indica que la parte civil solo puede pretender reparación y no impugnar la absolución, respuesta parcial."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_104_01",
+   "relevance": "si",
+   "rationale": "Enumera las facultades del actor civil: ofrecer pruebas, intervenir en juicio e interponer recursos."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_314_01",
+   "relevance": "no",
+   "rationale": "Pensión anticipada de alimentos, no la sanción."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_427_01",
+   "relevance": "no",
+   "rationale": "Procedencia de la casación, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+   "relevance": "si",
+   "rationale": "Lesiones graves contra conviviente: pena de seis a doce años e inhabilitación."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+   "relevance": "parcial",
+   "rationale": "Caso similar de lesiones graves con fractura nasal, aplica el art. 121-B pero no fija la pena en abstracto."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+   "relevance": "no",
+   "rationale": "Lesiones leves, no corresponde a fractura y deformación facial."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_261_01",
+   "relevance": "no",
+   "rationale": "Detención preliminar, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_211_01",
+   "relevance": "no",
+   "rationale": "Examen corporal, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+   "relevance": "si",
+   "rationale": "Versión del art. 121-B: pena de seis a doce años por lesiones graves a conviviente."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_566_01",
+   "relevance": "no",
+   "rationale": "Ejecución de penas de la CPI, no relacionado."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_122_01",
+   "relevance": "no",
+   "rationale": "Lesiones leves, no corresponde a lesiones graves."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+   "relevance": "parcial",
+   "rationale": "Caso con lesiones graves a conviviente y discusión de pena mínima, sin fijar la sanción general."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_490_01",
+   "relevance": "no",
+   "rationale": "Cómputo de la pena, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+   "relevance": "no",
+   "rationale": "Agresiones menores de diez días, no corresponde a fractura de nariz."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q04",
+   "chunk_id": "chunk_tipo03_cpp_art_211_01",
+   "relevance": "no",
+   "rationale": "Examen corporal, no responde."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q04",
+   "chunk_id": "chunk_tipo03_cpp_art_122_01",
+   "relevance": "si",
+   "rationale": "Las disposiciones del Ministerio Público deciden el inicio, continuación o archivo de las actuaciones."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q04",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "no",
+   "rationale": "Legitimación de la acción reparatoria, no quién decide investigar."
+  }
+ ]
+}

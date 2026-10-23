@@ -1,0 +1,767 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite excluir al acusado durante un interrogatorio por seguridad, pero no prohíbe contactos durante todo el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibir al imputado comunicarse o aproximarse a la víctima y a otras personas determinadas, respetando la defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No establece una prohibición de comunicación del acusado con la víctima y sus testigos durante el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Contempla prohibición de acercamiento a la víctima, pero no permanencia en la localidad ni presentaciones periódicas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_192_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No regula las obligaciones de permanecer en la localidad, evitar lugares y presentarse periódicamente a la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No establece el plazo para autorizar un viaje del imputado ni quién debe vigilarlo durante ese permiso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

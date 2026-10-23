@@ -1,0 +1,59 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 165. Abstención para rendir testimonio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_248_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_248_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_248_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_248_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0018_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "si",
+      "rationale": "Aprueba un protocolo oficial para otorgar medidas de protección y cautelares en el marco de la Ley 30364."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0018_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "si",
+      "rationale": "Aprueba un protocolo oficial para otorgar medidas de protección y cautelares en el marco de la Ley 30364."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Aprueba un protocolo oficial para otorgar medidas de protección y cautelares en el marco de la Ley 30364; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 91. Oportunidad y trámite no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

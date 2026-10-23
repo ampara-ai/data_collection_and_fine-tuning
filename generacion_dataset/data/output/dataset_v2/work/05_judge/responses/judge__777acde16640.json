@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_96_01",
+      "relevance": "si",
+      "rationale": "La constitución en actor civil no elimina la obligación de declarar como testigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "si",
+      "rationale": "Aclara que el embarazo no es elemento del delito y que su ausencia no excluye la consumación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

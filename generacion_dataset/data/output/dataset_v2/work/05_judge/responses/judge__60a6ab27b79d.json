@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "si",
+      "rationale": "Permite representación común de numerosos actores civiles bajo las condiciones indicadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "Regula investigación fiscal de violencia, no representación común."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de entrega internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficios de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula representación del imputado en proceso de seguridad, no de las víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "si",
+      "rationale": "Dispone que el juez designe al apoderado común si no existe acuerdo explícito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza prisión preventiva y pericia psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula examen de víctimas menores en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento por inasistencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "Establece criterios de valoración pericial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula acuerdos de terminación anticipada, no elección de representante de víctimas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

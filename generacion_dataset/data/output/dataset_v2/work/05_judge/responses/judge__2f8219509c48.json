@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala]» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 245. Audiencia de prueba anticipada» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 68.- Exención de pena» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 198.- Administración fraudulenta» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 5. Definición de violencia contra las mujeres» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Casación 931-2016, Cusco» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte)» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 286. Presupuestos» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "si",
+      "rationale": "Prohíbe utilizar pruebas obtenidas vulnerando el contenido esencial de derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Prueba de comportamiento previo inadmisible (Exp. 6265-2020)» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 134. Contenido del Expediente Fiscal» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 521-C. Audiencia ante la Corte Suprema» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 442.- Maltrato» y no aporta información para resolver la exclusión de documentos obtenidos vulnerando derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_159_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "si",
+      "rationale": "Excluye el uso directo e indirecto de pruebas obtenidas vulnerando derechos fundamentales, aunque no determina por sí solo el desenlace del caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

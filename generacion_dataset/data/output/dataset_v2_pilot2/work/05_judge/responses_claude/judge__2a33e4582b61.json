@@ -1,0 +1,47 @@
+{
+ "_model": "claude-sonnet-5-5",
+ "judgments": [
+  {
+   "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+   "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+   "relevance": "si",
+   "rationale": "Establece pena de 12 a 15 años si la víctima muere a consecuencia de la lesión y era previsible."
+  },
+  {
+   "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+   "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+   "relevance": "si",
+   "rationale": "Para cónyuge/conviviente, si muere por las agravantes la pena es de 15 a 20 años."
+  },
+  {
+   "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+   "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+   "relevance": "si",
+   "rationale": "El numeral 3 agrava la lesión grave cuando la víctima depende o está subordinada."
+  },
+  {
+   "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+   "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+   "relevance": "si",
+   "rationale": "El numeral 4 agrava cuando hay dependencia o subordinación laboral y el agente se aprovecha."
+  },
+  {
+   "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_107_01",
+   "relevance": "si",
+   "rationale": "El ofendido puede instar directamente ante el juez la sanción penal y la reparación civil en delitos de acción privada."
+  },
+  {
+   "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_107_01",
+   "relevance": "si",
+   "rationale": "El directamente ofendido puede accionar contra quien considere responsable pidiendo sanción y reparación civil."
+  },
+  {
+   "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_107_01",
+   "relevance": "si",
+   "rationale": "Indica que la sanción penal y la reparación civil se piden siempre conjuntamente, por lo que no se puede separar."
+  }
+ ]
+}

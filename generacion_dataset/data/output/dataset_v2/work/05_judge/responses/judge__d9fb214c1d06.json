@@ -1,0 +1,83 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "Regula recursos contra resoluciones, no presencia de la madre en declaración anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza mentiras como indicios en homicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "si",
+      "rationale": "Dispone citar a los demás sujetos procesales y reconoce su derecho a estar presentes en la audiencia de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Regula decisión y organización de prueba anticipada, pero no el derecho de la madre a presenciarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata tiempo de preparación del defensor público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige notificar las diligencias a las partes, sin resolver la asistencia de la madre a la declaración del niño."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Enumera efectos de inhabilitación penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Explica la naturaleza de la entrevista en cámara Gesell, sin indicar quién puede presenciarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaración infantil grabada con psicólogos en cámara Gesell, sin reconocer expresamente la asistencia de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_245_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula incoación del proceso inmediato, no la asistencia a declaración anticipada del niño."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

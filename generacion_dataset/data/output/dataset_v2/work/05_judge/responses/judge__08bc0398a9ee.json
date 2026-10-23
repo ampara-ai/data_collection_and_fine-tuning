@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_54_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "si",
+      "rationale": "Detalla la forma escrita y los plazos para recusar al juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_54_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "si",
+      "rationale": "Exige alegar todas las causales de recusación simultáneamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a guardar silencio y contar con abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula atribuciones fiscales, no la tutela frente al maltrato policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata la constitución en actor civil y su notificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Permite acudir al juez de investigación preparatoria por vulneración de derechos durante la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula la inhabilitación accesoria, no las quejas por maltrato policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "Regula la comparecencia simple, no la tutela por maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata la validez de la confesión sincera, no la queja por maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "Regula capacitación institucional, no la tutela del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Describe fines de la pena, no mecanismos de queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Enumera efectos de la inhabilitación penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega a la Corte Penal Internacional, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "parcial",
+      "rationale": "Prevé control judicial de derechos y remisión de copias por vulneraciones en la audiencia de detención, pero no la solicitud de tutela."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "Trata protección estatal de víctimas de violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata evaluación del peligro para proteger a víctimas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

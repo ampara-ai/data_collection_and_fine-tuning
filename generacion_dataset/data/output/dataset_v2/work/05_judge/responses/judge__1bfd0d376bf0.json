@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "si",
+      "rationale": "Establece que la penetración parcial basta para consumar la violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "si",
+      "rationale": "Explica que la lesión parcial antigua es compatible con la violación y con un relato corroborado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "si",
+      "rationale": "Describe la anulación en casación de dos absoluciones y la orden de celebrar un nuevo juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "si",
+      "rationale": "Explica la prohibición de repetir injustificadamente la entrevista de la menor y la existencia de excepciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "si",
+      "rationale": "Presenta la anulación de una orden de repetir la entrevista por revictimización e interés superior del niño."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

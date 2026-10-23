@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00672_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "si",
+      "rationale": "Reconoce a familiares el derecho a la verdad y exige investigar mientras persista incertidumbre."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "si",
+      "rationale": "Define expresamente el derecho a la verdad como medio de reparación para víctimas y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "si",
+      "rationale": "Exige investigar mientras se desconozca la suerte de la persona desaparecida."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce igualdad de facultades y recursos de las partes, sin detallar las del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Valora una declaración policial del acusado, no facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Determina niveles de daño psíquico, no participación procesal."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a reparación, pero no las facultades para intervenir en el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "parcial",
+      "rationale": "Permite a las partes ofrecer pruebas ante una variación de la acusación, sin explicar sus facultades generales."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "Protege al abogado defensor del acusado, no desarrolla la intervención del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aclara el plazo para constituirse en actor civil, sin detallar sus facultades posteriores."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Enumera las facultades del actor civil para probar, intervenir, pedir nulidades y recurrir."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica el límite civil de su apelación, pero no el conjunto de facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Describe la exposición de pretensiones y pruebas por el abogado del actor civil al abrir el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de protección contra violencia sin desarrollar facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Permite a otros sujetos procesales asistir a prueba anticipada, sin describir sus facultades generales."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Autoriza al actor civil a ofrecer pruebas e interponer los recursos previstos por ley."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "Regula desalojo por usurpación, no devolución de un teléfono incautado."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula incoación del proceso inmediato, no devolución de bienes."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisión de deberes vinculada a otros delitos y no la devolución de evidencia."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Trata cooperación con la Corte Penal Internacional, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Fija penas por robo agravado y no devolución de bienes incautados."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "Trata consentimiento sexual en jurisprudencia española."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita, sin regular devolución de evidencia por fiscalía o policía."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prueba de oficio en segunda instancia."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata estándar probatorio de acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula detención para entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula plazo para constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0018::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Regula devolución de objetos ya utilizados y permite acudir al juez ante negativa fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

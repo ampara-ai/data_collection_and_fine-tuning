@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "si",
+      "rationale": "Explica que la violación sexual no requiere huellas físicas para acreditar la violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0025_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "si",
+      "rationale": "Describe una casación que revocó la absolución basada en la falta de violencia acreditada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0025_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "si",
+      "rationale": "Exige valorar la edad, el aislamiento y la superioridad física para apreciar la violencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

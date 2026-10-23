@@ -1,0 +1,245 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_462_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si yo misma denuncio a mi agresor ante el juez sin esperar a la fiscalía, ¿cuánto tiempo tiene él para responderme?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez admite la querella y da al acusado cinco días hábiles para contestar y presentar pruebas."
+    },
+    {
+     "query": "¿Cuánto falta para que me citen a la audiencia después de que él responde a mi denuncia presentada directamente al juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Vencido el plazo de respuesta se cita a juicio, con audiencia entre diez y treinta días después."
+    },
+    {
+     "query": "En la audiencia me van a poner frente a frente con mi agresor para llegar a un arreglo. ¿Es obligatorio aceptar?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Al inicio se invita a las partes a conciliar en sesión privada; si no se acepta, se deja constancia de las razones y sigue el juicio público."
+    },
+    {
+     "query": "Si por miedo o por un problema no puedo ir un día a la audiencia de mi propio caso, ¿qué pasa con el proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si quien denuncia no asiste o se retira sin justificación, la causa se archiva (sobreseimiento)."
+    },
+    {
+     "query": "Cuando yo misma llevo el caso, ¿quién hace el papel de acusar en el juicio? ¿Me van a hacer preguntas también?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El querellante tiene las facultades y obligaciones del Ministerio Público, aunque puede ser interrogado."
+    },
+    {
+     "query": "Mi agresor dice que no puede ser juzgado por algún motivo legal. ¿Cuándo decide el juez sobre eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Los medios de defensa alegados al contestar o durante el juicio se resuelven junto con la sentencia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a denunciar a mi expareja varias veces y en la comisaría me dijeron que mejor nos arregláramos. ¿Pueden negarse a investigar?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado tiene el deber de investigar las denuncias de violencia doméstica; convencer a la víctima de reconciliarse o negarse a investigar es una falla grave."
+    },
+    {
+     "query": "Las autoridades dicen que lo que me hizo mi pareja es poca cosa y no abren caso. ¿Eso es correcto?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Minimizar los hechos y no abrir investigación penal demuestra impunidad y vulnera el deber del Estado."
+    },
+    {
+     "query": "¿Puede considerarse maltrato grave que la policía y los jueces no hagan nada cuando denuncio golpes de mi expareja?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La inacción del Estado ante denuncias repetidas puede constituir trato inhumano o tortura según el tribunal europeo."
+    },
+    {
+     "query": "Solo me tomaron mi versión y a él le creyeron todo sin averiguar más. ¿Qué deberían haber hecho las autoridades?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las autoridades deben hacer intentos serios de establecer las circunstancias de las agresiones y no limitarse a la versión del agresor."
+    },
+    {
+     "query": "Me dijeron que solo hacían unas averiguaciones previas y que no había investigación penal. ¿Eso basta?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Las averiguaciones previas son insuficientes; se requiere una investigación penal efectiva y de oficio."
+    },
+    {
+     "query": "¿Qué puedo hacer si me ignoran en todas las denuncias por violencia que ya puse?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La repetición de decisiones de no iniciar proceso penal muestra una actitud de impunidad que viola derechos humanos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Pedí protección a la policía porque mi pareja me amenaza y no hicieron nada. ¿Ellos tienen alguna responsabilidad?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El funcionario que omite o demora ilegalmente un acto frente a una solicitud de garantías o caso de violencia familiar enfrenta pena de 2 a 5 años."
+    },
+    {
+     "query": "¿Qué castigo tiene un funcionario que deja pasar mi denuncia de violencia sin atenderla?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Omitir o retardar actos de su cargo en casos de violencia familiar se castiga con prisión de dos a cinco años."
+    },
+    {
+     "query": "El fiscal lleva meses sin hacer nada con mi caso de maltrato y siempre me dicen que espere. ¿Es un delito?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Retardar ilegalmente un acto funcional es delito, con pena agravada si se trata de violencia familiar."
+    },
+    {
+     "query": "¿Cuánta cárcel le toca a un servidor público que no actúa cuando alguien pide garantías por amenazas?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Cuando la omisión se refiere a garantías personales o violencia familiar, la pena es de no menos de dos ni más de cinco años."
+    },
+    {
+     "query": "¿Cuál es la pena normal para un funcionario que se niega a hacer su trabajo, sin que sea violencia familiar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena base es de hasta dos años de prisión y treinta a sesenta días-multa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Sufrí una violación y cada vez que declaro tengo que contar todo de nuevo. ¿Me pueden obligar a repetirlo siempre?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "No es razonable exigir a las víctimas de violencia sexual que repitan los hechos sexuales en cada declaración; se debe evitar la revictimización."
+    },
+    {
+     "query": "Solo denuncié una vez que me violaron y ahora dicen que el caso no avanza porque no insistí. ¿Es mi culpa?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado no puede justificar la falta de investigación alegando que la víctima no denunció varias veces."
+    },
+    {
+     "query": "Me da pánico revivir lo que me pasó cada vez que me interrogan. ¿Las autoridades deben cuidar eso?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Se deben tomar medidas para evitar que la víctima reexperimente el trauma cada vez que declara."
+    },
+    {
+     "query": "¿Tengo que denunciar varias veces para que investiguen una agresión sexual?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La obligación de investigar no exige que la víctima denuncie más de una vez."
+    },
+    {
+     "query": "¿Puede el Estado excusarse de investigar mi caso de abuso sexual diciendo que antes no hablé de eso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si la víctima ya denunció, el Estado no puede excusarse por falta de denuncias adicionales; debe investigar."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me golpeó y me rompió la nariz aunque ya no vivimos juntos. ¿Cuenta como violencia familiar?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La figura de violencia familiar comprende tanto a convivientes como a ex convivientes."
+    },
+    {
+     "query": "Mi agresor me llevó a su casa a la fuerza y me tuvo encerrada una semana amenazándome. ¿Puede terminar preso de verdad?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se confirmó una condena de cuatro años de cárcel efectiva a un agresor que golpeó y retuvo a su ex conviviente."
+    },
+    {
+     "query": "Si el agresor es condenado, ¿puede quedar libre sin ir a la cárcel por tener la pena suspendida?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Por la gravedad y la repetición de estos delitos y la alarma social, se justifica una pena efectiva y no suspendida."
+    },
+    {
+     "query": "Durante el juicio no quedó claro si éramos pareja actual o ya habíamos terminado. ¿Eso puede hacer que él se libre?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La falta de precisión sobre si eran convivientes o ex convivientes no impide la condena."
+    },
+    {
+     "query": "¿Cuánto dinero me pueden pagar por el daño si mi expareja me deja lesionada?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En el caso se fijó una reparación civil de veinte mil soles junto con la condena."
+    },
+    {
+     "query": "Además de la cárcel, ¿al agresor le imponen alguna terapia o curso para que cambie su conducta?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La ley prevé inhabilitación y tratamiento reeducativo para el agresor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me agredieron sexualmente pero no hubo penetración por la vagina. ¿Aun así puede considerarse violación?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La violación no exige relación vaginal; incluye penetración anal o vaginal con partes del cuerpo u objetos, y bucal."
+    },
+    {
+     "query": "Me hicieron algo con un objeto y no sé si eso se llama violación o es otra cosa. ¿Cómo se considera?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La penetración con objetos por vía vaginal o anal constituye violación sexual."
+    },
+    {
+     "query": "Fue algo muy breve y poco profundo, ¿eso cuenta igual como violación o tiene que ser más?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Basta una penetración por insignificante que sea."
+    },
+    {
+     "query": "Me forzaron a un acto sexual por la boca. ¿Puedo denunciarlo como violación?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La penetración bucal con el miembro viril también se considera violación sexual."
+    },
+    {
+     "query": "Si me agrede sexualmente alguien de la policía mientras estoy detenida, ¿el Estado responde por eso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró responsable al Estado peruano por la violación sexual y tortura cometidas por agentes policiales en custodia."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa y no el contenido permitido de un testimonio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

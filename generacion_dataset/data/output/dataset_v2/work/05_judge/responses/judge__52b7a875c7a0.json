@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "si",
+      "rationale": "Tipifica tocamientos sin consentimiento y fija la pena básica de tres a seis años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "si",
+      "rationale": "Prevé pena por amenaza y aumento de cinco años si la víctima tiene entre catorce y dieciocho años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "si",
+      "rationale": "Permite oralizar la declaración policial sin fiscal por urgencia e inasistencia ajena a las partes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "si",
+      "rationale": "Explica por qué la supuesta falla procesal no anuló la condena de treinta y cinco años en ese caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

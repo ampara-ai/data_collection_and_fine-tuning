@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__ec19ba398e2e",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00051_e0017::q02\",\n  \"question\": \"Mi expareja me tiene vigilada y me amenazó de muerte; si nadie hace nada a tiempo, ¿el Estado tiene alguna responsabilidad?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_171_01\",\n    \"title\": \"Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir\",\n    \"text\": \"El que tiene acceso carnal con una persona por vía vaginal, anal o bucal, o realiza cualquier otro acto análogo con la introducción de un objeto o parte del cuerpo por alguna de las dos primeras vías, después de haberla puesto en estado de inconsciencia o en la imposibilidad de resistir, será reprimido con pena privativa de libertad no menor de veinte ni mayor de veintiséis años.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_92_01\",\n    \"title\": \"Artículo 92.- La reparación civil: Oportunidad de su determinación\",\n    \"text\": \"La reparación civil se determina conjuntamente con la pena y es un derecho de la víctima que debe efectivizarse durante el tiempo que dure la condena. El juez garantiza su cumplimiento.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_28_01::q01\",\n  \"question\": \"En la comisaría me hicieron muchas preguntas sobre mi situación con mi pareja, ¿para qué sirven y qué hace el juez con eso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_28_01\",\n    \"title\": \"Artículo 28. Valoración del riesgo\",\n    \"text\": \"Artículo 28. Valoración del riesgo\\nEn casos de denuncias por violencia contra las mujeres y los integrantes del grupo familiar, la Policía Nacional del Perú, el Ministerio Público o el Poder Judicial aplican la ficha de valoración del riesgo, que corresponda a cada caso. También deben aplicarla cuando toman conocimiento de hechos de violencia durante el desempeño de otras funciones.\\nLa Policía Nacional del Perú y el Ministerio Público deben remitir la ficha de valoración de riesgo al juzgado de familia, conforme al proceso regulado en la presente ley, el cual la evalúa para su pronunciamiento sobre las medidas de protección y cautelares y debe ser actualizada cuando las circunstancias lo ameriten, lo que incluye la posibilidad de variar la evaluación del riesgo.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_28_01::q02\",\n  \"question\": \"Después de la denuncia la violencia empeoró, ¿se puede volver a evaluar qué tan en peligro estoy?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_28_01\",\n    \"title\": \"Artículo 28. Valoración del riesgo\",\n    \"text\": \"Artículo 28. Valoración del riesgo\\nEn casos de denuncias por violencia contra las mujeres y los integrantes del grupo familiar, la Policía Nacional del Perú, el Ministerio Público o el Poder Judicial aplican la ficha de valoración del riesgo, que corresponda a cada caso. También deben aplicarla cuando toman conocimiento de hechos de violencia durante el desempeño de otras funciones.\\nLa Policía Nacional del Perú y el Ministerio Público deben remitir la ficha de valoración de riesgo al juzgado de familia, conforme al proceso regulado en la presente ley, el cual la evalúa para su pronunciamiento sobre las medidas de protección y cautelares y debe ser actualizada cuando las circunstancias lo ameriten, lo que incluye la posibilidad de variar la evaluación del riesgo.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00051_e0017::q02",
+     "chunk_tipo02_cp_art_171_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00051_e0017::q02",
+     "chunk_tipo02_cp_art_92_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_28_01::q01",
+     "chunk_tipo01_ley30364_art_28_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_28_01::q02",
+     "chunk_tipo01_ley30364_art_28_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__ec19ba398e2e.json"
+}

@@ -1,0 +1,221 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Exige declaración segura y privada y registro para evitar su repetición."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula la privacidad del relato ni cómo evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Reconoce examen por personal del sexo que indique la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Incluye asistencia jurídica gratuita durante el proceso y atención médica y psicológica."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación cometida por personal policial que se vale de sus funciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa cinco años la pena por crueldad o finalidad de degradar a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0087::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Establece penas de violación y otras agravantes, sin la específica de crueldad o degradación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece de seis a doce años para lesiones graves causadas a la cónyuge."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Regula lesiones graves agravadas por vínculo conyugal y sus penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Prevé muerte previsible derivada de lesiones leves agravadas, sin precisar el supuesto de lesiones graves."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece de quince a veinte años ante muerte previsible derivada de lesiones graves agravadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Fija de doce a quince años cuando las lesiones graves familiares causan muerte previsible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No establece la pena por muerte previsible de la madre a consecuencia de golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones graves cuando la víctima depende o está subordinada al agente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones graves si el agente aprovecha dependencia económica o laboral."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

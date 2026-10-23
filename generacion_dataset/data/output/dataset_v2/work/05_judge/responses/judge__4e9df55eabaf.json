@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "si",
+      "rationale": "Dispone convertir las jornadas injustificadamente incumplidas en privación de libertad previo apercibimiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "si",
+      "rationale": "Permite convertir las penas autónomas de jornadas incumplidas sin justificación en prisión previo apercibimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

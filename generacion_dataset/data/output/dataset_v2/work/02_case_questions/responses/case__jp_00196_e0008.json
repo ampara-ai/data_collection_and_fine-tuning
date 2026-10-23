@@ -1,0 +1,49 @@
+{
+ "questions": [
+  {
+   "query": "El papá de mi hija no paga la pensión y su abogado pide arreglar antes con el fiscal; ¿pueden obligar al fiscal a aceptarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00196_e0008_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que ofrecer una salida sin juicio es decisión propia del fiscal y no se le impone.",
+   "expected_answer_focus": "Que es facultad discrecional del fiscal y un protocolo no puede ir contra la ley.",
+   "victim_voice_rationale": "Madre que teme que el deudor demore el proceso con trámites."
+  },
+  {
+   "query": "Quiero acusar al papá de mi niña por no darle plata para comer; ¿quién empieza a averiguar, comisaría o fiscalía?",
+   "topic": "canales_denuncia",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_330_01"
+   ],
+   "positive_selection_reason": "El artículo explica quién hace las primeras averiguaciones y bajo la dirección de quién.",
+   "expected_answer_focus": "Que la policía investiga al inicio bajo la conducción del fiscal y para qué sirve esa etapa.",
+   "victim_voice_rationale": "Madre que no sabe a qué puerta ir."
+  },
+  {
+   "query": "Si el caso va por la vía rápida, ¿en la primera audiencia se puede arreglar para que me paguen lo que me deben?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_447_01"
+   ],
+   "positive_selection_reason": "El artículo permite instar acuerdos y salidas alternativas en la audiencia única y regula el orden de decisiones.",
+   "expected_answer_focus": "Que en la audiencia única las partes pueden pedir acuerdo reparatorio u otras salidas y que el juez resuelve ahí mismo.",
+   "victim_voice_rationale": "Pregunta sobre un trámite rápido y sus posibilidades."
+  },
+  {
+   "query": "Perdí en la apelación y la cárcel pedida era poca; ¿puedo pedir que el tribunal más alto del país lo vea igual?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_427_01"
+   ],
+   "positive_selection_reason": "El artículo fija cuándo procede el recurso ante la Corte Suprema, con límites por pena y una excepción discrecional.",
+   "expected_answer_focus": "Condiciones de procedencia del recurso de casación y su excepcionalidad.",
+   "victim_voice_rationale": "Duda sobre hasta dónde puede llegar su reclamo."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

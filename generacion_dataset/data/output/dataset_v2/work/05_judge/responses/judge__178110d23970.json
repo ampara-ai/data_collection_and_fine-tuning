@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00401_e0016::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Tipifica el incumplimiento de alimentos judiciales y establece las penas."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "si",
+      "rationale": "Fija el plazo de prescripción según la pena y su duplicación por omisión de asistencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Explica que las actuaciones fiscales interrumpen el plazo y hacen iniciar uno nuevo."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "La acusación directa suspende la prescripción y el caso resuelve que debe continuar el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "si",
+      "rationale": "Fija el plazo ordinario de investigación y las posibilidades de prórroga."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona acusación directa con sospecha suficiente, pero se centra en la suspensión de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Explica la función de la acusación directa, sin detallar sus presupuestos probatorios."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "si",
+      "rationale": "Permite acusar directamente cuando las diligencias preliminares establecen suficientemente el delito y la intervención."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No establece cuándo procede acusar directamente por el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0040_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "si",
+      "rationale": "La resolución explica la insuficiencia de una entrevista de cinco minutos y su incidencia en la absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0040_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "si",
+      "rationale": "La imposibilidad de acreditar identidad y edad impidió anular la absolución para un nuevo juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

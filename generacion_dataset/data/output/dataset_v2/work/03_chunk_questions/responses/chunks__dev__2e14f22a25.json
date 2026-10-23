@@ -1,0 +1,55 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_283_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Dejaron preso a quien me agredió mientras lo juzgan y su abogado dice que lo van a soltar. ¿Puede pedir que lo liberen más de una vez?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El imputado puede pedir el cese de la prisión preventiva o de las restricciones las veces que quiera."
+    },
+    {
+     "query": "¿Cada cuánto tiempo revisa el juez si mi agresor debe seguir preso aunque nadie lo pida?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Pasados seis meses, el juez revisa de oficio la medida y convoca una audiencia virtual dentro del tercer día."
+    },
+    {
+     "query": "¿Qué tendría que pasar para que dejen libre al hombre que me golpeó antes de terminar el juicio? Tengo miedo de que salga.",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Procede cuando nuevas pruebas muestran que ya no existen los motivos de la prisión; el juez valora su situación personal, el tiempo preso y el estado del caso, e impone reglas para asegurar que acuda."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi conviviente me pegó y lo absolvieron por un peritaje que el juez pidió por su cuenta. ¿Puede el juez traer pruebas sin que las pidan las partes?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez puede incorporar prueba de oficio si respeta el principio acusatorio, la imparcialidad y el derecho de defensa, y justifica por qué la ordena."
+    },
+    {
+     "query": "Anularon la sentencia que absolvía a mi agresor y cerraron mi caso diciendo que lo que hizo no era delito. ¿Pueden hacer eso en segunda instancia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El archivo del caso de oficio en apelación no procede si no se cumplen los presupuestos legales; en este caso el fiscal recurrió en casación."
+    },
+    {
+     "query": "Si el fiscal no está de acuerdo con que cierren mi denuncia de agresión de mi pareja, ¿puede reclamar ante la Corte Suprema?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El fiscal superior interpuso casación contra la decisión de la Sala que archivó el caso de agresiones a la conviviente, y la Corte Suprema examinó los límites de esa decisión."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

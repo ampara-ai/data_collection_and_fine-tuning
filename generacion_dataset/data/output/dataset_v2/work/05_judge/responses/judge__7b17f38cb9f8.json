@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_111_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "si",
+      "rationale": "Fija pena de cuatro a ocho años para muerte culposa con vehículo y alcohol en los umbrales indicados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_111_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "si",
+      "rationale": "Distingue la muerte culposa común de la causada infringiendo reglas profesionales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_111_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "si",
+      "rationale": "Eleva la pena cuando existen varias víctimas del mismo hecho culposo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_25_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad por prestar ayuda dolosa al autor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_25_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Prevé disminución prudencial para asistencia dolosa secundaria."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

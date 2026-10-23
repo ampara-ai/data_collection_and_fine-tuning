@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "si",
+      "rationale": "Permite imponer tratamiento al agresor en libertad y exige pronunciamiento en la sentencia condenatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "si",
+      "rationale": "Permite aplicar el tratamiento desde el inicio del procedimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_15_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "si",
+      "rationale": "Autoriza solicitar la nulidad de transferencias fraudulentas de bienes que responden a la reparación civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_15_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "si",
+      "rationale": "Regula el traslado al adquirente por cinco días, la audiencia y el pronunciamiento sobre la nulidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "si",
+      "rationale": "Identifica el tribunal que revisa las decisiones de cada órgano judicial indicado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

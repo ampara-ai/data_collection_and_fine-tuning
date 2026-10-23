@@ -1,0 +1,227 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0033::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Explica la protección de la libertad sexual de adolescentes y la sanción de su vulneración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "si",
+      "rationale": "Explica la protección de la libertad sexual de adolescentes y la sanción de su vulneración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Establece agravantes por autoridad, vigilancia o posición que genera confianza sobre la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Bien jurídico libertad sexual (Casación 148-2010, Moquegua) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la revisión de errores jurídicos en casación, pero no autoriza expresamente resolver el fondo sin reenvío."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Permite resolver el fondo en casación sin reenvío cuando no es necesario un nuevo debate."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a reparación civil y asigna al juez la garantía de su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión de ejecución de la pena para delitos de violación de la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Fija penas de violación, pero no regula su suspensión o ejecución en libertad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 480. Revocación de los beneficios y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 545. Penas no privativas de libertad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Regula la reserva del fallo en general, sin determinar su aplicación al delito sexual de la pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 495. Sentencia declarativa de falsedad instrumental y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 544-A. Ejecución de la condena en el Estado peruano y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tentativa de violación (RN 316-2021, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Concepto violación sexual (Espinoza Gonzáles vs. Perú) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0033::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Expone una reducción de la pena por circunstancias especiales, sin establecer que pueda evitarse el ingreso a prisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Permite devolver a la agraviada los objetos incautados y regula el reclamo judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Fija el tercer día como plazo para pedir decisión judicial ante la negativa del fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Ordena devolver fondos congelados por extorsión cuando se acredita la transferencia perjudicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Permite la devolución provisional de objetos incautados en calidad de depósito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29.- Duración de la pena privativa de libertad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 206.- Formas agravadas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 560. Detención provisional con fines de entrega y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "parcial",
+      "rationale": "Permite levantar la incautación y devolver bienes a propietarios de buena fe, pero no regula la devolución provisional como depósito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 260. Arresto Ciudadano y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 189.- Robo agravado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 224. Incautación de documentos no privados. Deber de exhibición. Secretos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29.- Implementación, registro y acreditación de hogares de refugio temporal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 208. Motivos y objeto de la inspección y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_222_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Falta de afectación psicológica (Exp. 122-2020-65) y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

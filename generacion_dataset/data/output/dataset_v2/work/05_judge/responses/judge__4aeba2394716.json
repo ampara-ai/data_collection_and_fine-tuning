@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00496_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "si",
+      "rationale": "Explica que la absolución por duda no obliga a analizar un tipo penal alternativo."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "si",
+      "rationale": "Permite analizar la pericia no impugnada cuando sirve para contrastar la versión de la menor."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Prohíbe darle valor diferente salvo cuestionamiento mediante prueba actuada en segunda instancia."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuación probatoria en apelación, sin precisar las decisiones que puede adoptar la sala."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la revocación de condena y absolución en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Expone límites de la revaloración al revocar condenas en un contexto de retractación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una revocación admitida por valoración racional, pero en otro contexto de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la revocación de condena y absolución en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "parcial",
+      "rationale": "Muestra límites a absoluciones basadas en valoración ilógica de pericias."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo recurrir en casación, sin resolver por qué puede revocarse una condena."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la revocación de condena y absolución en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "si",
+      "rationale": "Confirma un caso de condena de cinco años revocada por duda probatoria."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la revocación de condena y absolución en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la revocación de condena y absolución en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye competencia para apelaciones a las salas, pero no concreta sus facultades de absolución."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Autoriza revocar condenas y absolver dentro de los límites del recurso."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Indica que procede aclaración, corrección y casación bajo requisitos de admisión."
+    },
+    {
+      "dataset_id": "case::jp_00496_e0010::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Permite añadir hechos o circunstancias y pedir suspensión de hasta cinco días para preparar defensa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

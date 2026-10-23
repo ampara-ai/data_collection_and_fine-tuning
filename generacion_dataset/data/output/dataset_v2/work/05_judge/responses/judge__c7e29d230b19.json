@@ -1,0 +1,143 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00423_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Dispone devolver la acusación defectuosa y suspender la audiencia cinco días para subsanarla."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "si",
+      "rationale": "Explica que frente a la resolución dictada en audiencia correspondía reposición y no apelación."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica que frente a la resolución dictada en audiencia correspondía reposición y no apelación."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "si",
+      "rationale": "Enumera los plazos por tipo de recurso y dispone contarlos desde el día siguiente a la notificación."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "si",
+      "rationale": "Permite la queja contra la inadmisión del recurso y precisa que no suspende el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Regula las limitaciones de acceso a casación y la posibilidad excepcional de doctrina jurisprudencial."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar la queja infundada a las partes y conceder el recurso si resulta fundada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 483. Iniciación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 18. Actuación de los operadores de justicia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 92.- La reparación civil: Oportunidad de su determinación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "si",
+      "rationale": "Enumera los datos de agraviados, acusación y pruebas que debe contener el auto de enjuiciamiento."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas de admisión de pruebas y convenciones probatorias, pero no enumera todo el contenido del auto de enjuiciamiento."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Sugilaciones en relación consentida (Casación 201-2014, Ica) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 63.- Efectos de la Reserva de Fallo Condenatorio y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 484. Audiencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 198.- Administración fraudulenta y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00423_e0008::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Permite medidas de protección ante peligro grave para la víctima y determinados familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 497. Regla general, excepción y recurso y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "si",
+      "rationale": "Reconoce la gravedad de la violencia psicológica, el control, el miedo y la impotencia en la valoración del caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

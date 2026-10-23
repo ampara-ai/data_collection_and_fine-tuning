@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Establece deberes estatales de denuncia, investigación y reparación, pero no identifica dónde reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo05_mpfn_denuncia_violencia_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "si",
+      "rationale": "Permite denunciar virtualmente o por teléfono sin acudir presencialmente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo05_mpfn_denuncia_violencia_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "si",
+      "rationale": "Proporciona el número gratuito 0800-00-205 para denuncias e información."
+    },
+    {
+      "dataset_id": "train::chunk_tipo05_mpfn_denuncia_violencia_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "si",
+      "rationale": "Enumera retiro del agresor, prohibición de acercamiento, comunicación y armas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo05_mpfn_denuncia_violencia_01::q04",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Exige mayoría de edad para la modalidad descrita, pero no explica cómo denuncia una menor por sí sola."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,49 @@
+{
+ "questions": [
+  {
+   "query": "Mi hija de trece años quedó esperando un bebé de un joven mayor y se casaron; ¿eso le baja el castigo a él?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0042_01"
+   ],
+   "positive_selection_reason": "La sentencia resuelve si formar familia con la víctima justifica una pena menor al mínimo.",
+   "expected_answer_focus": "Que el tribunal valoró el matrimonio, el hijo y otras circunstancias para fijar una pena inferior, aunque confirmó la condena.",
+   "victim_voice_rationale": "Madre preocupada por el efecto del matrimonio de su hija con el agresor."
+  },
+  {
+   "query": "Con quien vivo me forzó a intimar bajo amenazas y no me dejó salir; ¿que sea mi esposo cambia la gravedad?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo sanciona la violación con amenaza y agrava cuando el agresor es cónyuge, conviviente o pareja.",
+   "expected_answer_focus": "Que ser pareja o conviviente es agravante de la violación sexual.",
+   "victim_voice_rationale": "Víctima que duda si forzarla su pareja cuenta como delito grave."
+  },
+  {
+   "query": "A quien condenaron por pocos años y no tenía otros delitos, ¿se puede ir a su casa sin pisar la cárcel?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El artículo fija los requisitos para que el juez deje en suspenso la ejecución de una pena corta y sus exclusiones.",
+   "expected_answer_focus": "Condiciones para suspender la ejecución de la pena y casos en que no procede.",
+   "victim_voice_rationale": "Víctima desconfiada que teme que el condenado no cumpla encierro."
+  },
+  {
+   "query": "Pasaron muchos años, él confesó y no volvió a meterse en problemas; ¿el juez puede darle menos castigo por eso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0042_01"
+   ],
+   "positive_selection_reason": "La sentencia aplica proporcionalidad por confesión y tiempo sin reincidencia en un caso de violación sexual.",
+   "expected_answer_focus": "Que confesión, edad y buena conducta posterior pueden llevar a una pena menor al mínimo legal.",
+   "victim_voice_rationale": "Víctima que teme que el paso del tiempo beneficie al agresor."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

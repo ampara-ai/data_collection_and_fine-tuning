@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 196.- Estafa» y no aporta información para resolver el consentimiento de una adolescente en un traslado para explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales» y no aporta información para resolver el consentimiento de una adolescente en un traslado para explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 212. Examen corporal de otras personas» y no aporta información para resolver el consentimiento de una adolescente en un traslado para explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Penal Miguel Castro Castro vs. Perú, f.j. 303» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 179.- Favorecimiento a la prostitución» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 105. Facultades adicionales del actor civil» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 212. Examen corporal de otras personas» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 5. Definición de violencia contra las mujeres» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 114. Idioma» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 152.- Secuestro» y no aporta información para resolver la pena por financiar o facilitar la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 188.- Robo» y no aporta información para resolver las modalidades de explotación comprendidas en la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 23-B. Órganos de supervisión y apoyo de la ejecución de la medida de protección» y no aporta información para resolver las modalidades de explotación comprendidas en la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 206.- Formas agravadas» y no aporta información para resolver las modalidades de explotación comprendidas en la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «RN 1865-2015, Huancavelica» y no aporta información para resolver las modalidades de explotación comprendidas en la trata."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

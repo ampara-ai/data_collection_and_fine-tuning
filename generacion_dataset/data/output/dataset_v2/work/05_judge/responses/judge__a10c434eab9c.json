@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_119-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "si",
+      "rationale": "Permite videoconferencia del preso excepcionalmente por dificultades de traslado debidas a distancia o peligro de fuga."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

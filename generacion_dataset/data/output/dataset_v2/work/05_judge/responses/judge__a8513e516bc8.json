@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 271. Audiencia y resolución aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 562. Asistencia Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 557. Recepción y trámite no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 274. Prolongación de la prisión preventiva no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

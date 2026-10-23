@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "Regula la lectura de prueba documental en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Prohíbe referencias innecesarias a apariencia, vida íntima y relaciones de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe preguntas impertinentes al testigo, sin abordar específicamente estereotipos sobre la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata de la validez de la confesión del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Establece garantías de declaración del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula la demanda de revisión de condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica la intromisión técnica en la intimidad, no el interrogatorio policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza indagaciones sobre vida sexual o social para desacreditar a víctimas de violación, sin regular estas preguntas policiales en general."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula el interrogatorio del acusado en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Resuelve la retractación notarial y la repetición del testimonio de una menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Analiza la valoración de una entrevista y su corroboración, no preguntas sobre apariencia o vida íntima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el principio de no discriminación, sin precisar los límites de esas preguntas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Ordena evitar declaraciones reiterativas que produzcan doble victimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Exige evitar declaraciones humillantes, juicios de valor y estereotipos discriminatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Exige actuación sin procedimientos discriminatorios ni estereotipos hacia las víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Reconoce derechos del imputado, no la atención a víctimas con protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata de investigar violencia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección eficaz y actuación rápida, sin identificar el canal policial para esta emergencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar, no ejecución de órdenes de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica la evaluación del riesgo después de una orden de protección, sin indicar a quién llamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones en investigaciones penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "si",
+      "rationale": "Atribuye a la policía ejecutar la protección, habilitar comunicación directa y priorizar atención oportuna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Aborda la protección y revisión continua del riesgo, sin concretar la respuesta policial solicitada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "Regula coordinación institucional de investigación, no atención de esta emergencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "parcial",
+      "rationale": "Establece la sanción por incumplir protección, sin explicar a quién llamar ni la atención policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Exige a la policía actuar de inmediato ante hechos o amenazas de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "si",
+      "rationale": "Exige disponibilidad permanente de nombres y ubicación de víctimas protegidas para todo el personal policial local."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "si",
+      "rationale": "Establece atención policial prioritaria, incluida la visita domiciliaria requerida, para víctimas con protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

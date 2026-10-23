@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__6bd06ca5018e",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_124-b_01::q01\",\n  \"question\": \"Me dijeron que mi sufrimiento mental es de nivel medio. ¿Eso lo vuelve un delito o una infracción menor?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_124-b_01\",\n    \"title\": \"Artículo 124-B. Determinación de la lesión psicológica\",\n    \"text\": \"Artículo 124-B . Determinación de la lesión psicológica\\nEl nivel de la lesión psicológica es determinado mediante valoración realizada de conformidad con el instrumento técnico oficial especializado que orienta la labor pericial, con la siguiente equivalencia:\\na. Falta de lesiones leves: nivel leve de daño psíquico.\\nb. Lesiones leves: nivel moderado de daño psíquico.\\nc. Lesiones graves: nivel grave o muy grave de daño psíquico\\\".\\nTERCERA. Modificación del artículo 242 del Código Procesal Penal\\nModifícase el artículo 242 del Código Procesal Penal, promulgado por el Decreto Legislativo 957, el cual queda redactado en los términos siguientes:\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_124-b_01\",\n    \"title\": \"Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual\",\n    \"text\": \"El nivel del daño psíquico es determinado a través de un examen pericial o cualquier otro medio idóneo, con la siguiente equivalencia:\\nA. Falta de lesiones leves: nivel leve de daño psíquico.\\nB. Lesiones leves: nivel moderado de daño psíquico.\\nC. Lesiones graves: nivel grave o muy grave de daño psíquico.\\nLa afectación psicológica, cognitiva o conductual, puede ser determinada a través de un examen pericial o cualquier otro elemento probatorio objetivo similar al que sea emitido por entidades públicas o privadas especializadas en la materia, sin someterse a la equivalencia del daño psíquico.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_124-b_01::q02\",\n  \"question\": \"¿Con qué se mide qué tan fuerte es el daño psicológico que me dejó la violencia?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_124-b_01\",\n    \"title\": \"Artículo 124-B. Determinación de la lesión psicológica\",\n    \"text\": \"Artículo 124-B . Determinación de la lesión psicológica\\nEl nivel de la lesión psicológica es determinado mediante valoración realizada de conformidad con el instrumento técnico oficial especializado que orienta la labor pericial, con la siguiente equivalencia:\\na. Falta de lesiones leves: nivel leve de daño psíquico.\\nb. Lesiones leves: nivel moderado de daño psíquico.\\nc. Lesiones graves: nivel grave o muy grave de daño psíquico\\\".\\nTERCERA. Modificación del artículo 242 del Código Procesal Penal\\nModifícase el artículo 242 del Código Procesal Penal, promulgado por el Decreto Legislativo 957, el cual queda redactado en los términos siguientes:\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_124-b_01\",\n    \"title\": \"Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual\",\n    \"text\": \"El nivel del daño psíquico es determinado a través de un examen pericial o cualquier otro medio idóneo, con la siguiente equivalencia:\\nA. Falta de lesiones leves: nivel leve de daño psíquico.\\nB. Lesiones leves: nivel moderado de daño psíquico.\\nC. Lesiones graves: nivel grave o muy grave de daño psíquico.\\nLa afectación psicológica, cognitiva o conductual, puede ser determinada a través de un examen pericial o cualquier otro elemento probatorio objetivo similar al que sea emitido por entidades públicas o privadas especializadas en la materia, sin someterse a la equivalencia del daño psíquico.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_124-b_01::q01",
+     "chunk_tipo01_ley30364_art_124-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_124-b_01::q01",
+     "chunk_tipo02_cp_art_124-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_124-b_01::q02",
+     "chunk_tipo01_ley30364_art_124-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_124-b_01::q02",
+     "chunk_tipo02_cp_art_124-b_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__6bd06ca5018e.json"
+}

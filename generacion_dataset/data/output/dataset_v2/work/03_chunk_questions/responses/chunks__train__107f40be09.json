@@ -1,0 +1,209 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_489_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Ya condenaron a mi agresor y la sentencia quedó firme. ¿Qué juez se encarga de que realmente cumpla la condena?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez de la investigación preparatoria es competente para la ejecución de las sentencias condenatorias firmes."
+    },
+    {
+     "query": "Si surge algún problema mientras el condenado cumple su castigo, ¿ante quién se plantea y quién lo resuelve?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El mismo juez resuelve todos los incidentes que se presenten durante la ejecución de la sanción."
+    },
+    {
+     "query": "Me da miedo que después de la sentencia nadie vigile que él cumpla y se quede todo en nada. ¿Quién controla eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez hace las comunicaciones legales y las diligencias necesarias para que la sanción se cumpla debidamente."
+    },
+    {
+     "query": "¿Quién decide si al condenado le dan beneficios para salir antes de la cárcel?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los beneficios penitenciarios se rigen por el Código de Ejecución Penal, exceptuados de la competencia general del juez de investigación preparatoria."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_82_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Pasó un golpe hace años y no denuncié. ¿Desde qué día empieza a contar el tiempo para que ya no se pueda castigar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En el delito instantáneo el plazo corre desde el día en que se consumó."
+    },
+    {
+     "query": "Mi pareja me maltrata todos los meses desde hace mucho. ¿El tiempo para denunciar se cuenta desde la primera vez o desde la última?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En el delito continuado el plazo empieza cuando terminó la actividad delictuosa."
+    },
+    {
+     "query": "Mi hijo fue llevado por su padre y lo mantiene retenido. ¿Desde cuándo se cuenta el plazo para que el delito ya no se persiga?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "En el delito permanente el plazo se cuenta desde que cesó la permanencia."
+    },
+    {
+     "query": "Tengo miedo de haber esperado demasiado para denunciar. ¿Se me puede haber pasado el tiempo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los plazos para perseguir el delito empiezan en momentos distintos según el tipo de delito (instantáneo, continuado o permanente)."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_497_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si pierdo el juicio contra mi agresor, ¿me pueden obligar a pagar los gastos del proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Las costas están a cargo del vencido, aunque el juez puede eximirlo total o parcialmente si hubo razones serias para litigar."
+    },
+    {
+     "query": "Denuncié de buena fe pero no pude probar todo. ¿Puedo librarme de pagar los gastos del juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede eximir total o parcialmente de costas cuando hubo razones serias y fundadas para promover o intervenir en el proceso."
+    },
+    {
+     "query": "¿Quién decide quién paga los gastos del proceso cuando este termina?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Toda decisión que pone fin al proceso debe establecer quién soporta las costas, y el juez debe pronunciarse de oficio y con motivos."
+    },
+    {
+     "query": "No estoy de acuerdo con que me hayan mandado pagar los gastos del juicio. ¿Puedo reclamar solo eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La decisión sobre costas solo se puede impugnar autónomamente si es posible recurrir la resolución principal, por la misma vía."
+    },
+    {
+     "query": "Si el caso se resuelve por un acuerdo rápido con el acusado, ¿tengo que pagar costas?",
+     "topic": "procedimiento_penal",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "No se imponen costas en faltas, procesos inmediatos, terminación anticipada y colaboración eficaz, ni en acción privada que termine por transacción o desistimiento."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mataron a una mujer y no hubo testigos, solo sospechas. ¿Puede condenarse al sospechoso solo con esas pistas?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un indicio que admite varias explicaciones no basta para condenar; se necesita una inferencia única y sólida basada en varios indicios concordantes."
+    },
+    {
+     "query": "Mi hermana murió ahogada y su pareja era el último con ella. ¿Por qué podrían absolverlo aunque mintió?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Aunque hubo ocultamiento y versiones inconsistentes, la Corte consideró que esos indicios permitían varias explicaciones y no probaban la culpabilidad."
+    },
+    {
+     "query": "¿Qué pasa si el tribunal superior revisa una condena por feminicidio y ve que las pruebas no alcanzan?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema puede declarar fundada la casación, revocar la condena y absolver si la prueba indiciaria no cumple las exigencias."
+    },
+    {
+     "query": "Mi pareja ocultaba nuestra relación y ahora ella desapareció. ¿Eso solo ya prueba que él lo hizo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El ocultamiento y las versiones inconsistentes por sí solos son indicios polivalentes que no bastan para condenar."
+    },
+    {
+     "query": "¿Qué requisitos deben cumplir las pistas para que alguien sea condenado sin pruebas directas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se requiere pluralidad de indicios, interrelación y una inferencia única de culpabilidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Cómo decide el juez cuántos años de cárcel le pone a quien me agredió?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez divide la pena legal en tres partes y ubica la pena concreta según haya circunstancias agravantes o atenuantes."
+    },
+    {
+     "query": "Mi agresor tiene antecedentes y además lo hizo con crueldad. ¿Eso hace que le den más años?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si concurren solo agravantes, la pena se fija en el tercio superior; si son agravantes cualificadas, por encima de ese tercio."
+    },
+    {
+     "query": "Me preocupa que le den una pena muy baja. ¿Cuándo puede el juez poner una pena por debajo del mínimo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Con atenuantes privilegiadas la pena puede fijarse por debajo del tercio inferior; sin agravantes y solo atenuantes va al tercio inferior."
+    },
+    {
+     "query": "¿El juez tiene que explicar por qué le puso esa cantidad de años a la condena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Toda condena debe contener fundamentación explícita y suficiente sobre la determinación de la pena."
+    },
+    {
+     "query": "Si hay cosas a favor y en contra del agresor, ¿en qué parte de la pena queda la condena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Cuando concurren agravantes y atenuantes, la pena se determina dentro del tercio intermedio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El papá de mi hija no paga la pensión desde hace años y el fiscal ya lo acusó. ¿Eso detiene el tiempo para que el delito se pierda?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La acusación directa suspende el plazo de prescripción, igual que la formalización de la investigación preparatoria."
+    },
+    {
+     "query": "Me dijeron que el caso de pensión no pagada ya prescribió porque pasó mucho tiempo. ¿Es siempre así?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema indicó que la acusación directa suspende la prescripción, por lo que no debe declararse prescrito solo por el paso del tiempo."
+    },
+    {
+     "query": "Mi expareja no cumple con los alimentos de nuestra hija y el juzgado mandó el caso al fiscal. ¿Qué sigue?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Ante el incumplimiento, el juzgado civil remite copias a la Fiscalía, que puede emitir acusación directa por omisión de asistencia familiar."
+    },
+    {
+     "query": "¿Por qué sería injusto que la acusación directa no frene el plazo si hace lo mismo que otra etapa del proceso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "No suspender la prescripción generaría desigualdad procesal y afectaría la persecución penal, pues la acusación directa cumple función equivalente."
+    }
+   ]
+  }
+ ]
+}

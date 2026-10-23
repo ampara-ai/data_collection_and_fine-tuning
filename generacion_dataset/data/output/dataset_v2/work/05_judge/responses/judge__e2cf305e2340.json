@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil como derecho de la víctima y la determina junto con la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Regula cheques indebidos, no cobro de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata monto de reparación e impugnación, no plazo para exigir el pago."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia simple."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata legitimación para impugnar y cuantía de reparación, no su exigibilidad temporal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Establece que el derecho a reparación debe efectivizarse durante el tiempo de la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata evaluación de riesgo y protección doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Analiza condena por violación de menor y daño psicológico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "parcial",
+      "rationale": "Explica ejecución civil con intervención fiscal y del actor civil, pero no fija hasta cuándo exigirla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula terminación anticipada, no cobro de reparación tras condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula individualización de la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "parcial",
+      "rationale": "Permite requerimientos durante ejecución sobre reparación sin establecer límite temporal del cobro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_92_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Dispone expresamente que el juez garantiza el cumplimiento de la reparación civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

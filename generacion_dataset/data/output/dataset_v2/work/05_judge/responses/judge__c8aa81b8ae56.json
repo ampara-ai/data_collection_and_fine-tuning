@@ -1,0 +1,251 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0016::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar periódicamente el riesgo y permitir impugnar el levantamiento de la orden de alejamiento."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula la vigilancia electrónica del condenado, no la reserva o reubicación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias de salas penales sin regular la protección de datos o residencia de víctimas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula la detención con fines de extradición, ajena a la protección solicitada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Remite a medidas de protección ante riesgo de la víctima, pero no describe reserva de datos ni traslado residencial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite protección urgente sin audiencia previa del denunciado, pero no concreta reserva de datos o reubicación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aborda cuándo dictar protección psicológica, sin explicar ocultación de datos o cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Prevé expresamente reserva de identidad y domicilio, ocultación del paradero y cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Enumera criterios de riesgo para conceder protección, pero no las medidas de reserva o reubicación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera eximentes de responsabilidad penal, sin regular la protección solicitada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula la sentencia de apelación, no la protección de datos ni la mudanza de víctimas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige ejecución efectiva de las medidas, pero no establece reserva de datos o cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula la captura del imputado, no la reserva de datos o reubicación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "Regula la identificación de personas intervenidas, no la reserva de domicilio de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "Establece un régimen especial para policías por uso reglamentario de armas, ajeno al caso."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "parcial",
+      "rationale": "Explica que las medidas judiciales requieren solicitud fiscal, pero no los supuestos de captura del fugitivo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuaciones posteriores a la detención judicial, sin indicar cuándo puede ordenarse la captura."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata la validez de la confesión sincera, no las órdenes de captura."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula la entrega a la Corte Penal Internacional, un procedimiento distinto al del agresor descrito."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Da requisitos generales para restringir derechos, sin establecer cuándo procede ordenar la detención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve las facultades para el control de identidad, no la captura judicial de quien evitó su detención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza encubrimiento e inicio de persecución penal, sin resolver los supuestos de detención judicial del fugado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica la extorsión, sin regular la búsqueda ni detención judicial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza detención policial inmediata en flagrancia, pero no explica la orden judicial tras evitar la detención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica la coacción, sin establecer facultades judiciales de captura."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza detención judicial a pedido fiscal si el sorprendido en flagrancia evita ser detenido y ordena su ejecución policial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Examina la demora en resolver la situación de un reo contumaz ya capturado por otro delito."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "si",
+      "rationale": "Exige resolución especialmente motivada y fijación de duración y controles en los casos previstos por ley."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe exigir denuncias reiteradas de violencia sexual, pero no aborda el seguimiento de la protección concedida."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluación continua del riesgo incluso después de dictadas medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula la abstención de testigos, no la diligencia estatal ni el seguimiento protector."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación sexual, sin tratar las obligaciones de investigación y seguimiento planteadas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige protección efectiva en la práctica y examen rápido sin demoras innecesarias."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar el riesgo y adoptar medidas preventivas efectivas ante violencia doméstica reiterada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona agresiones que incumplen medidas de protección, pero no regula su seguimiento por el Estado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el deber general de protección del agraviado, sin concretar seguimiento o investigación diligente."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula la caución del imputado, no el seguimiento de las medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "Regula intervenciones de comunicaciones, sin responder a los deberes de seguimiento planteados."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "Regula cartas rogatorias internacionales, ajenas a la desprotección descrita."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige implementación inmediata y constante, coordinación y verificación del cumplimiento de las medidas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Impone debida diligencia e intervención oportuna para proteger efectivamente a las víctimas sin dilaciones."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

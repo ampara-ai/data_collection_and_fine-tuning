@@ -1,0 +1,166 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si tengo que declarar en el juicio contra el hombre que me atacó, ¿pueden taparme la cara y cambiarme la voz para que no me reconozcan?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Se permiten medidas como difuminar la imagen y distorsionar la voz de la víctima para proteger su identidad al declarar en el juicio."
+    },
+    {
+     "query": "Me da miedo que el acusado me vea declarar. ¿Mi testimonio vale igual si lo doy con la imagen borrosa?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La declaración de la víctima con imagen y voz alteradas sigue siendo válida; el tribunal puede valorarla íntegramente."
+    },
+    {
+     "query": "¿El abogado del agresor puede lograr que anulen el juicio porque no se veían mis gestos cuando declaré?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los detalles gestuales no impiden valorar la declaración; si la defensa no probó un perjuicio concreto ni protestó a tiempo, no hay indefensión y el reclamo se rechaza."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo admitió ante la policía que abusó de nuestra hija, pero en el juzgado lo negó. ¿Lo que dijo en la comisaría sirve de algo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Lo dicho ante la policía puede tomarse en cuenta como un indicio que refuerza lo que declara la víctima, aunque luego el acusado lo niegue."
+    },
+    {
+     "query": "El agresor habló en la comisaría sin su abogado ni el fiscal. ¿Eso hace que lo que dijo ya no se pueda usar?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aunque faltaran el fiscal y el abogado, esa declaración policial puede valorarse como elemento de apoyo junto con otras pruebas, sin violar su defensa."
+    },
+    {
+     "query": "Mi hija de menor edad cuenta que su papá abusaba de ella. ¿Qué otras cosas ayudan a que le crean además de lo que ella dice?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se valoran la declaración de otros familiares, los peritajes psicológicos y la admisión del acusado como pruebas que corroboran el relato de la menor."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le pueden dar a un padre que violó a su hija durante meses y la amenazaba para que se callara?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "En el caso se confirmó una condena de 30 años de prisión y el pago de 10,000 soles como reparación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_278_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez mandó preso al agresor mientras lo juzgan y su familia dice que lo van a sacar. ¿Cuánto tiempo tiene para reclamar esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La decisión de dejar preso al imputado durante el proceso puede impugnarse en un plazo de tres días."
+    },
+    {
+     "query": "Si el acusado pide que revisen su detención, ¿en cuánto tiempo deciden los jueces de arriba?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez eleva el expediente en 24 horas, la audiencia se hace dentro de 72 horas y la decisión se da ese día o en 48 horas."
+    },
+    {
+     "query": "¿Y si los jueces superiores anulan la orden que lo mantenía preso? ¿Sale libre automáticamente?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si se anula, se ordena que el mismo u otro juez dicte una nueva resolución; no implica automáticamente la libertad."
+    },
+    {
+     "query": "Mientras se resuelve el reclamo del agresor contra su detención, ¿sigue preso o lo sueltan?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La impugnación se concede sin suspender la medida (efecto devolutivo), por lo que la decisión sigue vigente mientras se resuelve."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hijo lo violaron y quedó muy afectado. Además de que me paguen dinero, ¿puedo exigir que reciba terapia?",
+     "topic": "reparacion_civil",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La reparación debe abarcar atención psicológica y no solo dinero; el Estado debe dar los medios para la recuperación."
+    },
+    {
+     "query": "¿Quién paga el tratamiento psicológico de una víctima de abuso sexual que no tiene dinero?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "El Estado debe garantizar el acceso al tratamiento psicológico mediante los servicios públicos de salud."
+    },
+    {
+     "query": "Solo mi hijo vio lo que pasó, no hubo más testigos. ¿Se puede condenar al agresor únicamente con lo que él cuenta?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La declaración de la víctima puede bastar para condenar si es coherente, creíble, sin motivos de venganza y se mantiene en el tiempo."
+    },
+    {
+     "query": "¿Qué miran los jueces para creerle a un niño que cuenta que abusaron de él?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se evalúa que no haya motivos para mentir, que el relato sea verosímil y apoyado por otros datos como lesiones, y que sea constante."
+    },
+    {
+     "query": "¿Cuántos años de cárcel recibió un hombre que atacó sexualmente a un menor y lo dejó inconsciente de un golpe?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó una pena de doce años de prisión y diez mil soles de reparación, con asistencia psicológica."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_83_01",
+   "skip": true,
+   "skip_reason": "Norma sobre notificaciones a abogados de un estudio asociado; trámite interno que una víctima no preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Qué derechos tengo como mujer para vivir sin que me griten, me golpeen o me menosprecien en mi casa?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las mujeres y los miembros de la familia tienen derecho a una vida libre de violencia y a ser valorados y educados."
+    },
+    {
+     "query": "Mi suegra dice que la mujer debe obedecer al marido porque es inferior. ¿La ley me reconoce igualdad frente a eso?",
+     "topic": "violencia_psicologica",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se tiene derecho a no ser discriminada ni sometida a estereotipos o costumbres basadas en la idea de inferioridad o subordinación."
+    },
+    {
+     "query": "¿Los hijos y otros familiares que viven conmigo también tienen derecho a no ser maltratados?",
+     "topic": "otro",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El derecho a una vida libre de violencia abarca tanto a las mujeres como a todos los integrantes del grupo familiar."
+    },
+    {
+     "query": "Me avergüenza que me traten como si valiera menos por ser mujer. ¿Eso también es algo que la ley quiere evitar?",
+     "topic": "violencia_psicologica",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La ley reconoce el derecho a estar libre de discriminación, estigmatización y prácticas sociales basadas en la inferioridad de la mujer."
+    }
+   ]
+  }
+ ]
+}

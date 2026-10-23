@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "si",
+      "rationale": "Anula la condena por no citar testigos de descargo y vulnerar igualdad de armas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "Regula investigación preparatoria sin nueva declaración tras nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_180_01",
+      "relevance": "no",
+      "rationale": "Regula informes periciales y no citación de víctimas en nuevo juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ordena citar a la agraviada en nuevo juicio, sin resolver la citación de su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de intimidad sin regular testimonios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula determinación del daño psíquico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Describe oralidad e inmediación del juicio sin precisar si debe repetirse la declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Aporta principios de protección infantil y trato amigable sin resolver la reiteración testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata control de identidad fiscal y encubrimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Aborda límites para anular absoluciones sin disponer nuevas declaraciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Ordena nuevo juicio de apelación sin resolver nueva declaración de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula circunstancias de pena y no testimonios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00427_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio y analiza entrevista previa, sin establecer una nueva citación personal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

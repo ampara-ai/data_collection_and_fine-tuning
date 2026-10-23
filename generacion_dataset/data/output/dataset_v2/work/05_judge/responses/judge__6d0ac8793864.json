@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "si",
+      "rationale": "Permite solicitar la cesación de la prisión preventiva las veces que se considere pertinente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "si",
+      "rationale": "Exige nuevos elementos que demuestren que dejaron de concurrir los motivos de la prisión preventiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

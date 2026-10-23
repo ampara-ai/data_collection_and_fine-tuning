@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00233_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "si",
+      "rationale": "Admite reducción por responsabilidad restringida al autor de feminicidio de dieciocho años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00233_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "si",
+      "rationale": "Describe una revisión de sentencia firme por feminicidio que permitió reducir la pena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

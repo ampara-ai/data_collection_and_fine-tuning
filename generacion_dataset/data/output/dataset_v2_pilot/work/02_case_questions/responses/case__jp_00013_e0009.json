@@ -1,0 +1,59 @@
+{
+ "questions": [
+  {
+   "query": "Absolvieron a mi pareja de un cargo por encerrarme y el fiscal no reclamó. ¿Yo no puedo pelear esa decisión por mi cuenta?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00013_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que quien reclama solo el pago no puede cuestionar una absolución porque acusar le toca al fiscal.",
+   "expected_answer_focus": "Que la víctima como parte civil no puede impugnar la absolución; la persecución penal es exclusiva del Ministerio Público.",
+   "victim_voice_rationale": "Duda real de una víctima ante una absolución no apelada por el fiscal."
+  },
+  {
+   "query": "Quiero que me paguen por el daño en el juicio. ¿Qué cosas puedo hacer yo ahí, como presentar pruebas o apelar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El artículo 104 enumera las facultades de quien reclama la reparación dentro del proceso.",
+   "expected_answer_focus": "Facultades de quien reclama el pago del daño: ofrecer pruebas, intervenir en el juicio, usar recursos, formular solicitudes.",
+   "victim_voice_rationale": "Pregunta práctica sobre el trámite de quien pide indemnización."
+  },
+  {
+   "query": "Mi pareja me rompió la nariz a golpes y me dejó marcas en la cara. ¿Qué castigo puede recibir por lastimarme viviendo juntos?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El 121-B sanciona las lesiones graves contra la pareja o conviviente y regula agravantes.",
+   "expected_answer_focus": "Que lesiones graves contra conviviente o mujer por su condición tienen una pena privativa de libertad agravada e inhabilitación.",
+   "victim_voice_rationale": "Relato breve de lesiones graves con duda sobre la sanción."
+  },
+  {
+   "query": "Tengo miedo de que, después de denunciar, nadie siga con mi caso. ¿Quién decide si se investiga o se cierra?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_122_01"
+   ],
+   "positive_selection_reason": "El artículo 122 indica que el Ministerio Público decide mediante disposiciones el inicio, continuación o archivo de las actuaciones.",
+   "expected_answer_focus": "Que el Fiscal, mediante disposiciones motivadas, decide iniciar, continuar o archivar las actuaciones.",
+   "victim_voice_rationale": "Expresa desconfianza y duda sobre quién controla el avance del caso."
+  },
+  {
+   "query": "¿Quién puede reclamar que le paguen por los daños que le causó un delito dentro del mismo proceso penal?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01"
+   ],
+   "positive_selection_reason": "El artículo 98 define quién puede ejercer la acción reparatoria en el proceso penal.",
+   "expected_answer_focus": "Que solo el perjudicado por el delito, según la ley civil, puede reclamar la reparación en el proceso penal.",
+   "victim_voice_rationale": "Pregunta corta y directa de quien no sabe si puede cobrar el daño en el proceso."
+  }
+ ]
+}

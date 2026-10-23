@@ -1,0 +1,221 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0093::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "si",
+      "rationale": "Rechaza reducir protección penal por ser trabajadora sexual y afirma igualdad ante la ley."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "Regula devolución de objetos incautados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes por crueldad o lesiones, no el carácter de violación dentro de la pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica la violación e incluye expresamente cónyuge, expareja y conviviente como agravantes del mismo delito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "Regula excepciones procesales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Permite denunciar violencia sin formalidades, pero no determina la calificación de violación cometida por pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "Trata recalificación entre violación de menor y actos contra el pudor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de contenido sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Trata validez de retractación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación diligente y acceso a justicia, sin resolver la violación en la pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a la policía a informar al fiscal, pero no define violación cometida por pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Prevé iniciar investigación de delitos públicos, sin calificar la violación por pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Trata consentimiento de menor y error sobre su edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa la pena por crueldad, degradación y lesiones graves en delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q04",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Prevé la misma pena para autores directos, mediatos y quienes cometen conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación realizada por dos o más sujetos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q05",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Fija máximos generales de prisión temporal y cadena perpetua, sin determinar la pena por daño grave en violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Establece de treinta a treinta y cinco años por lesiones graves previsibles derivadas del delito sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0093::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil y su cumplimiento, sin especificar quién cubre cada gasto sanitario ni sus componentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "Regula coerción procesal de policías que usan armas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo imponer inhabilitación accesoria, sin desarrollar la finalidad general de la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "parcial",
+      "rationale": "Regula el proceso de seguridad y medidas aplicables, sin explicar fines de pena o rehabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "Regula formación de expediente fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Atribuye a la pena funciones preventiva, protectora y resocializadora y a las medidas de seguridad fines de rehabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "parcial",
+      "rationale": "Describe servicios comunitarios, sin explicar la finalidad general de condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula penas de un delito vinculado a migrantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Regula criterios para medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de extradición pasiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata implementación de medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata transferencia de competencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Pondera prisión preventiva y el interés del hijo, sin tratar fines de condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "Analiza prueba indiciaria de feminicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "Regula duración de medidas de suspensión de derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión, sin regular credibilidad de retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales y análisis sanguíneos, no valoración de cambios de versión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

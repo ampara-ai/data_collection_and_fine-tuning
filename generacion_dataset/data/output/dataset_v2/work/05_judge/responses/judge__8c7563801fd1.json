@@ -1,0 +1,65 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Regula reparación civil, no repetición del testimonio en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva de fallo, no declaración de la víctima ante la sala."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento del período de prueba, no testimonio en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal, no orden de intervención en audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula atenuantes y agravantes, no desistimiento de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "Regula incautación contable, no retiro de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo, no desistimiento de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo interponer o reservar la apelación, pero no retirarla una vez presentada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "Regula exención de costas, no retiro de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "Tipifica hurto, no desistimiento de apelación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__851f77516ce1",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"dev::chunk_tipo02_cp_art_409_01::q01\",\n  \"question\": \"Mi cuñada piensa decir mentiras en el juicio para favorecer a mi agresor. ¿Qué le puede pasar si declara algo falso como testigo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_409_01\",\n    \"title\": \"Artículo 409.- Falsedad en juicio\",\n    \"text\": \"El testigo, perito, traductor o intérprete que, en un procedimiento judicial, hace falsa declaración sobre los hechos de la causa o emite dictamen, traducción o interpretación falsos, será reprimido con pena privativa de libertad, no menor de dos ni mayor de cuatro años.\\nSi el testigo, en su declaración, atribuye a una persona haber cometido un delito, a sabiendas que es inocente, la pena será no menor de dos ni mayor de seis años.\\nEl Juez puede atenuar la pena hasta límites inferiores al mínimo legal o eximir de sanción, si el agente rectifica espontáneamente su falsa declaración antes de ocasionar perjuicio.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo02_cp_art_409_01::q02\",\n  \"question\": \"Un testigo mintió en su declaración pero luego se arrepintió y lo corrigió por su cuenta. ¿Igual lo castigan?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_409_01\",\n    \"title\": \"Artículo 409.- Falsedad en juicio\",\n    \"text\": \"El testigo, perito, traductor o intérprete que, en un procedimiento judicial, hace falsa declaración sobre los hechos de la causa o emite dictamen, traducción o interpretación falsos, será reprimido con pena privativa de libertad, no menor de dos ni mayor de cuatro años.\\nSi el testigo, en su declaración, atribuye a una persona haber cometido un delito, a sabiendas que es inocente, la pena será no menor de dos ni mayor de seis años.\\nEl Juez puede atenuar la pena hasta límites inferiores al mínimo legal o eximir de sanción, si el agente rectifica espontáneamente su falsa declaración antes de ocasionar perjuicio.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_1_01::q01\",\n  \"question\": \"¿Esta ley solo castiga al agresor o también ayuda a la víctima a recuperarse?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_1_01\",\n    \"title\": \"Artículo 1. Objeto de la Ley\",\n    \"text\": \"Artículo 1. Objeto de la Ley\\nLa presente Ley tiene por objeto prevenir, erradicar y sancionar toda forma de violencia producida en el ámbito público o privado contra las mujeres por su condición de tales, y contra los integrantes del grupo familiar; en especial, cuando se encuentran en situación de vulnerabilidad, por la edad o situación física como las niñas, niños, adolescentes, personas adultas mayores y personas con discapacidad.\\nPara tal efecto, establece mecanismos, medidas y políticas integrales de prevención, atención y protección de las víctimas así como reparación del daño causado; y dispone la persecución, sanción y reeducación de los agresores sentenciados con el fin de garantizar a las mujeres y al grupo familiar una vida libre de violencia asegurando el ejercicio pleno de sus derechos.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "dev::chunk_tipo02_cp_art_409_01::q01",
+     "chunk_tipo02_cp_art_409_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo02_cp_art_409_01::q02",
+     "chunk_tipo02_cp_art_409_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_1_01::q01",
+     "chunk_tipo01_ley30364_art_1_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__851f77516ce1.json"
+}

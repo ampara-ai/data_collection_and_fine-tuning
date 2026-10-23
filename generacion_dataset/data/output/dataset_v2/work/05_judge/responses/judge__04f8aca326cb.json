@@ -1,0 +1,149 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00067_e0026::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "si",
+      "rationale": "Ordena renovar la notificación y anula los actos posteriores, sin ordenar nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0026::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "Establece el deber de asistir y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0026::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "si",
+      "rationale": "Regula la capacidad para testificar y las pericias sobre idoneidad psíquica."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0026::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "si",
+      "rationale": "Atribuye el archivo al Ministerio Público y exige motivar sus disposiciones."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0026::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce abstención para evitar incriminar allegados, pero remite a otro artículo para identificar qué familiares están comprendidos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula la extradición, no la sanción del maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Trata la distinción entre maltrato emocional y psicológico, sin resolver la sanción por humillación conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "Sanciona la alteración del estado civil, una conducta distinta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de terceros, no el maltrato verbal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona la negativa a colaborar con la justicia, no la humillación conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica que los insultos entre convivientes pueden configurar agresiones psicológicas sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula el aseguramiento patrimonial de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula el reemplazo del defensor, no el maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una sanción por maltrato entre convivientes, pero en un supuesto de agresiones mutuas distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Tipifica y sanciona el maltrato y la humillación reiterada sin lesiones, agravados por vínculo conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Define la violencia familiar psicológica, pero no determina su sanción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones culposas, no maltrato intencional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre el deber de investigar violencia doméstica, sin precisar la sanción del maltrato consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Prevé una sanción agravada cuando hay niñas, niños o adolescentes presentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_442_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "si",
+      "rationale": "Precisa la sanción por maltrato y sus agravantes por convivencia y ebriedad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Regula secuestro, no nulidad por falta de defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula la condena suspendida no pronunciada, no nulidad por renuncia del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "Regula la denuncia ante el juzgado de familia, no la defensa penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción, no nulidad por indefensión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

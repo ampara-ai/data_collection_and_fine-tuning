@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "Mi sobrina de ocho años contó lo que le hizo su abuelo, pero después la presionaron y dijo que era mentira. ¿Con eso el caso ya se cae?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00118_e0047_01"
+   ],
+   "positive_selection_reason": "La sentencia fija los criterios para decidir si una niña que se desdice de su denuncia inicial merece credibilidad, y confirma la condena pese al cambio de versión. Responde directamente la duda.",
+   "expected_answer_focus": "Que cambiar de versión no anula automáticamente la denuncia. El tribunal examina si el primer relato era sólido y estaba respaldado, si el nuevo relato es coherente, si hubo contactos o presiones del acusado y qué consecuencias trajo la denuncia.",
+   "victim_voice_rationale": "Un familiar teme que el cambio de versión de la niña, bajo presión, destruya el caso."
+  },
+  {
+   "query": "Mi hija pequeña dice que su abuelo la manoseaba cuando se quedaba sola con él, pero no llegó a violarla. ¿Eso también es delito?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_176-a_01"
+   ],
+   "positive_selection_reason": "El artículo 176-A tipifica los tocamientos y actos de connotación sexual contra menores de catorce años aunque no haya acceso carnal. Eso responde si el manoseo es delito.",
+   "expected_answer_focus": "Que los tocamientos o actos de connotación sexual contra un menor de catorce años son delito aunque no haya violación, y que la ley prevé pena de cárcel para quien los comete.",
+   "victim_voice_rationale": "La madre no sabe si un manoseo sin violación llega a ser delito."
+  },
+  {
+   "query": "Mis hijas cuentan una cosa y el abuelo dice otra. ¿Cómo decide el juez a quién creerle si nadie más vio lo que pasó?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_158_01"
+   ],
+   "positive_selection_reason": "El artículo 158 dice que el juez valora la prueba con lógica, ciencia y experiencia, y que debe explicar los criterios que usó. Explica cómo se decide entre versiones opuestas.",
+   "expected_answer_focus": "Que el juez no decide a su antojo. Debe aplicar reglas de lógica, ciencia y experiencia, y exponer el resultado y los criterios de su valoración. También que ciertas pruebas indirectas necesitan otras que las corroboren.",
+   "victim_voice_rationale": "Una madre desconfía de que se crea a sus hijas cuando no hubo testigos."
+  },
+  {
+   "query": "Me insisten en firmar un escrito para retirar la denuncia contra el abuelo de mis hijas y dicen que así todo termina. ¿Ese papel de verdad sirve?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00118_e0047_01"
+   ],
+   "positive_selection_reason": "La sentencia muestra que el desistimiento o la retractación no cierra automáticamente el proceso. El tribunal la evalúa con criterios y puede descartarla si hay manipulación o contactos con el acusado.",
+   "expected_answer_focus": "Que un escrito de retiro o de cambio de versión no obliga a terminar el caso. Se evalúa su credibilidad frente al relato inicial y las pruebas, y se tiene en cuenta si hubo contactos o presiones del acusado.",
+   "victim_voice_rationale": "Una madre bajo presión familiar pregunta si firmar para retirar la denuncia detiene el proceso."
+  },
+  {
+   "query": "A mi hija le hicieron un examen médico que muestra un daño antiguo. Si ella se asusta y cambia su versión, ¿ese examen sigue valiendo en el juicio?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00118_e0047_01",
+    "chunk_tipo03_cpp_art_158_01"
+   ],
+   "positive_selection_reason": "La sentencia usó el certificado médico como prueba que corrobora el primer relato frente al cambio de versión. El artículo 158 da la regla general de valoración de la prueba por el juez.",
+   "expected_answer_focus": "Que el informe médico y las demás pruebas siguen siendo valoradas por el juez con lógica y experiencia. Pueden respaldar la primera declaración aunque la víctima se desdiga, como en el caso resuelto por la Corte Suprema.",
+   "victim_voice_rationale": "Una madre teme que el miedo de su hija deje sin valor el examen médico."
+  }
+ ]
+}

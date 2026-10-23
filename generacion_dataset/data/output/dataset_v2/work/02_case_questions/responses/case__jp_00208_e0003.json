@@ -1,0 +1,95 @@
+{
+ "questions": [
+  {
+   "query": "Fui a denunciar lo que le hicieron a mi hija y siento que todo dependía de que yo insistiera. ¿La fiscalía está obligada a investigar aunque yo no la presione?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_60_01"
+   ],
+   "positive_selection_reason": "El art. 60 CPP dice que el Ministerio Público es titular de la acción penal, que actúa de oficio o a instancia de la víctima, y que conduce la investigación con apoyo de la Policía. Responde directamente quién investiga y si depende de la víctima.",
+   "expected_answer_focus": "Que la fiscalía es la encargada de ejercer la acción penal, puede actuar de oficio o a pedido de la víctima, y dirige la investigación mientras la Policía la ejecuta.",
+   "victim_voice_rationale": "Una madre que sintió que la fiscalía no avanzaba pregunta si le corresponde a ella empujar el caso."
+  },
+  {
+   "query": "Llevaron a la fiscalía al hombre que denuncié, pero lo dejaron irse sin saber ni quién era. ¿Un fiscal puede retenerlo solo para averiguar su identidad?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00208_e0003_01",
+    "chunk_tipo03_cpp_art_205_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que el fiscal no puede retener a una persona para identificarla y que esa facultad es de la Policía. El art. 205 CPP regula ese control de identidad policial.",
+   "expected_answer_focus": "Que el control de identidad con retención corresponde a la Policía y tiene límites, y que el fiscal no puede hacerlo por sí mismo.",
+   "victim_voice_rationale": "La madre vivió cómo el denunciado salió libre sin identificarse y quiere saber si eso estaba permitido."
+  },
+  {
+   "query": "Si la policía se lleva a alguien solo para comprobar quién es, ¿hasta cuándo pueden tenerlo antes de dejarlo ir?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_205_01"
+   ],
+   "positive_selection_reason": "El art. 205 CPP numeral 4 regula la conducción a la dependencia policial solo para identificación, con un límite de tiempo y condiciones del trato.",
+   "expected_answer_focus": "Que la retención para identificación tiene un tiempo máximo, no puede ser en calabozos y el intervenido puede comunicarse con un familiar.",
+   "victim_voice_rationale": "Un familiar quiere entender cuánto tiempo es legal tener a alguien solo para saber quién es."
+  },
+  {
+   "query": "La funcionaria que dejó escapar al hombre que acusé de abusar de mi hija, ¿puede ir presa por eso si no tenía autoridad para detenerlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00208_e0003_01",
+    "chunk_tipo02_cp_art_404_01"
+   ],
+   "positive_selection_reason": "La sentencia absuelve a la fiscal por no tener facultad legal de retener y no acreditarse dolo. El art. 404 CP define el delito por el que fue acusada y permite entender el criterio.",
+   "expected_answer_focus": "Que, según la Corte Suprema, si la funcionaria no tenía facultad legal para retener, su conducta no fue encubrimiento; y qué conducta describe ese delito.",
+   "victim_voice_rationale": "Una víctima indignada porque la funcionaria dejó ir al agresor quiere saber si tiene responsabilidad penal."
+  },
+  {
+   "query": "Si un trabajador del Estado que investiga un caso ayuda a que el acusado desaparezca, ¿qué castigo le toca por haberlo hecho?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_404_01"
+   ],
+   "positive_selection_reason": "El art. 404 CP sanciona a quien sustrae a una persona de la persecución penal e incluye un párrafo agravado para el funcionario encargado de la investigación o custodia.",
+   "expected_answer_focus": "Que sustraer a alguien de la justicia es delito y que la pena es mayor si lo hace un funcionario a cargo de investigar o custodiar.",
+   "victim_voice_rationale": "Una madre desconfía de las autoridades y quiere saber qué consecuencias tiene que un funcionario ayude al acusado."
+  },
+  {
+   "query": "Sospecho que el acusado guarda algo que prueba lo que hizo. ¿La policía puede revisarle la ropa y sus cosas? ¿Cómo lo tienen que hacer?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_210_01"
+   ],
+   "positive_selection_reason": "El art. 210 CPP regula cuándo y cómo la Policía registra a una persona que oculta bienes relacionados con el delito, incluyendo respeto a la dignidad y acta.",
+   "expected_answer_focus": "Que la Policía puede registrar a la persona con fundadas razones, bajo reglas de respeto, derecho a un acompañante y levantamiento de acta.",
+   "victim_voice_rationale": "La familia teme que se pierdan pruebas en poder del acusado y pregunta si la policía puede revisarlo."
+  },
+  {
+   "query": "Mi hija fue abusada y a ese hombre no lo encuentran. ¿La policía puede poner controles en las calles para buscarlo?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_206_01"
+   ],
+   "positive_selection_reason": "El art. 206 CPP permite a la Policía, comunicando al Ministerio Público, establecer controles en lugares públicos para ubicar a los partícipes de un delito de grave alarma social.",
+   "expected_answer_focus": "Que la Policía puede montar controles públicos para identificar y ubicar a los partícipes, avisando a la fiscalía y dejando constancia en un registro.",
+   "victim_voice_rationale": "Una madre asustada porque el agresor sigue libre quiere saber si hay forma de que lo busquen en la calle."
+  },
+  {
+   "query": "Si el fiscal no está y la policía ve al sospechoso, ¿puede pedirle sus documentos sin esperar una orden de nadie?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_205_01",
+    "chunk_tipo03_cpp_art_60_01"
+   ],
+   "positive_selection_reason": "El art. 205 CPP dice que la Policía puede requerir identificación sin orden del Fiscal o Juez, y el art. 60 CPP aclara que la Policía cumple los mandatos del Fiscal en la investigación.",
+   "expected_answer_focus": "Que la Policía puede pedir identificación por iniciativa propia en el marco de sus funciones, aunque la investigación la conduce el fiscal.",
+   "victim_voice_rationale": "La víctima teme que el sospechoso se escape mientras el fiscal no está y pregunta si la policía puede actuar sola."
+  }
+ ]
+}

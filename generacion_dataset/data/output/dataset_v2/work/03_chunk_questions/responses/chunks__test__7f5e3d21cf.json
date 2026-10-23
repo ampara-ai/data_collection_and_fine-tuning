@@ -1,0 +1,68 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_43_01",
+   "skip": true,
+   "skip_reason": "Trata de un trámite técnico interno entre jueces (cuál juez se queda con el caso) que una víctima no preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_268_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me golpeó y me da miedo que salga libre y vuelva a buscarme. ¿Qué tiene que pasar para que lo dejen preso mientras lo juzgan?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El fiscal debe pedirlo al juez y deben cumplirse requisitos: pruebas fuertes del delito, pena mayor a cinco años y riesgo de que huya o entorpezca la investigación."
+    },
+    {
+     "query": "¿Pueden dejar preso a alguien si dicen que solo se estaba defendiendo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No procede la prisión preventiva cuando es inminente la legítima defensa propia o de un tercero, salvo que existan antecedentes o pruebas fehacientes del delito o una condena firme previa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija es menor y la tocaron en el mototaxi, pero ella no quiere ir al juicio. ¿Pueden condenarlo igual si no se presenta?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Aunque las declaraciones de las menores no fueron valoradas, se mantuvo la condena por otras pruebas: actas policiales, pericias psicológicas y mensajes de texto."
+    },
+    {
+     "query": "Mi hija contó lo que pasó en la comisaría y el acusado no estaba ahí. ¿Eso puede anular todo el caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Esas declaraciones no pueden usarse si el acusado no fue emplazado, pero la ausencia no invalida todo si hay otra prueba suficiente; en el caso se confirmó la condena de nueve años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00052_e0019_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo me dejó una cicatriz en la cara por los golpes. ¿Cómo decide el médico legista si el daño es permanente o me deformó?",
+     "topic": "lesiones_secuelas_indemnizacion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Existe una guía médico legal obligatoria para peritos del Instituto de Medicina Legal que estandariza cómo se valora la señal permanente y la deformidad del rostro."
+    },
+    {
+     "query": "¿Los médicos legistas del país evalúan igual las marcas que quedan en la cara después de una agresión?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La guía es de uso obligatorio a nivel nacional, con parámetros estandarizados para los dictámenes sobre lesiones en el rostro, incluso en violencia familiar."
+    }
+   ]
+  }
+ ]
+}

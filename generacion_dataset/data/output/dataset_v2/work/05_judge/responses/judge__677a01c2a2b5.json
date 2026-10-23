@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "si",
+      "rationale": "Enumera ingresos, cargas familiares, defensa, antecedentes, daño y riesgo procesal para fijar una caución que sea cumplible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "si",
+      "rationale": "Permite fianza personal escrita de un tercero solvente cuando el imputado carece de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "si",
+      "rationale": "Ordena devolver la caución con intereses cuando el imputado es absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la devolución de la caución tras absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00150_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica la posible calificación como acto sexual violento por tocamientos y autoridad, pero no indica la pena ni un resultado cierto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00150_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica que la autoridad del responsable sobre el adolescente puede constituir violencia sin golpes o amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara incumplido el deber de protección tras dos intervenciones policiales sin medidas adecuadas ante riesgo conocido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Indica evaluar el riesgo real e inmediato considerando recurrencia de agresiones y antecedentes del agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Describe una demanda ante el TEDH por hechos similares, pero no permite determinar qué tribunal es accesible a la persona consultante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0015_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Señala que verificar antecedentes y episodios de violencia permite conocer el riesgo y obliga a adoptar medidas adecuadas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

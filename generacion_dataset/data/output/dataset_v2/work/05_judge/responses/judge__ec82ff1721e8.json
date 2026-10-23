@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_174_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "si",
+      "rationale": "Prevé veinte a veintiséis años por acceso sexual aprovechando dependencia o vigilancia en un establecimiento de salud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_174_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso sexual aprovechando vigilancia o dependencia de una persona detenida o recluida."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

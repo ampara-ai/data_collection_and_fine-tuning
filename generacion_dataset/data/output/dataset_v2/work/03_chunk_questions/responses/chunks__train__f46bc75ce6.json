@@ -1,0 +1,179 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_536_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor se fue a vivir a otro país y allá hay datos importantes para mi caso. ¿Pueden pedir ayuda a las autoridades de ese país?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los jueces y fiscales peruanos pueden solicitar por escrito asistencia a autoridades extranjeras para la investigación o el juicio."
+    },
+    {
+     "query": "¿Quién se encarga de enviar un pedido de ayuda a otro país cuando hay que conseguir pruebas allá, yo o el fiscal?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Corresponde a jueces y fiscales cursar el pedido, que se tramita por la Fiscalía de la Nación, no a la víctima."
+    },
+    {
+     "query": "Si el pedido al extranjero no dice exactamente qué prueba hace falta, ¿igual se puede presentar?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Cuando no se conocen las pruebas concretas, se indican los hechos que se quieren demostrar; el pedido va por escrito, en el idioma del país y describe el caso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_352_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Terminó la audiencia previa al juicio y el juez no dijo nada. ¿En cuánto tiempo tiene que avisar qué decidió?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez resuelve de inmediato, o puede diferir hasta 48 horas improrrogables, notificando a las partes."
+    },
+    {
+     "query": "El fiscal cometió errores en el escrito con que acusa a mi agresor. ¿Se puede corregir o el caso se cae?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez puede devolver la acusación al fiscal suspendiendo cinco días para corregirla, o el fiscal puede subsanarla en la misma audiencia."
+    },
+    {
+     "query": "¿Pueden archivar mi caso antes de que empiece el juicio si el acusado lo pide?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez puede dar por terminado el caso de oficio o a pedido del acusado si se cumplen los requisitos y no hay posibilidad de nuevas pruebas."
+    },
+    {
+     "query": "Quiero que declaren testigos y un perito en el juicio. ¿Qué condiciones deben cumplir para que el juez los acepte?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las pruebas deben indicar su aporte, ser pertinentes, conducentes y útiles; para testigos y peritos se precisa el punto a tratar y el domicilio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_253_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Por qué razones pueden quitarle la libertad a quien me agredió mientras dura el proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo cuando es indispensable para evitar fuga, ocultar bienes, entorpecer la investigación o que vuelva a cometer delitos."
+    },
+    {
+     "query": "Tengo miedo de que mi expareja siga hostigándome o me amenace para que retire la denuncia. ¿La ley permite limitarle derechos por eso?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se pueden restringir derechos si hay riesgo de obstaculizar la investigación o de repetir el delito, con autorización de la ley, proporcionalidad y por el tiempo necesario."
+    },
+    {
+     "query": "¿Pueden limitar los derechos de alguien acusado solo porque lo denunciaron, sin más?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No: requiere permiso expreso de la ley, proporcionalidad y suficientes elementos que lo respalden."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_92_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si condenan a mi agresor, ¿me pagan también por el daño que me hizo o solo va preso?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El pago por el daño se decide junto con la pena y es un derecho de la víctima."
+    },
+    {
+     "query": "El hombre que me golpeó fue condenado pero no me ha pagado nada. ¿Hasta cuándo puedo exigirlo?",
+     "topic": "reparacion_civil",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Debe hacerse efectivo durante el tiempo que dure la condena."
+    },
+    {
+     "query": "¿Quién se asegura de que el condenado cumpla con pagarme lo que el juez ordenó?",
+     "topic": "reparacion_civil",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez garantiza el cumplimiento del pago a la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_376_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si el acusado se queda callado en el juicio y no quiere hablar, ¿el juicio se detiene?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si se rehúsa a declarar, el juicio continúa y se leen sus declaraciones anteriores ante el fiscal."
+    },
+    {
+     "query": "¿Qué tipo de preguntas le pueden hacer al hombre que me agredió cuando declare en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Preguntas directas, claras, pertinentes y útiles, orientadas a aclarar el caso y la pena y el pago por el daño."
+    },
+    {
+     "query": "Tengo miedo de que el abogado de mi agresor lo confunda con trucos al preguntarle. ¿Hay límites a las preguntas?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se admiten preguntas repetidas, capciosas, impertinentes ni que sugieran la respuesta; el juez las declara inadmisibles."
+    },
+    {
+     "query": "¿Quién habla al final cuando interrogan al acusado en la audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El último en intervenir es el abogado del acusado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija denunció a su padre por abuso, pero los peritos dijeron cosas distintas. ¿Eso puede hacer que lo dejen libre?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Cuando los peritos se contradicen y hay duda que no se puede resolver, no se puede condenar y prevalece la absolución."
+    },
+    {
+     "query": "Condenaron al acusado en segunda instancia, pero el tribunal supremo anuló la condena. ¿Puede pasar eso en un caso de abuso a una menor?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Sí: la Corte Suprema revocó la condena a cadena perpetua por defectos de motivación y duda, y confirmó la absolución."
+    },
+    {
+     "query": "¿Qué importancia tienen los informes de la asistente social y de la psicóloga en un caso de abuso sexual de una niña por su padre?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Esos informes se valoran junto con otras pruebas; en este caso no respaldaban la versión de la víctima y mostraban un ambiente familiar normal."
+    },
+    {
+     "query": "Los hechos que denunció mi hija ocurrieron hace años y no hay certeza de las fechas. ¿Eso perjudica el caso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La falta de certeza sobre que el delito ocurrió en el periodo imputado llevó a mantener la absolución."
+    },
+    {
+     "query": "¿Por qué anularon la condena si el juez de segunda instancia no explicó bien por qué creía a un perito y no a otro?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sentencia condenatoria tenía defectos de motivación: no explicó las contradicciones entre los peritos."
+    }
+   ]
+  }
+ ]
+}

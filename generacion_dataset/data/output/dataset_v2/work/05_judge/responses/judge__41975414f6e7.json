@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0016::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones graves contra gestante y por vínculo familiar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Contempla hijos comunes y uso de instrumento peligroso como agravantes de lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece sanción agravada para lesiones graves contra cónyuge."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0016::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "si",
+      "rationale": "Señala la obligación estatal de prevenir, investigar y sancionar violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0016::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "si",
+      "rationale": "Analiza la calificación como tortura por acumulación de violencia extrema y control."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "Regula titularidad de acción penal sin tipificar lesiones culposas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "Regula extinción de acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula elección de vía indemnizatoria sin tipificar conducta culposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "si",
+      "rationale": "Sanciona tocamientos sexuales a menores de catorce años con nueve a quince años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "si",
+      "rationale": "Incluye obligar al menor a efectuar tocamientos sobre otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "La responsabilidad de autoridades se refiere a delitos de otro capítulo y no omisión de protección doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción de delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita sin obligaciones de investigar violencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

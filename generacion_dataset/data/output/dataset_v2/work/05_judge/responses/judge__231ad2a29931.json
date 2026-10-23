@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0095::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Contiene la agravación por función policial, pero exige penetración y no regula los meros tocamientos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la introducción forzada de objetos como violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "Regula desalojo por usurpación, no ejecución de una condena sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Describe tratamiento y beneficios para condenados con pena efectiva, sin determinar cuándo corresponde esta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad y valoración de declaraciones, no suspensión de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prisión preventiva y pericias, no ejecución de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "parcial",
+      "rationale": "Aborda violencia sexual policial y deber de sancionar, sin precisar si la pena puede suspenderse."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica una modalidad domiciliaria de pena, sin resolver su aplicación al abuso sexual policial."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Describe inhabilitación, no suspensión de la prisión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios del procedimiento de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar, no cumplimiento de condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata agente provocador y penetración, sin criterios sobre suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos de suspensión y su exclusión para delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "Regula una autorización de diligencia, no el período de suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de condenas en el extranjero."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad, no el plazo de suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata desvinculación procesal y valoración de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Fija la suspensión de uno a cuatro años y la excepción de hasta siete años."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata el tiempo de preparación de la defensa."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Fija plazos para medidas de protección, no para penas suspendidas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata retractación y reducción de pena por dilación, no período de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "Trata suficiencia de la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula aseguramiento patrimonial de reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula detención para entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión, sin regular plazos de suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

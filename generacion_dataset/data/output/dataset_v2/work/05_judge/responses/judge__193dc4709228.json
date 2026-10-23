@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_295_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal solicitar al juez un impedimento de salida durante la investigación, con requisitos y motivación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

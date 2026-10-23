@@ -1,0 +1,17 @@
+{
+ "task_id": "judge__b0b0884f3b6d",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_170_01::q01\",\n  \"question\": \"Voy a declarar contra mi agresor y temo que sepa dónde vivo. ¿Puedo dar mi dirección en reserva?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_363_01\",\n    \"title\": \"Artículo 363. Dirección del juicio\",\n    \"text\": \"1. El Juez Penal o el Juez Presidente del Juzgado Colegiado dirigirán el juicio y ordenará los actos necesarios para su desarrollo. Le corresponde garantizar el ejercicio pleno de la acusación y de la defensa de las partes. Está facultado para impedir que las alegaciones se desvíen hacia aspectos impertinentes o inadmisibles, sin coartar el razonable ejercicio de la acusación y de la defensa. También lo está para limitar el uso de la palabra a las partes y a sus abogados, fijando límites igualitarios para todos ellos, de acuerdo a la naturaleza y complejidad del caso, o para interrumpir a quien hace uso manifiestamente abusivo de su facultad.\\n2. En los casos de Juzgados Colegiados, la dirección del juicio se turnará entre sus demás integrantes.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo03_cpp_art_170_01::q01",
+     "chunk_tipo03_cpp_art_363_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__b0b0884f3b6d.json"
+}

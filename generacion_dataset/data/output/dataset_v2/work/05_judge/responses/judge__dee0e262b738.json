@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "si",
+      "rationale": "Obliga al juez penal a resolver alimentos de la prole y gastos del embarazo derivado del delito sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "si",
+      "rationale": "Prevé asignación anticipada de alimentos durante investigación fiscal y antes de sentencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

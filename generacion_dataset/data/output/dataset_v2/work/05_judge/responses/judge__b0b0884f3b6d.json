@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_170_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "Regula la dirección del juicio y no la reserva del domicilio de testigos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

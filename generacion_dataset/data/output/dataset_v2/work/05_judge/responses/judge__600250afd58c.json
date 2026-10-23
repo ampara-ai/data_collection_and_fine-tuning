@@ -1,0 +1,83 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "Fija requisitos de prisión preventiva, no lugares para servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza falta de declaración de la acusada y solo menciona servicios comunitarios, sin indicar dónde cumplirlos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "Trata violencia policial y responsabilidad estatal, no servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "Establece penas por omisión alimentaria sin indicar lugares de ejecución de servicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Tipifica daños agravados, no servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "Enumera órganos que supervisan protección de víctimas, no cumplimiento de penas comunitarias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "Exige protección eficaz frente a violencia doméstica, sin regular servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula evaluación del daño psíquico, no lugares de cumplimiento de penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa, no servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "Describe investigación preparatoria y apoyo técnico, no ejecución de penas comunitarias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "Regula costas procesales, no servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia de investigados, no ejecución de servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_34_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "si",
+      "rationale": "Enumera entidades asistenciales, hospitales, escuelas, orfanatos y entidades privadas con fines sociales donde cumplir la pena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

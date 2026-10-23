@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "si",
+      "rationale": "Establece penas agravadas por tráfico ilícito de migrantes según parentesco, minoría de edad, función pública y peligro del traslado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 261. Detención Preliminar Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 265. Detención preliminar incomunicada no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 533. Traslado al extranjero de persona privada de libertad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 180.- Rufianismo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 36. Inhabilitación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 247. Personas destinatarias de las medidas de protección no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "si",
+      "rationale": "Establece penas agravadas por tráfico ilícito de migrantes según parentesco, minoría de edad, función pública y peligro del traslado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 545. Penas no privativas de libertad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "si",
+      "rationale": "Establece penas agravadas por tráfico ilícito de migrantes según parentesco, minoría de edad, función pública y peligro del traslado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 265. Detención preliminar incomunicada no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 263. Deberes de la autoridad policial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Penal Miguel Castro Castro vs. Perú, f.j. 303 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 39.- Inhabilitación accesoria aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Retractación notarial sin valor (RN 1179-2019, Lima) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 1865-2015, Huancavelica no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 264. Plazo de la detención no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 329. Formas de iniciar la investigación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 120. Régimen General no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "si",
+      "rationale": "Establece penas agravadas por tráfico ilícito de migrantes según parentesco, minoría de edad, función pública y peligro del traslado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_303-b_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 200.- Extorsión no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

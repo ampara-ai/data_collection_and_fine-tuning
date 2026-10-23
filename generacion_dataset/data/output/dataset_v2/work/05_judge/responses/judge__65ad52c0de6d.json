@@ -1,0 +1,119 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00285_e0048::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Exige peligro procesal objetivo y establece que la gravedad del delito no basta para prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0048::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Dispone comparecencia simple si el fiscal no solicita prisión preventiva en el supuesto indicado."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0048::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "si",
+      "rationale": "Permite vigilancia y grabaciones sin conocimiento del investigado por orden fiscal con los controles y requisitos descritos."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0048::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "parcial",
+      "rationale": "Explica que corresponde comparecencia si faltan presupuestos de prisión pero no desarrolla su distinción de la credibilidad de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0048::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Distingue los fines procesales de la prisión preventiva y exige riesgos objetivos sin presumirlos por la gravedad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "si",
+      "rationale": "Exige insistir en la conducción compulsiva de una testigo esencial y anula la absolución por no agotarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "La conducción compulsiva regulada corresponde al querellado y no a un testigo de abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "Regula trámite policial de denuncias sin establecer conducción de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro y no la conducción legal de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "si",
+      "rationale": "Autoriza conducción policial del omiso a una citación fiscal notificada bajo apercibimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige explorar otras pruebas ante una declaración ausente pero no explica cómo obligar a la testigo a asistir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "La inhabilitación accesoria no regula asistencia de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Menciona falta de testigos clave y corroboración insuficiente sin autorizar su conducción compulsiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece declaración a distancia cuando el traslado es imposible sin establecer conducción obligatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige citación judicial de testigos y recoge una solicitud de conducción sin desarrollar cuándo procede imponerla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "Regula protección de intervinientes y no conducción de testigos ausentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Trata contradicciones y denuncia tardía sin regular comparecencia forzada de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El delito de violación de persona incapaz no regula asistencia de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00462_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "si",
+      "rationale": "Dispone realizar un nuevo juicio oral y agotar las diligencias para obtener la declaración esencial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

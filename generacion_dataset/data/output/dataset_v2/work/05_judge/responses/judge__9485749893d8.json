@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "si",
+      "rationale": "La rebaja por confesión exige admitir cargos y esclarecer los hechos, de modo que expresar arrepentimiento por sí solo no satisface esos requisitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "si",
+      "rationale": "Indica que por conclusión anticipada la reducción máxima es de un séptimo de la pena concreta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula penas de lesiones graves agravadas, no la posibilidad de aumentar una condena al resolver recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula la revocación de beneficios de colaboración eficaz, no los límites de revisión de una condena recurrida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Confirma una condena por violación y rechaza un error de tipo, sin explicar cuándo puede aumentarse la pena en recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Describe un aumento de pena al resolver recursos del fiscal y del acusado, sin precisar los límites cuando recurren los condenados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa de violación y actos contra el pudor, sin resolver los límites del aumento de pena en recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Ordena nuevo juicio por falta de actuación de testigos, sin abordar el aumento de pena en vía recursiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Permite variar la pena solicitada en alegatos del juicio, no la condena ya impuesta al resolver un recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves y sus penas, sin regular la revisión recursiva de condenas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "Regula la incomunicación del detenido, sin abordar recursos contra la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula la extradición activa, no el aumento de pena por un recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "Enumera sujetos protegidos por la ley, sin regular la revisión de condenas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "Distribuye funciones de investigación entre fiscalía y policía, sin abordar recursos sobre la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Rechaza disminuir la pena por ausencia de daño emocional, sin explicar la posibilidad de incrementarla en recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "si",
+      "rationale": "Rechaza desacreditar a la víctima por su comportamiento social y exige valorar la prueba sin estereotipos de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "si",
+      "rationale": "Declara inadmisibles las pruebas sobre vida sexual o social que busquen desacreditar a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "Regula qué autoridades deciden la extradición, sin tratar los prejuicios de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "si",
+      "rationale": "Exige una valoración judicial libre de estereotipos y rechaza usar la vida social de la víctima para desacreditarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "Aborda el agente provocador y la penetración mínima, sin establecer reglas sobre prejuicios por vestimenta o vida social."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la ineficacia investigadora con discriminación de género, pero no aborda prejuicios sobre apariencia o conducta social."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Prohíbe juicios de valor y referencias innecesarias a conducta y apariencia, así como los estereotipos discriminatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar la revictimización y actuar con perspectiva de género, pero no aborda expresamente prejuicios sobre apariencia o vida social."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Prohíbe inferir disponibilidad sexual de la conducta previa o posterior y orienta la valoración sin estereotipos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales del imputado, sin establecer pautas sobre prejuicios de género al juzgar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad penal, sin tratar estereotipos sobre las víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "Regula la prolongación de prisión preventiva, sin abordar la valoración libre de prejuicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_252_01",
+      "relevance": "no",
+      "rationale": "Prevé reglamentar un programa de protección procesal, sin tratar estereotipos de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula la detención y entrega a la Corte Penal Internacional, sin abordar prejuicios sobre la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación sexual y sus agravantes, sin regular los juicios basados en vestimenta o vida social."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

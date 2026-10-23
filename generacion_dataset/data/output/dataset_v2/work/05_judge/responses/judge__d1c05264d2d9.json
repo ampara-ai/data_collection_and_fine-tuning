@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Define humillación, insultos y aislamiento como violencia psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Incluye privación de recursos y evasión alimentaria como violencia económica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "Regula prohibición de doble persecución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata protección ante agresiones domésticas y no privación de cuidados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Incluye negligencia y privación de necesidades básicas en violencia física."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata insultos y afectación psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravante por víctima adulta mayor sin tipificar omisión de cuidados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Define lesiones graves sin resolver negligencia como violencia física."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "Regula representante común de agraviados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "Regula admisión de pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata distinción entre daño emocional y psicológico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "parcial",
+      "rationale": "Permite alimentos provisionales sin definir negligencia como maltrato físico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "Regula actuaciones urgentes durante disputa de competencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata medidas por reacción ansiosa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_8_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas de protección sin definir negligencia como violencia física."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "parcial",
+      "rationale": "Prevé excepción por reincidencia o habitualidad pero no equipara denuncias anteriores a esos supuestos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula declaración testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige proporcionalidad de medidas protectoras sin límite de pena por responsabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "parcial",
+      "rationale": "Regula proporcionalidad de restricciones procesales sin límite de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata derecho a verdad e investigación diligente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata omisión de declaración de acusada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión sexual no autorizada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "si",
+      "rationale": "Prohíbe pena superior a responsabilidad y precisa excepciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "Tipifica homicidio culposo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata maltrato mutuo y reserva del fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata derecho a verdad como reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "no",
+      "rationale": "Regula juez de ejecución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Limita hechos de condena y pena pedida sin regla de proporcionalidad material."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_viii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "si",
+      "rationale": "Autoriza revisión al condenado o fiscal y a familiares si está imposibilitado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "si",
+      "rationale": "Autoriza revisión tras fallecimiento a familiares en orden establecido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "Regula representación para querella privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "no",
+      "rationale": "Regula actividad del actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de condena extranjera."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "si",
+      "rationale": "Autoriza al representante legal promover revisión por incapaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "Regula arresto ciudadano."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata insuficiencia de indicios para condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata discapacidad de víctima y no revisión de condenado incapaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "Regula interceptación de correspondencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena por circunstancias familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata agravante por discapacidad de víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_440_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "si",
+      "rationale": "Establece preferencia del cónyuge sobre ascendientes, descendientes y hermanos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "si",
+      "rationale": "Describe demanda y juicio por presión paterna para elegir convivencia y exige motivar su calificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Describe trámite de casación sin efectos de anulación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "si",
+      "rationale": "Anula sentencia confirmatoria por falta de motivación y ordena nuevo pronunciamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Explica anulación por motivación deficiente y nuevo juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_34_01",
+      "relevance": "no",
+      "rationale": "Regula integrantes del sistema de prevención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra anulación por motivación y reenvío aunque no dos instancias favorables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Prevé anular sentencia en apelación sin tratar casación tras dos instancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra nuevo juicio de apelación por valoración ilógica sin doble victoria previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de suspensión de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva de fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra reenvío por motivación ilógica sin doble victoria previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Explica anulación con decisión de fondo o reenvío para renovar actuaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos funcionales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Indica resoluciones recurribles en casación sin efectos de nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00575_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "si",
+      "rationale": "Describe demanda del Ministerio Público por maltrato de una hija menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

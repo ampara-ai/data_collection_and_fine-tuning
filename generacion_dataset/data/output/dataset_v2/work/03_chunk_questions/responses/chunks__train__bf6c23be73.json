@@ -1,0 +1,93 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "No quiero encontrarme cara a cara con mi agresor en la audiencia. ¿Puedo declarar desde otro lugar por pantalla?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La directiva regula la videoconferencia en audiencias penales cuando no es posible la presencia física, preferida para víctimas de violencia de género."
+    },
+    {
+     "query": "Vivo muy lejos de la ciudad del juicio y no puedo viajar. ¿Se puede participar desde mi pueblo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se puede usar videoconferencia para testigos, peritos y víctimas cuando haya dificultad de presencia física."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_108_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quiero denunciar por mi cuenta a quien me hizo daño. ¿Qué datos debo incluir en el escrito para que no me lo rechacen?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El escrito debe identificar al querellante y al acusado, relatar el hecho, precisar lo que se pide penal y civilmente y ofrecer pruebas."
+    },
+    {
+     "query": "Al presentar mi propia acusación, ¿tengo que decir también cuánto dinero pido por el daño?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe precisarse la pretensión penal y civil con su justificación, bajo sanción de inadmisibilidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi niña le dijo a una psicóloga que lo que contó antes no era cierto. ¿Eso hace que absuelvan al acusado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Lo dicho ante un psicólogo no es una retractación válida porque falta contradicción y espontaneidad ante el proceso."
+    },
+    {
+     "query": "Dejaron libre al sujeto que lastimó a mi nena de cinco años por lo que ella comentó a una terapeuta. ¿Aún se puede insistir?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la absolución y ordenó un nuevo juicio de apelación a pedido del fiscal."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_480_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno de revocación de beneficios por colaboración eficaz; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_10_01",
+   "skip": true,
+   "skip_reason": "Regula la comunicación entre jueces no penales y fiscalía sobre indicios de delito; trámite técnico interno sin pregunta natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_459_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me insultaron públicamente y quiero llevar el caso yo sola sin fiscal. ¿A qué juzgado voy y qué debo presentar?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "En delitos de acción privada el directamente ofendido presenta querella ante el Juzgado Penal Unipersonal, personalmente o por representante."
+    },
+    {
+     "query": "¿Cuántas fotocopias de mi denuncia por injurias debo llevar al juzgado?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se acompañan copias del escrito para cada querellado y, si corresponde, del poder."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

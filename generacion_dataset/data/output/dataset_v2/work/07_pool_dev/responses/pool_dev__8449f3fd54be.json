@@ -1,0 +1,839 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "parcial",
+      "rationale": "Indica que el auto de enjuiciamiento se notifica al último domicilio declarado, sin regular el paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "parcial",
+      "rationale": "Describe las notificaciones ordinarias, pero no cómo notificar cuando se desconoce el paradero."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Permite notificar a la defensa en domicilio procesal o casilla, sin regular al imputado de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Regula la notificación de condenas al domicilio real, pero no el procedimiento ante paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No explica cómo notificar al imputado cuando se desconoce su ubicación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "parcial",
+      "rationale": "Regula las notificaciones ordinarias, sin indicar dónde publicar edictos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Regula el domicilio procesal de la defensa, sin indicar el medio de publicación de edictos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "No indica dónde publicar la citación de una persona de paradero desconocido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_524_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza difundir identidades de imputados en medios, pero no establece una lista pública de personas buscadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_167_01",
+      "relevance": "no",
+      "rationale": "No establece la existencia de una lista pública de personas buscadas por la justicia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

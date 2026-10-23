@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_100_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "si",
+      "rationale": "Precisa juez competente, forma escrita y contenido obligatorio de la constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_100_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "si",
+      "rationale": "Exige solicitud escrita ante el Juez de la Investigación Preparatoria."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

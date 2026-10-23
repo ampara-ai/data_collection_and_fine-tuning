@@ -1,0 +1,82 @@
+{
+ "questions": [
+  {
+   "query": "Mi esposo me amenazó con matarme a mí y a mis hijos y ya me pegó antes. Me dicen que no hay peligro porque todavía no pasó nada. ¿Cuándo se considera que el riesgo es real?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00260_e0012_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que el peligro inmediato se aplica con flexibilidad en violencia doméstica, considerando la escalada y los antecedentes, sin exigir prever el momento y lugar exactos del ataque. Responde directamente a la duda de la víctima.",
+   "expected_answer_focus": "Que el riesgo puede ser inminente aunque no se pueda predecir cuándo ni dónde ocurrirá el ataque, y que las autoridades deben tener en cuenta los antecedentes de violencia y cómo suele escalar.",
+   "victim_voice_rationale": "Una víctima amenazada de muerte a quien las autoridades le dicen que aún no hay peligro suficiente."
+  },
+  {
+   "query": "Tengo miedo de que mi esposo me busque en mi casa o en mi trabajo después de denunciarlo. ¿Qué cosas puede hacer el fiscal o el juez para cuidarme?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_248_01"
+   ],
+   "positive_selection_reason": "El art. 248 enumera las medidas de protección que el fiscal o el juez pueden adoptar según el grado de riesgo, como protección policial, cambio de residencia y reserva de datos.",
+   "expected_answer_focus": "Que el fiscal o el juez pueden ordenar, según el riesgo, protección policial, cambio de residencia, ocultar su paradero y reservar sus datos personales, y que hay una opción de salida del país en riesgo grave e inminente.",
+   "victim_voice_rationale": "Una víctima que teme represalias y quiere saber qué protección concreta puede pedir."
+  },
+  {
+   "query": "Si la situación es muy grave y mi vida corre peligro, ¿pueden ayudarme a irme a vivir a otro sitio sin que mi pareja sepa dónde estoy?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_248_01"
+   ],
+   "positive_selection_reason": "El art. 248 prevé el cambio de residencia, la ocultación del paradero y la reserva de datos, y, si el riesgo es grave e inminente, la salida del país.",
+   "expected_answer_focus": "Que existen las medidas de cambio de residencia, ocultación de paradero y reserva de identidad, y que en riesgo grave e inminente para la vida o la integridad puede facilitarse la salida del país.",
+   "victim_voice_rationale": "Una mujer que necesita esconderse de su agresor y no sabe si la ley lo permite."
+  },
+  {
+   "query": "Mi esposo ya me amenazó de muerte, pero no se presenta a las citaciones. ¿Pueden mandar a que lo detengan antes del juicio si no lo agarraron en el momento?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_261_01"
+   ],
+   "positive_selection_reason": "El art. 261 regula la detención preliminar judicial cuando no hay flagrancia, pero hay elementos razonables de que la persona cometió un delito grave y riesgo de fuga u obstaculización.",
+   "expected_answer_focus": "Que el juez, a pedido del fiscal, puede ordenar la detención preliminar sin flagrancia si el delito tiene pena mayor a cuatro años y hay indicios de fuga u obstaculización.",
+   "victim_voice_rationale": "Una víctima que quiere saber si el agresor puede ser detenido aunque no lo hayan capturado en el acto."
+  },
+  {
+   "query": "Quiero saber cuánto tiempo como máximo puede estar preso mi esposo mientras lo investigan y lo juzgan, porque temo que lo suelten pronto.",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_272_01"
+   ],
+   "positive_selection_reason": "El art. 272 fija los plazos máximos de la prisión preventiva, que es lo que pregunta la víctima. La pregunta no menciona cifras.",
+   "expected_answer_focus": "Que existe un límite máximo de duración de la prisión preventiva, con plazos distintos para casos comunes, complejos y de criminalidad organizada.",
+   "victim_voice_rationale": "Una víctima preocupada por cuánto tiempo estará detenido el agresor antes de la sentencia."
+  },
+  {
+   "query": "El juez dijo que dejar preso a mi esposo antes del juicio solo se usa en casos extremos y me dio una medida más leve. ¿Por qué no basta con que yo tenga miedo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_253_01",
+    "chunk_tipo03_cpp_art_254_01"
+   ],
+   "positive_selection_reason": "El art. 253 establece que restringir la libertad exige ley, proporcionalidad y una necesidad concreta, como el riesgo de fuga, la obstaculización del proceso o la reiteración delictiva. El art. 254 exige una resolución judicial motivada con finalidades y elementos de convicción.",
+   "expected_answer_focus": "Que restringir la libertad de una persona requiere autorización legal, proporcionalidad y necesidad, con resolución motivada del juez que explique los elementos que justifican la medida.",
+   "victim_voice_rationale": "Una víctima que no entiende por qué el juez no dejó preso al agresor pese a su temor."
+  },
+  {
+   "query": "El juez me negó una medida contra mi pareja y no entendí por qué. ¿Tiene que explicarme las razones y decir por cuánto tiempo dura lo que decida?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_254_01"
+   ],
+   "positive_selection_reason": "El art. 254 exige que el auto esté motivado y contenga la descripción del hecho, las finalidades, los elementos de convicción y el término de duración de la medida, bajo sanción de nulidad.",
+   "expected_answer_focus": "Que la resolución que impone una medida limitativa debe estar especialmente motivada y detallar los hechos, las razones, la norma aplicada y la duración, bajo sanción de nulidad.",
+   "victim_voice_rationale": "Una persona confundida por una decisión judicial sin explicación clara."
+  }
+ ]
+}

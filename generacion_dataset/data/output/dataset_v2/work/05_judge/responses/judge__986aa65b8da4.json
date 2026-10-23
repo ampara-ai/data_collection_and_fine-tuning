@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_441_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "si",
+      "rationale": "Agrava la sanción si el agente es tutor, guardador o responsable de la víctima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

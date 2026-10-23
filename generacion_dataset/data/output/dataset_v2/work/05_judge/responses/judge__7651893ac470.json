@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "La reparación voluntaria del daño figura como circunstancia atenuante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "Contempla el aprovechamiento del tiempo, lugar y superioridad que dificultan la defensa como agravante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "Incluye discriminación por sexo y discapacidad entre las circunstancias agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica el efecto de agravantes en los tercios de pena, sin identificar las de sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_46_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece agravantes de la agresión descrita por sexo o discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_263_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "si",
+      "rationale": "Regula información al detenido y comunicación inmediata a la Unidad de Flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_263_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "si",
+      "rationale": "Exige advertir los derechos del detenido y levantar acta de la diligencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

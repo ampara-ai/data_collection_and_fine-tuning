@@ -1,0 +1,311 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0043::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Fija la pena agravada por uso de arma y comisión en presencia de un menor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0043::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Valora expresamente la omisión inicial del ultraje sexual entre los elementos que generaron duda."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0043::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica que la prueba insuficiente no desvirtúa la presunción de inocencia y conduce a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0043::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Establece incrementos de pena por crueldad y lesiones graves en delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0043::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión de la ejecución de la pena para los delitos sexuales del capítulo señalado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0043::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reparación civil y exige al juez garantizar su cumplimiento durante la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "parcial",
+      "rationale": "Menciona certificados médicos valorados en un caso sexual, sin regular la validez de la constancia de una posta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor probatorio a certificados e informes de establecimientos públicos de salud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra las mujeres sin tratar certificados médicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar informes periciales, pero no establece la validez de documentos de una posta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "Regula copias de documentos incautados, no certificados médicos de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "Regula pruebas de colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Usa un examen médico como corroboración, sin resolver la validez de la hoja de atención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula la sentencia de apelación, no el valor de certificados de una posta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar prueba documental e informes al juicio, sin precisar la validez del certificado de salud consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula responsabilidad penal por cultura o costumbres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula daños agravados a bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Menciona exámenes médicos como elementos probatorios sin explicar qué documentos sanitarios son válidos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula la reserva del fallo y su registro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Establece la gratuidad de la consulta, certificados y pruebas complementarias en el sector público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Indica que no se requiere ratificación pericial para otorgar valor a las evaluaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de personas no inculpadas, no la obtención de constancias previas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "parcial",
+      "rationale": "Permite requerir información para investigar faltas, sin prever constancias de atención sanitaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Regula incorporación de informes al juicio, sin indicar cómo conseguirlos del establecimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Permite a fiscalía y juzgados solicitar constancias de integridad a los establecimientos que atendieron a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula penas por robo agravado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Menciona certificados y pericias como corroboración, sin regular su obtención cuando faltan."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "Regula detención para entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves y sus penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula el registro de la reserva del fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de nuevos delitos descubiertos en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula transferencia de competencia y protección frente al riesgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Explica el alcance probatorio de los certificados, pero no cómo conseguir constancias faltantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_26_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Valora certificados y pericias sin regular la obtención de constancias de atención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_314_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "si",
+      "rationale": "Permite imponer alimentos provisionales cuando la violencia impide obtener sustento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_314_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "si",
+      "rationale": "Dispone descontar las mensualidades de la asignación fijada en sentencia firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_314_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "si",
+      "rationale": "Enumera los delitos que permiten solicitar alimentos provisionales y exige imposibilidad de sustento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Describe cómo denunciar sin formalidades, sin resolver la exigencia de reiterar denuncias para investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Trata discriminación en penas por condición de trabajadora sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación y fija sus agravantes, sin regular reiteración de denuncias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que basta denunciar una vez para activar la obligación de investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves agravadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Prevé iniciar investigación por denuncia o de oficio, sin abordar exigencias de reiteración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula penas de lesiones leves."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula el registro personal policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula el reconocimiento de personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación diligente sin estereotipos, pero no aborda denuncias repetidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata la obligación del médico de denunciar, no la reiteración exigida a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Indica que investigar no debe centrarse en citar reiteradamente a la víctima y revivir el trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige evitar revictimización y rechaza obligar a reiterar los maltratos en cada declaración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

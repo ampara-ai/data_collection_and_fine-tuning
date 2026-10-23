@@ -1,0 +1,281 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Acoso sexista en protestas (Mujeres Atenco vs. México) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 243. Requisitos de la solicitud y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación cuando se emplean armas o participan dos o más sujetos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tentativa de violación (RN 316-2021, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 121.- Lesiones graves y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 261-A. Impedimento de la detención preliminar judicial y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 166. Contenido de la declaración y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 268-B. Impedimento de la prisión preventiva y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 22. Objeto y tipos de medidas de protección y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 194. Participación de testigos y peritos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación cometida por personal militar valiéndose de sus funciones o como consecuencia de ellas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 290. Detención domiciliaria y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 190.- Apropiación ilícita común y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 525. Ámbito e Iniciación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-Ñ.- Esclavitud y otras formas de explotación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 289. La caución y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Aumenta en cinco años los extremos de la pena por crueldad o finalidad de degradar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Prohibición de acogerse a confesión sincera y conclusión anticipada en casos de violación sexual es inconstitucional [Consulta 11173-2020, Cajamarca] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 480. Revocación de los beneficios y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 603-2019, Piura y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 122. Lesiones leves y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 200.- Extorsión y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación proporcional al daño, pero no desarrolla la garantía judicial de cumplimiento durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo IX. Derecho de Defensa y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "parcial",
+      "rationale": "Regula el embargo para asegurar la reparación, sin establecer por sí solo todo el derecho ni su duración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 13. Desistimiento y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Expone criterios de reparación proporcional, pero no el deber judicial de garantizar su pago durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a reparación durante la condena y encarga al juez garantizarla."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 45-A.- Individualización de la pena y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula el aseguramiento y ejecución de vehículos para pagar la reparación, sin desarrollar el derecho general consultado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29.- Implementación, registro y acreditación de hogares de refugio temporal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 480. Revocación de los beneficios y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0096::q05",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Asigna a los coautores la pena prevista para la infracción cometida conjuntamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_437_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 154. Efectos de la nulidad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00410_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "si",
+      "rationale": "Describe el sobreseimiento por insuficiencia probatoria y su revisión mediante apelación y casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00410_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "si",
+      "rationale": "Permite el sobreseimiento si faltan elementos suficientes y no es posible incorporar nuevos datos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00410_e0004_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "si",
+      "rationale": "Señala que la casación fue infundada y se confirmó el sobreseimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_162_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "si",
+      "rationale": "Presume aptitud para testificar y exige indagaciones o pericias cuando sea necesario verificar idoneidad psíquica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_162_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "si",
+      "rationale": "Establece aptitud general para testificar y permite evaluar idoneidad psíquica mediante pericias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

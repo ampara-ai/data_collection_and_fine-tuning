@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "La titularidad de la acción penal corresponde al Ministerio Público, que conduce la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación sexual, pero no regula el inicio de la investigación sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "Regula los deberes tras una detención, no la investigación sin denuncia de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Trata la obligación de investigar sin exigir denuncias reiteradas, pero presupone una denuncia previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal y a la policía actuar al conocer un delito de acción pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula la prueba de oficio en apelación, no el inicio de una investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Describe medidas de protección, no la investigación sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "Regula copias de documentos incautados, sin resolver el inicio de la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula el reemplazo del fiscal, no la investigación por noticia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que el Ministerio Público actúa de oficio o por noticia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Aborda los requisitos de la confesión sincera, no la necesidad de denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza diligencias policiales para averiguar delitos, pero no aclara el inicio sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "Examina la independencia de investigaciones por violencia policial, no su inicio sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual, sin establecer cómo se inicia la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_60_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "Distingue la conducción jurídica fiscal de la ejecución policial de la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

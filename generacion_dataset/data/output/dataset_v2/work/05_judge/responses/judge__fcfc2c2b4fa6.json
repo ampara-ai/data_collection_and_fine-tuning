@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_62_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_62_01",
+      "relevance": "si",
+      "rationale": "Permite al afectado pedir al superior jerárquico reemplazar al fiscal por incumplimiento de funciones o irregularidades."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_62_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_62_01",
+      "relevance": "si",
+      "rationale": "Obliga al juez a admitir al nuevo fiscal designado por el superior."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

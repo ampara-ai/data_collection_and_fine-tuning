@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "Trata pruebas sobre la conducta sexual de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata detención para identificación, no evaluación psiquiátrica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica de condenados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "si",
+      "rationale": "Autoriza internamiento en hospital psiquiátrico público para observar y examinar al imputado con garantías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de apelación del actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "Aprueba una guía de daño psíquico de víctimas, no la evaluación del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Define la falta de maltrato y sus sanciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Clasifica lesiones psicológicas de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Sanciona violación de personas bajo vigilancia o autoridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "Regula obtención de copias procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "parcial",
+      "rationale": "Prevé examen e internamiento terapéutico por anomalía sobrevenida, no internamiento para preparar el dictamen."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "Regula admisión de pruebas en general sin abordar el internamiento psiquiátrico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "parcial",
+      "rationale": "Exige examen pericial para determinar inimputabilidad, pero no autoriza internamiento para observar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_294_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "si",
+      "rationale": "Limita el internamiento previo para observación y examen a un mes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

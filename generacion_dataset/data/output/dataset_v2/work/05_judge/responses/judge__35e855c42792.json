@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_5_01",
+      "relevance": "si",
+      "rationale": "Ubica el delito tanto donde actúa el autor como donde se producen sus efectos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Define los lugares de comisión del delito, pero no establece dónde presentar la denuncia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "Regula evaluación de inimputabilidad, no diferencia tentativa de violación de tocamientos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "parcial",
+      "rationale": "Define tocamientos sin propósito de acceso carnal, pero no desarrolla la tentativa cuando existe ese propósito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula detención para entrega a la Corte Penal Internacional, no calificación del abuso interrumpido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce tentativa de violación sin lesiones genitales en otro caso, pero no desarrolla la distinción central frente a actos contra el pudor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Menciona condena por violación consumada y tentativa, pero centra el criterio en penetración mínima y provocación policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "parcial",
+      "rationale": "Aborda recalificación entre violación consumada y actos contra el pudor por prueba de penetración, sin resolver la tentativa interrumpida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "no",
+      "rationale": "Regula formalización de investigación, sin precisar la calificación de la conducta descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "Regula operaciones encubiertas en otros delitos, sin abordar tentativa de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa, no la gravedad y tipificación del intento de abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "si",
+      "rationale": "Distingue expresamente tentativa de violación de actos contra el pudor en un ataque a una niña interrumpido por un tercero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Clasifica daño psicológico, sin resolver la tentativa de acceso carnal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Valora indicios en homicidio, un delito distinto del abuso consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual, un delito distinto de la tentativa descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "si",
+      "rationale": "Explica que la lesión extragenital por fricción, junto con el contexto, indica intención de acceso carnal y tentativa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "parcial",
+      "rationale": "Informa una condena concreta de veinte años por tentativa, sin establecer la pena aplicable en general a todos esos casos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

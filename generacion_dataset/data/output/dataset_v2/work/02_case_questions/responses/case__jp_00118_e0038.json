@@ -1,0 +1,70 @@
+{
+ "questions": [
+  {
+   "query": "Una niña de siete años vio todo y los jueces no la tomaron en cuenta. ¿Con qué criterio deben decidir a quién creerle y explicarlo?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_158_01"
+   ],
+   "positive_selection_reason": "El art. 158.1 obliga al juez a valorar la prueba con lógica, ciencia y experiencia, y a exponer los resultados y criterios. Eso responde directamente a la duda sobre una decisión que no explicó por qué descartó un testimonio.",
+   "expected_answer_focus": "Que el juez debe valorar la prueba con reglas de la lógica, la ciencia y la experiencia, y debe exponer los resultados y los criterios que usó.",
+   "victim_voice_rationale": "Un familiar que ve cómo los jueces ignoran el relato de una niña testigo pregunta cómo deberían decidir."
+  },
+  {
+   "query": "Soltaron al acusado porque dijeron que lo que presentó el fiscal no era preciso. ¿Qué datos tiene que traer ese escrito para estar bien hecho?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_349_01"
+   ],
+   "positive_selection_reason": "El art. 349.1 enumera el contenido que debe tener la acusación fiscal, incluida la relación clara y precisa del hecho. Eso responde qué exige un escrito bien hecho.",
+   "expected_answer_focus": "Los elementos que debe contener la acusación fiscal: hechos con sus circunstancias, elementos de convicción, participación del acusado, pena solicitada, reparación y medios de prueba.",
+   "victim_voice_rationale": "La familia no entiende por qué una absolución se apoyó en que el escrito del fiscal era impreciso."
+  },
+  {
+   "query": "Si condenan al hombre que causó la muerte de mi familiar, ¿el fiscal ya tiene que pedir desde el inicio cuánto dinero deben pagarnos?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_349_01"
+   ],
+   "positive_selection_reason": "El art. 349.1.g indica que la acusación debe consignar el monto de la reparación civil, los bienes embargados o incautados que garantizan su pago y quién debe recibirlo.",
+   "expected_answer_focus": "Que la acusación fiscal debe incluir el monto de la reparación civil, los bienes que garantizan el pago y la persona que lo recibirá.",
+   "victim_voice_rationale": "Una familia quiere saber si el pago por el daño se pide desde la acusación o si deben hacerlo ellos."
+  },
+  {
+   "query": "Yo me enteré de lo ocurrido solo porque la niña me lo contó después. ¿Mi palabra sola alcanza para que condenen al agresor?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_158_01"
+   ],
+   "positive_selection_reason": "El art. 158.2 establece que, para testigos que solo conocen los hechos por referencia, se necesitan otras pruebas que corroboren su testimonio para condenar o dictar una medida coercitiva.",
+   "expected_answer_focus": "Que el testimonio de quien no presenció los hechos y solo los conoce por lo que otro le contó necesita otras pruebas que lo corroboren para fundar una condena.",
+   "victim_voice_rationale": "Una persona que no vio los hechos duda de que su palabra valga ante la justicia."
+  },
+  {
+   "query": "Nadie vio directamente el empujón y el acusado dice que fue un accidente. ¿Se puede condenar con señales y rastros aunque no haya quien lo vio?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_158_01"
+   ],
+   "positive_selection_reason": "El art. 158.3 regula la prueba por indicios: el indicio debe estar probado, la inferencia debe seguir reglas de lógica, ciencia o experiencia, y los indicios contingentes deben ser plurales, concordantes y convergentes, sin contraindicios consistentes.",
+   "expected_answer_focus": "Las condiciones para que se pueda llegar a una conclusión mediante indicios: indicio probado, inferencia lógica y, si son contingentes, que sean varios y convergentes sin contraindicios consistentes.",
+   "victim_voice_rationale": "Ante la versión de accidente del agresor, la familia teme que sin testigo directo no se pueda probar nada."
+  },
+  {
+   "query": "La niña vio todo. ¿Quién tiene que pedir que ella cuente lo que vio en el juicio y qué debe indicarse sobre lo que va a decir?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_349_01"
+   ],
+   "positive_selection_reason": "El art. 349.1.h dispone que el fiscal ofrece en la acusación la lista de testigos con nombre y domicilio y los puntos sobre los que declararán.",
+   "expected_answer_focus": "Que el fiscal, al acusar, ofrece los medios de prueba, con lista de testigos y peritos, su identificación y los puntos de su declaración.",
+   "victim_voice_rationale": "Un familiar quiere saber cómo llega al juicio el relato de la niña testigo."
+  }
+ ]
+}

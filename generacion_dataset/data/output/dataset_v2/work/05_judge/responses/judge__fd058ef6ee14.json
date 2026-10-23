@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "parcial",
+      "rationale": "Exige ejecución policial efectiva de medidas ya dictadas, sin regular la recepción inicial de la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata investigación de desaparición forzada y derecho a la verdad."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "Regula facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual, sin deberes policiales de atención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Exige medidas efectivas ante riesgos de violencia doméstica conocidos por la policía."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica agresiones familiares aunque las lesiones sean leves, sin explicar la obligación de asistencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye investigación material a la policía, sin desarrollar la respuesta debida ante minimización de violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata investigación de muerte por un policía, otro supuesto y procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata independencia de investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige que la protección ante violencia doméstica funcione eficazmente en la práctica."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "Regula examen por inimputabilidad."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula procedimiento de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige investigar violencia doméstica rápidamente y sin demoras innecesarias."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Prevé reserva de domicilio y trabajo, ocultación del paradero y cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Establece deber de protección inmediata, sin precisar reserva de datos ni mudanza."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Exige proteger ante riesgo doméstico, sin describir ocultamiento o cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula seguridad de aspirantes a colaboración eficaz, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "si",
+      "rationale": "Prevé protección de identidad y medios para cambiar residencia o trabajo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula robo agravado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "Regula detención y registros en allanamiento."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata credibilidad y máximas de experiencia en prueba sexual."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencia de segunda instancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Remite al régimen de protección por riesgos para la víctima, sin precisar reserva o traslado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra ocultación visual y de voz durante declaración, pero no domicilio ni reubicación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Define beneficiarios y peligro habilitante, sin describir las medidas solicitadas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Describe protección según riesgo, pero no los requisitos escritos ni su duración."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "Regula motivación de medidas de coerción procesal, no medidas protectoras de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluar riesgo doméstico y menciona detención preventiva, sin requisitos para detener sin flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica ilegalidad de detención sin flagrancia ni mandato, sin desarrollar cuándo el juez puede ordenarla."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Describe ejecución de detención judicial y garantías, sin precisar sus presupuestos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Da requisitos generales de proporcionalidad y motivación, sin habilitar detención no flagrante."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "Regula internación psiquiátrica preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "Regula reconstrucción de instrumentos públicos falsos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata retención para control de identidad, otro supuesto."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza detención judicial sin flagrancia bajo presupuestos de pena, sospecha y peligro procesal."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata amenaza en actos contra el pudor, no detención judicial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual y sus penas, sin regular detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia psicológica, sin resolver la detención sin flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Establece vigencia ordinaria de seis meses y excepciones que duran hasta la captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0023_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "si",
+      "rationale": "Reconoce que el daño psicológico puede manifestarse meses o años después y conservar valor probatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "si",
+      "rationale": "Rechaza exigir manifestación inmediata del daño psicológico y ordena nueva apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0023_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Menciona cámara Gesell, edad y desarrollo psicosocial, pero no desarrolla cómo recibir la declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0023_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "si",
+      "rationale": "Muestra la casación fiscal contra una absolución confirmada y sus efectos sobre el nuevo juicio de apelación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

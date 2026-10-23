@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Enumera las facultades procesales del actor civil para defender su pretensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_104_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Reconoce al actor civil la facultad de interponer recursos previstos por ley."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

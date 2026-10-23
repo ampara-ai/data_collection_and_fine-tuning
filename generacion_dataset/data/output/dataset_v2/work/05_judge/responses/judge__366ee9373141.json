@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00458_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "si",
+      "rationale": "Niega nulidad automática cuando la defensa omitió solicitar la declaración y no acredita perjuicio."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia familiar y protección infantil, pero no establece su tipificación penal."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica lesiones contra integrantes familiares e incluye agravación por minoría de edad."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia familiar sin precisar parentescos incluidos ni requisito de convivencia."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "si",
+      "rationale": "Establece que el juicio continúa aunque el acusado no declare."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata tiempo para preparar defensa y no abuso de la palabra."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "Regula detención en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "Regula designación de peritos."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Describe prueba anticipada sin poderes para limitar alegatos."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "Tipifica proxenetismo."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "parcial",
+      "rationale": "Permite limitar pruebas sobreabundantes, pero no regula limitar intervenciones orales."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata motivación y valoración probatoria."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata omisión de declaración del acusado y nulidad."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata admisión de casación y validez de pericias."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "si",
+      "rationale": "Faculta al juez a impedir desviaciones y limitar o interrumpir uso abusivo de la palabra."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Describe un proceso por faltas sin regular control de intervenciones abusivas."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica coacción y no dirección de audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de apelación y no apertura del juicio de primera instancia."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin lesiones."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula transformación de proceso de seguridad."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "Regula protección en flagrancia de riesgo severo."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata citación de testigos de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Analiza prueba infantil y nulidad sin describir apertura del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Discute inicio de persecución penal y encubrimiento."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata deber de investigar violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Regula cómputo de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "Describe discusión final y no apertura del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Describe instalación, alegatos iniciales e información del derecho a no declarar."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula presencia de partes y silencio sin precisar apertura ni momento de información de derechos."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q06",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona incomparecencia de testigos y peritos."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "si",
+      "rationale": "Prohíbe coacción y preguntas dirigidas a obtener confesión contra la voluntad del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula proceso de seguridad y no reclamaciones indemnizatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera eximentes penales sin vías para reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin regular acción civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Sanciona lesiones leves sin regular elección de vías civiles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "Regula formación del expediente judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones sin regular acción civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Delimita pretensiones de la parte civil sin resolver acumulación de ambas vías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Permite elegir vía penal o civil y prohíbe reclamar simultáneamente en ambas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata transferencia de competencia por riesgos a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza participación de la víctima sin definir vías indemnizatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica rol civil y reparación sin resolver la elección entre vías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata amparo contra decisiones fiscales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Regula legitimación en acción civil penal sin prohibir duplicación de vías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Permite acción civil separada si no puede continuar la persecución penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_12_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "La absolución o sobreseimiento no impide pronunciarse sobre acción civil válidamente ejercida."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

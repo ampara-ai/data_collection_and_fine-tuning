@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Reconoce la declaración en un ambiente seguro y privado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Reconoce el examen por personal del sexo que indique la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0087_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Exige registrar la declaración para evitar su repetición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0087_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Reconoce asistencia jurídica gratuita durante todo el proceso y atención psicológica."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

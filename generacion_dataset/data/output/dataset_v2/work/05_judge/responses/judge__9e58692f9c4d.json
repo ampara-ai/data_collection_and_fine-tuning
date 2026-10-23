@@ -1,0 +1,197 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 264. Plazo de la detención y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 107. Derechos del querellante particular y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Califica como violación el sexo oral y la penetración forzada del agresor por el menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Rechaza la alegación de meros tocamientos y confirma la violación con reconocimiento parcial y otras pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Indica una condena de treinta años de prisión por violación de un niño de doce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Expone los criterios de credibilidad del relato del menor y su corroboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Define formas de penetración constitutivas de violación, sin aclarar el supuesto en que el menor es obligado a penetrar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 163. Obligaciones del testigo y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 5. Definición de violencia contra las mujeres y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 525. Ámbito e Iniciación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No desistimiento por llanto de víctima (RN 1178-2018, Lima) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 224. Incautación de documentos no privados. Deber de exhibición. Secretos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 87. Instrucciones preliminares y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 514. Autoridades que intervienen y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Incluye en el acceso carnal tanto la penetración activa como la pasiva y aplica esa regla al menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 174.- Violación de persona bajo autoridad o vigilancia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Penetración superficial suficiente (Valencia Campos vs. Bolivia) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Regula cuándo ampliar la declaración del menor en juicio, sin resolver la validez del certificado de un solo médico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista grabada de menores como prueba anticipada, pero no la validez del certificado médico cuestionado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 181. Examen pericial y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 457. Reglas especiales y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 378. Examen de testigos y peritos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 482-2024, Lima y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista única y su ampliación, pero no el certificado firmado por un solo profesional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "si",
+      "rationale": "Valida el certificado firmado por un solo perito y la entrevista única incorporada y ratificada en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 424. Audiencia de apelación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0070_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,79 @@
+{
+ "questions": [
+  {
+   "query": "Mi primo, que vivía en mi casa, me obligaba a estar con él usando golpes y amenazas. ¿Eso se considera un delito aunque sea de la familia?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 describe obligar a otra persona a un acto sexual con violencia física o psicológica o grave amenaza. Eso coincide con lo que cuenta la pregunta (golpes y amenazas) y permite responder que es un delito.",
+   "expected_answer_focus": "Que obligar a alguien a un acto sexual mediante violencia o amenaza es el delito de violación sexual, y que el parentesco no lo excluye.",
+   "victim_voice_rationale": "Una joven que dudó durante mucho tiempo si lo que vivió con un familiar era realmente un delito.",
+   "_note": "Sin cifras de pena."
+  },
+  {
+   "query": "Mi hija tiene 16 años y el que abusó de ella es un primo mayor que vive en nuestra casa. ¿Por ser familiar y vivir con nosotros le dan más castigo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 prevé una pena mayor si el agresor habita en el mismo hogar o es pariente colateral, si se aprovecha de la confianza que la víctima deposita en él, o si la víctima tiene entre 14 y menos de 18 años.",
+   "expected_answer_focus": "Que convivir con la víctima, ser su pariente, haberse ganado su confianza o ser ella adolescente son circunstancias que agravan la pena.",
+   "victim_voice_rationale": "Una madre quiere saber si la cercanía familiar del agresor y la edad de su hija cuentan para la sanción.",
+   "_note": "No se fija la cifra de pena porque el caso es antiguo."
+  },
+  {
+   "query": "Además de abusar de ella, él la golpeaba y la humillaba para hacerla sentir basura. ¿Eso puede hacer que le den más años de cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 177 establece un aumento de pena en los delitos sexuales cuando el agente actúa con crueldad o para degradar a la víctima, o cuando causa lesión grave.",
+   "expected_answer_focus": "Que la crueldad, el ánimo de degradar o el daño grave a la víctima son agravantes que incrementan la pena en los delitos sexuales.",
+   "victim_voice_rationale": "Describe los golpes y la humillación como parte del abuso y pregunta si pesan en la condena.",
+   "_note": ""
+  },
+  {
+   "query": "Si condenan al que abusó de mi hija, ¿puede quedar en libertad sin pisar la cárcel o eso no se permite en estos casos?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 57 regula cuándo se puede suspender la pena e indica que no procede para los delitos del capítulo de violación de la libertad sexual. El art. 170 confirma que la violación sexual pertenece a ese grupo de delitos.",
+   "expected_answer_focus": "Que la suspensión de la ejecución de la pena tiene requisitos y no se aplica a condenados por delitos sexuales como la violación.",
+   "victim_voice_rationale": "Teme que el agresor condenado igual salga libre.",
+   "_note": "No se afirma ninguna cifra de pena histórica."
+  },
+  {
+   "query": "¿Hasta cuántos años puede estar preso alguien que hace algo así a una menor, o puede ser para toda la vida si le causa mucho daño?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_29_01",
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 29 fija los límites generales de la pena privativa de libertad (temporal o cadena perpetua), y el art. 177 prevé penas muy altas, incluida la cadena perpetua, cuando hay lesión grave o muerte.",
+   "expected_answer_focus": "Que la prisión temporal tiene un máximo legal y que en los casos más graves de delitos sexuales puede llegar a cadena perpetua.",
+   "victim_voice_rationale": "Quiere saber el tope del castigo posible para el agresor de su familiar.",
+   "_note": "Se pregunta por topes generales, sin fijar cifras históricas del caso."
+  },
+  {
+   "query": "Aparte de que lo castiguen con cárcel, ¿puedo pedir que me paguen por todo el daño que me hizo? ¿Quién se asegura de que de verdad me paguen?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 establece que la reparación civil se decide junto con la pena, que es un derecho de la víctima y que el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que la reparación civil se fija en la misma sentencia, que es un derecho de la víctima y que el juez vela por que se cumpla.",
+   "victim_voice_rationale": "La víctima quiere saber si puede recibir una compensación y quién la hace cumplir.",
+   "_note": ""
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

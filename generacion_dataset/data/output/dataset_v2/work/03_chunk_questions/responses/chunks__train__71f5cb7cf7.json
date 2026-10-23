@@ -1,0 +1,112 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_437_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me dijeron que mi apelación no cumplía requisitos y la botaron. ¿Hay otro reclamo ante una instancia mayor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Procede la queja contra la resolución que declara inadmisible la apelación o la casación, ante el órgano superior."
+    },
+    {
+     "query": "Si presento un reclamo porque rechazaron mi apelación, ¿el caso se detiene mientras tanto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La queja no suspende el trámite del proceso principal ni los efectos de la resolución que negó el recurso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+   "skip": true,
+   "skip_reason": "Regula operaciones encubiertas contra crimen organizado y corrupción; tema interno de investigación sin relación con una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Por un paro de trabajadores no pude entregar mi escrito en ventanilla. Si se duda del plazo, ¿me lo pueden desechar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "En caso de duda sobre admisibilidad de un recurso se interpreta a favor de la persona para que pueda acceder a revisión."
+    },
+    {
+     "query": "Me golpeó mi pareja y el fiscal archivó mi caso. ¿Cómo debe tratar la justicia los trámites que presento con dudas sobre el plazo?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El principio pro actione obliga a interpretar las normas procesales de forma extensiva y favorable al justiciable."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_188_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me arrancó la cartera amenazándome con lastimarme. ¿Eso es un robo y cuántos años le pueden dar?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Apoderarse de un bien ajeno con violencia o amenaza inminente es robo, con pena de 3 a 8 años."
+    },
+    {
+     "query": "Se llevó mi celular a la fuerza, pero es mi esposo. ¿Igual puede ir preso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "violencia_economica",
+     "expected_answer_focus": "Quien sustrae un bien ajeno empleando violencia o amenaza grave es sancionado con cárcel de 3 a 8 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El examen dice que no tengo daño emocional ni heridas, pero sí pasó. ¿Entonces no me van a creer?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de afectación psicológica o de lesiones no vuelve inverosímil el relato; cada persona vive el trauma distinto."
+    },
+    {
+     "query": "Mi hija contó lo ocurrido en una sala especial con psicóloga. ¿Eso basta para condenar al agresor aunque pasó tiempo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El relato coherente, junto con indicios periféricos, puede bastar y el paso del tiempo explica la falta de lesiones."
+    },
+    {
+     "query": "Los jueces no se pusieron de acuerdo sobre la pena máxima del violador de una niña. ¿Qué castigo le toca entonces?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Sin unanimidad para cadena perpetua se impone la pena temporal más alta de 30 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi novio me vigila y me humilla; consulté a una doctora por molestias íntimas y anticoncepción. ¿Eso demuestra que yo aceptaba intimar?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Ir al médico por esos motivos no demuestra consentimiento y la falta de resistencia no equivale a aceptar."
+    },
+    {
+     "query": "Cedía para evitar peleas con mi pareja, sin gritar ni empujar. ¿Eso cuenta como que yo estuve de acuerdo?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Ceder sin oponer resistencia en una relación de control y sumisión no equivale a consentimiento."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

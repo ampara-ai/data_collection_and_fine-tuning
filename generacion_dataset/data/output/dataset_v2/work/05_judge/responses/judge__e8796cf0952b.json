@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 87. Instrucciones preliminares» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 13. Desistimiento» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 310. Orden de inhibición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 152.- Secuestro» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Describe la detención flagrante y las comunicaciones posteriores, sin fijar su duración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicación y puesta a disposición tras detener, sin establecer el plazo de detención judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 79. Contumacia y Ausencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Apelación 333-2025, Corte Suprema, f. j. 12» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "parcial",
+      "rationale": "Regula la comparecencia al terminar el plazo de detención, pero solo remite a otro artículo sin indicar su duración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "si",
+      "rationale": "Fija hasta siete días de detención judicial por flagrancia y la decisión posterior sobre prisión o comparecencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 523. Detención Preventiva con fines de extradición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Interpretación del peligro inmediato para medidas de protección [Kurt vs. Austria]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Criterios que fijan un plazo para efectuar las diligencias que requieran la presencia del imputado [Exp. 00488-2022-0]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 419.- Detención ilegal» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 557. Recepción y trámite» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "si",
+      "rationale": "Detalla el requerimiento fiscal dentro de veinticuatro horas y la audiencia judicial antes de cuarenta y ocho horas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_266_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "si",
+      "rationale": "Atribuye al juez el control de la detención y la decisión sobre su continuación, a requerimiento fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

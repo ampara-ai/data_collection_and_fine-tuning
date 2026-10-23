@@ -1,0 +1,137 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Regula plazos de detención y decisión de libertad sin valorar paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula entrevista única de víctimas."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "Analiza validez de entrevista infantil."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata oportunidad de constitución en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "parcial",
+      "rationale": "Permite apelar prisión preventiva sin resolver criterio de paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268-b_01",
+      "relevance": "no",
+      "rationale": "Contempla uso reglamentario de armas policiales."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza prueba infantil y no liberación de progenitor."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula daños a bienes."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivación y peligro procesal sin ponderar interés del hijo del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "parcial",
+      "rationale": "Regula prolongación por peligro procesal sin analizar paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "si",
+      "rationale": "Niega que ser padre impida automáticamente prisión preventiva y exige ponderación."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "si",
+      "rationale": "Exige ponderar impacto en el niño y necesidad de prisión preventiva con motivación reforzada."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Ordena comparecencia simple si el fiscal no solicita prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "si",
+      "rationale": "Autoriza vigilancia y seguimiento sin conocimiento del investigado con requisitos y control judicial."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "si",
+      "rationale": "Exige ponderar necesidad de prisión y efectos familiares sin aplicar automáticamente la paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Prevé comparecencia simple si no se solicita prisión o faltan presupuestos materiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_322_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Distingue conducción jurídica fiscal de investigación material policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_322_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Faculta al fiscal a proteger y aislar indicios para impedir desaparición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0067_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Valora denuncia tardía junto a contradicciones como factores que debilitan imputación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0067_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Confirma absolución ante inconsistencias sustanciales y falta de corroboración suficiente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

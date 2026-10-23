@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "si",
+      "rationale": "Identifica la Guía de Valoración de Daño Psíquico en Personas Adultas Víctimas de Violencia Intencional como instrumento pericial oficial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Explica manifestación diferida del daño psicológico sin identificar el método oficial para graduarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_180_01",
+      "relevance": "no",
+      "rationale": "Regula informes discrepantes y ampliaciones periciales sin indicar el método de evaluación psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Exige parámetros médico-legales del Instituto de Medicina Legal pero no identifica la guía ni desarrolla el método."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Distingue maltrato emocional y psicológico sin precisar un método oficial de evaluación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Distingue afectación psicológica de daño psíquico pero no establece cómo evaluarlos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce grados grave y muy grave de daño psíquico sin explicar su método de medición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "La guía evalúa físicamente a presuntos agresores sexuales y no el daño mental de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Regula observación psiquiátrica del imputado y no evaluación del daño en la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "parcial",
+      "rationale": "Menciona daño psíquico leve en lesiones sin establecer cómo medirlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aborda el significado protector de una reacción ansiosa situacional sin identificar el método oficial de evaluación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "parcial",
+      "rationale": "Identifica peritos e instituciones competentes pero no el método para evaluar el daño mental."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "Regula citación de peritos y otros intervinientes sin definir métodos de evaluación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00052_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "si",
+      "rationale": "Identifica la guía oficial para valorar daño psíquico en adultos víctimas de violencia intencional."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega de detenidos a la Corte Penal Internacional, no credibilidad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "parcial",
+      "rationale": "Exige prueba de cargo suficiente y absolución ante duda, sin explicar el peso de contradicciones de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye violencia sexual de parejas y exparejas, pero no regula contradicciones testimoniales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Regula apertura del juicio y derechos del acusado, no cambios en la versión de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata valoración integral del testimonio, pero su cuestión central es la pixelación y no cambios del relato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio del acusado, no valoración del relato de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona incapaz de consentir, sin regular contradicciones probatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Describe absolución por violación ante contradicciones sustanciales y falta de corroboración en una esposa separada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Explica que precisar detalles no equivale a incoherencia y exige valorar lógicamente la corroboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Protege la credibilidad frente a estereotipos de conducta previa, sin resolver cambios del relato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica violación entre parejas y exparejas, sin determinar efectos de contradicciones testimoniales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "si",
+      "rationale": "Distingue exactitud en lo sustancial de los detalles circunstanciales al valorar declaraciones de víctimas sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación accesoria, no valoración de declaraciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Describe exámenes que acreditaron lesiones y signos de violencia sexual, aunque no bastaron para superar las contradicciones del caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0081_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Explica que se mantuvo condena por agresiones y se revocó la sexual por insuficiencia probatoria."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "si",
+      "rationale": "Explica que la retractación por violencia debe valorarse en contexto y no invalida la declaración inicial corroborada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

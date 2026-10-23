@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "La obligación de investigar sin reiterar denuncias aporta contexto, pero no resuelve el valor de una retractación notarial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica que basta una denuncia para investigar, sin tratar la retractación de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Da criterios para valorar retractaciones de víctimas, pero no el documento notarial de la madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento del régimen de prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica libramiento indebido de cheques."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "Regula oralidad de audiencias y no efectos de retractación notarial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "Regula certificados médicos y no la retractación notarial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Niega valor a la retractación notarial unilateral de la madre y mantiene la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Analiza suficiencia de la acusación directa, sin retractación notarial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Describe el retiro de acusación por cargos enervados, pero no el efecto del documento notarial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Enumera atenuantes y agravantes de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registro personal policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aborda valoración integral y persistencia de la incriminación, sin resolver directamente la retractación bajo presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Exige retractación voluntaria y fundada ante juez y rechaza la inducida por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencia de apelación, no el efecto probatorio de retractarse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "Tipifica hurto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Evalúa mentiras del imputado como indicios y no retractación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo agravado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "Regula trámite inicial de la denuncia en familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica libramiento indebido de cheques."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Regula inicio del juicio y derechos del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Explica retiro fiscal de la acusación, pero no si la retractación impide condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "Determina cuándo familiares pueden ser víctimas en un proceso internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia al juicio sin valorar retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Examina requisitos de acusación directa y no la retractación bajo presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Señala que no es necesario que la menor ratifique en juicio para evitar revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0051_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece un ejemplo de declaración inicial corroborada médicamente, pero no resuelve la suficiencia de un relato aislado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

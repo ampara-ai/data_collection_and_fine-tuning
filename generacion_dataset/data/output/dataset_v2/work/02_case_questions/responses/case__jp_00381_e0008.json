@@ -1,0 +1,60 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi hija de 15 años no volvió del trabajo y fui a avisar a las autoridades. ¿Qué tienen que hacer ellos desde el primer momento para buscarla?",
+   "topic": "canales_denuncia",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01"
+   ],
+   "positive_selection_reason": "El art. 65 CPP dice que el fiscal, apenas tiene noticia del delito, dispone de inmediato que la policía haga las primeras diligencias. Responde qué debe pasar tras el aviso. Los demás candidatos no tratan el inicio de la investigación.",
+   "expected_answer_focus": "Que el fiscal debe ordenar de inmediato diligencias preliminares a la policía, fijando su objeto y plazos, y que ambas instituciones deben coordinarse.",
+   "victim_voice_rationale": "Una madre que avisó de la desaparición quiere saber qué se espera que hagan las autoridades de inmediato."
+  },
+  {
+   "query": "Cuando investigan la muerte de mi hija, ¿solo buscan al culpable o también deben averiguar por qué lo hizo y cuánto daño nos causó?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_321_01"
+   ],
+   "positive_selection_reason": "El art. 321 CPP establece que la investigación preparatoria busca determinar si hay delito, sus circunstancias o móviles, quién fue el autor, quién es la víctima y el daño causado.",
+   "expected_answer_focus": "Que la investigación debe establecer si hubo delito, los móviles, la identidad del autor y de la víctima, y el daño causado.",
+   "victim_voice_rationale": "Una familiar quiere saber qué alcance debe tener la investigación, más allá de identificar al culpable."
+  },
+  {
+   "query": "Creo que a mi hija la mataron por ser mujer y las autoridades ni lo quisieron averiguar. ¿Eso también es un trato injusto hacia nosotras?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00381_e0008_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que, si hay indicios de violencia de género, no investigar los posibles móviles discriminatorios puede ser en sí una forma de discriminación. Responde directamente la duda.",
+   "expected_answer_focus": "Que no investigar los posibles móviles de género, cuando hay indicios, puede constituir discriminación en el acceso a la justicia según la Corte IDH.",
+   "victim_voice_rationale": "Una madre siente que la desidia de las autoridades tiene que ver con que su hija era mujer."
+  },
+  {
+   "query": "La policía me dice que eso lo decide el fiscal y el fiscal dice que la policía. ¿Quién dirige realmente la investigación de mi caso?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01"
+   ],
+   "positive_selection_reason": "El art. 65 CPP reparte los roles: el fiscal decide la estrategia jurídica, la policía la operativa, y deben coordinar y cooperar.",
+   "expected_answer_focus": "Que el fiscal define la estrategia jurídica y la policía la operativa, con programación y coordinación conjunta.",
+   "victim_voice_rationale": "La víctima se siente rebotada entre instituciones y quiere saber quién responde."
+  },
+  {
+   "query": "Sospecho que no revisaron bien el cuerpo de mi hija ni el lugar donde la hallaron. ¿Los peritos y médicos del Estado están obligados a ayudar en la investigación?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_321_01"
+   ],
+   "positive_selection_reason": "El art. 321.2 y 321.3 CPP obliga a la policía, a criminalística y a Medicina Legal a apoyar al fiscal, y permite formar un equipo de expertos para casos específicos.",
+   "expected_answer_focus": "Que los órganos técnicos del Estado deben prestar apoyo al fiscal y que este puede contar con expertos en un equipo interdisciplinario.",
+   "victim_voice_rationale": "Una familiar teme que las pruebas se hayan manejado mal y quiere saber qué apoyo técnico debe haber."
+  }
+ ]
+}

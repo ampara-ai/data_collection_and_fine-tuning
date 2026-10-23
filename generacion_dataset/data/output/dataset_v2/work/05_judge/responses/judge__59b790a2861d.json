@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "Regula la audiencia de prisión preventiva, no el apartamiento por compadrazgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata la prohibición de exigir denuncias reiteradas de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define y sanciona lesiones graves sin regular imparcialidad judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula la incoación del proceso inmediato, no la inhibición del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "Regula restricciones al imputado y no el cambio de magistrado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Sanciona el maltrato sin regular el apartamiento del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "si",
+      "rationale": "Reconoce expresamente el compadrazgo con el imputado como causal de inhibición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza preguntas aclaratorias judiciales en España, no inhibición por compadrazgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata prueba de cargo y reparación integral de víctimas de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias fiscales y no el cambio de magistrado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula la constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Sanciona lesiones leves sin regular la inhibición judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata la obligación de investigar sin exigir denuncias reiteradas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza preguntas aclaratorias en un proceso español, no parentesco como causal de apartamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "Regula la devolución de bienes incautados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "Regula la queja por denegación de recursos, no la inhibición por parentesco."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia sin regular la imparcialidad judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de tráfico de migrantes y no parentesco judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula violación sexual y sus agravantes, no inhibición judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "si",
+      "rationale": "Incluye el parentesco hasta el cuarto grado de consanguinidad como causal de inhibición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "La inhibición aquí restringe la disposición de bienes, no la intervención del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de la apelación del actor civil, no el parentesco del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "Regula interceptación de correspondencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata la eficacia de medidas estatales contra violencia doméstica, no inhibición judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata facultades del fiscal y del actor civil al impugnar sentencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Exige al fiscal apartarse por las causales del artículo 53, pero no las desarrolla ni regula al juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "si",
+      "rationale": "Dispone resolver inmediatamente tras un traslado a las partes por tres días."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,209 @@
+{
+ "_model": "claude-sonnet-5-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_247_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Voy a declarar en el juicio contra mi ex, que me amenazó de muerte. ¿Me pueden dar resguardo aunque no sea testigo sino la víctima?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El resguardo en el proceso penal alcanza a testigos, peritos, víctimas y colaboradores que intervienen en él."
+    },
+    {
+     "query": "Si denuncio a mi esposo, ¿también pueden cuidar a mis hijos y a mis papás de posibles represalias?",
+     "topic": "medidas_proteccion",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La protección puede extenderse al cónyuge o conviviente, ascendientes, descendientes y hermanos de quien la solicita."
+    },
+    {
+     "query": "¿Qué tiene que ver el fiscal o el juez para decidir que de verdad corro riesgo y me den resguardo durante el caso?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal (en la investigación preparatoria) o el juez debe apreciar racionalmente un peligro grave para la persona, su libertad o sus bienes."
+    },
+    {
+     "query": "¿Hay protección si lo que me preocupa es que el agresor me quite o dañe mis cosas, no solo que me golpee?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El peligro grave puede ser para la persona, su libertad o sus bienes."
+    },
+    {
+     "query": "Fui testigo de cómo mi vecino golpeaba a su mujer y tengo miedo de declarar. ¿Alguien me protege?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Los testigos que intervienen en procesos penales pueden recibir protección si se aprecia un peligro grave."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Absolvieron a los acusados de matar a mi madre y el fiscal no quiso apelar. ¿Puede un tribunal superior revisar igual el caso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Tribunal Superior puede anular la absolución aunque el fiscal superior esté conforme, si hay falta de motivación o violación de derechos."
+    },
+    {
+     "query": "¿Una sala puede dejar sin efecto la libertad de un acusado y ordenar otro juicio aunque el fiscal esté de acuerdo con soltarlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La conformidad del fiscal superior no impide que el tribunal anule la decisión absolutoria si advierte deficiencias graves."
+    },
+    {
+     "query": "Como familiar de una mujer asesinada por su pareja, ¿puedo yo apelar si el fiscal se queda callado con la absolución?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La víctima tiene derecho a impugnar y a la tutela judicial efectiva, que se pondera frente a la posición del fiscal."
+    },
+    {
+     "query": "El juez soltó al acusado sin explicar bien por qué y no valoró las pruebas. ¿Eso puede hacer que repitan el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las deficiencias en la motivación y en la valoración de las pruebas justifican anular la absolución y ordenar nuevo juicio."
+    },
+    {
+     "query": "¿Puede un juez de apelaciones desobedecer una decisión anterior de la Corte Suprema porque no le parece correcta?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "El control difuso aplica a leyes, no a precedentes; para apartarse de la doctrina jurisprudencial hay un procedimiento específico."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_241_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja guarda en su taller cosas que prueban lo que me hizo. ¿El fiscal puede cerrar el lugar rápido para que no las esconda?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal puede ordenar la clausura o vigilancia del local por urgencia cuando sea indispensable para la investigación."
+    },
+    {
+     "query": "¿Pueden bloquear de inmediato los bienes del agresor sin esperar una orden del juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal puede inmovilizar bienes muebles por urgencia o peligro por la demora, y luego pedir confirmación al juez."
+    },
+    {
+     "query": "Si el fiscal manda cerrar un local o inmovilizar cosas de urgencia, ¿en cuánto tiempo tiene que avisar al juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Antes de las veinticuatro horas debe pedir al juez la confirmación, adjuntando copia del acta."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja y yo nos agredimos los dos una noche y ambos nos denunciamos. ¿Nos pueden sancionar a los dos?",
+     "topic": "violencia_fisica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En agresiones mutuas entre convivientes ambos pueden ser declarados responsables de la falta de maltrato."
+    },
+    {
+     "query": "Él me insultó y me amenazó con quitarme a mi hija, y yo reaccioné golpeándolo. ¿Me pueden condenar a mí también?",
+     "topic": "violencia_psicologica",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El juzgado condenó a ambos convivientes por agresiones recíprocas, incluidos insultos, amenazas y golpes."
+    },
+    {
+     "query": "El juez dijo que la condena queda suspendida por dos años para que no volvamos a pelear. ¿Eso qué significa?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La reserva del fallo condenatorio por dos años es una medida alternativa a la pena para prevenir reincidencia."
+    },
+    {
+     "query": "Todo pasó de noche dentro de nuestra casa sin testigos. ¿Cómo se prueba quién agredió a quién?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El tribunal valoró declaraciones y pericias psicológicas que acreditaron agresiones mutuas en el hogar."
+    },
+    {
+     "query": "Nos hicimos daño con un cuchillo durante una pelea en casa, pero fue una cortadura leve. ¿Se considera delito o algo menor?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Los hechos se trataron como falta de maltrato entre convivientes, vista en un Juzgado de Paz Letrado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija fue violada de niña y el acusado se negó a declarar en el juicio. ¿Igual pueden condenarlo?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Callarse es un derecho legítimo y no impide la condena si la prueba de cargo es sólida."
+    },
+    {
+     "query": "¿Solo con lo que dice la víctima y un examen médico se puede meter preso al agresor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La declaración directa y precisa de la víctima, corroborada por pericia médico legal, bastó para confirmar la condena."
+    },
+    {
+     "query": "El agresor se escapó y lo agarraron quince años después. ¿Todavía lo pueden condenar por lo que hizo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se confirmó una condena de 20 años por una violación cometida 15 años antes de la captura; la huida se tomó como indicio."
+    },
+    {
+     "query": "Si el abogado del acusado le aconseja no hablar, ¿eso puede ayudarlo a salir libre?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Seguir ese consejo no hace ineficaz la defensa ni evita la condena cuando las pruebas en su contra son fuertes."
+    },
+    {
+     "query": "Denunciamos enseguida el abuso a mi hija menor de edad. ¿Importa haberlo hecho rápido para que le crean?",
+     "topic": "violencia_sexual",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La denuncia inmediata de la menor y del padre fue parte de lo que respaldó la sindicación de la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_404_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi cuñado escondió a mi agresor para que la policía no lo encuentre. ¿Él también comete un delito?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien sustrae a una persona de la persecución penal comete encubrimiento personal, con pena de 3 a 6 años."
+    },
+    {
+     "query": "¿Qué castigo tiene un policía que dejó escapar al detenido que debía vigilar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el encubridor es funcionario encargado de la investigación o custodia, la pena es de 10 a 15 años."
+    },
+    {
+     "query": "Si la familia de mi pareja lo ayuda a esconderse para que no lo juzguen, ¿se meten en problemas legales?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Ayudar a alguien a evadir la persecución penal o el cumplimiento de su pena es delito sancionado con cárcel."
+    },
+    {
+     "query": "¿Es más grave ayudar a escapar a alguien acusado de secuestro que a otros acusados?",
+     "topic": "identificacion_delito",
+     "barrier": "otro",
+     "expected_answer_focus": "Para ciertos delitos graves, como secuestro, la pena por encubrir sube a entre 7 y 10 años, más días-multa."
+    }
+   ]
+  }
+ ]
+}

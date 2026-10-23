@@ -1,0 +1,755 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Permite mantener la incriminación inicial pese a la retractación cuando existen corroboraciones y se valora el contexto de maltrato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar la solidez inicial, el nuevo relato y posibles manipulaciones antes de aceptar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Evita exigir denuncias reiteradas, pero no determina el valor de una retractación expresa por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 470. Declaración inexistente», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 442.- Maltrato», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Explica variaciones menores del relato, sin resolver una retractación en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 01386-2020-0», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 409.- Falsedad en juicio», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección y adecuación a los ciclos de violencia, pero no regula la valoración probatoria de la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 89. Tratamiento y pluralidad de imputados», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Establece criterios para decidir si una retractación es válida, por lo que el cambio de versión no determina por sí solo el resultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 931-2016, Cusco», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 371. Apertura del juicio y posición de las partes», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 363. Dirección del juicio», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona falta de persistencia y corroboración con duda razonable, sin resolver específicamente la retractación provocada por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «STS 3147/2022», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Admite condenar con otras pruebas sin nueva declaración de las víctimas, pero no aborda retractarse en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 35.- Limitación de días libres», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Niega valor a una retractación durante una pericia psicológica, supuesto distinto de la retractación ante el juez."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 356. Principios del Juicio», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Advierte que la declaración tardía no pierde credibilidad automáticamente, sin abordar retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 15. Denuncia», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber estatal de investigar violencia doméstica, sin determinar cómo valorar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 2. Principio de oportunidad», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 328. Contenido y forma de la denuncia», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 9. Derecho a una vida libre de violencia», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Analiza contradicciones sustanciales y denuncia tardía, sin explicar el cambio de versión causado por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que una sola denuncia activa el deber de investigar, pero no resuelve la retractación posterior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla la obligación de protección e investigación de violencia doméstica sin examinar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza la retractación notarial inducida y exige razones solventes, pero no analiza directamente la retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0045_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]», sin abordar los efectos de una retractación judicial por miedo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica el valor de la declaración previa en cámara Gesell, sin resolver la retractación por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 377. Declaración en caso de pluralidad de acusados», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 359. Concurrencia del Juez y de las partes», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Exige revisar contactos, presiones y consecuencias de la denuncia para decidir si la retractación es válida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Distingue variaciones menores del relato de contradicciones sustanciales, sin abordar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 603-2019, Piura, ff. jj. 2-3», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 266. Detención judicial en caso de flagrancia», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Sugilaciones en relación consentida (Casación 201-2014, Ica)», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Explica insuficiencia probatoria para acusar, pero no cómo valorar una retractación inducida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «El derecho a la verdad constituye un medio de reparación para las víctimas y sus familiares [Bámaca Velásquez vs. Guatemala]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que otras pruebas pueden sostener una condena sin declarar nuevamente, sin analizar la retractación por presión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 2528-2010, Junín, f. j. 6», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "si",
+      "rationale": "La retractación en juicio no invalida automáticamente la prueba y debe analizarse en el contexto de violencia y dependencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Permite prevalecer la incriminación inicial de una hijastra pese a retractarse, atendiendo al maltrato y a las corroboraciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 118. Juramento», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 287. Comparecencia restrictiva», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza una retractación notarial inducida, aunque la pregunta trata de retractarse ante el juez."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Expone criterios de suficiencia del testimonio corroborado sin resolver su retractación posterior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Condiciona la validez de la retractación al examen del relato inicial, la posible manipulación y otras pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el valor probatorio del testimonio de la víctima, sin desarrollar los efectos de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Describe criterios de credibilidad y corroboración sin analizar presiones para retractarse."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 178-2024, Tumbes, f. j. 12», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar integralmente la declaración y flexibiliza la persistencia, pero no trata una retractación familiar inducida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 603-2019, Piura», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 813-2022, Madre de Dios», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 45. Inhibición del Juez», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una absolución con retractación e insuficiencia de pruebas, pero no examina una retractación causada por presiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 3. Comunicación al Juez de la continuación de la investigación», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige interpretar declaraciones de víctimas en su contexto traumático, sin decidir el valor de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Protege la credibilidad de testimonios tardíos atendiendo al contexto familiar, sin abordar retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Caso Angulo Losada vs. Bolivia», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 2062-2016, Ica», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a una retractación que la víctima explicó como resultado de presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 323. Función del Juez de la Investigación Preparatoria», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige soporte psicológico al declarar, pero no establece los efectos de retractarse por presión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos», sin abordar los efectos de una retractación causada por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor a informes de clínicas privadas autorizadas y exige parámetros técnicos para valorar daños y afectaciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Signos de agresión no consumada (RN 143-2009, Ica)», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo incorporar informes y dictámenes al juicio, pero no decide el efecto de contradicciones entre pericias privadas y oficiales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 211. Examen corporal del imputado», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 377. Declaración en caso de pluralidad de acusados», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Retractación notarial sin valor (RN 1179-2019, Lima)», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Prevé interrogatorio y debate de peritos, sin determinar si los informes privados justifican la absolución."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica la oralización y ratificación de pericias institucionales, sin resolver la contradicción con informes privados."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 188. Requerimiento de informes», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 376. Declaración del acusado», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 109. Facultades del querellante particular», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar documentos como prueba, sin establecer su prevalencia sobre un examen oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 391. Autodefensa del acusado», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 77. Enfermedad del imputado», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 380. Examen especial del testigo o perito», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 242. Supuestos de prueba anticipada», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Admite medios probatorios legales, sin resolver cómo valorar pericias médicas contradictorias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 212. Examen corporal de otras personas», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 129. Citaciones», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_201-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 201-A. Informes técnicos oficiales especializados de la Contraloría General de la República», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Sexo oral equivalente pero con proporcionalidad (Casación 73-2011, Puno)», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No tiene valor probatorio la retractación de la víctima ante un psicólogo [Casación 1868-2018, Ucayali]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 110. Desistimiento del querellante particular», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "si",
+      "rationale": "Exige debate pericial cuando discrepan informes oficiales o el perito oficial y el de parte."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige decisiones motivadas sobre actuación de pruebas de ambas partes, pero no determina el valor de informes clínicos contradictorios."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 107. Derechos del querellante particular», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 108. Requisitos para constituirse en querellante particular», sin abordar el valor de informes privados que contradicen una pericia oficial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

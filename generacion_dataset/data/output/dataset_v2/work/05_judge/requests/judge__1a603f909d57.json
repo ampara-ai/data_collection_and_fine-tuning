@@ -1,0 +1,59 @@
+{
+ "task_id": "judge__1a603f909d57",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_94_01::q01\",\n  \"question\": \"Mi hermana murió por la violencia de su esposo. ¿Quién de la familia puede participar en el proceso como parte afectada?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_94_01\",\n    \"title\": \"Artículo 94. Definición\",\n    \"text\": \"1. Se considera agraviado a todo aquél que resulte directamente ofendido por el delito o perjudicado por las consecuencias del mismo. Tratándose de incapaces, de personas jurídicas o del Estado, su representación corresponde a quienes la Ley designe.\\n2. En los delitos cuyo resultado sea la muerte del agraviado tendrán tal condición los establecidos en el orden sucesorio previsto en el artículo 816° del Código Civil.\\n3. También serán considerados agraviados los accionistas, socios, asociados o miembros, respecto de los delitos que afectan a una persona jurídica cometidos por quienes las dirigen, administran o controlan.\\n4. Las asociaciones en los delitos que afectan intereses colectivos o difusos, cuya titularidad lesione a un número indeterminado de personas, o en los delitos incluidos como crímenes internacionales en los Tratados Internacionales aprobados y ratificados por el Perú, podrán ejercer los derechos y facultades atribuidas a las personas directamente ofendidas por el delito, siempre que el objeto social de la misma se vincule directamente con esos intereses y haya sido reconocida e inscrita con anterioridad a la comisión del delito objeto del procedimiento.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_94_01::q02\",\n  \"question\": \"¿Quién cuenta como víctima en un caso penal además de la persona que recibió el golpe directamente?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_94_01\",\n    \"title\": \"Artículo 94. Definición\",\n    \"text\": \"1. Se considera agraviado a todo aquél que resulte directamente ofendido por el delito o perjudicado por las consecuencias del mismo. Tratándose de incapaces, de personas jurídicas o del Estado, su representación corresponde a quienes la Ley designe.\\n2. En los delitos cuyo resultado sea la muerte del agraviado tendrán tal condición los establecidos en el orden sucesorio previsto en el artículo 816° del Código Civil.\\n3. También serán considerados agraviados los accionistas, socios, asociados o miembros, respecto de los delitos que afectan a una persona jurídica cometidos por quienes las dirigen, administran o controlan.\\n4. Las asociaciones en los delitos que afectan intereses colectivos o difusos, cuya titularidad lesione a un número indeterminado de personas, o en los delitos incluidos como crímenes internacionales en los Tratados Internacionales aprobados y ratificados por el Perú, podrán ejercer los derechos y facultades atribuidas a las personas directamente ofendidas por el delito, siempre que el objeto social de la misma se vincule directamente con esos intereses y haya sido reconocida e inscrita con anterioridad a la comisión del delito objeto del procedimiento.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_94_01::q03\",\n  \"question\": \"Mi hijo tiene una discapacidad mental y fue maltratado. ¿Quién puede actuar en el proceso en su nombre?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_94_01\",\n    \"title\": \"Artículo 94. Definición\",\n    \"text\": \"1. Se considera agraviado a todo aquél que resulte directamente ofendido por el delito o perjudicado por las consecuencias del mismo. Tratándose de incapaces, de personas jurídicas o del Estado, su representación corresponde a quienes la Ley designe.\\n2. En los delitos cuyo resultado sea la muerte del agraviado tendrán tal condición los establecidos en el orden sucesorio previsto en el artículo 816° del Código Civil.\\n3. También serán considerados agraviados los accionistas, socios, asociados o miembros, respecto de los delitos que afectan a una persona jurídica cometidos por quienes las dirigen, administran o controlan.\\n4. Las asociaciones en los delitos que afectan intereses colectivos o difusos, cuya titularidad lesione a un número indeterminado de personas, o en los delitos incluidos como crímenes internacionales en los Tratados Internacionales aprobados y ratificados por el Perú, podrán ejercer los derechos y facultades atribuidas a las personas directamente ofendidas por el delito, siempre que el objeto social de la misma se vincule directamente con esos intereses y haya sido reconocida e inscrita con anterioridad a la comisión del delito objeto del procedimiento.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_119_01::q01\",\n  \"question\": \"Voy a declarar ante el fiscal y me da nervios olvidar cosas. ¿Puedo llevar mis apuntes y leer lo que escribí?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_119_01\",\n    \"title\": \"Artículo 119. Interrogatorio\",\n    \"text\": \"1. Las personas que sean interrogadas deberán responder de viva voz y sin consultar notas ni documentos, con excepción de los peritos y de quienes sean autorizados para ello, incluso los imputados, en razón de sus condiciones o de la naturaleza de los hechos o circunstancias del proceso.\\n2. El declarante será invitado a manifestar cuanto conozca sobre el asunto de que se trate y después, si es necesario, se le interrogará. Las preguntas que se le formulen no serán impertinentes, capciosas ni sugestivas.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_119_01::q02\",\n  \"question\": \"Cuando me pregunten en el juicio sobre lo que me pasó, ¿pueden hacerme preguntas confusas o que me induzcan a contestar algo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_119_01\",\n    \"title\": \"Artículo 119. Interrogatorio\",\n    \"text\": \"1. Las personas que sean interrogadas deberán responder de viva voz y sin consultar notas ni documentos, con excepción de los peritos y de quienes sean autorizados para ello, incluso los imputados, en razón de sus condiciones o de la naturaleza de los hechos o circunstancias del proceso.\\n2. El declarante será invitado a manifestar cuanto conozca sobre el asunto de que se trate y después, si es necesario, se le interrogará. Las preguntas que se le formulen no serán impertinentes, capciosas ni sugestivas.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_380_01::q01\",\n  \"question\": \"Me da pánico declarar en el juicio con mi agresor mirándome. ¿Se puede pedir que él salga de la sala mientras yo hablo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_380_01\",\n    \"title\": \"Artículo 380. Examen especial del testigo o perito\",\n    \"text\": \"1. El juez, de oficio o a solicitud de parte, puede ordenar que el acusado no esté presente en la audiencia durante un interrogatorio, si es de temer que otro procesado, un testigo o un perito no dirá la verdad en su presencia.\\n2. De igual manera se procederá si, en el interrogatorio de un menor de diez y seis años, es de temer un perjuicio relevante para él, o si, en el interrogatorio de otra persona como testigo o perito, en presencia del acusado, existe el peligro de un perjuicio grave para su integridad física o salud. Tan pronto como el acusado esté presente de nuevo, debe instruírsele sobre el contenido esencial de aquello que se ha dicho o discutido en su ausencia.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_380_01::q02\",\n  \"question\": \"Mi hijo de 12 años tiene que contar lo que vio en casa en el juicio. ¿Puede hacerlo sin que su papá, el acusado, esté ahí?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_380_01\",\n    \"title\": \"Artículo 380. Examen especial del testigo o perito\",\n    \"text\": \"1. El juez, de oficio o a solicitud de parte, puede ordenar que el acusado no esté presente en la audiencia durante un interrogatorio, si es de temer que otro procesado, un testigo o un perito no dirá la verdad en su presencia.\\n2. De igual manera se procederá si, en el interrogatorio de un menor de diez y seis años, es de temer un perjuicio relevante para él, o si, en el interrogatorio de otra persona como testigo o perito, en presencia del acusado, existe el peligro de un perjuicio grave para su integridad física o salud. Tan pronto como el acusado esté presente de nuevo, debe instruírsele sobre el contenido esencial de aquello que se ha dicho o discutido en su ausencia.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_94_01::q01",
+     "chunk_tipo03_cpp_art_94_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_94_01::q02",
+     "chunk_tipo03_cpp_art_94_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_94_01::q03",
+     "chunk_tipo03_cpp_art_94_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_119_01::q01",
+     "chunk_tipo03_cpp_art_119_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_119_01::q02",
+     "chunk_tipo03_cpp_art_119_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_380_01::q01",
+     "chunk_tipo03_cpp_art_380_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_380_01::q02",
+     "chunk_tipo03_cpp_art_380_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__1a603f909d57.json"
+}

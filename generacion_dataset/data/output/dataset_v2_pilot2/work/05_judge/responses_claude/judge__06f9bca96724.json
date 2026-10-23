@@ -1,0 +1,185 @@
+{
+ "_model": "claude-sonnet-5-5",
+ "judgments": [
+  {
+   "dataset_id": "case::jp_00008_e0002::q06",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "si",
+   "rationale": "Menores víctimas: defensor público de víctimas o abogado del CEM las representan y piden constitución en actor civil."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_425_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+   "relevance": "si",
+   "rationale": "Caso análogo: la parte civil no puede impugnar la absolución por secuestro; la acción penal es del fiscal."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+   "relevance": "parcial",
+   "rationale": "Trata del recurso de la víctima/actor civil frente a la posición del fiscal, pero en otro contexto."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_36_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_468_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_208_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q01",
+   "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "si",
+   "rationale": "El perjudicado por el delito puede ejercer la acción reparatoria en el proceso penal."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_104_01",
+   "relevance": "parcial",
+   "rationale": "Facultades del actor civil en juicio, pero no dice qué daños puede reclamar."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_57_01",
+   "relevance": "parcial",
+   "rationale": "Solo indica que no cabe suspensión de pena en ciertos delitos de violencia, no la pena aplicable."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_314_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+   "relevance": "si",
+   "rationale": "Lesiones graves contra conviviente: pena de 6 a 12 años e inhabilitación."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_261_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_189_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_208_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_158_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta; trata otro tema o norma."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q03",
+   "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+   "relevance": "parcial",
+   "rationale": "Pena por agresiones leves a la pareja; la fractura de nariz sería lesión grave."
+  },
+  {
+   "dataset_id": "case::jp_00013_e0009::q04",
+   "chunk_id": "chunk_tipo03_cpp_art_122_01",
+   "relevance": "si",
+   "rationale": "El Ministerio Público decide mediante disposición motivada el inicio, continuación o archivo."
+  }
+ ]
+}

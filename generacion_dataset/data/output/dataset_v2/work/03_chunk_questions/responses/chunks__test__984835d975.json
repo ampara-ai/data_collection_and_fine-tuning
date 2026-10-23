@@ -1,0 +1,87 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00568_e0001_01",
+   "skip": true,
+   "skip_reason": "Trata de un incidente técnico de recursos (apelación contra la denegatoria de nulidad de una queja) que no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija menor fue abusada, pero no quedó embarazada. ¿Eso quiere decir que el delito no se cometió o que se castiga menos?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La responsabilidad penal del agresor no depende de que haya habido embarazo; el delito se consuma con la penetración y el embarazo es solo una consecuencia que lo confirma."
+    },
+    {
+     "query": "Mi agresor ya fue condenado y ahora dice que tiene pruebas nuevas para anular todo. ¿Eso puede hacer que lo liberen?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La revisión de una condena firme solo prospera si las pruebas nuevas logran rebatir las pruebas de cargo; en este caso se declaró infundada y la condena se mantuvo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi mamá de 70 años quedó muy herida tras los golpes de mi hermano, que se aprovecha de que ella no se puede defender. ¿Qué pena le tocaría?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si la víctima es mayor de 65 años y el agresor se aprovecha de su condición, la pena por lesiones graves es de 6 a 12 años de cárcel."
+    },
+    {
+     "query": "Si una persona golpea a un niño o a alguien con discapacidad y la víctima fallece por las heridas, ¿cuántos años de cárcel puede recibir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Si la víctima muere a consecuencia de la lesión y el agresor pudo prever ese resultado, la pena es de 12 a 15 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si condenan a mi agresor sexual a cárcel, ¿le van a dar algún tratamiento psicológico mientras cumple la pena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El condenado a prisión efectiva por estos delitos, tras un examen médico y psicológico, recibe un tratamiento terapéutico para su readaptación social."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+   "skip": true,
+   "skip_reason": "Regula la detención con fines de extradición, un trámite internacional que una víctima de violencia familiar no consultaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_119_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Voy a declarar ante el fiscal y me da nervios olvidar cosas. ¿Puedo llevar mis apuntes y leer lo que escribí?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Quien declara debe responder de viva voz sin consultar notas ni documentos, salvo peritos o personas autorizadas por sus condiciones o la naturaleza de los hechos."
+    },
+    {
+     "query": "Cuando me pregunten en el juicio sobre lo que me pasó, ¿pueden hacerme preguntas confusas o que me induzcan a contestar algo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Primero se invita a la persona a contar lo que sabe y luego se le interroga; las preguntas no pueden ser impertinentes, capciosas ni sugestivas."
+    }
+   ]
+  }
+ ]
+}

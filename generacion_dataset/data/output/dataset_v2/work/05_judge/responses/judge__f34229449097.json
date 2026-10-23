@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_181_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "si",
+      "rationale": "Explica que el interrogatorio del perito aborda comprobaciones, fundamentos y conclusiones del informe."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_181_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "si",
+      "rationale": "Ordena promover debate pericial cuando los informes oficiales discrepan."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_183_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "si",
+      "rationale": "Describe confirmación o modificación de versiones y preguntas limitadas a los puntos contradictorios durante el careo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,257 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00540_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite anular absolución por vulneraciones al derecho a la prueba o motivación."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "si",
+      "rationale": "Da cinco días de traslado y luego control de admisión y ofrecimiento probatorio."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Explica la sentencia de apelación, pero no el traslado inicial para contestar."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No regula el traslado inicial de la apelación de sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "parcial",
+      "rationale": "Explica la queja contra denegación de recursos, sin resolver la reposición ante la Sala."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "si",
+      "rationale": "Permite reposición contra el auto que declara inadmisible la apelación."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "si",
+      "rationale": "Regula reposición para que el mismo juez reexamine su decisión."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Explica requisitos y control de admisibilidad, sin precisar el remedio contra el rechazo."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica cómo revisar la inadmisión del recurso por el tribunal."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Advierte que no procede apelación en audiencia, pero no explica la reposición."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "si",
+      "rationale": "Permite reposición inmediata en audiencia contra resoluciones no finales."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "si",
+      "rationale": "Indica que contra decisiones en audiencia corresponde reposición."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula la reconsideración inmediata de decisiones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00540_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "si",
+      "rationale": "Permite ofrecer prueba en cinco días si la Sala admite la apelación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

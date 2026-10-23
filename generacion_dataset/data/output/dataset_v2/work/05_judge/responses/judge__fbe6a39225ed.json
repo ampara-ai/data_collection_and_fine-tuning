@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_59_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "si",
+      "rationale": "Permite prorrogar o revocar suspensión de pena por incumplir reglas de conducta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_59_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "si",
+      "rationale": "Prevé revocación de suspensión ante nueva condena, como posibilidad que decide el juez."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

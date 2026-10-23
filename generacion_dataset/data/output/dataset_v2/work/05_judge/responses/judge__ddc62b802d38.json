@@ -1,0 +1,443 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00067_e0014::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "si",
+      "rationale": "Fija diez días para casación y los plazos de otros recursos desde la notificación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Examina extemporaneidad de casación y control de admisibilidad, pero no nuevas alegaciones omitidas en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula la queja contra denegación de recursos, no admisión de agravios nuevos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa de violación y tocamientos, no agravios nuevos en casación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula individualización de pena, no límites de alegaciones en casación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios contra violencia, no admisión de agravios nuevos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Exige precisar causales y fundamentos de casación, sin resolver alegaciones omitidas en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula efectos del período de prueba, no casación por nuevos motivos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega a la Corte Penal Internacional, no revisión de la condena nacional."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "si",
+      "rationale": "Declara inadmisibles violaciones legales no deducidas en la apelación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "Sanciona temeridad de un abogado, no nuevos agravios ante la Suprema."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "Tipifica administración fraudulenta, no admisión de casación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Analiza contradicciones periciales en apelación, no motivos omitidos previamente."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula reemplazo y sanciones del defensor, no admisión de alegaciones nuevas."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza encubrimiento y comienzo de persecución penal, no agravios de casación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula recusación de jueces, no efectos temporales de notificación electrónica."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción de la acción, no inicio del plazo de impugnación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "Analiza tentativa sexual, no notificación electrónica."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de prescripción, no cómputo de recursos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula duración de prescripción penal, no plazo para impugnar notificaciones."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "parcial",
+      "rationale": "Establece cómputo desde el siguiente día hábil, pero no cuándo surte efecto la casilla electrónica nocturna."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de protección familiar, no recursos por aviso electrónico nocturno."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "Regula prolongación de prisión preventiva, no cómputo por notificación electrónica."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Explica interpretación favorable de admisibilidad, pero no efectos de una notificación nocturna."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Trata la necesidad de notificación domiciliaria de condenas, pero no el cómputo de avisos electrónicos nocturnos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Fija inicio del plazo desde el día siguiente a la notificación sin definir efectos electrónicos nocturnos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata notificación de conclusión de investigación al actor civil, no cómputo de recursos del condenado."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "si",
+      "rationale": "Resuelve directamente cuándo surte efecto el aviso electrónico nocturno y cuándo empieza el plazo."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de extradición, no plazos de impugnación por casilla."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "si",
+      "rationale": "Presume hábil a toda persona para testificar y exige verificar idoneidad si resulta necesario."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "Analiza credibilidad de víctima sexual, no justificación laboral por declarar."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula atenuantes y agravantes penales, no permisos laborales de testigos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de condenas extranjeras, no ausencia laboral por testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "Define sujetos protegidos, no derechos laborales al declarar."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula abstención testimonial por parentesco o secreto, no justificación de ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "Regula derecho a la verdad en desaparición, no sanciones laborales por testificar."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "Regula testigos residentes lejos, no justificación laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual, no permisos para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimento de salida, no consecuencias laborales del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "Establece que concurrir como testigo justifica obligaciones laborales y no puede causar consecuencias adversas."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula conducción compulsiva de testigos, no garantías laborales al comparecer."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula prueba de oficio en apelación, no permisos laborales de testigos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato, no protección laboral al declarar."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "si",
+      "rationale": "Asigna al Ministerio Público las decisiones de iniciar, continuar o archivar y exige motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones familiares, no información ni participación de la agraviada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "Regula presunción de inocencia del imputado, no información y participación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "si",
+      "rationale": "Prohíbe desestimar el relato sexual por términos imprecisos y exige considerar la experiencia traumática."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "parcial",
+      "rationale": "Sustenta responsabilidad por no investigar violencia policial contra detenidas, sin aclarar ausencia de denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones culposas, no investigación de oficio de violencia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato, no deber de investigar sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición, no violencia policial sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza requisitos del encubrimiento personal, no deber de investigar tortura de oficio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente investigación de oficio ante indicios de tortura o violencia sexual aun sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica debida diligencia y enfoque de género, pero no investigación de violencia policial sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Prevé examen médico y corrección de irregularidades durante detención, sin desarrollar el deber de investigar sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa, no investigación de violencia durante detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce violencia perpetrada por agentes estatales, pero no el deber de investigarla sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigaciones sin estereotipos, pero no aborda su inicio sin denuncia en detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula atenuantes y agravantes, no investigación de oficio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe exigir relatos repetidos y exige evitar revictimización, pero no desarrolla la valoración de imprecisiones por trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "no",
+      "rationale": "Da reglas generales de valoración, sin tratar dificultades narrativas causadas por trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa y tocamientos, sin valorar dificultades para relatar por trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "Regula informes de ejecución de protección, no credibilidad de relatos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "Regula oralidad y actas, no credibilidad ante dificultades traumáticas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "si",
+      "rationale": "Exige interpretar expresiones imprecisas atendiendo a la experiencia traumática y no desestimarlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona negativa de testigos a colaborar, sin tratar incapacidad narrativa por trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia compulsiva de testigos, no valoración de relatos traumáticos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica del condenado, no declaración traumática."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Regula oportunidad de reparación civil, no valoración del testimonio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "Establece protección contra violencia a detenidas, sin analizar dificultades para declarar por trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Regula facultad y obligación de denunciar, no credibilidad del relato traumático."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,9 @@
+{
+ "candidato_descartado_test": 6,
+ "candidato_descartado_excluido": 1,
+ "candidato_fuera_del_corpus": 11,
+ "candidato_descartado_dev": 1,
+ "casos_con_preguntas": 3,
+ "casos_procesados": 3,
+ "preguntas_aceptadas": 18
+}

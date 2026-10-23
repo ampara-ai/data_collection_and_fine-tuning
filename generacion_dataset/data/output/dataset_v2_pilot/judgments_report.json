@@ -1,0 +1,12 @@
+{
+ "pares_juzgados": 161,
+ "por_rol_y_veredicto": {
+  "negative:no": 87,
+  "negative:parcial": 24,
+  "negative:si": 5,
+  "origin:si": 17,
+  "positive:si": 28
+ },
+ "tareas_totales": 10,
+ "tareas_pendientes": 0
+}

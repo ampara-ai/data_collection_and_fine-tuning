@@ -1,0 +1,49 @@
+{
+ "cobertura": {
+  "filas": 1063,
+  "preguntas": 999,
+  "positivos_distintos": 381,
+  "chunks_train": 644,
+  "chunks_train_con_>=1_fila": 381,
+  "chunks_train_con_>=3_filas": 184,
+  "max_filas_en_un_positivo": 12,
+  "pct_positivos_por_tipo": {
+   "01": 0.089,
+   "02": 0.194,
+   "03": 0.376,
+   "04": 0.336,
+   "05": 0.005
+  },
+  "pct_negativos_por_tipo": {
+   "01": 0.078,
+   "02": 0.267,
+   "03": 0.34,
+   "04": 0.315
+  },
+  "auc_tipo_de_fuente": 0.542,
+  "filas_por_origen": {
+   "case": 395,
+   "chunk": 668
+  },
+  "eval": {
+   "dev": 77,
+   "test": 128
+  }
+ },
+ "contadores": {
+  "negativo_descartado_parcial": 537,
+  "pregunta_sin_positivo_verificado": 70,
+  "negativo_promovido_a_positivo": 78,
+  "filas_recortadas_por_tope": 43,
+  "eval_dev_descartada_origen_no_confirmado": 7,
+  "eval_test_descartada_origen_no_confirmado": 8,
+  "negativos_parcial_pct": 17.0,
+  "negativos_juzgados": 3156,
+  "negativos_si_estimados_pct": 2.5,
+  "negativos_si_ic95_pct": [
+   1.9,
+   3.0
+  ]
+ },
+ "problemas": []
+}

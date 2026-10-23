@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional, no alojamiento para víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Define y sanciona el maltrato, sin informar sobre refugios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula clausura de locales e inmovilización probatoria, no refugios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Trata internamiento psiquiátrico del imputado, no acogida de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Examina tipificación de violencia intrafamiliar en Colombia, sin ofrecer refugios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "si",
+      "rationale": "Identifica hogares de refugio temporal y las entidades públicas encargadas de crearlos y gestionarlos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "Trata estereotipos en investigaciones, sin información sobre alojamiento temporal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Contempla la derivación policial a atención del ministerio y, de ser el caso, a hogares de refugio temporal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula penas por violación sexual, sin abordar acogida temporal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata responsabilidad estatal por feminicidios, sin identificar servicios de refugio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula pesquisas policiales, no servicios de alojamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "Analiza violencia doméstica como tortura, sin describir refugios disponibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "Regula extradición, no acogida de víctimas y sus hijos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "si",
+      "rationale": "Asigna al Estado y a gobiernos locales, regionales y al ministerio la creación y gestión de servicios de recuperación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_27_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "si",
+      "rationale": "Prevé expresamente programas dirigidos a varones para prevenir conductas violentas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

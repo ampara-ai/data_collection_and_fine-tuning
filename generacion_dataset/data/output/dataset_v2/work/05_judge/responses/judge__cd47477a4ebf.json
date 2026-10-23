@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 266. Detención judicial en caso de flagrancia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 557. Recepción y trámite no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 263. Deberes de la autoridad policial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 560. Detención provisional con fines de entrega no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Examina una detención judicial excesiva y ordena libertad, pero no tipifica el delito del magistrado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "si",
+      "rationale": "Sanciona al juez que maliciosamente o sin motivo legal no concede la libertad debida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 368.- Resistencia o desobediencia a la autoridad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 265. Detención preliminar incomunicada no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 111.- Homicidio Culposo no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_419_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "si",
+      "rationale": "Fija prisión de dos a cuatro años para el juez que ordena detención maliciosa o sin motivo legal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 349. Contenido no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 200.- Extorsión no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 348. Sobreseimiento total y parcial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Aborda determinación de pena en concurso real, sin enunciar la regla de suma ni sus límites."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada.- no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 517. Rechazo de la extradición no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "si",
+      "rationale": "Ordena sumar las penas de delitos independientes y establece los topes aplicables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_50_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "si",
+      "rationale": "Explica la suma de penas por delitos independientes y los límites del concurso real."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

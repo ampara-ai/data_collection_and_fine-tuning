@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "si",
+      "rationale": "Permite internación preventiva psiquiátrica bajo dictamen pericial, peligrosidad y presupuestos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "si",
+      "rationale": "Enumera pericia, peligrosidad, elementos de autoría y riesgo procesal para ordenar internación preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "parcial",
+      "rationale": "Permite hospitalizar a un imputado enfermo, pero no resuelve la inimputabilidad ni el proceso de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 515-2020, Cajamarca no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "si",
+      "rationale": "Exime de responsabilidad por alteración psíquica que impide comprender el delito o actuar conforme a esa comprensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 63.- Efectos de la Reserva de Fallo Condenatorio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "si",
+      "rationale": "Regula el proceso de seguridad, la representación del imputado y la sentencia de absolución o medida de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "parcial",
+      "rationale": "Regula internación preventiva y remisión para decisión de inimputabilidad, sin desarrollar el juicio de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 326. Facultad y obligación de denunciar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00059-2019-0, f.j. 10 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_293_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "si",
+      "rationale": "Dispensa la presencia cuando la salud no lo permite y exige defensor, admitiendo representación familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

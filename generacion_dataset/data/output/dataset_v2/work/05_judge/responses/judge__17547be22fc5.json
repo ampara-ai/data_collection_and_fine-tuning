@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo II. Presunción de inocencia» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 63.- Efectos de la Reserva de Fallo Condenatorio» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "si",
+      "rationale": "Ordena insistir en la conducción compulsiva de la denunciante cuando su testimonio es esencial."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 8. Tipos de violencia» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Regula cuándo examinar nuevamente a una víctima menor en juicio, sin resolver su conducción forzosa."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "si",
+      "rationale": "Ordena la conducción compulsiva del testigo debidamente citado que no comparece."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de concurrir del testigo citado, pero no regula su conducción forzosa."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Menciona obligaciones, responsabilidad y reserva de domicilio del testigo, pero no la conducción compulsiva."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza conducción compulsiva durante la investigación, sin regular directamente la comparecencia al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona no comparecer o declarar tras requerimiento legal, pero no regula el traslado forzoso."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "si",
+      "rationale": "El precedente exige citar de grado o fuerza a la agraviada y al testigo esencial."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 39.- Inhabilitación accesoria» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 479. Condiciones, Obligaciones y Control del beneficiado» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur]» y no aporta información para resolver la conducción forzosa de la víctima al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el poder coercitivo general de fiscal y juez, sin concretar las condiciones para traer al testigo al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "si",
+      "rationale": "La condena anulada da lugar a un nuevo juicio oral con declaración de la agraviada y del testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "La comparecencia del testigo justifica la ausencia laboral y no puede ocasionar consecuencias jurídicas adversas."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 129-F.- Beneficio p or explotación sexual» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Exige citar a la agraviada, pero no indica los medios de comunicación de la citación."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 15-C. Trámite de la denuncia presentada ante el juzgado de familia» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Directiva 001-2014-CE-PJ» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Admite citación por personal oficial y, en urgencia, por teléfono u otros medios de comunicación."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 244. Trámite de la solicitud» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 129-N.- Publicación en los medios de comunicación sobre delitos de libertad sexual contra niñas, niños y adolescentes» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 129-A.- Trata de personas» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 70. Prohibición de informar» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 381. Audiencia especial para testigos y peritos» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 194. Participación de testigos y peritos» y no aporta información para resolver los medios de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Valida la citación urgente verbal o por cualquier medio el mismo día si no produce indefensión."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 190.- Apropiación ilícita común» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Enfoque de género obligatorio (Exp. 00134-2023-31)» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Advierte de responsabilidad por incumplir obligaciones testificales, pero no precisa la sanción por no declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 120. Régimen General» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de concurrir y declarar con verdad, pero no detalla las sanciones por negarse."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 198.- Administración fraudulenta» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Prevé pena para el testigo legalmente requerido que rehúsa comparecer o declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia]» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Lubricación indica consentimiento (STS 944/2019, España)» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 166. Contenido de la declaración» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 39-A. Obligaciones del gobernador regional, alcalde provincial o alcalde distrital» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Casación 931-2016, Cusco» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_236_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 236. Levantamiento de la reserva tributaria» y no aporta información para resolver las consecuencias de no declarar como testigo."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Detalla la apertura, el orden de alegatos y la advertencia posterior del derecho a guardar silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula la asistencia al juicio y el silencio del acusado, pero no el orden de apertura ni la advertencia de derechos."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «RN 482-2024, Lima» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica la disponibilidad del derecho del acusado a declarar, sin describir la apertura y el orden de intervenciones."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a abstenerse de declarar, pero no explica la secuencia de apertura del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 82.- Inicio de los plazos de prescripción» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 371.- Negativa a colaborar con la administración de justicia» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 44. Centro de Altos Estudios» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 368.- Resistencia o desobediencia a la autoridad» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 424. Audiencia de apelación» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «jp_00150_e0012» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 211. Examen corporal del imputado» y no aporta información para resolver el orden de apertura del juicio y advertencia del derecho al silencio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_80_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "parcial",
+      "rationale": "Da la regla general de prescripción según la pena máxima, pero falta la pena aplicable a la agresión concreta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "si",
+      "rationale": "Establece los plazos de prescripción según la pena y los límites de veinte y treinta años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_80_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "si",
+      "rationale": "Establece que el plazo de prescripción se duplica en la omisión de asistencia familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

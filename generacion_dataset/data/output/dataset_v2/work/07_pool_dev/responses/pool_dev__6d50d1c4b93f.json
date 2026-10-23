@@ -1,0 +1,797 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 316. Objeto de la incautación no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La ausencia de participación del fiscal a nivel preliminar disminuye la aptitud preliminar pero no es objeto de sanción de nulidad [RN 380-2020, Lima] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la penetración con objetos o partes del cuerpo dentro de la violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 13. Norma aplicable no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 000359-2024-PA/TC, f. j. 13 no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192. Objeto no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la penetración con objetos o partes del cuerpo dentro de la violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0102_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Medidas de protección deben extremarse en casos de violación sexual de menor [VRP, VPC. y otros vs. Nicaragua] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso Angulo Losada vs. Bolivia no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la penetración con objetos o partes del cuerpo dentro de la violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre penetración o un caso de penetración digital, pero no resuelve íntegramente la introducción de objetos o dedos en una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Signos de agresión no consumada (RN 143-2009, Ica) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es necesario actuar la prueba de ADN si guarda relación directa con el hecho principal (doctrina jurisprudencial vinculante) [Casación 292-2014, Ancash] no responde si la introducción de objetos o dedos constituye violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-G.- Gestión de la explotación sexual no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 10. Indicios de delitos en proceso extra – penal no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 301.- Coacción al consumo de droga no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que el consentimiento de menores de catorce años es irrelevante para la responsabilidad por violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reglas para la admisión y actuación de declaraciones previas de menores en juicio oral (doctrina jurisprudencial vinculante) [Casación 33-2014, Ucayali] no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 180.- Rufianismo no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 482-2024, Lima no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 50.- Concurso real de delitos no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 80.- Plazos de prescripción de la acción penal no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 13. Norma aplicable no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 000359-2024-PA/TC, f. j. 13 no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 13. Desistimiento no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 179.- Favorecimiento a la prostitución no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 576-2022, Del Santa no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 182. Procedencia no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 181.- Proxenetismo no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cavidad vaginal desde labios mayores (RN 1813-2018, La Libertad) no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contacto supera labios mayores (RN 534-2013, Huancavelica) no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre jp_00150_e0012 no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206. Controles policiales públicos en delitos graves no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2558-2021, Ica no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad, responsabilidad o pena en delitos sexuales, sin resolver directamente el supuesto de consentimiento del menor de trece años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-C.- Explotación sexual no responde la relevancia del consentimiento de una persona de trece años en el delito sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208.- Excusa absolutoria. Exención de Pena no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 196.- Estafa no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-F.- Beneficio p or explotación sexual no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-D.- Promoción o favorecimiento de la explotación sexual no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-C.- Explotación sexual no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 216. Desarrollo de la diligencia no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre cooperación o agravantes por pluralidad y parentesco, sin precisar íntegramente la pena de los ayudantes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Determina la pena de autores conjuntos o cómplices y permite valorar si corresponde la misma sanción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre cooperación o agravantes por pluralidad y parentesco, sin precisar íntegramente la pena de los ayudantes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_340_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 340. Circulación y entrega vigilada de bienes delictivos no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 156.- Revelación de la intimidad personal y familiar no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Respeto cultural en investigación (Chichupac vs. Guatemala) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Determina la pena de autores conjuntos o cómplices y permite valorar si corresponde la misma sanción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-G.- Gestión de la explotación sexual no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre jp_00150_e0012 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central] no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 211. Examen corporal del imputado no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central] no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre cooperación o agravantes por pluralidad y parentesco, sin precisar íntegramente la pena de los ayudantes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Directiva 001-2014-CE-PJ no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos de acceso carnal (RN 2289-2011, Lima) no responde la pena que corresponde a quienes ayudan al autor del abuso sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

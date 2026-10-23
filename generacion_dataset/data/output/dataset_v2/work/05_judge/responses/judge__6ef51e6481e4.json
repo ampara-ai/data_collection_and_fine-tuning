@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Permite condenar con el relato de la víctima tras escrutinio riguroso en delitos cometidos en privado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "parcial",
+      "rationale": "Discute la insuficiencia de testigos de oídas como corroboración, sin resolver en general la suficiencia de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo obtener su declaración como prueba anticipada, pero no su suficiencia para condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia del relato de abuso clandestino."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Considera suficiente la declaración de la menor corroborada por pericias y explica sus criterios de credibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Exige garantías para valorar retractaciones y testimonios, sin resolver específicamente la suficiencia de una sola versión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Explica la importancia del testimonio único en delitos privados y su examen mediante sana crítica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Explica valoración del testimonio de menores y daño tardío, pero no establece su suficiencia sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor a informes médicos y psicológicos como prueba alternativa, sin resolver la credibilidad del relato solo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "si",
+      "rationale": "Confirma condena con relato directo y preciso corroborado pericialmente, sin requerir testigos presenciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la credibilidad de la víctima sin testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Justifica su carácter preponderante por la clandestinidad habitual de los delitos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Exige riguroso escrutinio bajo sana crítica antes de considerar suficiente la versión de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0087_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Admite que el testimonio por sí mismo genere certeza tras valorarlo con sana crítica."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

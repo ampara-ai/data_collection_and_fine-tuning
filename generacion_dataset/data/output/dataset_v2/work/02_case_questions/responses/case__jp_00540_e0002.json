@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "Mataron a mi madre y absolvieron a los acusados. El fiscal está conforme con eso, pero yo no. ¿Mi reclamo sirve de algo o ya no importa?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00540_e0002_01"
+   ],
+   "positive_selection_reason": "La casación trata exactamente del caso en que solo la víctima o actor civil impugna una absolución y el fiscal superior está conforme. Explica que, en principio, el tribunal puede desestimar el recurso si la absolución es razonable, pero que puede anular si hay violaciones a la prueba, la defensa, la legalidad o la motivación.",
+   "expected_answer_focus": "Debe poder explicar que la postura del fiscal conforme pesa, pero que el tribunal puede revisar y anular la absolución si detecta fallas graves, como falta de motivación o mala valoración de la prueba.",
+   "victim_voice_rationale": "Una hija desconfía de que su reclamo cuente cuando el fiscal no quiere discutir la absolución."
+  },
+  {
+   "query": "El juez dejó libres a los acusados sin tomar en cuenta la autopsia ni lo que dijeron los tíos de la fallecida. ¿Esa decisión se puede tumbar?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00540_e0002_01"
+   ],
+   "positive_selection_reason": "El criterio de la casación permite anular la absolución, más allá de la posición del fiscal, cuando se advierten violaciones al derecho a la prueba o a la motivación. El caso concreto trató de una absolución que no valoró bien la necropsia ni los testimonios de los hermanos.",
+   "expected_answer_focus": "Debe poder indicar que una absolución mal motivada o que no valora pruebas clave puede anularse, y que puede ordenarse un nuevo juicio.",
+   "victim_voice_rationale": "Un familiar siente que ignoraron pruebas importantes y quiere saber si hay remedio."
+  },
+  {
+   "query": "Ya presenté mi reclamo contra la sentencia ante el tribunal de arriba. ¿Cuántos días tiene la otra parte para contestar y qué sigue después?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_421_01"
+   ],
+   "positive_selection_reason": "El artículo 421 regula el trámite inicial de la apelación: traslado por cinco días para contestar, posible rechazo si es inadmisible y apertura de plazo para ofrecer pruebas.",
+   "expected_answer_focus": "Debe poder explicar el traslado del escrito de apelación a las partes por un plazo fijo y los pasos siguientes: posible rechazo o plazo para ofrecer pruebas.",
+   "victim_voice_rationale": "La persona quiere entender los tiempos y pasos después de presentar su recurso."
+  },
+  {
+   "query": "Me dijeron que el tribunal puede botar mi recurso sin escucharme por estar mal presentado. ¿Hay forma de pedir que lo vean de nuevo?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_421_01",
+    "chunk_tipo03_cpp_art_415_01"
+   ],
+   "positive_selection_reason": "El artículo 421 dice que el rechazo de plano por inadmisibilidad puede ser objeto de reposición, que se tramita según el 415. El 415 detalla qué es la reposición y cómo se tramita.",
+   "expected_answer_focus": "Debe poder indicar que el auto que declara inadmisible el recurso puede cuestionarse con un pedido de reexamen ante el mismo órgano, y cómo se tramita.",
+   "victim_voice_rationale": "Teme perder su oportunidad por un tecnicismo y quiere saber si puede pedir que lo reconsideren."
+  },
+  {
+   "query": "En plena audiencia el juez me negó un pedido. ¿Puedo pedirle en ese momento que lo piense otra vez o tengo que esperar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_415_01"
+   ],
+   "positive_selection_reason": "El artículo 415 indica que durante las audiencias solo se admite la reposición contra toda resolución, salvo las finales, y que el juez debe resolverla en ese mismo acto.",
+   "expected_answer_focus": "Debe poder explicar que en audiencia se puede pedir de inmediato que el juez reexamine su decisión, que la resuelve en el acto, y que lo que resuelva ya no puede impugnarse.",
+   "victim_voice_rationale": "Una persona que asiste a la audiencia quiere saber cómo reaccionar en el momento ante una negativa del juez."
+  },
+  {
+   "query": "Cuando mi reclamo llegue al tribunal superior, ¿podré presentar más pruebas o testigos que no se vieron antes?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_421_01"
+   ],
+   "positive_selection_reason": "El artículo 421 señala que, admitido el trámite, la Sala comunica a las partes que pueden ofrecer medios probatorios dentro de un plazo de cinco días.",
+   "expected_answer_focus": "Debe poder indicar que, tras la contestación, las partes pueden ofrecer pruebas ante la Sala Superior dentro de un plazo fijado, salvo que el recurso se rechace por inadmisible.",
+   "victim_voice_rationale": "La víctima quiere aportar más pruebas en la segunda instancia y no sabe si puede."
+  }
+ ]
+}

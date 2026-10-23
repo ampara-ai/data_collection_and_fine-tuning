@@ -1,0 +1,149 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_68_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a la comisaría a contar lo que me hizo mi pareja y quiero saber si los policías están obligados a recibir mi denuncia aunque sea hablada.",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La Policía debe recibir denuncias escritas o levantar acta de las verbales y tomar declaración a quien denuncia."
+    },
+    {
+     "query": "Mi vecino agredió a su esposa y la policía llegó cuando todavía estaba ahí. ¿Pueden llevárselo detenido en ese momento y qué le tienen que informar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Policía puede detener a los presuntos autores si los sorprende en el acto, informándoles de inmediato sus derechos."
+    },
+    {
+     "query": "Después de una pelea violenta en mi casa, ¿qué debe hacer la policía con el lugar y las cosas que sirvan para probar lo que pasó?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "La Policía debe aislar y proteger el lugar de los hechos y recoger y conservar indicios y evidencias, además de tomar fotografías o videos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_409_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi cuñada piensa decir mentiras en el juicio para favorecer a mi agresor. ¿Qué le puede pasar si declara algo falso como testigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El testigo que declara falsedades en un proceso judicial recibe pena de cárcel de dos a cuatro años."
+    },
+    {
+     "query": "Una persona declaró en el juicio que yo cometí un delito, sabiendo que soy inocente. ¿Qué castigo tiene eso?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si el testigo acusa a alguien que sabe inocente, la pena es de dos a seis años de cárcel."
+    },
+    {
+     "query": "Un testigo mintió en su declaración pero luego se arrepintió y lo corrigió por su cuenta. ¿Igual lo castigan?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez puede rebajar la pena o eximir de sanción si el testigo se retracta espontáneamente antes de causar perjuicio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_173_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 12 años fue abusada sexualmente por un familiar. ¿Qué castigo le toca a ese hombre?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El acceso carnal con un menor de catorce años se castiga con cadena perpetua."
+    },
+    {
+     "query": "¿Cuenta como violación si a una niña de 13 años le introdujeron un objeto o los dedos, aunque no haya habido relación completa?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "También constituye el delito introducir objetos o partes del cuerpo por vía vaginal o anal a un menor de catorce años."
+    },
+    {
+     "query": "El chico tenía 13 años y dice que aceptó. ¿Igual se considera delito grave lo que le hizo el adulto?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Todo acto sexual de acceso carnal con menor de catorce años es delito sancionado con cadena perpetua."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_160_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja admitió delante de la policía que me golpeó, pero después lo negó. ¿Esa admisión sirve como prueba en su contra?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La confesión solo vale si está corroborada por otras pruebas, es libre, y se da ante autoridad con abogado y registrada en audio y video."
+    },
+    {
+     "query": "Dicen que mi agresor confesó, pero creo que lo presionaron o estaba borracho. ¿Eso cuenta igual?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La confesión debe darse libremente y con facultades psíquicas normales para tener valor probatorio."
+    },
+    {
+     "query": "¿Basta con que él diga que lo hizo para que lo condenen?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No basta la confesión sola; debe estar respaldada por otros elementos de convicción."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_250_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Tengo medidas para que mi agresor no se me acerque. Cuando empiece el juicio, ¿las pueden quitar o cambiar?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez del juicio decide motivadamente si mantiene, modifica o suprime las medidas de protección, o si agrega nuevas."
+    },
+    {
+     "query": "Soy testigo protegida y tengo miedo de que el acusado sepa quién soy. ¿Pueden revelar mi nombre antes del juicio?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Una parte puede pedir conocer la identidad del protegido y el juez puede entregarla solo si es indispensable para la defensa, con garantías."
+    },
+    {
+     "query": "Si revelan quién es el testigo protegido, ¿la otra parte tiene algún plazo para presentar pruebas sobre su credibilidad?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Dentro de tres días de notificada la identidad, las partes pueden proponer nuevas pruebas sobre el valor del testimonio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_465_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana denunció por su cuenta a su esposo violento pero falleció antes de terminar el juicio. ¿Su familia puede seguir con el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si muere el querellante antes de concluir el juicio, sus herederos pueden asumir su lugar como querellante particular."
+    },
+    {
+     "query": "¿Cuántos días tienen los herederos para presentarse y continuar el proceso si quien denunció murió o quedó incapacitado?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Los herederos deben comparecer dentro de los treinta días siguientes a la muerte o incapacidad."
+    }
+   ]
+  }
+ ]
+}

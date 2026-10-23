@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__907bcaa66a81",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_171_01::q01\",\n  \"question\": \"Me dieron algo en la bebida y desperté sin recordar nada, con señales de que abusaron de mí. ¿Eso es delito?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_171_01\",\n    \"title\": \"Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir\",\n    \"text\": \"El que tiene acceso carnal con una persona por vía vaginal, anal o bucal, o realiza cualquier otro acto análogo con la introducción de un objeto o parte del cuerpo por alguna de las dos primeras vías, después de haberla puesto en estado de inconsciencia o en la imposibilidad de resistir, será reprimido con pena privativa de libertad no menor de veinte ni mayor de veintiséis años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_171_01::q02\",\n  \"question\": \"¿Cuántos años de cárcel le tocan a quien abusa de una mujer que estaba dormida o no podía defenderse?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_171_01\",\n    \"title\": \"Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir\",\n    \"text\": \"El que tiene acceso carnal con una persona por vía vaginal, anal o bucal, o realiza cualquier otro acto análogo con la introducción de un objeto o parte del cuerpo por alguna de las dos primeras vías, después de haberla puesto en estado de inconsciencia o en la imposibilidad de resistir, será reprimido con pena privativa de libertad no menor de veinte ni mayor de veintiséis años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_67_01::q01\",\n  \"question\": \"Al hombre que me golpeó le dieron una condena con período de prueba y no lo revocaron. Al terminar, ¿se borra todo como si nunca lo hubieran juzgado?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_67_01\",\n    \"title\": \"Artículo 67.- Extinción del régimen de prueba\",\n    \"text\": \"Si el régimen de prueba no fuera revocado será considerado extinguido al cumplirse el plazo fijado y el juzgamiento como no efectuado.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo02_cp_art_171_01::q01",
+     "chunk_tipo02_cp_art_171_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo02_cp_art_171_01::q02",
+     "chunk_tipo02_cp_art_171_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo02_cp_art_67_01::q01",
+     "chunk_tipo02_cp_art_67_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__907bcaa66a81.json"
+}

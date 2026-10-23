@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "si",
+      "rationale": "Incluye la retractación entre los supuestos excepcionales para volver a declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "si",
+      "rationale": "Contempla evitar contacto entre víctima menor y procesado al disponer el examen."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

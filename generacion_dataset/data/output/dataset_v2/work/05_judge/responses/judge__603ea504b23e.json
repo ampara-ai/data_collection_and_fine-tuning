@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "si",
+      "rationale": "Regula la entrega de la autorización y la presencia obligatoria de la defensa pública en el allanamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "si",
+      "rationale": "Ordena preservar la reputación y el pudor de las personas del local allanado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "si",
+      "rationale": "Impide sentenciar sin actuar y valorar el ADN directamente relacionado con el hecho principal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar pruebas de ADN antes de sentenciar, pero no permite equiparar cualquier examen de sangre a esa prueba."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

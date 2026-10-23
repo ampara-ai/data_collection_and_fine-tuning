@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00401_e0007::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "si",
+      "rationale": "Establece la prescripción y duplica el plazo para omisión de asistencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Explica reinicio del cómputo y el límite extraordinario tras actuaciones fiscales o judiciales."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece que la acusación directa por omisión de asistencia familiar suspende la prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "si",
+      "rationale": "Dispone que las actuaciones fiscales o judiciales interrumpen el plazo y hacen comenzar uno nuevo con límite extraordinario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula transferencia de competencia y protección de víctimas."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula el careo en el procedimiento español."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de reposición."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Explica interrupción y reinicio del plazo, sin resolver suspensión por otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Valora denuncia tardía como prueba en violación, no suspensión de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "parcial",
+      "rationale": "Fija plazos de prescripción, pero no su suspensión al esperar otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "Fija oportunidad para defensas y no el efecto de otro trámite sobre la prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Define acceso carnal en violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "si",
+      "rationale": "Suspende la prescripción si el proceso depende de una cuestión a resolver en otro procedimiento y fija su límite."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Explica el inicio del cómputo, sin resolver si se suspende mientras se espera otro trámite."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de medios de defensa sin resolver la suspensión de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Explica el cierre por prescripción, pero no el efecto de esperar otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de denuncia en juzgado de familia."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones, no plazos por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Valora diligencias policiales y retractación en delitos distintos."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Explica interrupción y plazo extraordinario, pero no el margen especial para omisión de asistencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la excepción de prescripción, sin fijar plazo ni ampliación para alimentos."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "no",
+      "rationale": "Fija plazos de recursos procesales, no de denuncia por omisión alimentaria."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Explica suspensión de la prescripción, pero no el plazo especial para denunciar el incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Resuelve deber de denuncia de médicos por otros hechos."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "Regula rechazo de extradición, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "Define violencia familiar sin establecer prescripción de omisión alimentaria."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que el plazo de prescripción se duplica para omisión de asistencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula pensión anticipada durante el proceso, no plazo para denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "Calcula plazo de casación, no prescripción de omisión alimentaria."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Resuelve duración de detención del imputado, no plazo para denunciar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

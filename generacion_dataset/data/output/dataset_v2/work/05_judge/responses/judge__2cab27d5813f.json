@@ -1,0 +1,281 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor probatorio de informes médicos pero no resuelve la retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves sin tratar la retractación en abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "Regula querellas sin resolver la retractación de menores."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata la declaración del acusado y la nulidad por su defensa."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Explica credibilidad y corroboración en delitos sexuales sin abordar retractación por presión."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "Regula reapertura de investigaciones archivadas por nuevos elementos."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Establece criterios de retractación y confirma condena del abuelo pese al cambio de versión."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Regula decisiones de audiencia preliminar sin abordar retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves sin tratar retractación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Permite confrontar contradicciones pero no establece el efecto de una retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Explica valoración corroborada del testimonio infantil sin resolver retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar integralmente prueba y flexibiliza persistencia sin resolver la retractación por presión."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula constitución en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "si",
+      "rationale": "Tipifica tocamientos sexuales a menores sin necesidad de acceso carnal."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Expone criterios de valoración racional y reglas de prueba indiciaria."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "Regula presentación de denuncias y no efectos de retirarlas."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula constitución en actor civil y no retiro de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo agravado."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "Trata falta de afectación psicológica sin abordar retiro escrito de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y no efectos procesales del retiro de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de querella y no retiro de denuncia sexual."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata suficiencia para acusación directa sin abordar retiro de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencias de apelación y no retiro de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "Regula informes médicos y no eficacia de un escrito de retiro."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Explica que retractarse no extingue el caso y somete la retractación a criterios de credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata valoración de Cámara Gesell sin abordar retiro de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula un acuerdo de terminación anticipada entre fiscal e imputado."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q04",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata oralización de pericias sin abordar retiro escrito de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Exige corroboración del relato pero no resuelve vigencia del examen tras retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor probatorio propio a los certificados médicos en estos procesos."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Distingue la acreditación médica de lesiones de la autoría pese a retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Permite lectura de pericias en apelación sin resolver el cambio de versión."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves sin abordar eficacia de informes en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Exige valoración conjunta de prueba pero no trata examen antiguo y retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Da reglas generales de valoración sin resolver el valor del certificado médico."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Regula valoración pericial en apelación sin abordar retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Expone insuficiencia médica y falta de ratificación pero no resuelve la validez del daño antiguo."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona incomparecencia de testigos y peritos."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Confirma condena usando certificado de daño antiguo pese a la retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula prueba en colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula medición del daño psíquico y no valor de examen físico tras retractación."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0047::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación de información de colaboradores eficaces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0057_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Explica que la penetración mínima basta aunque no haya desfloración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0057_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Identifica lesiones vulvares y espermatozoides como evidencia médico legal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0057_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Describe condena al tío basada en declaración y corroboraciones periciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual sin regular revisión de medidas de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

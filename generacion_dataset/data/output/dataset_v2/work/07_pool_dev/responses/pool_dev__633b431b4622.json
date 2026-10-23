@@ -1,0 +1,713 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 124.- Lesiones Culposas» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 180.- Rufianismo» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 03-2007, Huaura» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 206. Controles policiales públicos en delitos graves» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 177.- Formas agravadas» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 152.- Secuestro» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 178-2024, Tumbes, f. j. 12» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 170.- Violación sexual» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154.- Violación de la intimidad» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 377.- Omisión, rehusamiento o demora de actos funcionales» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 149.- Omisión de prestación de alimentos» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 181.- Proxenetismo» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121.- Lesiones graves» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-D.- Promoción o favorecimiento de la explotación sexual» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 179.- Favorecimiento a la prostitución» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México]» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 190.- Apropiación ilícita común» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 50.- Concurso real de delitos» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC]» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 2013-2017, Lima Este, f. j. 3.10-3.12» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 404.- Encubrimiento personal» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 321.- Tortura» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 409.- Falsedad en juicio» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 331. Actuación policial» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 156.- Revelación de la intimidad personal y familiar» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 377. Omisión, rehusamiento o demora de actos funcionales» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 11. Derechos laborales» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 198.- Administración fraudulenta» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 65. La investigación del delito destinada a ejercitar la acción penal» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_407_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no permite establecer la pena por omitir denunciar un delito conocido por el trabajo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Advierte sobre el deber de verdad y la responsabilidad del testigo, pero no precisa la sanción por mentir."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 380. Examen especial del testigo o perito» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 360. Continuidad, suspensión e interrupción del juicio» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 198.- Administración fraudulenta» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 482-2024, Lima» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Exige juramento de verdad y permite confrontar contradicciones, sin explicar las sanciones por falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 200.- Extorsión» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber del testigo de responder con verdad, sin indicar la pena por falsedad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 138.- Ejercicio privado de la acción penal» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa)» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 196.- Estafa» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 355. Auto de citación a juicio» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Declaración víctima prueba directa (Apelación 41-2023)» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 30. Reeducación de las personas agresoras» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "si",
+      "rationale": "Explica que el falso testimonio se comunica a la Fiscalía y cuándo puede iniciarse su procesamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 381. Audiencia especial para testigos y peritos» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 379. Inconcurrencia del testigo o perito» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 2451-2022, Cajamarca» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 19. Declaración de la víctima y entrevista única» no permite explicar la responsabilidad del testigo que declara falsamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 88. Desarrollo de la declaración» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12]» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 379. Inconcurrencia del testigo o perito» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 495. Sentencia declarativa de falsedad instrumental» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 378. Examen de testigos y peritos» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de verdad, sin resolver si la rectificación permite reducir o excluir la sanción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 381. Audiencia especial para testigos y peritos» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 198.- Administración fraudulenta» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 470. Declaración inexistente» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 380. Examen especial del testigo o perito» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura]» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "parcial",
+      "rationale": "Regula las condiciones para procesar el falso testimonio, pero no el efecto de rectificarlo espontáneamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 166. Contenido de la declaración» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 182. Procedencia» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 86. Momento y carácter de la declaración» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 387. Alegato oral del Fiscal» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 25.- Complicidad primaria y complicidad secundaria» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 164. Citación y conducción compulsiva» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 371.- Negativa a colaborar con la administración de justicia» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 377. Declaración en caso de pluralidad de acusados» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 169. Testigos residentes fuera del lugar o en el extranjero» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 171. Testimonios especiales» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 72. Identificación del imputado» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 194. Participación de testigos y peritos» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 376. Declaración del acusado» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 158. Valoración» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 196.- Estafa» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 188. Requerimiento de informes» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 19. Declaración de la víctima y entrevista única» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 23.-Autoría, autoría mediata y coautoría» no permite resolver el efecto de rectificar espontáneamente un falso testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Prevé advertir al testigo de su responsabilidad, pero no regula el arrepentimiento y rectificación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

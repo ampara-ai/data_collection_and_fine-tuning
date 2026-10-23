@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa, no el requerimiento mixto de sobreseimiento y acusación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

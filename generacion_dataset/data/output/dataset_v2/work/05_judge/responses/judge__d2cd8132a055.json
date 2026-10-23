@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_144_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "si",
+      "rationale": "El incumplimiento de plazos que regulan actividad fiscal o judicial acarrea responsabilidad disciplinaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_144_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "si",
+      "rationale": "Establece caducidad al vencer el plazo máximo salvo prórroga legal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_241_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "si",
+      "rationale": "Permite clausura fiscal urgente con solicitud de confirmación judicial dentro de veinticuatro horas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_241_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "si",
+      "rationale": "Autoriza inmovilización fiscal urgente de bienes muebles indispensable para la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

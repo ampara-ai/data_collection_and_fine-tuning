@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "si",
+      "rationale": "Contiene penas por promover explotación sexual y agravantes por convivencia y subsistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "si",
+      "rationale": "Incluye agravantes por discapacidad y parentesco hasta cuarto grado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "si",
+      "rationale": "Exige comunicación inmediata al Ministerio Público y entrega posterior de lo investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "si",
+      "rationale": "Establece un máximo de tres citaciones policiales durante la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

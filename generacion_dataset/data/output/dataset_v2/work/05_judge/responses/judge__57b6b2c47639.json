@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_343_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "si",
+      "rationale": "Permite pedir al juez la conclusión de la investigación cuando el fiscal excede los plazos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_343_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "si",
+      "rationale": "Fija diez días para que el fiscal acuse o solicite sobreseimiento tras el cierre judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0049_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "si",
+      "rationale": "Explica que un desgarro antiguo puede provenir de fricción y no acredita necesariamente penetración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0049_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "si",
+      "rationale": "Admite recalificar a actos contra el pudor ante falta de prueba de penetración, respetando la favorabilidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

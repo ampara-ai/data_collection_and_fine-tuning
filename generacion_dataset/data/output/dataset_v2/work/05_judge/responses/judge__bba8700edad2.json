@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona dirigir la prostitución y agrava por vínculo de pareja, pero no regula específicamente quedarse con sus ganancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "si",
+      "rationale": "Sanciona gestionar el beneficio económico y agrava por vínculo de pareja o convivencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Trata discriminación en penas por violación de trabajadoras sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata mediante captación o traslado y medios comisivos ajenos al mero beneficio descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "si",
+      "rationale": "Sanciona beneficiarse de la prostitución ajena y contempla que sea medio de subsistencia sin exigir coacción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimento de salida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "Regula incomunicación del detenido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia sin tipificar el beneficio de prostitución consentida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Regula beneficio de explotación de menores, supuesto no indicado en la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento en violación de adolescentes, no rufianismo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona dirigir la prostitución, sin resolver específicamente vivir de sus ganancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata lesiones de expareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "Regula examen pericial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa de violación y actos contra el pudor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento internacional de penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravantes por discapacidad y edad en proxenetismo, figura distinta del beneficio económico preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "si",
+      "rationale": "Agrava expresamente el rufianismo por discapacidad o edad avanzada de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "Sanciona gestión de explotación para acceso carnal, no el mero beneficio económico descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Agrava proxenetismo por pluralidad y banda, pero no regula específicamente recibir las ganancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula reconocimiento de personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Trata discriminación de trabajadoras sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "si",
+      "rationale": "Establece pena agravada de seis a doce años por pluralidad de personas o pertenencia a banda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación de menores, condición no indicada en la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza sobreseimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata violencia por identidad de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula gestión de explotación de menores, supuesto distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "Regula examen pericial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_180_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "Regula plazo de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Prevé careo cuando contradicciones importantes requieran escuchar a ambos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Analiza suficiencia de prueba de actos contra el pudor, no confrontación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Prohíbe careo de menores de catorce con el imputado salvo solicitud expresa de representación o defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Describe declaración en cámara Gesell sin resolver la obligación de confrontar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe confrontación entre víctima y agresor en procesos de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula variación de calificación y acusación complementaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Analiza daño emocional y pena, no confrontación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdos reparatorios, no careo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Regula decisiones preliminares sin resolver confrontación de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Establece declaración de menores con psicólogo y cámara Gesell para evitar revictimización sin regular el careo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia ante fiscal, no obligación de confrontar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdos reparatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza contexto familiar de agresiones entre hermanastros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada sin resolver confrontación de una víctima adulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "Trata enfoque de género y nulidad de sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones separadas de coacusados, no confrontación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de suspensión de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata salidas alternativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula proceso inmediato sin pronunciarse sobre careo obligatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada sin resolver confrontación de una víctima adulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "parcial",
+      "rationale": "Da las condiciones generales del careo sin regular dispensa por temor de la víctima adulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Permite careo entre agraviados y testigos ante contradicciones relevantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_182_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Establece la excepción expresa para careo con víctimas menores de catorce años."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

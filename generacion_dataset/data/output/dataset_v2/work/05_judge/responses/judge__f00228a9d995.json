@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Exige solicitud fiscal inmediata de confirmación y revisión judicial de restricciones urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Enumera medidas judiciales de protección sin regular convalidación posterior de actos policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "parcial",
+      "rationale": "Prevé confirmación judicial de exámenes corporales fiscales urgentes, un supuesto específico de restricción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "Regula autorización de secreto bancario, no revisión posterior de actuación urgente sin orden."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula secuestro conservativo judicial de vehículos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Analiza facultad de control de identidad, no confirmación de medidas urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "Analiza deber de protección ante riesgo doméstico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones culposas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata evaluación del riesgo doméstico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula amparo contra decisiones fiscales firmes, no convalidación inmediata de medidas policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "parcial",
+      "rationale": "Exige intervención judicial tras aseguramiento urgente de documentos, supuesto específico de actuación sin orden."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "Regula investigación de faltas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "parcial",
+      "rationale": "Menciona convalidación célere de intervención telefónica excepcional sin fijar plazo de decisión judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza ratificación de confesión policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de reposición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "Trata cómputo del plazo para casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica como pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula notificación urgente de entrevista Gesell."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula eficacia de colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula detención provisional para entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Dispone decidir el mismo día o a más tardar al siguiente, salvo traslado o audiencia indispensable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza sobreseimiento por falta de elementos de convicción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Exige motivación tanto del requerimiento fiscal como de la resolución judicial restrictiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_203_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Distingue decisión inmediata sin trámite de traslado previo cuando no exista riesgo para la finalidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define violencia sin resolver efecto de ausencia de secuelas en la pena por violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Define acceso carnal y valoración de pruebas sin abordar ausencia de secuelas o atenuación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución internacional de multas y decomiso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, no reducción de pena por violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Establece que falta de afectación psicológica no descarta delito sexual, sin resolver reducción de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "no",
+      "rationale": "Analiza retractación ante psicólogo, supuesto distinto a ausencia de secuelas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Explica expresamente que ausencia de daño emocional no disminuye la pena por violación de menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza oralización de certificado médico, no atenuación por falta de secuelas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación de terceros civilmente responsables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de penas extranjeras no privativas de libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Niega disminución de pena por ausencia de daño emocional, que no integra el injusto penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Establece que resultado psicológico negativo no desvirtúa la violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves familiares, no valor de pericia negativa en abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Explica que la dependencia económica y emocional puede justificar ausencia de afectación sin descartar delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "si",
+      "rationale": "Afirma que falta de afectación psicológica no desvirtúa violación de menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza oralización de certificado médico, no evaluación psicológica negativa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor de la declaración de víctima sexual sin resolver evaluación negativa por dependencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "Regula extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves, no prueba de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Analiza congruencia por daño emocional no acusado en agresiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "Regula constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves, no efecto de evaluación negativa en abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula graduación de daño psíquico en lesiones, no inexistencia de abuso por ausencia de trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0039_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Confirma condena pese a convivencia posterior, manutención y promesa de matrimonio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

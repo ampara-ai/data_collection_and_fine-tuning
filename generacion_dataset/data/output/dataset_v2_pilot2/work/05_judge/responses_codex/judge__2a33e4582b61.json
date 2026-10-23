@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Fija de doce a quince años por muerte derivada de lesiones a la conviviente cuando el agente pudo preverla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece de quince a veinte años cuando la víctima muere a consecuencia de las lesiones agravadas y el resultado era previsible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la dependencia o subordinación de la víctima entre los supuestos de lesiones graves agravadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Contempla la dependencia laboral o económica como agravante cuando el agente se aprovecha de ella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "si",
+      "rationale": "Permite al directamente ofendido pedir conjuntamente sanción y reparación ante el juez en delitos de acción privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "si",
+      "rationale": "Reconoce al ofendido la posibilidad de promover directamente sanción penal y reparación civil, condicionada a que sea un delito de acción privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "si",
+      "rationale": "Exige solicitar conjuntamente la sanción penal y la reparación civil en el ejercicio privado de la acción penal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

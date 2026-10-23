@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Queja NCPP 376-2021, Tacna» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 46.- Circunstancias de atenuación y agravación» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 192. Objeto» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 206.- Formas agravadas» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 224. Incautación de documentos no privados. Deber de exhibición. Secretos» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Casación 2451-2022, Cajamarca» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 21.- Responsabilidad restringida» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Exp. 00199-2018-0» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 189. Reconocimientos de personas» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 336. Formalización y continuación de la Investigación Preparatoria» y no aporta información para resolver el bloqueo de cuentas vinculadas al delito a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "si",
+      "rationale": "Autoriza bloqueo de cuentas vinculadas al delito aunque figuren a nombre de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "si",
+      "rationale": "Establece plazos sucesivos de veinticuatro horas para requerimiento fiscal, decisión judicial y entrega urgente de información."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "si",
+      "rationale": "Fija treinta días hábiles como máximo general y contempla plazo urgente especial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

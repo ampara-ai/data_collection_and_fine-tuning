@@ -1,0 +1,73 @@
+{
+ "questions": [
+  {
+   "query": "Conté lo que me hizo mi pareja en la comisaría, sin fiscal ni abogado a mi lado. ¿Con eso solo ya cuenta como prueba para que lo condenen?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_325_01",
+    "chunk_tipo01_ley30364_art_19_01"
+   ],
+   "positive_selection_reason": "El art. 325 CPP indica que lo actuado en la investigación solo sirve para decisiones previas al juicio, salvo prueba anticipada y actuaciones irreproducibles. El art. 19 Ley 30364 dice que la declaración de la mujer víctima se toma con entrevista única como prueba anticipada. Juntos responden por qué lo dicho en la policía no basta por sí solo.",
+   "expected_answer_focus": "Explicar que lo dicho solo ante la policía normalmente es parte de la investigación y no prueba para sentencia, y que la declaración de la mujer víctima debe tomarse como prueba anticipada con entrevista única.",
+   "victim_voice_rationale": "Una víctima que declaró sola en la comisaría duda de si su relato ya basta para sancionar al agresor."
+  },
+  {
+   "query": "Me dieron un papel del médico que describe mis golpes. ¿Tengo que volver para que el doctor lo confirme y me van a cobrar por eso?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_26_01"
+   ],
+   "positive_selection_reason": "El art. 26 Ley 30364 da valor probatorio a los certificados médicos, dice que en el sector público su emisión y la consulta son gratuitas y que no hace falta audiencia de ratificación de los profesionales.",
+   "expected_answer_focus": "Que el documento médico tiene valor como prueba del estado de salud, que no se exige ratificación por el médico y que en establecimientos públicos es gratuito.",
+   "victim_voice_rationale": "La víctima teme trámites y gastos adicionales para que su documento médico sea tomado en cuenta."
+  },
+  {
+   "query": "El juez cerró mi caso porque solo había lo que dije en la comisaría y el papel del médico. ¿Por qué eso no alcanzó para seguir contra mi agresor?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00252_e0019_01"
+   ],
+   "positive_selection_reason": "La sentencia resuelve un caso de lesiones leves por violencia familiar: declaró fundado el sobreseimiento porque la declaración policial es solo acto de investigación y el certificado médico acredita el hecho, no quién lo cometió.",
+   "expected_answer_focus": "Explicar el criterio del juzgado: la declaración policial sin requisitos de prueba anticipada y el certificado médico no alcanzaron la sospecha suficiente para acusar directamente.",
+   "victim_voice_rationale": "La víctima siente que se desestimó su testimonio y quiere entender la razón."
+  },
+  {
+   "query": "Me dijeron que el fiscal llevó a juicio a mi pareja sin investigar más después de mi denuncia. ¿Puede hacerlo así o primero tenía que reunir más cosas?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_336_01",
+    "chunk_tipo04_jp_00252_e0019_01"
+   ],
+   "positive_selection_reason": "El art. 336.4 CPP permite al fiscal acusar directamente si las diligencias preliminares establecen suficientemente el delito y la intervención del imputado. La sentencia muestra que, con elementos insuficientes, esa vía termina en sobreseimiento.",
+   "expected_answer_focus": "Que el fiscal puede acusar directamente solo si lo investigado establece suficientemente el delito y la autoría; si no, el caso puede cerrarse.",
+   "victim_voice_rationale": "Una víctima desconoce si el fiscal puede saltarse etapas y cómo eso afecta su caso."
+  },
+  {
+   "query": "Tengo miedo de que mi pareja me presione para cambiar lo que dije. ¿Se puede tomar mi declaración antes del juicio para que quede firme?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_242_01",
+    "chunk_tipo01_ley30364_art_19_01"
+   ],
+   "positive_selection_reason": "El art. 242.1.a CPP permite adelantar la testimonial cuando hay motivo fundado de que la persona fue expuesta a violencia o amenaza para no declarar o declarar falsamente. El art. 19 Ley 30364 dice que la declaración de la mujer víctima se tramita como prueba anticipada.",
+   "expected_answer_focus": "Que existe la prueba anticipada, a pedido del fiscal u otras partes ante el juez, y que en casos de mujeres víctimas la declaración se toma así, en ambiente privado y seguro.",
+   "victim_voice_rationale": "Teme presiones del agresor y quiere asegurar su testimonio."
+  },
+  {
+   "query": "Mi agresor cuenta una historia distinta a la mía. ¿Pueden ponernos cara a cara para aclarar quién dice la verdad? Me da miedo verlo.",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "El art. 182 CPP regula cuándo procede el careo ante contradicciones importantes entre el imputado y el agraviado, y su restricción para menores de catorce años.",
+   "expected_answer_focus": "Que el careo procede cuando hay contradicciones importantes que requieren oír a ambos, e informar la limitación en víctimas menores de catorce años.",
+   "victim_voice_rationale": "La víctima teme el encuentro directo con el agresor cuando las versiones son distintas."
+  }
+ ]
+}

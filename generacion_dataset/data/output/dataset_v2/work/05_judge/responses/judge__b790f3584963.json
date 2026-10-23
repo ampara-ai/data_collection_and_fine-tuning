@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye ebriedad superior a 0,25 gramos por litro y concurrencia de agravantes en lesiones familiares."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona agresiones a mujeres y familiares, pero no aclara expresamente la inclusión de exparejas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Explica que la tipificación incluye a convivientes y exconvivientes indistintamente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Justifica pena efectiva y rechaza suspensión en un caso de violencia de expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos de suspensión y su prohibición en agresiones contra mujeres o familiares."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de reparación civil y multa, no prisión efectiva o suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución en Perú de condenas extranjeras, no suspensión de una condena nacional."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de prescripción, no de ejecución de pena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata salidas previas a condena mediante oportunidad o acuerdo, no ejecución de la condena impuesta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve congruencia y nulidad, sin establecer ejecución efectiva o suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula acceso a casación, no requisitos de suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce el derecho a vida libre de violencia, sin regular ejecución de penas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe vigilancia electrónica domiciliaria, pero no determina su procedencia por agresión de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Resuelve suficiencia de acusación y sobreseimiento, no ejecución de una condena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección por afectación psicológica, no ejecución penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios por colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Establece penas por agresiones, pero no aclara si su ejecución puede suspenderse."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Exige reeducación durante la prisión y para beneficios, pero no regula tratamiento después de cumplir la condena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q05",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "La inhabilitación puede prohibir aproximarse o comunicarse con la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0005::q06",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Relaciona la naturaleza reiterativa y la prevención con la imposición de pena efectiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

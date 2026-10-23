@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Anula la absolución por valoración defectuosa del relato en cámara Gesell y ordena nuevo juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Explica que preguntas abiertas o aisladas no invalidan el relato espontáneo y exige valoración integral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "La ausencia de lesiones no descarta violencia sexual consumada, pero no desarrolla específicamente la tentativa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Señala expresamente que la tentativa de violación no requiere lesiones genitales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este]» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 212. Examen corporal de otras personas» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor probatorio de certificados, pero no explica si la ausencia de heridas excluye la tentativa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 121.- Lesiones graves» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 314. Pensión anticipada de alimentos» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra tentativa sin penetración, pero no aborda directamente el resultado médico sin lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Distingue tentativa y tocamientos por actos ejecutivos, pero no resuelve de forma central la ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 264. Plazo de la detención» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 463. Medidas de coerción personal» y no aporta información para resolver la tentativa de violación sin lesiones físicas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

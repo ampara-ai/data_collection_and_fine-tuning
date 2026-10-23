@@ -1,0 +1,221 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona incapaz de consentir, sin regular recursos."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe al actor civil pedir sanción, pero no precisa los límites de apelar una absolución sin recurso fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil, sin resolver la apelación penal de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita y no regula representación de víctimas menores."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisiones de funcionarios sin distribuir la competencia para continuar o archivar denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "parcial",
+      "rationale": "Menciona que el fiscal decide continuar la investigación, sin explicar el archivo ni su relación con la policía."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "Regula agravación de penas sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata revictimización en reconstrucciones."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_451_01",
+      "relevance": "no",
+      "rationale": "Regula acusación constitucional de altos funcionarios."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "parcial",
+      "rationale": "Describe el trámite fiscal de denuncias, sin valorar declaraciones policiales sin fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Explica corroboración y retractación sin abordar la ausencia fiscal en la declaración policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Establece que diligencias policiales sin fiscal carecen de solvencia para sustentar responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "Exime a víctimas de ciertas diligencias de reconstrucción, sin tratar declaraciones policiales."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Regula incorporación de declaraciones y actas al juicio, sin resolver directamente la falta de fiscal en la comisaría."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata citación de testigos de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Permite acusar sobre diligencias preliminares suficientes, pero no analiza declaraciones policiales sin fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento del régimen de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "no",
+      "rationale": "Trata indicios, semen y ADN en otro problema probatorio."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Examina una retractación en juicio que, junto con falta de prueba válida, impide desvirtuar la presunción de inocencia."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Fija penas de lesiones leves y agravación por vínculo de pareja según días de asistencia o descanso."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "parcial",
+      "rationale": "Fija sanciones para lesiones de hasta diez días, pero remite los hechos graves al delito sin precisar el régimen por pareja."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Regula límites de la apelación del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Clasifica daño psicológico, sin fijar castigo por golpes."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "Regula incomunicación del detenido."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "Regula acuerdos reparatorios, sin indicar la pena de las lesiones."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica que parentesco y lesión no bastan para configurar violencia familiar, sin fijar el castigo."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe suspender la pena por ciertos delitos familiares, sin establecer duración de la pena por lesiones."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de otros delitos descubiertos en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Fija pena por lesiones graves y umbrales médicos, sin desarrollar el supuesto específico de agresión por pareja."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula clausura temporal de locales."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza afectación por insultos, no castigo por lesiones físicas."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_180_01",
+      "relevance": "no",
+      "rationale": "Regula informes periciales."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Incluye arma u objeto contundente y ebriedad entre las agravantes de lesiones leves."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0006::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones y agrava el vínculo de pareja, pero no contempla expresamente la gestación como agravante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

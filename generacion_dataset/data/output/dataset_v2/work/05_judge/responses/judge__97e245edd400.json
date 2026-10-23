@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado internacional de condenados, sin agravantes por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso sexual tras provocar inconsciencia o imposibilidad de resistir."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación por abuso de profesión, autoridad o condición docente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso sexual en entornos que impiden libre consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q03",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "si",
+      "rationale": "Tipifica violación tras colocar a la víctima en estado de inconsciencia o indefensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza valoración estereotipada de la víctima, pero no explica la nulidad de una absolución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la Sala competente para apelar, sin explicar la nulidad por esa valoración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo02_cp_art_67_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica revisión de absolución por violación, sin abordar el razonamiento sobre resistencia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "si",
+      "rationale": "Anula absolución por valoración sin enfoque de género y motivación insuficiente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "No resuelve la repetición del juicio por exigir resistencia a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que ausencia de lesiones no descarta violencia, sin resolver nulidad de absolución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "si",
+      "rationale": "Exige enfoque de género y considerar vulnerabilidad al valorar la prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil y exige efectivizarla durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q07",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Exige ayuda dolosa para atribuir complicidad y distingue su importancia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0079::q07",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "parcial",
+      "rationale": "Regula autoría conjunta, sin explicar el auxilio doloso propio de complicidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "Regula declaración del imputado y no abstención de testimonio contra el cónyuge."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_211_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "si",
+      "rationale": "Autoriza exámenes de sangre y ADN sin consentimiento con requisitos y garantías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_211_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "si",
+      "rationale": "Identifica facultades del juez, fiscal y policía para disponer exámenes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00415_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Admite nulidad pese a conformidad fiscal por afectación de derechos o falta de motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00415_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Permite anular absolución por motivación o valoración probatoria deficientes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

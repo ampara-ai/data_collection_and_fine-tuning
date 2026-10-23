@@ -1,0 +1,209 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Abusaron de mí en un lugar donde no había nadie más. ¿Mi sola versión puede bastar para que condenen al culpable?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La declaración de la víctima puede ser suficiente para probar un delito sexual cometido en privado, si se valora con rigor."
+    },
+    {
+     "query": "No tengo testigos de lo que me hizo. ¿Me van a creer igual si denuncio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Como estos delitos suelen ocurrir sin testigos, lo que dice la víctima tiene especial peso y puede bastar."
+    },
+    {
+     "query": "¿Por qué en los casos de abuso sexual lo que cuenta la víctima pesa tanto si nadie más vio nada?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Estos delitos se cometen a escondidas, por eso el relato de la víctima adquiere especial importancia."
+    },
+    {
+     "query": "¿Los jueces aceptan mi relato sin más o lo revisan con lupa antes de condenar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El testimonio se examina con rigor según reglas de razonamiento lógico, pero puede generar certeza para condenar."
+    },
+    {
+     "query": "Solo yo sé lo que pasó, ¿puede un juez condenar al agresor sin otras pruebas?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Sí, si el relato es creíble y bien valorado, puede dar certeza suficiente para una condena."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 15 años tiene discapacidad intelectual y un vecino la manoseó y la amenazó con pegarle si contaba. ¿Eso es delito?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Los tocamientos con amenaza idónea a una menor con retardo mental constituyen delito de actos contra el pudor agravado."
+    },
+    {
+     "query": "El agresor jaló a mi hija y le dijo que le pegaba si hablaba. ¿Esa amenaza se toma en cuenta aunque ella sea una niña con discapacidad?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La amenaza debe ser idónea y eficaz considerando la capacidad de la víctima; si anula su oposición, cuenta."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le pueden dar a un hombre que abusó de una adolescente con discapacidad?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "En el caso se confirmó una condena de cinco años de cárcel, tratamiento terapéutico y reparación civil."
+    },
+    {
+     "query": "Si condenan al vecino que tocó a mi hija, ¿me pagan algo por el daño y ella recibe terapia?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La sentencia incluyó tratamiento terapéutico y una reparación civil de S/ 4,000."
+    },
+    {
+     "query": "¿Basta con que la víctima tenga discapacidad para que el delito sea más grave, o también debe haber fuerza o amenaza?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La discapacidad como agravante no es autónoma: exige que el hecho se haya cometido con violencia o grave amenaza."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_257_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez dictó una restricción contra mi agresor y él no está de acuerdo. ¿Puede pelear esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El imputado y el Ministerio Público pueden impugnar los autos que imponen, rechazan o modifican estas medidas."
+    },
+    {
+     "query": "Pedimos que dejen preso a mi agresor mientras lo juzgan y el juez lo negó. ¿Quién puede apelar esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El Ministerio Público puede impugnar el auto que desestima la medida."
+    },
+    {
+     "query": "Si me constituyo como parte para cobrar por el daño, ¿puedo apelar cualquier medida que dicte el juez contra el acusado?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El actor civil solo puede recurrir las medidas sobre bienes que afecten su derecho a cobrar la reparación."
+    },
+    {
+     "query": "¿Puede el fiscal apelar si el juez cambia o reemplaza una medida que se había dictado contra el denunciado?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Son impugnables por el fiscal y el imputado los autos que reformen, sustituyan o acumulen medidas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Cuando denuncié, la policía dijo que fue por celos y por amor, como si eso lo justificara. ¿Pueden tratarlo así?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Justificar la violencia con ideas como 'crimen pasional' es un estereotipo de género incompatible con los derechos humanos."
+    },
+    {
+     "query": "Mi hermana desapareció y los investigadores solo dicen que ella andaba en malos pasos. ¿Eso es válido para no buscarla?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe investigar con seriedad y sin estereotipos; culpar a la víctima por su conducta es discriminatorio."
+    },
+    {
+     "query": "Me siento juzgada por cómo vivo, como si yo hubiera provocado la agresión. ¿Las autoridades pueden culparme?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Las prácticas estatales que culpabilizan a la mujer por su comportamiento son rechazadas por ser discriminatorias."
+    },
+    {
+     "query": "¿Qué pasa con el Estado si no investiga a tiempo ni con cuidado la desaparición de una mujer?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "El Estado puede ser declarado internacionalmente responsable por falta de investigación diligente y con enfoque de género."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un hombre intentó abusar de mi hija de 13 años, pero la soltó cuando ella gritó. ¿Eso igual es delito?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si desiste voluntariamente del acceso carnal pero hizo tocamientos indebidos, responde por actos contra el pudor en menores."
+    },
+    {
+     "query": "Mi hija de 13 años dijo que sí quería estar con él. ¿Su aceptación cuenta para librarlo de culpa?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El consentimiento de una menor de 14 años es irrelevante."
+    },
+    {
+     "query": "¿Pueden cambiar el delito del acusado por uno menos grave y bajarle la condena aunque antes lo sentenciaron por intento de violación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte puede reconducir el delito a uno menos grave si los hechos probados ya estaban en la acusación, lo que redujo la pena."
+    },
+    {
+     "query": "El agresor acarició y desvistió a mi hija menor pero no llegó a más porque oyó ruidos. ¿Cómo lo castigan?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se le sanciona por tocamientos indebidos en menores de 14 años, con una pena menor que por violación en grado de intento."
+    },
+    {
+     "query": "Si el agresor se arrepiente y para a mitad del ataque, ¿se libra de la acusación más grave?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El desistimiento voluntario del acceso carnal evita la calificación de tentativa de violación, pero los tocamientos siguen siendo punibles."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_70_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me da miedo denunciar porque no quiero que mi nombre salga en la televisión o en la prensa. ¿La policía puede darlo?",
+     "topic": "canales_denuncia",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Para informar a la prensa sobre la víctima, la policía necesita autorización previa del fiscal."
+    },
+    {
+     "query": "¿La policía puede mostrar a los periodistas quién es la persona que denuncié?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La policía sí puede informar a los medios la identidad del imputado."
+    },
+    {
+     "query": "Soy testigo de una agresión a mi vecina y temo represalias. ¿Pueden decir mi nombre en las noticias?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Los datos de testigos y otras personas vinculadas solo pueden difundirse con autorización previa del fiscal."
+    },
+    {
+     "query": "¿Quién decide si se puede contar a los medios mis datos como víctima de un caso en investigación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal debe autorizar previamente cualquier información a medios sobre la víctima."
+    }
+   ]
+  }
+ ]
+}

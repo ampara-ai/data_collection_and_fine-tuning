@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_45-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "si",
+      "rationale": "Explica cómo fijar la pena por tercios según circunstancias atenuantes y agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_45-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo fijar la pena por tercios según circunstancias atenuantes y agravantes; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_45-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "si",
+      "rationale": "Explica cómo fijar la pena por tercios según circunstancias atenuantes y agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00382_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige evitar declaraciones reiteradas y revictimización, obtener otras pruebas y contar con personal y protocolos adecuados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00382_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige evitar declaraciones reiteradas y revictimización, obtener otras pruebas y contar con personal y protocolos adecuados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00382_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige evitar declaraciones reiteradas y revictimización, obtener otras pruebas y contar con personal y protocolos adecuados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

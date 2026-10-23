@@ -1,0 +1,209 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 72. Identificación del imputado» no establece la valoración de una denuncia tardía de abuso infantil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 211. Examen corporal del imputado» no establece la agravación de pena por abuso sexual cometido por un allegado de la familia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 427. Procedencia» no establece la sanción por grabar y difundir una agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 124-B. Determinación de la lesión psicológica» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 71. Derechos del imputado» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 82.- Inicio de los plazos de prescripción» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Ordena disponer diligencias preliminares inmediatamente al conocerse el delito."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la persecución puede comenzar antes de una investigación formal, sin resolver el deber concreto de atención inmediata."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 83.- Interrupción de la prescripción de la acción penal» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 138. Obtención de copias» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 480. Revocación de los beneficios» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 10. Indicios de delitos en proceso extra – penal» no establece el deber de iniciar actuaciones inmediatamente al recibir la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Explica qué se investiga y que los elementos reunidos permiten decidir si acusar."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Prevé el apoyo de medicina legal, organismos técnicos, universidades y equipos expertos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 22. Objeto y tipos de medidas de protección» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 20.- Inimputabilidad» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador]» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 138. Obtención de copias» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 10. Indicios de delitos en proceso extra – penal» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 273. Libertad del imputado» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Denuncia tardía resta fuerza (RN 2150-2015, Cusco)» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Permite al imputado solicitar tutela judicial ante vulneraciones de derechos durante la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Explica la tutela de derechos del investigado y sus límites ante diligencias fiscales."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Criterios que fijan un plazo para efectuar las diligencias que requieran la presencia del imputado [Exp. 00488-2022-0]» no establece la tutela judicial del investigado frente a vulneraciones de sus derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0048_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Rechaza que la gravedad y las características personales basten para la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Exige una finalidad procesal legítima y riesgos acreditados para la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0048_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Explica que el peligro procesal no se presume y debe acreditarse con circunstancias objetivas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

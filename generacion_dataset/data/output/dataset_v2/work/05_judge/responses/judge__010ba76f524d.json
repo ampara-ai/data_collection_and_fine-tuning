@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00067_e0023_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "si",
+      "rationale": "Establece que sin notificación domiciliaria el plazo no había vencido y debía admitirse la apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00067_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "si",
+      "rationale": "El plazo para impugnar corre desde la notificación mediante cédula en el domicilio real."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0066_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "si",
+      "rationale": "No exige exactitud en datos circunstanciales de la víctima menor, pero sí en lo sustancial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0066_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "si",
+      "rationale": "Distingue las contradicciones circunstanciales de las que afectan lo sustancial de la declaración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

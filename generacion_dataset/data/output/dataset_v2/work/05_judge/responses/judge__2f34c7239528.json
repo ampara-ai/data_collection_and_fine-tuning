@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "si",
+      "rationale": "Fija la apelación en audiencia o dentro de tres días de la notificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Analiza el peligro inmediato, no los efectos de apelar la protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula la interceptación de comunicaciones, no la vigencia de medidas apeladas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Trata beneficios por colaboración eficaz, no medidas de protección apeladas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona incumplir medidas de protección, pero no explica su vigencia durante la apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ejecución y supervisión de la protección, sin precisar el efecto de la apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "Revisa restricciones de comparecencia, sin establecer la protección durante una apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Examina la declaración protegida en juicio, no la vigencia de órdenes apeladas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias de autoridades extranjeras, ajenas a esta protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "Valora testimonios en casación, sin tratar efectos de apelar medidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que la apelación se concede sin efecto suspensivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula el proceso de seguridad, no la apelación de medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional, no medidas contra el agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Trata exenciones penales patrimoniales, no protección durante la apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-c_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "si",
+      "rationale": "Detalla los plazos de elevación por riesgo severo, dictamen, vista y resolución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

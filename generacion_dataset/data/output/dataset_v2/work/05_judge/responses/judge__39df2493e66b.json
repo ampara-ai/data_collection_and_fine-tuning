@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Sanciona la omisión ilegal de actos funcionales relativos a solicitudes de garantías o violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Sanciona la omisión ilegal de actos funcionales relativos a solicitudes de garantías o violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 377. Declaración en caso de pluralidad de acusados y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 508-2019, Lima, ff. jj. 5, 8 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Prevé de dos a cinco años de prisión por desatender ilegalmente actos funcionales en violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 80.- Plazos de prescripción de la acción penal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 473. Fase de corroboración y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 169. Testigos residentes fuera del lugar o en el extranjero y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Prevé de dos a cinco años de prisión por desatender ilegalmente actos funcionales en violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo II. Presunción de inocencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 368.- Resistencia o desobediencia a la autoridad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 359. Concurrencia del Juez y de las partes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 122. Lesiones leves y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 377. Declaración en caso de pluralidad de acusados y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 198.- Administración fraudulenta y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 931-2016, Cusco y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Exp. 00199-2018-0 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 154. Efectos de la nulidad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 473. Fase de corroboración y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Tipifica la demora ilegal de actos del cargo, con agravación cuando se refiere a violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Exp. 01386-2020-0 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 8. Tipos de violencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Tipifica la demora ilegal de actos del cargo, con agravación cuando se refiere a violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 377. Declaración en caso de pluralidad de acusados y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 211. Examen corporal del imputado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 401. Recurso de apelación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 517. Rechazo de la extradición y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 377. Declaración en caso de pluralidad de acusados y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 427. Procedencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 210. Registro de personas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 480. Revocación de los beneficios y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Penal Miguel Castro Castro vs. Perú, f.j. 303 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 525. Ámbito e Iniciación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Apelación 333-2025, Corte Suprema, f. j. 12 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 517. Rechazo de la extradición y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Fija la pena del auxilio policial omitido, pero no la de cualquier servidor público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Establece de dos a cinco años de prisión por omisión funcional en solicitudes de garantías personales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Exp. 7498-2014-54 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Establece de dos a cinco años de prisión por omisión funcional en solicitudes de garantías personales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Criterios que fijan un plazo para efectuar las diligencias que requieran la presencia del imputado [Exp. 00488-2022-0] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_377_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Fija la pena del auxilio policial omitido, pero no la de cualquier servidor público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza la detención preliminar judicial por fuga o por indicios del delito y peligro procesal bajo sus requisitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 211. Examen corporal del imputado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 265. Detención preliminar incomunicada y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 290. Detención domiciliaria y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Retractación notarial sin valor (RN 1179-2019, Lima) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 419.- Detención ilegal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de la detención sin flagrancia o mandato, pero no desarrolla los requisitos de la detención preliminar por fuga."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 378. Denegación o deficiente apoyo policial y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 237. Procedencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 57.- Requisitos para la suspensión de la ejecución de la pena y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente una orden de detención cuando el detenido fuga del centro de detención preliminar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Regula la vigencia de seis meses de las requisitorias y los delitos en que no caducan."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_261_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Dispone que las requisitorias por delitos de competencia del SNEJ no caducan hasta la captura."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

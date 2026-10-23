@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00401_e0016::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "parcial",
+      "rationale": "Fija plazos de investigación preparatoria, sin explicar los requisitos para acusación directa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "Mi pareja me destrozó la cara y me encerró un rato, pero el fiscal no apeló esa parte. ¿Yo sola no puedo reclamar que lo sentencien por eso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00013_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que solo el fiscal puede impulsar la acusación y que la víctima como parte civil solo reclama el pago.",
+   "expected_answer_focus": "Que quien perjudicó al denunciante solo puede reclamar la reparación y no apelar la absolución si el fiscal no lo hace.",
+   "victim_voice_rationale": "Duda de una víctima que se siente sin voz cuando el fiscal decide no insistir."
+  },
+  {
+   "query": "Por los golpes perdí mi trabajo y tuve que operarme. ¿Yo misma puedo pedir en el juicio que me paguen por todo eso?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01",
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 98 dice quién puede reclamar el pago por el daño y el art. 104 qué puede hacer quien lo reclama en el proceso.",
+   "expected_answer_focus": "Quién puede reclamar el pago del daño dentro del proceso penal y qué actuaciones puede hacer.",
+   "victim_voice_rationale": "Víctima con pérdidas económicas que no sabe si puede reclamar por sí misma."
+  },
+  {
+   "query": "Vivíamos juntos y me rompió la nariz a golpes. ¿Qué tipo de castigo le toca por lastimar así a la mujer con la que convive?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El art. 121-B sanciona las lesiones graves contra mujeres y convivientes.",
+   "expected_answer_focus": "Que las lesiones graves a una conviviente o mujer tienen una sanción agravada y cuáles son las situaciones agravantes.",
+   "victim_voice_rationale": "Pregunta cotidiana de quien duda cómo se castiga la agresión de su pareja."
+  },
+  {
+   "query": "Ya denuncié y no sé nada. ¿Quién decide si siguen investigando mi caso o lo dejan guardado y cómo lo comunican?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_122_01"
+   ],
+   "positive_selection_reason": "El art. 122 indica que el fiscal decide mediante disposiciones el inicio, continuación o archivo.",
+   "expected_answer_focus": "Que el fiscal decide si el caso continúa o se archiva mediante resoluciones motivadas.",
+   "victim_voice_rationale": "Víctima ansiosa por la falta de noticias de su denuncia."
+  },
+  {
+   "query": "Dicen que le sacarán sangre a mi expareja por lo que me hizo. ¿Lo pueden obligar aunque él no quiera?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_211_01"
+   ],
+   "positive_selection_reason": "El art. 211 regula cuándo se puede ordenar un examen corporal del imputado sin su consentimiento.",
+   "expected_answer_focus": "Condiciones y autoridad que permiten ordenar pruebas corporales al denunciado aun sin su consentimiento.",
+   "victim_voice_rationale": "Duda práctica sobre pruebas contra el agresor."
+  }
+ ]
+}

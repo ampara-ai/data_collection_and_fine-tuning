@@ -1,0 +1,93 @@
+{
+ "questions": [
+  {
+   "query": "El juez dijo que mi pareja y yo nos golpeamos los dos y le devolvió el caso al fiscal. ¿Eso qué significa y cuánto tiempo tiene para arreglarlo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_352_01"
+   ],
+   "positive_selection_reason": "El art. 352.2 regula que el juez devuelva la acusación cuando sus defectos requieren un nuevo análisis del fiscal, y fija la suspensión de la audiencia por cinco días para que la corrija. Responde directamente a la duda.",
+   "expected_answer_focus": "Que el juez puede devolver la acusación al fiscal para corregirla, que la audiencia se suspende un plazo breve y luego se reanuda.",
+   "victim_voice_rationale": "Una víctima desconcertada porque el juez no tomó su versión tal cual y quiere saber qué sigue."
+  },
+  {
+   "query": "El fiscal quiso apelar lo que decidió el juez en plena audiencia y no se lo aceptaron. ¿Por qué no se podía y qué debió hacer en cambio?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00423_e0008_01",
+    "chunk_tipo03_cpp_art_415_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que lo resuelto en audiencia se cuestiona con reposición y no con apelación. El art. 415 sustenta que en audiencias solo cabe la reposición, salvo resoluciones finales.",
+   "expected_answer_focus": "Que contra decisiones dictadas en audiencia procede pedir al mismo juez que las revise (reposición), por lo que la apelación y la casación posteriores no prosperaron.",
+   "victim_voice_rationale": "Quiere entender por qué el reclamo del fiscal fue rechazado por un tema de forma."
+  },
+  {
+   "query": "Me notificaron una resolución de mi caso de agresión y no estoy de acuerdo. ¿Cuántos días tengo para reclamar y cambia según el tipo de decisión?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_414_01"
+   ],
+   "positive_selection_reason": "El art. 414 fija los plazos de cada recurso y que se cuentan desde el día siguiente a la notificación. No se afirma una cifra histórica del caso.",
+   "expected_answer_focus": "Que los plazos varían según el tipo de recurso y se cuentan desde el día siguiente a la notificación.",
+   "victim_voice_rationale": "Teme perder su derecho a reclamar por no conocer los plazos."
+  },
+  {
+   "query": "Le rechazaron al fiscal su pedido para que otro tribunal revise el caso. ¿Se puede reclamar por eso y mientras tanto mi caso se queda parado?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_437_01"
+   ],
+   "positive_selection_reason": "El art. 437 regula la queja de derecho contra la negativa de apelación o casación, ante qué órgano se presenta y que no suspende el proceso principal.",
+   "expected_answer_focus": "Que existe un reclamo específico contra la negativa de un recurso, que se presenta ante el órgano superior y no detiene el trámite principal.",
+   "victim_voice_rationale": "Quiere saber si aún hay una vía cuando le cierran la puerta al fiscal."
+  },
+  {
+   "query": "Mis lesiones fueron leves, pero igual me golpearon. Si no estoy conforme con lo que decida la Sala, ¿mi caso puede llegar hasta la Corte Suprema?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_427_01"
+   ],
+   "positive_selection_reason": "El art. 427 establece cuándo procede la casación (tipo de resolución y gravedad mínima de la pena) y su excepción discrecional para desarrollar doctrina.",
+   "expected_answer_focus": "Que la casación solo procede en ciertos supuestos ligados a la gravedad del delito, con una excepción discrecional de la Corte Suprema.",
+   "victim_voice_rationale": "Una víctima con lesiones leves quiere saber si podrá llegar a la última instancia."
+  },
+  {
+   "query": "Dijeron que el reclamo del fiscal no tiene sustento. ¿Me avisan a mí como agraviada y qué habría pasado si lo hubieran aceptado?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_438_01"
+   ],
+   "positive_selection_reason": "El art. 438 explica el trámite de la queja y los efectos de declararla fundada o infundada, incluida la comunicación a los sujetos procesales.",
+   "expected_answer_focus": "Que si la queja es fundada se concede el recurso, y si es infundada se comunica la decisión al fiscal y a las demás partes.",
+   "victim_voice_rationale": "Busca entender qué cambia según el resultado y si se le informará."
+  },
+  {
+   "query": "Si el juez decide que mi caso pase a juicio, ¿qué deja escrito sobre mí, sobre lo que se acusa y sobre las pruebas que se van a usar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_353_01"
+   ],
+   "positive_selection_reason": "El art. 353 enumera el contenido obligatorio del auto que manda el caso a juicio: imputados, agraviados, delito, pruebas admitidas y partes.",
+   "expected_answer_focus": "Qué debe contener la resolución que pasa el caso a juicio, incluida la identificación de la agraviada y las pruebas admitidas.",
+   "victim_voice_rationale": "Quiere saber cómo queda registrada su participación en el paso a juicio."
+  },
+  {
+   "query": "Si tengo miedo de lo que mi agresor pueda hacerme mientras dura el proceso, ¿el fiscal o el juez pueden protegerme a mí y a mi familia?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_247_01"
+   ],
+   "positive_selection_reason": "El art. 247 indica que las medidas de protección alcanzan a los agraviados en procesos penales cuando el fiscal o juez aprecia un peligro grave, y cubre a familiares cercanos.",
+   "expected_answer_focus": "Que la agraviada puede recibir protección si se aprecia un peligro grave para ella o sus familiares, y quién la decide.",
+   "victim_voice_rationale": "Su preocupación central es su seguridad durante el juicio."
+  }
+ ]
+}

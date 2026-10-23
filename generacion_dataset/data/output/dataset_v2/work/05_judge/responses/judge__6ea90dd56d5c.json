@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_177_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa cinco años por crueldad, alevosía o finalidad de degradación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_177_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Prevé treinta a treinta y cinco años por lesiones graves previsibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_177_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Prevé cadena perpetua por muerte previsible causada por el ataque sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_177_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa cinco años por registrar o transmitir la agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_177_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "parcial",
+      "rationale": "Remite a agravantes de otros artículos sin desarrollar los vínculos ni la violación de menores del artículo 173."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "si",
+      "rationale": "Asigna al fiscal la conservación segura y excluye a personas ajenas al procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata reiteración de denuncias, no secreto de intervención telefónica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Permite resolver medidas sin traslado ante riesgo, pero no regula el secreto posterior de las grabaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "Analiza diligencia investigativa y derecho a la verdad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula registros de víctimas y condenas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata prescripción en omisión de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento del régimen de prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "Regula incautación de documentos y secretos profesionales o estatales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "si",
+      "rationale": "Condiciona la notificación al objeto de investigación y seguridad, con secreto motivado por plazo judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud y servidumbre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata protección ante violencia doméstica, no secreto de grabaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_231_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "si",
+      "rationale": "Exige conservar la grabación completa hasta la culminación del proceso penal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

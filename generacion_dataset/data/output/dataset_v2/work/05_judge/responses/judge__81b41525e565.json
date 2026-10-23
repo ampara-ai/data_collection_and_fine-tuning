@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "si",
+      "rationale": "Excluye por indignidad a quien tiene sentencias firmes reiteradas por violencia familiar contra el causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "si",
+      "rationale": "Establece indignidad del progenitor que no reconoció o alimentó al hijo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "si",
+      "rationale": "Considera tortura la violación militar con finalidad de castigo durante un interrogatorio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

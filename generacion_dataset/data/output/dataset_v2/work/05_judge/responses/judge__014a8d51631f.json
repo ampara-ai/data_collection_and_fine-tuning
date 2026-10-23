@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "si",
+      "rationale": "La sentencia excluye que la falta de resistencia permita inferir consentimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación de persona incapaz de consentir sin tratar la revisión de absoluciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "si",
+      "rationale": "Describe una casación fundada contra una absolución por contradicciones y ordena nuevo juicio de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula la entrega a la Corte Penal Internacional y no la revisión de esta absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica la trata de personas sin regular impugnaciones por valoración del testimonio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo interponer una casación pero no cuándo procede frente a esta absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una casación contra una absolución sexual por prueba insuficiente con fundamentos distintos sobre la pericia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Anula una absolución por supuestas contradicciones de la menor y ordena un nuevo juicio en segunda instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Explica que una casación fundada permite anular y reenviar el proceso sin establecer las causales del caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce una vida libre de violencia sin explicar cómo revisar una absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Regula el acoso sexual sin tratar la impugnación de absoluciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata la nulidad de una condena por testigos ausentes y no la absolución por contradicciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la prohibición de doble procesamiento sin explicar la impugnación de una absolución no firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la anulación de absoluciones por valoración irracional de un testimonio tardío en un caso distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "si",
+      "rationale": "El dictamen psicológico acredita la afectación emocional de la menor y debe valorarse."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

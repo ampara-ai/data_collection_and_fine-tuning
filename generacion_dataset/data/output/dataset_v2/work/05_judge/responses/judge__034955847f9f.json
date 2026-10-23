@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "si",
+      "rationale": "Explica que el relato debe cumplir garantías de certeza y contar con corroboración periférica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "si",
+      "rationale": "Establece que la ausencia del fiscal no anula las declaraciones preliminares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00108_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "si",
+      "rationale": "Enumera certificados médicos, pericias psicológica y fonética y testimonios como corroboración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

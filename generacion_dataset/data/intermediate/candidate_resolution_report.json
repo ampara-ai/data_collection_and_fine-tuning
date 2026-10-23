@@ -1,0 +1,52 @@
+{
+  "check_type": "deterministic_candidate_resolution_no_llm",
+  "resolver_version": "deterministic-legal-candidates-v1",
+  "case_id_source": "resumeai_case_files",
+  "case_count": 178,
+  "case_count_skipped_not_dataset_candidate": 33,
+  "source_files": {
+    "codigo_penal": "recoleccion/data_types/tipo_02_codigo_penal/data/processed/all_articles.json",
+    "codigo_procesal_penal": "recoleccion/data_types/tipo_03_codigo_procesal_penal/data/processed/all_articles.json",
+    "jurisprudence_context_units": "generacion_dataset/data/input/jurisprudence_context_units.json",
+    "jurisprudence_structured_entries": "recoleccion/data_types/tipo_04_jurisprudencia/data/processed/jurisprudence_entries_structured.json",
+    "ley_30364": "recoleccion/data_types/tipo_01_ley_30364/data/processed/law_30364_structured.json"
+  },
+  "coverage_by_relation": {
+    "case_jurisprudence": {
+      "references_total": 178,
+      "references_resolved": 178,
+      "coverage_percent": 100.0,
+      "candidate_edges": 178
+    },
+    "cited_in_jurisprudence": {
+      "references_total": 411,
+      "references_resolved": 411,
+      "coverage_percent": 100.0,
+      "candidate_edges": 411
+    },
+    "page_concordance": {
+      "references_total": 981,
+      "references_resolved": 981,
+      "coverage_percent": 100.0,
+      "candidate_edges": 1017
+    },
+    "source_article_anchor": {
+      "references_total": 197,
+      "references_resolved": 197,
+      "coverage_percent": 100.0,
+      "candidate_edges": 197
+    }
+  },
+  "unresolved_by_relation": {},
+  "candidate_set_size": {
+    "min": 2,
+    "median": 7.0,
+    "p90": 15,
+    "max": 32
+  },
+  "serialized_prompt_characters": {
+    "median": 12245.0,
+    "p90": 23163,
+    "max": 54638
+  }
+}

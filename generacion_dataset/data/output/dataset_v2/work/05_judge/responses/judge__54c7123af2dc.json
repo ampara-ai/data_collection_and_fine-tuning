@@ -1,0 +1,239 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata el desistimiento de una declinatoria de competencia, no una nueva declaración de la víctima en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula la presencia de las partes en el juicio de primera instancia, no la repetición del testimonio en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Examina contradicciones periciales sin establecer si la víctima debe declarar nuevamente en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación de la intimidad y no regula testimonios en segunda instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Regula la audiencia del proceso por faltas, no la apelación de una condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "Establece plazos de investigación preparatoria sin abordar la declaración de la víctima en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "Regula operaciones encubiertas sin relación con la repetición de testimonios en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo puede admitirse en apelación un testimonio ya rendido en primera instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "Regula el valor de certificados e informes médicos, no una nueva declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula la suspensión de la ejecución de la pena, no la declaración de la agraviada en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Resuelve la validez de pixelar una declaración en España sin precisar si debe repetirse en apelación peruana."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Establece competencias para delitos de función de magistrados, no reglas de declaración en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Describe la actuación y lectura de pruebas en apelación, pero no precisa cuándo la víctima debe declarar nuevamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata la reducción de pena por edad en una revisión de sentencia sin establecer el orden de intervenciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula competencias para delitos de función y no el orden de alegatos en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza límites de preguntas judiciales en España sin regular turnos de intervención en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula la apelación de medidas de protección, no la audiencia de revisión de una condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "parcial",
+      "rationale": "Establece el orden de la discusión final del juicio y la última palabra del acusado, pero no el orden propio de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula la entrega a la Corte Penal Internacional y no una apelación de condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata la tipificación de lesiones y no el orden de participación en una audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación de la intimidad sin regular intervenciones procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz y no la audiencia de apelación de condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Establece una agravante por parentesco sin regular el orden de alegatos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "si",
+      "rationale": "Dispone que aleguen primero los recurrentes y que el imputado tenga la última palabra."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de cesación de prisión preventiva sin fijar turnos en apelación de sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza una sanción al abogado por temeridad sin establecer quién abre y cierra los alegatos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica personal sin abordar desistimiento de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "Trata la retractación de la víctima y no el retiro de la apelación por el condenado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza la falta de investigación estatal de violencia doméstica sin regular desistimiento de apelaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Regula el desistimiento de la querella por el querellante, no el recurso del condenado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección y sus plazos sin tratar el desistimiento de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "si",
+      "rationale": "Permite expresamente desistirse total o parcialmente de la apelación al iniciar el debate."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula el interrogatorio del acusado y su silencio, no el retiro de su apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_550_01",
+      "relevance": "no",
+      "rationale": "Regula entrega vigilada internacional sin relación con el desistimiento recursal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza la improcedencia de una apelación contra devolución de acusación, no su retiro voluntario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula la revocación de beneficios de colaboración eficaz sin abordar desistimiento de apelaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de la apelación del actor civil y no el desistimiento del condenado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "Regula traslado de detenidos desde el extranjero y no el retiro de una apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_424_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas sin regular recursos ni desistimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

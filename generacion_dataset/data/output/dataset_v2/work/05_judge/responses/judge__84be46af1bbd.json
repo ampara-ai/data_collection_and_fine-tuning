@@ -1,0 +1,53 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la condena en apelación sin nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el aumento de pena tras repetirse el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la audiencia de apelación y la última palabra."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "parcial",
+      "rationale": "Prevé servicio comunitario o multa para maltrato sin lesión, pero no regula compensación ni tratamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica las alternativas de compensación y tratamiento por maltrato del hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica las alternativas de compensación y tratamiento por maltrato del hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "parcial",
+      "rationale": "Admite solicitar acuerdos reparatorios cuando correspondan, pero no determina su admisibilidad en violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el efecto de un acuerdo económico con el agresor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

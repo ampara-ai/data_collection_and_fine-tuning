@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Expone los cinco elementos para evaluar la validez de la retractación de una víctima sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula el traslado al Perú de condenados en el extranjero sin tratar valoración testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión no autorizada de contenido sexual y no valoración de declaraciones bajo presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Analiza contradicciones y persistencia de la víctima, pero no el efecto de presiones para cambiar su versión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Tipifica hacer consumir drogas mediante violencia o intimidación y no la valoración de una retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "Regula reapertura de investigaciones archivadas sin tratar la credibilidad de declaraciones bajo presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Regula criterios para medidas de protección y no la validez probatoria de versiones contradictorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "si",
+      "rationale": "Exige espontaneidad y garantías procesales para reconocer una retractación válida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece criterios de coherencia y corroboración del testimonio, pero no analiza cambios de versión por presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras y no valoración de testimonios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica criterios de suficiencia del testimonio sexual, pero no el efecto de presiones sobre la retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Establece medidas de seguridad para personas protegidas sin decidir qué declaración tiene valor probatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Incluye la coacción y la posible influencia sobre la víctima entre los factores para valorar sus relatos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de indicios delictivos en procesos extrapenales y no declaraciones de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0048_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Explica que se contrastó la declaración inicial con el nuevo relato y se descartó su solidez al validar la retractación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

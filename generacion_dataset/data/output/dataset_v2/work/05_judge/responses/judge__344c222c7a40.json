@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al juez que dicta el embargo, pero no regula la devolución al propietario ajeno al proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "si",
+      "rationale": "Indica el juez competente para desafectar bienes de terceros y la alternativa de tercería civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce competencia general para cesar medidas limitativas, sin regular bienes de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "si",
+      "rationale": "Exige acreditar fehacientemente la propiedad ajena al imputado para solicitar la desafectación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_308_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "No aborda la propiedad de terceros ni la desafectación del bien trabado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0018_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "La falta de protección estatal vulnera la igualdad de protección ante la ley."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0018_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Aclara que el incumplimiento del deber de protección no requiere intencionalidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "si",
+      "rationale": "La reserva del fallo no impide fijar responsabilidades civiles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "si",
+      "rationale": "Establece registro especial, confidencial y provisional consultable exclusivamente por jueces para fines específicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_63_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No regula el registro confidencial de la reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_87_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Antes de declarar se comunica detalladamente la imputación, las pruebas y las normas aplicables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_87_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Reconoce el silencio sin perjuicio y la designación de defensor de oficio si no nombra abogado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

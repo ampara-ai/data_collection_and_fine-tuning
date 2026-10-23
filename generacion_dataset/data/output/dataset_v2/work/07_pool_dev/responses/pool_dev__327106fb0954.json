@@ -1,0 +1,239 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe utilizar pruebas obtenidas vulnerando derechos, pero no regula la iniciativa probatoria judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "si",
+      "rationale": "Autoriza excepcionalmente la prueba de oficio y establece sus requisitos y límites."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_393_01",
+      "relevance": "parcial",
+      "rationale": "Exige incorporación legítima de las pruebas, sin precisar cuándo pueden ordenarse de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "parcial",
+      "rationale": "Regula intervenciones judiciales para aclarar prueba, pero no la incorporación de nuevos peritajes de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el juez no puede suplir la carga probatoria fiscal reabriendo el proceso, sin desarrollar la prueba de oficio durante el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00472_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El contenido trata otra cuestión y no determina si el juez puede ordenar nuevos medios de prueba de oficio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

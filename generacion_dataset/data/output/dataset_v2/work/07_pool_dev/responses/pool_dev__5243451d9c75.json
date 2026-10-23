@@ -1,0 +1,839 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Pone la investigación preliminar a cargo de la policía y autoriza actos urgentes e intervención inmediata en el lugar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Admite valorar una diligencia policial sin fiscal, pero no regula la autonomía de investigación policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "parcial",
+      "rationale": "Describe el auxilio policial a diligencias fiscales, sin resolver la investigación por iniciativa policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "parcial",
+      "rationale": "Presupone detención policial y regula su prolongación judicial, sin definir la autonomía investigadora."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar al fiscal y continuar las investigaciones ya iniciadas por la policía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce facultades policiales de identificación, sin regular la investigación autónoma de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "parcial",
+      "rationale": "Permite una diligencia policial por orden fiscal, pero no explica la investigación por iniciativa propia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Autoriza recibir denuncias, auxiliar víctimas, recoger pruebas y realizar diligencias sin exigir presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce una confesión inicialmente policial que se ratifica ante el fiscal, sin regular autonomía investigadora."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Advierte límites probatorios de diligencias sin fiscal, pero no define si la policía puede investigar por iniciativa propia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "si",
+      "rationale": "Autoriza pesquisas y retenciones policiales por iniciativa propia dando cuenta al fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente a la policía investigar materialmente por propia iniciativa o a petición de parte."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "si",
+      "rationale": "Establece que las diligencias preliminares sin fiscal no son nulas automáticamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "si",
+      "rationale": "Autoriza incautaciones policiales sin fiscal ni juez en flagrancia o peligro inminente, con comunicación posterior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Sitúa la investigación preliminar a cargo de la policía, pero no explica si puede iniciarla sin presencia fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Regula diligencias policiales dispuestas por el fiscal, sin resolver la iniciativa autónoma."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "parcial",
+      "rationale": "Permite asegurar documentos hallados por la policía, sin regular la investigación autónoma de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la policía puede iniciar o continuar investigaciones por iniciativa propia sin presencia física del fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación de oficio ante indicios de violencia sexual, sin precisar facultades policiales sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "si",
+      "rationale": "Autoriza el registro policial por iniciativa propia, con posterior comunicación al fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "si",
+      "rationale": "Autoriza ejecutar el operativo sin fiscal ante amenazas a la vida, integridad o libertad de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce iniciativa policial para retener durante pesquisas, sin regular rescate ni detención del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza incautaciones sin fiscal en flagrancia, pero no regula el rescate ni la detención del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "parcial",
+      "rationale": "Regula lo posterior a una detención, sin autorizar específicamente el rescate inmediato sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Fija los plazos de detención policial, pero no autoriza ni explica el rescate sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_69_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que la persecución puede comenzar con la flagrancia, sin regular la intervención policial urgente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicaciones en emergencias con riesgo vital, sin resolver el rescate policial sin esperar fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de protección frente al riesgo inmediato, sin precisar intervención policial sin fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé acciones policiales inmediatas ante riesgo severo, sin detallar el rescate en encierro y amenaza de muerte."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "si",
+      "rationale": "Obliga a la policía a realizar por iniciativa propia diligencias urgentes para impedir las consecuencias del delito."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas urgentes en flagrancia con riesgo severo, sin precisar la actuación policial previa al fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Autoriza auxiliar a las víctimas y detener a los autores en flagrancia, sin exigir presencia fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona al policía que retrasa injustificadamente el auxilio solicitado por una persona en peligro o violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "parcial",
+      "rationale": "Permite continuar investigaciones policiales, sin concretar la intervención de rescate ante amenaza inmediata."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No autoriza ni explica una intervención policial urgente sin esperar al fiscal para proteger a una víctima encerrada y amenazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "si",
+      "rationale": "Autoriza detener sin orden judicial al sorprendido durante el delito y define los supuestos de flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "parcial",
+      "rationale": "Permite arresto ciudadano en flagrancia, sin regular la organización de un operativo fiscal y policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_297_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Ordena la detención inmediata en flagrancia por violencia familiar incluso ingresando al domicilio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No aborda la organización de una intervención para detener al agresor ante un delito inminente o en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza controles para ubicar partícipes de un delito, sin regular operativos ante comisión inminente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

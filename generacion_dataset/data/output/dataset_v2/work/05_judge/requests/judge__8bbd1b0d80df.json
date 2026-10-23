@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__8bbd1b0d80df",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00260_e0016::q02\",\n  \"question\": \"Tengo miedo de que mi agresor sepa dónde vivo. ¿Pueden esconder mis datos o ayudarme a mudarme a otro lugar?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_247_01\",\n    \"title\": \"Artículo 247. Personas destinatarias de las medidas de protección\",\n    \"text\": \"1. Las medidas de protección previstas en este Título son aplicables a quienes en calidad de testigos, peritos, agraviados, agentes especiales o colaboradores intervengan en los procesos penales.\\n2. Para que sean de aplicación las medidas de protección será necesario que el Fiscal, durante la investigación preparatoria, o el Juez, aprecie racionalmente un peligro grave para la persona, libertad o bienes de quien pretenda ampararse en ellas, su cónyuge o su conviviente, o sus ascendientes, descendientes o hermanos.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo04_jp_00259_e0009_01::q01\",\n  \"question\": \"Desde que denuncié, los parientes de mi pareja intimidan a quienes me apoyan. ¿Las autoridades tienen que resguardarlos?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_ix_01\",\n    \"title\": \"Artículo IX. Derecho de Defensa\",\n    \"text\": \"1. Toda persona tiene derecho inviolable e irrestricto a que se le informe de sus derechos, a que se le comunique de inmediato y detalladamente la imputación formulada en su contra, y a ser asistida por un Abogado Defensor de su elección o, en su caso, por un abogado de oficio, desde que es citada o detenida por la autoridad. También tiene derecho a que se le conceda un tiempo razonable para que prepare su defensa; a ejercer su autodefensa material; a intervenir, en plena igualdad, en la actividad probatoria; y, en las condiciones previstas por la Ley, a utilizar los medios de prueba pertinentes. El ejercicio del derecho de defensa se extiende a todo estado y grado del procedimiento, en la forma y oportunidad que la ley señala.\\n2. Nadie puede ser obligado o inducido a declarar o a reconocer culpabilidad contra sí mismo, contra su cónyuge, o sus parientes dentro del cuarto grado de consanguinidad o segundo de afinidad.\\n3. El proceso penal garantiza, también, el ejercicio de los derechos de información y de participación procesal a la persona agraviada o perjudicada por el delito. La autoridad pública está obligada a velar por su protección y a brindarle un trato acorde con su condición.\\n4. Las partes, durante la investigación fiscal, tienen el derecho de solicitar al Ministerio Público la remisión de manera virtual de la totalidad o parte de la carpeta fiscal en copias simples. El fiscal encargado de conducir la investigación está obligado, bajo responsabilidad funcional, a remitir al correo electrónico indicado la totalidad o parte de la carpeta fiscal requerida sin costo alguno para la parte solicitante. Este mismo supuesto se aplica para las copias certificadas digitales.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00260_e0016::q02",
+     "chunk_tipo03_cpp_art_247_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo04_jp_00259_e0009_01::q01",
+     "chunk_tipo03_cpp_art_ix_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__8bbd1b0d80df.json"
+}

@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio y no la ejecución de una excarcelación apelada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de prescripción, no de la salida de prisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación accesoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata liberación tras un control de identidad ilegal y no efectos de una apelación fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia preliminar y no la ejecución de la excarcelación frente a recurso fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

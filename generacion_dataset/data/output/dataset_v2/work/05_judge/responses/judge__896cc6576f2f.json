@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Reconoce la declaración de la menor como prueba directa suficiente con garantías de credibilidad y corroboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00199-2018-0 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 87. Instrucciones preliminares no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 215.- Modalidades de libramientos indebidos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 423. Emplazamiento para la audiencia de apelación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 424. Audiencia de apelación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Permite ampliar la declaración para aclarar puntos, sin resolver el efecto de no recordar fechas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 483. Iniciación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 244. Trámite de la solicitud no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Rechaza exigir fechas exactas y mantiene la aptitud probatoria del relato infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 29.- Duración de la pena privativa de libertad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Prohíbe cuestionar la credibilidad por la sola condición de víctima y evalúa el relato infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Explica que la evaluación psicológica corrobora la afectación emocional compatible con el abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar declaración y contexto conjuntamente, aunque trata un caso con lesiones y amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Expone límites del testimonio policial y de la prueba médica para acusar, sin resolver específicamente delitos sin huellas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla la corroboración del testimonio en delitos sexuales, sin abordar directamente la ausencia de marcas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 173. Nombramiento no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 423. Emplazamiento para la audiencia de apelación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "parcial",
+      "rationale": "Regula documentar hechos sin rastros materiales y las fuentes de conocimiento utilizadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Explica la obtención de la declaración como prueba anticipada, sin desarrollar su suficiencia sin lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Incluye violencia psicológica, amenazas y coacción en la violación, sin explicar cómo se prueban."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reconstrucción con declaraciones y otras pruebas, sin determinar la suficiencia probatoria sin huellas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Explica la prueba por declaración de la víctima y corroboraciones periféricas en delitos sin huellas materiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 50.- Concurso real de delitos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la ausencia de afectación psicológica no excluye el delito y exige valorar toda la pericia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0110_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

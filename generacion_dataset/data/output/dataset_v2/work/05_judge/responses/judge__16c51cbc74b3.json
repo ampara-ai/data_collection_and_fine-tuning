@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_42_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "si",
+      "rationale": "Identifica el Registro Nacional de Condenas y permite su consulta por cualquier persona siguiendo el procedimiento establecido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_42_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "si",
+      "rationale": "El RUVA registra denuncias anteriores para facilitar la atención interinstitucional de las víctimas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

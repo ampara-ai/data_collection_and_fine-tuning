@@ -1,0 +1,221 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_106_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si me meto como parte en el proceso penal para cobrar por el daño, ¿después puedo hacer otro juicio aparte para pedir dinero?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quien se constituye como actor civil en el proceso penal no puede después demandar la indemnización en otra vía."
+    },
+    {
+     "query": "Me arrepentí de participar como parte civil en el juicio penal contra mi pareja. ¿Todavía puedo reclamar mi dinero por otro camino?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si se desiste como actor civil antes de la acusación fiscal, conserva la posibilidad de reclamar la indemnización en la otra vía."
+    },
+    {
+     "query": "¿Hasta qué momento puedo retirarme del reclamo de dinero dentro del caso penal sin perder la opción de demandar aparte?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El desistimiento debe darse antes de la acusación fiscal para no quedar impedido de la vía civil."
+    },
+    {
+     "query": "¿Puedo reclamar el pago por el daño en dos lugares distintos al mismo tiempo, en el caso penal y en un juicio civil?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Constituirse en actor civil impide presentar demanda indemnizatoria separada."
+    },
+    {
+     "query": "Ya pasó la acusación del fiscal y quiero dejar de ser parte civil para demandar aparte. ¿Se puede todavía?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo el desistimiento antes de la acusación fiscal preserva el derecho a la vía extrapenal; después queda impedido."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_173_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "En mi caso de maltrato, ¿quién decide qué especialista examina mis lesiones o mi estado emocional y tengo que pagarle?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez o el fiscal nombra al perito, escogiendo especialistas que sirven al Estado y colaboran gratuitamente."
+    },
+    {
+     "query": "¿Los exámenes que piden en mi denuncia los hace la policía o medicina legal? ¿Me cobran por ellos?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Las pericias se encomiendan a Criminalística de la PNP, Medicina Legal y otros organismos del Estado, que auxilian gratuitamente."
+    },
+    {
+     "query": "Mi caso es muy complicado y necesita expertos de distintas áreas. ¿Pueden ser más de un especialista los que opinen?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Se pueden nombrar dos o más peritos cuando el asunto es muy complejo o requiere conocimientos de distintas disciplinas."
+    },
+    {
+     "query": "¿Puedo sugerir yo o mi abogado qué especialista revise las pruebas de mi caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Para elegir peritos se tiene en cuenta la propuesta o sugerencia de las partes."
+    },
+    {
+     "query": "¿Una universidad privada puede hacer una pericia en mi caso o solo las instituciones del Estado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Puede encomendarse la pericia a universidades, institutos o personas jurídicas con las cualidades necesarias y conocimiento de las partes."
+    },
+    {
+     "query": "Si el laboratorio de la policía no tiene materiales para analizar las pruebas de mi denuncia, ¿qué pasa con mi caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si Criminalística no tiene peritos o insumos, la pericia oficial puede ser realizada por otra entidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_310_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi ex está vendiendo sus propiedades para no pagarme lo que me debe por el daño. ¿Se puede impedir que las venda o hipoteque?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "El fiscal o el actor civil pueden pedir al juez una orden que impida disponer o gravar los bienes del imputado, inscrita en Registros Públicos."
+    },
+    {
+     "query": "¿Quién puede pedir al juez que congelen los bienes de la persona que me agredió para asegurar mi pago?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Pueden solicitarlo el fiscal o el actor civil, cumpliendo los requisitos legales."
+    },
+    {
+     "query": "Si el agresor pone sus bienes a nombre de otra persona, ¿también se puede bloquear lo que tenga esa persona?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La orden de inhibición puede alcanzar los bienes del imputado o del tercero civilmente responsable."
+    },
+    {
+     "query": "¿Dónde queda anotado que el agresor no puede vender su casa mientras dura el proceso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La orden de inhibición se inscribe en los Registros Públicos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_463_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié yo misma por mi cuenta a mi agresor por injurias. ¿Pueden dejarlo preso mientras lo juzgan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Contra el querellado solo puede dictarse comparecencia, simple o restrictiva, no detención."
+    },
+    {
+     "query": "¿Cuándo le pueden poner restricciones, como no salir de la ciudad, a la persona que denuncié directamente ante el juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las restricciones solo se imponen si hay fundamentos razonables de riesgo de fuga o de que obstaculice las pruebas."
+    },
+    {
+     "query": "La persona que denuncié no se presentó al juicio aunque le avisaron. ¿Qué pasa con mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se le declara reo contumaz, se ordena su conducción compulsiva y el proceso se reserva hasta que sea habido."
+    },
+    {
+     "query": "Si el acusado se va a mitad del juicio, ¿lo pueden traer a la fuerza?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si se ausenta durante el juicio, se dispone su conducción compulsiva y se reserva el proceso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 11 años fue abusada pero el agresor dice que apenas hubo contacto y que no llegó a lastimarla del todo. ¿Eso cuenta igual como violación?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Basta una penetración mínima desde los labios mayores para que la violación sexual se considere consumada, aunque no haya desfloración."
+    },
+    {
+     "query": "¿Es necesario que haya sangrado o rotura del himen para que se castigue una violación como delito completo?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No se requiere desfloración; la consumación solo exige penetración más o menos perfecta del pene en la cavidad genital."
+    },
+    {
+     "query": "Mi sobrina menor de edad no quiso declarar en el juicio, ¿se puede condenar igual al agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Su declaración previa ante el fiscal puede valorarse aunque no declare en juicio oral, junto con pericias y testigos."
+    },
+    {
+     "query": "Denunciamos enseguida el abuso de mi hija. ¿Qué pruebas médicas pueden servir para demostrar lo ocurrido?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La pericia médico legal (inflamación, laceración, espermatozoides) y el testigo presencial sirvieron para probar el hecho."
+    },
+    {
+     "query": "El agresor fue un tío de la familia y tengo miedo de que no me crean. ¿Pueden condenarlo?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte confirmó la condena por violación consumada contra el tío con base en pericia, declaración de la víctima y testigo."
+    },
+    {
+     "query": "¿Pueden aumentarle la pena al agresor si el caso llega a la Corte Suprema por su apelación?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó la condena sin reformar la pena en perjuicio del imputado, por la prohibición de reforma peyorativa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_192_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Pueden llevarme al lugar donde me agredieron para revisar si quedaron huellas del hecho?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La inspección comprueba huellas y efectos materiales que el delito dejó en lugares, cosas o personas."
+    },
+    {
+     "query": "Me piden repetir en el lugar cómo ocurrió el ataque. ¿Quién ordena eso y para qué sirve?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La reconstrucción la ordena el juez o el fiscal para verificar si el hecho pudo ocurrir según las declaraciones y pruebas."
+    },
+    {
+     "query": "Me acusan de algo y quieren que reconstruya los hechos. ¿Estoy obligado a participar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No se obliga al imputado a intervenir en la reconstrucción."
+    },
+    {
+     "query": "Me da vergüenza que muchos vean cómo ocurrió la agresión. ¿La reconstrucción es pública?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La reconstrucción debe practicarse con la mayor reserva posible."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica sustraer a alguien de la persecución penal, pero no aclara el efecto del parentesco del encubridor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la responsabilidad por ocultar a un agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "si",
+      "rationale": "Establece diez a quince años para el funcionario encargado de custodiar al delincuente que lo encubre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Establece la regla general del encubrimiento personal sin resolver las particularidades por parentesco."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el encubrimiento por familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_404_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Prevé pena agravada para una lista de artículos, incluido el 152, pero no identifica expresamente el secuestro."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

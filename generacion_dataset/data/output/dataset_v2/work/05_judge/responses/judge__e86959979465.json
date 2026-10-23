@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Establece el deber de garantizar soporte psicológico a la menor durante su declaración y contrainterrogatorio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Relata la anulación de la sentencia de vista por negar soporte psicológico y omitir motivación suficiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige proteger la integridad emocional de la menor y evitar un contrainterrogatorio rudo o asediante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar actas anticipadas y reproducir soportes, pero no regula la entrevista psicológica grabada de menores."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 235. Levantamiento del secreto bancario» no establece el derecho de la víctima de abuso a recibir atención psicológica gratuita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Permite reconocer a familiares no directos por vínculo estrecho, participación en la justicia o sufrimiento propio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido de «RN 508-2019, Lima, ff. jj. 5, 8» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 483. Iniciación» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 441.- Lesión dolosa y lesión culposa» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 227. Ejecución» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 210. Registro de personas» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 124-B. Determinación de la lesión psicológica» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 122. Lesiones leves» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia]» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho)» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Establece una presunción rebatible de daño psíquico y moral para hijos y otros familiares directos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022]» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 88. Desarrollo de la declaración» no establece la presunción de daño moral o psíquico de una hija por lo ocurrido a su madre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Corte IDH prejuicios personales estereotipos genero afectan objetividad investigador - López y otros vs. Venezuela» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 525. Ámbito e Iniciación» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua]» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 555. Trámite inicial de las solicitudes de Cooperación» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Incluye la participación en la búsqueda de justicia entre los criterios para familiares no directos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 514. Autoridades que intervienen» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo IX. Derecho de Defensa» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 208. Motivos y objeto de la inspección» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00670_e0010_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 22-A. Criterios para dictar medidas de protección» no establece los criterios para reconocer como víctima a un familiar no directo que busca justicia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

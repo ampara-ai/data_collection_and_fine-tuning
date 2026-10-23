@@ -1,0 +1,773 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la constitución en actor civil con la legitimación para reclamar reparación, sin identificar a los familiares que suceden a la fallecida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0043_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_34_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "No identifica qué familiares pueden intervenir como agraviados en el proceso penal por la muerte de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece criterios interamericanos para reconocer familiares como víctimas, sin establecer la sucesión procesal penal por muerte en el Perú."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la afectación psicológica de menores en contextos de violencia, sin desarrollar la definición procesal de víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce a familiares afectados como víctimas en casos de graves violaciones de derechos humanos, sin ofrecer la definición penal general de agraviado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la afectación de familiares directos de víctimas de graves violaciones, pero no define de manera general al agraviado penal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce daño psicológico en quien presencia ciertos delitos, como ejemplo de afectación distinta del golpe directo, sin definir al agraviado procesal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica quién puede ser agraviado penal además de la persona que sufrió directamente la agresión física."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo notificar resoluciones cuando se desconoce el paradero del destinatario, sin desarrollar el derecho general de la víctima a ser informada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Garantiza expresamente los derechos de información y participación de la persona agraviada o perjudicada por el delito."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho de las víctimas a recibir plena información sobre su situación y el deber de los operadores de justicia de informar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Exige notificar la acusación a los sujetos procesales, pero solo aborda esa decisión y no el derecho general de información de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No establece el derecho de la víctima a conocer el avance del proceso o las decisiones que se adopten."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

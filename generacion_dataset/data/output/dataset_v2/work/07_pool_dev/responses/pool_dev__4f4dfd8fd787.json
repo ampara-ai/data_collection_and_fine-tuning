@@ -1,0 +1,767 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "parcial",
+      "rationale": "Regula la autorización judicial para intervenir comunicaciones telefónicas, pero no el examen de un celular hallado en prisión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Contempla la incautación de bienes probatorios durante un allanamiento, sin autorizar específicamente el acceso al celular encontrado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "No regula el acceso al contenido de un celular hallado en prisión para investigar extorsiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Regula medidas de protección contenidas en la sentencia, sin explicar su revisión al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la prohibición de aproximación entre las restricciones procesales, pero no regula la revisión de las medidas de protección al iniciar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo impugnar medidas de protección, sin abordar su revisión al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Describe el impedimento de acercamiento como medida tutelar, sin explicar cuándo puede modificarse o levantarse."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la adopción urgente y posterior impugnación de medidas de protección, pero no su revisión al inicio del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber de protección ante el riesgo doméstico, sin regular la modificación de medidas al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Identifica factores de riesgo relevantes para las medidas, pero no el procedimiento para cambiarlas al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Enumera medidas de protección en el proceso penal, sin regular su revisión al iniciarse el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la proporcionalidad de las medidas con el riesgo, sin precisar cuándo se modifican o levantan."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "parcial",
+      "rationale": "Regula la reforma de medidas de coerción cuando varían sus presupuestos, sin resolver específicamente la revisión de medidas de protección al inicio del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "Permite sustituir, ampliar o dejar sin efecto las medidas según el riesgo y aclara que su vigencia es independiente del proceso penal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Explica la finalidad y el contenido del alejamiento, pero no su modificación o supresión al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_297_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Identifica los beneficiarios y el peligro que justifica protección, sin regular su revisión al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula la emisión y ejecución inmediata de medidas de protección, sin abordar su cambio al iniciarse el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la modificación o levantamiento de las medidas de protección al comenzar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Permite continuar determinadas medidas después del proceso, pero no regula su revisión al inicio del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "parcial",
+      "rationale": "Exige autorización fiscal para informar a los medios sobre testigos, sin regular la revelación de identidad a la defensa antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Explica los presupuestos para proteger testigos, sin precisar cuándo puede revelarse su nombre al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Protege la identidad del testigo que teme por su integridad, sin desarrollar la excepción para revelarla a la defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "parcial",
+      "rationale": "Explica la reserva de la investigación y el acceso de las partes, sin regular la identidad del testigo protegido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Establece la reserva de identidad y garantías cuando se desvela, sin precisar las condiciones de revelación antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Describe medidas para evitar la identificación del protegido, sin regular la revelación de su nombre antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina si puede revelarse al acusado el nombre de una testigo protegida antes del juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

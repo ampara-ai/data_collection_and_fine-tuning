@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__5788ca9c82b3",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_109_01::q01\",\n  \"question\": \"Quiero seguir yo misma el caso contra mi ex y no depender solo del fiscal. ¿Puedo estar presente en todas las audiencias y presentar pruebas?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_109_01\",\n    \"title\": \"Artículo 109. Facultades del querellante particular\",\n    \"text\": \"1. El querellante particular está facultado para participar en todas las diligencias del proceso, ofrecer prueba de cargo sobre la culpabilidad y la reparación civil, interponer recursos impugnatorios referidos al objeto penal y civil del proceso, y cuantos medios de defensa y requerimientos en salvaguarda de su derecho.\\n2. El querellante particular podrá intervenir en el procedimiento a través de un apoderado designado especialmente a este efecto. Esta designación no lo exime de declarar en el proceso.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_109_01::q02\",\n  \"question\": \"Me da miedo ver a mi agresor en persona. ¿Puede un abogado representarme en el proceso sin que yo tenga que ir siempre?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_109_01\",\n    \"title\": \"Artículo 109. Facultades del querellante particular\",\n    \"text\": \"1. El querellante particular está facultado para participar en todas las diligencias del proceso, ofrecer prueba de cargo sobre la culpabilidad y la reparación civil, interponer recursos impugnatorios referidos al objeto penal y civil del proceso, y cuantos medios de defensa y requerimientos en salvaguarda de su derecho.\\n2. El querellante particular podrá intervenir en el procedimiento a través de un apoderado designado especialmente a este efecto. Esta designación no lo exime de declarar en el proceso.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_iv_01::q01\",\n  \"question\": \"Fui a denunciar un maltrato. ¿Quién decide qué se investiga, la policía o el fiscal?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_iv_01\",\n    \"title\": \"Artículo IV. Titular de la acción penal\",\n    \"text\": \"1. El Ministerio Público es titular del ejercicio público de la acción penal en los delitos y tiene el deber de la carga de la prueba. Asume la conducción jurídica de la investigación que implica la orientación legal de las acciones que realiza la Policía dentro de los parámetros de la ley para la obtención de los elementos de prueba, indicios o lo que se considere necesario para la investigación, garantizando el respeto de los derechos procesales de las personas.\\n2. El Ministerio Público está obligado a actuar con objetividad, indagando por intermedio de la Policía Nacional del Perú los hechos constitutivos del delito, que determinen y acrediten la responsabilidad o inocencia del imputado. Con esta finalidad, conduce jurídicamente los actos de investigación que realiza la Policía Nacional del Perú.\\n3. La investigación que practica la Policía Nacional del Perú, con la conducción jurídica del Ministerio Público, no tiene carácter jurisdiccional. Cuando fuera indispensable una decisión de esta naturaleza, la requerirá del órgano jurisdiccional competente, motivando debidamente su petición.\\n4. La Policía Nacional del Perú tiene a su cargo la investigación preliminar del delito y, en tal sentido, realiza las diligencias que, por su naturaleza, correspondan a dicha competencia, de conformidad con sus leyes y reglamentos.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_iv_01::q02\",\n  \"question\": \"Desconfío de que la policía solo investigue lo que quiera contra mi agresor. ¿Alguien la controla?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_iv_01\",\n    \"title\": \"Artículo IV. Titular de la acción penal\",\n    \"text\": \"1. El Ministerio Público es titular del ejercicio público de la acción penal en los delitos y tiene el deber de la carga de la prueba. Asume la conducción jurídica de la investigación que implica la orientación legal de las acciones que realiza la Policía dentro de los parámetros de la ley para la obtención de los elementos de prueba, indicios o lo que se considere necesario para la investigación, garantizando el respeto de los derechos procesales de las personas.\\n2. El Ministerio Público está obligado a actuar con objetividad, indagando por intermedio de la Policía Nacional del Perú los hechos constitutivos del delito, que determinen y acrediten la responsabilidad o inocencia del imputado. Con esta finalidad, conduce jurídicamente los actos de investigación que realiza la Policía Nacional del Perú.\\n3. La investigación que practica la Policía Nacional del Perú, con la conducción jurídica del Ministerio Público, no tiene carácter jurisdiccional. Cuando fuera indispensable una decisión de esta naturaleza, la requerirá del órgano jurisdiccional competente, motivando debidamente su petición.\\n4. La Policía Nacional del Perú tiene a su cargo la investigación preliminar del delito y, en tal sentido, realiza las diligencias que, por su naturaleza, correspondan a dicha competencia, de conformidad con sus leyes y reglamentos.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo03_cpp_art_109_01::q01",
+     "chunk_tipo03_cpp_art_109_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_109_01::q02",
+     "chunk_tipo03_cpp_art_109_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_iv_01::q01",
+     "chunk_tipo03_cpp_art_iv_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_iv_01::q02",
+     "chunk_tipo03_cpp_art_iv_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__5788ca9c82b3.json"
+}

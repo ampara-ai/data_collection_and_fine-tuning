@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el plazo razonable y garantías procesales, pero no desarrolla el derecho de familiares a conocer la verdad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

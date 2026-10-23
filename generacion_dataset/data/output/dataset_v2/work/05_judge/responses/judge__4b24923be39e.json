@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00093_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige reserva de identidad y promueve una sola declaración para evitar revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00093_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Promueve declaración única mediante cámara Gesell como protección de menores."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

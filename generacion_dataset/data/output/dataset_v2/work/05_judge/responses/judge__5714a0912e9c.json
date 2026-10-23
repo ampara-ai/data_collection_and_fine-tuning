@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "si",
+      "rationale": "Permite examinar sin consentimiento a testigos para constatar huellas o secuelas, con límites y motivos de rechazo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "si",
+      "rationale": "Si el representante legal está imputado y por ello inhabilitado, decide el juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "si",
+      "rationale": "Permite análisis de descendencia sin consentimiento si son indispensables y no implican daño para la salud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "parcial",
+      "rationale": "Solo aborda la sanción por rechazar análisis de alcohol o drogas, sin regular la negativa en general."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Aporta protección frente a exámenes revictimizantes, pero no establece cuándo se puede rechazar una extracción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala]» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 76. Anomalía psíquica sobrevenida» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 129-A.- Trata de personas» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 20.- Inimputabilidad» no establece las condiciones para rechazar una extracción de sangre en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "si",
+      "rationale": "Permite rehusar los análisis por los mismos motivos que el testimonio y establece garantías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_212_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "parcial",
+      "rationale": "Enumera motivos de abstención testimonial, pero no establece por sí solo su aplicación a análisis sanguíneos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Anula una absolución por falta de valoración integral y ordena un nuevo juicio en un caso equivalente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 289. La caución» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Casación 603-2019, Piura, ff. jj. 2-3» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 294. Internamiento previo para observación y examen» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 478. Colaboración durante las otras etapas del proceso contradictorio» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige valorar la dependencia económica y familiar para explicar la ausencia de declaración incriminatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú]» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 200.- Extorsión» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 215.- Modalidades de libramientos indebidos» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 71. Derechos del imputado» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no establece la valoración del silencio de la víctima por dependencia económica familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00392_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige investigación exhaustiva de todas las líneas y otros medios probatorios además del relato."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

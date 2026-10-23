@@ -1,0 +1,239 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0071::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula violación con acceso carnal y no tocamientos a una niña."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Analiza falta de ratificación junto con insuficiencia médica y psicológica para confirmar absolución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Fija treinta a treinta y cinco años por lesión grave previsible en los delitos enumerados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Considera los conflictos y denuncias familiares al ponderar las declaraciones maternas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q05",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "si",
+      "rationale": "Distingue pena temporal hasta treinta y cinco años de cadena perpetua."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil conjunta con la pena como derecho de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención judicial ilegal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "si",
+      "rationale": "Confirma condena sexual acompañada de reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal de terceros."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Mantiene reparación civil en una absolución por otro delito sin desarrollar reparación por abuso infantil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios por colaboración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación económica y asistencia psicológica para víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_123_01",
+      "relevance": "no",
+      "rationale": "Regula tipos de resoluciones judiciales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Explica reparación proporcional al daño, incluido daño moral, junto a la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves sin reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula determinación de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula calificación de daño psicológico."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0071::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento en Perú de condenas extranjeras."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Distingue actos de investigación y prueba anticipada sin resolver nueva comparecencia infantil."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Dispone entrevista única privada y limita la declaración ampliatoria."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Evalúa duración de pericia y credibilidad sin resolver repetición en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Explica naturaleza de entrevista y pericia previa sin establecer si deberá repetirse."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección y plazos."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reserva de imagen y ambiente protegido sin resolver repetición de declaración."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia de partes, no reiteración de entrevistas infantiles."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Relata ratificación posterior de una menor sin establecer obligación de repetirla."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica incorporación válida de entrevista y contradicción sin resolver expresamente nueva comparecencia."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "parcial",
+      "rationale": "Describe ingreso de testigos a sala sin reglas especiales para entrevista infantil."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "si",
+      "rationale": "Da valor para sentencia a prueba anticipada y actuaciones irreproducibles incorporadas legalmente."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Prevé grabar declaraciones infantiles como prueba anticipada para evitar revictimización."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Rechaza tutela basada en afectaciones potenciales para impedir entrevista infantil."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Regula tutela frente a derechos vulnerados sin resolver objeciones a entrevista programada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Prohíbe careo con menores de catorce salvo solicitud expresa de su representación o defensa."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q05",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Aclara que no se exige pericia de credibilidad antes de la entrevista."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0020::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Regula entrevista única en ambiente privado y seguro también para mujeres adultas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

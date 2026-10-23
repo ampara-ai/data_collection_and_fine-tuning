@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_386_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "si",
+      "rationale": "Concede la palabra al agraviado presente aunque no haya intervenido previamente en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_386_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "si",
+      "rationale": "Enumera el orden de los alegatos y reserva la última palabra al acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_386_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "si",
+      "rationale": "Faculta al juez a advertir al orador y limitar su tiempo si persiste en abusar de la palabra."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

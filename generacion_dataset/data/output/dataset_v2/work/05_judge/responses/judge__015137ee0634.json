@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_292-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la detención preliminar y la prisión preventiva del policía activo cuando emplea reglamentariamente sus armas en su función y causa lesiones o muerte."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_292-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente la prohibición de solicitar o dictar esas medidas de detención en el supuesto descrito."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

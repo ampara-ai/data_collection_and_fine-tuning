@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "Resuelve salidas alternativas para lesiones de género, no omisión alimentaria."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "si",
+      "rationale": "Declara discrecional y exclusiva del fiscal la aplicación preliminar del principio de oportunidad."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye al fiscal la disposición sobre oportunidad, sin resolver si puede ser obligado."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata valoración de manifestaciones policiales en violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula reemplazo y sanción de defensores ausentes."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "Regula otro protocolo de atención a la violencia."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Reconoce derechos de defensa, sin resolver la discrecionalidad fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Trata variación de calificación y ampliación de acusación."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "Regula oportunidad para plantear medios de defensa."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de intimidad."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata derecho al silencio y prueba sexual."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Distribuye la investigación preliminar entre policía y conducción jurídica fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula remisión de imputados menores a la justicia de familia."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de colaboración eficaz en otros procesos."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento en proceso por faltas."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "Regula aprobación de acuerdos de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica la oportunidad en proceso inmediato, sin precisar los acuerdos de la primera audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "Resuelve acuerdos en agresión psicológica, otro delito y etapa."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica tocamientos de menores."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "Regula arresto ciudadano."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata juzgamiento anticipado en procesos de violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "Regula detención por flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Regula conciliación en el proceso por faltas, distinto del inmediato por alimentos."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "si",
+      "rationale": "Permite solicitar acuerdo reparatorio u oportunidad en la audiencia de incoación del proceso inmediato."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica de condenados."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Contempla casación excepcional aunque no se cumpla el umbral ordinario de pena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

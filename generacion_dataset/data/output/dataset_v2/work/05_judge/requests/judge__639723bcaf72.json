@@ -1,0 +1,45 @@
+{
+ "task_id": "judge__639723bcaf72",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_155_01::q01\",\n  \"question\": \"Me desarmo al revivir lo que me hizo mi ex. ¿Quienes me interrogan deben cuidar cómo estoy de ánimo y de salud?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_155_01\",\n    \"title\": \"Artículo 155. Actividad probatoria\",\n    \"text\": \"1. La actividad probatoria en el proceso penal está regulada por la Constitución, los Tratados aprobados y ratificados por el Perú y por este Código.\\n2. Las pruebas se admiten a solicitud del Ministerio Público o de los demás sujetos procesales. El Juez decidirá su admisión mediante auto especialmente motivado, y sólo podrá excluir las que no sean pertinentes y prohibidas por la Ley. Asimismo, podrá limitar los medios de prueba cuando resulten manifiestamente sobreabundantes o de imposible consecución.\\n3. La Ley establecerá, por excepción, los casos en los cuales se admitan pruebas de oficio.\\n4. Los autos que decidan sobre la admisión de la prueba pueden ser objeto de reexamen por el Juez de la causa, previo traslado al Ministerio Público y a los demás sujetos procesales.\\n5. La actuación probatoria se realizará, en todo caso, teniendo en cuenta el estado físico y emocional de la víctima.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_155_01::q02\",\n  \"question\": \"Quiero entregar capturas de chat y fotos de mis moretones. ¿Quién decide si valen y pueden negármelas?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_155_01\",\n    \"title\": \"Artículo 155. Actividad probatoria\",\n    \"text\": \"1. La actividad probatoria en el proceso penal está regulada por la Constitución, los Tratados aprobados y ratificados por el Perú y por este Código.\\n2. Las pruebas se admiten a solicitud del Ministerio Público o de los demás sujetos procesales. El Juez decidirá su admisión mediante auto especialmente motivado, y sólo podrá excluir las que no sean pertinentes y prohibidas por la Ley. Asimismo, podrá limitar los medios de prueba cuando resulten manifiestamente sobreabundantes o de imposible consecución.\\n3. La Ley establecerá, por excepción, los casos en los cuales se admitan pruebas de oficio.\\n4. Los autos que decidan sobre la admisión de la prueba pueden ser objeto de reexamen por el Juez de la causa, previo traslado al Ministerio Público y a los demás sujetos procesales.\\n5. La actuación probatoria se realizará, en todo caso, teniendo en cuenta el estado físico y emocional de la víctima.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_243_01::q01\",\n  \"question\": \"Mi testigo se va a vivir al extranjero y no podrá venir al juicio. ¿Se puede tomar su declaración antes para que quede guardada?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_243_01\",\n    \"title\": \"Artículo 243. Requisitos de la solicitud\",\n    \"text\": \"La solicitud de prueba anticipada se presentará al Juez de la Investigación Preparatoria en el curso de las diligencias preliminares e investigación preparatoria, o hasta antes de remitir la causa al Juzgado Penal siempre que exista tiempo suficiente para realizarla en debida forma.\\n1. La solicitud precisará la prueba a actuar, los hechos que constituyen su objeto y las razones de su importancia para la decisión en el juicio. También indicarán el nombre de las personas que deben intervenir en el acto y las circunstancias de su procedencia, que no permitan su actuación en el juicio.\\n2. La solicitud, asimismo, debe señalar los sujetos procesales constituidos en autos y su domicilio procesal. El Ministerio Público asistirá obligatoriamente a la audiencia de prueba anticipada y exhibirá el expediente fiscal para su examen inmediato por el Juez en ese acto.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_243_01::q02\",\n  \"question\": \"¿Hasta cuándo se puede pedir que se adelante una prueba importante de mi caso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_243_01\",\n    \"title\": \"Artículo 243. Requisitos de la solicitud\",\n    \"text\": \"La solicitud de prueba anticipada se presentará al Juez de la Investigación Preparatoria en el curso de las diligencias preliminares e investigación preparatoria, o hasta antes de remitir la causa al Juzgado Penal siempre que exista tiempo suficiente para realizarla en debida forma.\\n1. La solicitud precisará la prueba a actuar, los hechos que constituyen su objeto y las razones de su importancia para la decisión en el juicio. También indicarán el nombre de las personas que deben intervenir en el acto y las circunstancias de su procedencia, que no permitan su actuación en el juicio.\\n2. La solicitud, asimismo, debe señalar los sujetos procesales constituidos en autos y su domicilio procesal. El Ministerio Público asistirá obligatoriamente a la audiencia de prueba anticipada y exhibirá el expediente fiscal para su examen inmediato por el Juez en ese acto.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_243_01::q03\",\n  \"question\": \"¿Es obligatorio que el representante de la fiscalía asista cuando adelantan una diligencia de mi caso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_243_01\",\n    \"title\": \"Artículo 243. Requisitos de la solicitud\",\n    \"text\": \"La solicitud de prueba anticipada se presentará al Juez de la Investigación Preparatoria en el curso de las diligencias preliminares e investigación preparatoria, o hasta antes de remitir la causa al Juzgado Penal siempre que exista tiempo suficiente para realizarla en debida forma.\\n1. La solicitud precisará la prueba a actuar, los hechos que constituyen su objeto y las razones de su importancia para la decisión en el juicio. También indicarán el nombre de las personas que deben intervenir en el acto y las circunstancias de su procedencia, que no permitan su actuación en el juicio.\\n2. La solicitud, asimismo, debe señalar los sujetos procesales constituidos en autos y su domicilio procesal. El Ministerio Público asistirá obligatoriamente a la audiencia de prueba anticipada y exhibirá el expediente fiscal para su examen inmediato por el Juez en ese acto.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo03_cpp_art_155_01::q01",
+     "chunk_tipo03_cpp_art_155_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_155_01::q02",
+     "chunk_tipo03_cpp_art_155_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_243_01::q01",
+     "chunk_tipo03_cpp_art_243_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_243_01::q02",
+     "chunk_tipo03_cpp_art_243_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_243_01::q03",
+     "chunk_tipo03_cpp_art_243_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__639723bcaf72.json"
+}

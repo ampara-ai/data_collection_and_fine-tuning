@@ -1,0 +1,281 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "si",
+      "rationale": "Explica la exoneración por auxilio judicial y el pago de costas por denuncia falsa o temeraria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de atención a víctimas sin regular las costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Trata costas por desistimiento de querella particular, supuesto distinto de perder el juicio consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo y su registro, no gastos de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "Regula operaciones encubiertas, no costas del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Asegura reparación civil mediante vehículos, no pago de costas por la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "Regula remate de bienes incautados, no costas de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "Examina revictimización institucional sin regular gastos judiciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "Trata recalificación de delitos sexuales, no costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata violencia por identidad de género, no costas de denunciantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata retractación probatoria y pena, no gastos del proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "Sanciona denegación de auxilio policial sin regular costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula proceso de seguridad, no costas de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata deber del médico de denunciar, no costas a la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Valora contradicciones y denuncia tardía sin establecer gastos de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Enumera efectos de inhabilitación, no costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento de querella particular, distinto de una denuncia no acreditada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "Regula servicios comunitarios de condenados, no costas de denunciantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "Exige mecanismos frente a violencia obstétrica sin regular gastos del proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "si",
+      "rationale": "Señala que se imponen costas por denuncia falsa o temeraria y contempla exoneración por auxilio judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Establece medidas adicionales de protección, no costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "La condena en costas corresponde al acusado recurrente en otro supuesto, no a la denunciante por falta de credibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "Describe cómo presentar una denuncia sin regular costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica libramiento indebido de cheques, ajeno a gastos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "Explica archivo e impugnación de denuncias sin regular costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de protección sin establecer gastos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "si",
+      "rationale": "Condiciona las costas de la denuncia a su falsedad o temeridad, sin imponerlas por la mera ausencia de condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "si",
+      "rationale": "Exime expresamente del pago de costas a fiscales, abogados y representantes de las partes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_499_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "si",
+      "rationale": "Impone total o parcialmente las costas al denunciante que provoca un procedimiento mediante denuncia falsa o temeraria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena sustentada en pruebas pese al silencio del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "si",
+      "rationale": "Considera suficiente la declaración precisa corroborada por pericia médico legal y denuncia del padre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "si",
+      "rationale": "Describe y confirma una condena tras la captura del acusado quince años después de los hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "Regula error de tipo y prohibición, no la estrategia de guardar silencio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Analiza pixelación de testigos, no silencio del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la defensa y la no autoincriminación sin explicar el efecto del silencio sobre una absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de penas, no la eficacia del silencio como defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección sin audiencia, no silencio del acusado en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Explica que abstenerse de declarar no puede perjudicarlo, sin asegurar ni evaluar una absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "si",
+      "rationale": "Confirma la condena pese al silencio recomendado por el abogado y explica que no invalida la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula error cultural, no consejo de no declarar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración, no silencio como defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "Exige evitar revictimización, sin tratar el silencio del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "si",
+      "rationale": "Establece que el juicio continúa pese al silencio y pueden leerse declaraciones fiscales anteriores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "Regula oralidad y registro de audiencias, no el derecho del acusado a callar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Anula una condena por falta de citación de testigos, no por silencio del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0004_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la denuncia inmediata entre los hechos y la corroboración probatoria, sin explicar su peso autónomo en la credibilidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

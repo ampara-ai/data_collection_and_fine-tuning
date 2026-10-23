@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0019_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "si",
+      "rationale": "Confirma reducción a treinta años por confesión y conclusión anticipada mediante control difuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "si",
+      "rationale": "Fundamenta el control difuso en vulneración de igualdad y proporcionalidad por la prohibición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "si",
+      "rationale": "Admite en el caso reducción por aceptación de cargos pese a la prohibición legal que inaplica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0019_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Indica que los treinta años son de prisión efectiva, pero no regula excarcelación anticipada ni beneficios."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,257 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0021::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula la violación sexual general, sin establecer la pena específica de violación de una menor de catorce años."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Expone requisitos de suspensión, la excepción para menores de veinticinco y sus exclusiones legales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata requisitos de nulidad y valoración de una declaración, no beneficios por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "si",
+      "rationale": "Distingue reducción por tener veinte años de suspensión de pena, que se rechazó en ese caso."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento en el extranjero de condenas no privativas, no beneficios por juventud."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección, no evitar prisión por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación sin establecer beneficios por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata amenaza y discapacidad en actos contra el pudor, no edad del autor como beneficio."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Sanciona lesiones graves sin establecer beneficios para autores jóvenes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Trata la edad de la víctima y la calificación del delito, no beneficios por juventud del autor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Sanciona esclavitud y servidumbre, sin resolver beneficios por edad del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión de audiencias, no suspensión de pena por juventud."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "si",
+      "rationale": "Aplica responsabilidad restringida por edad a un autor de veinte años y reduce su pena por violación de menor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "Regula careos y no reducción de penas por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega de personas a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Analiza reducción de pena en violación de menor por ausencia de daño emocional, pero no por edad del autor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula investigación de delitos de función atribuidos a magistrados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Sanciona lesiones leves sin regular responsabilidad restringida por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Sanciona esclavitud y servidumbre, no responsabilidad restringida."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula acceso a casación sin resolver la reducción de pena por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Admite reducción en violación de menor por confesión y conclusión anticipada, pero no por juventud."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de condenas internacionales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Resuelve una distinta calificación por edad de la víctima, no reducción por edad del autor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona agresiones familiares sin regular reducción por edad del autor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "si",
+      "rationale": "Establece que la responsabilidad restringida por juventud permite reducir penas sin exclusión por gravedad del delito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la coacción impide el libre consentimiento aun en una relación de pareja, pero no desarrolla la regla para niñas menores de catorce."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al fiscal como supervisor de la ejecución, pero no indica el plazo de suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción y no período de prueba de una condena suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios por colaboración eficaz, no el plazo general de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Fija suspensión de uno a cuatro años, ampliable hasta siete en el supuesto excepcional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "Regula control e intervención de comunicaciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata tiempo de preparación de defensa, no período de prueba del condenado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "Regula captura y cómputo de pena efectiva, no condena suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata prescripción de la acción penal, no vigilancia durante suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica como pena, un régimen distinto de la suspensión condicional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "Regula rendición de cuentas de instancias regionales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Sanciona extorsión sin regular suspensión condicional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza prescripción por acusación directa, no período de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "Regula desalojo preventivo en usurpación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

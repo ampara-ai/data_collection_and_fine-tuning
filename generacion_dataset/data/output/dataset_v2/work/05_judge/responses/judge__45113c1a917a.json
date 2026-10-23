@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_164_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "si",
+      "rationale": "Dispone comparecencia compulsiva por fuerza pública tras inasistencia a citación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_164_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "si",
+      "rationale": "Obliga al empleador a facilitar la concurrencia del testigo bajo responsabilidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

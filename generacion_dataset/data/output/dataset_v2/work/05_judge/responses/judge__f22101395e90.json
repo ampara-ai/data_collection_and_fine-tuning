@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_194_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Exime de concurrir a menores agraviados por delitos sexuales y a víctimas que puedan afectarse psicológicamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_194_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Dispone levantar planos o croquis y tomar fotografías o grabaciones del lugar y elementos pertinentes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

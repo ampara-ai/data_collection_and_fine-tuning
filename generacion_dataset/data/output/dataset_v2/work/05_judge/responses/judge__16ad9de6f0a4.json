@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00455_e0015::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor probatorio al relato coherente de la menor corroborado por la pericia psicológica."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Regula la acusación complementaria y la advertencia sobre cambios de calificación durante el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Regula ajustes de la pretensión fiscal durante los alegatos, sin establecer los límites del juez al condenar."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 122. Lesiones leves» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 468. Normas de aplicación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una infracción de congruencia que no produjo nulidad, sin regular el cambio a otro delito ni el aumento de pena."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 152.- Secuestro» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "si",
+      "rationale": "Regula los límites de la condena y la advertencia previa para cambiar la calificación jurídica."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 371. Apertura del juicio y posición de las partes» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Regula los límites de la condena y la advertencia previa para cambiar la calificación jurídica."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 295-2019, Cusco» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 525. Ámbito e Iniciación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 50.- Concurso real de delitos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "parcial",
+      "rationale": "Permite acusación alternativa y exige posibilitar la defensa, pero no regula directamente la condena judicial."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 603-2019, Piura, ff. jj. 2-3» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 170. Desarrollo del interrogatorio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «RN 2528-2010, Junín, f. j. 6» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye la penetración con partes del cuerpo y los entornos que impiden el libre consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 458. Transformación al proceso común y advertencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Tentativa de violación (RN 316-2021, Lima Este)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 189.- Robo agravado» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 75. Inimputabilidad del procesado» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 182. Procedencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 74. Minoría de edad» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "si",
+      "rationale": "Incluye la penetración con partes del cuerpo y los entornos que impiden el libre consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Denuncia tardía resta fuerza (RN 2150-2015, Cusco)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 16-D. Investigación del delito» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 603-2019, Piura, ff. jj. 2-3» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 154.- Violación de la intimidad» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 371. Apertura del juicio y posición de las partes» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 525. Ámbito e Iniciación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra el cambio de tipificación debatido en juicio, sin formular directamente el deber de aviso ante una posible absolución."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Exige advertir a las partes y debatir la tesis de calificación alternativa."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Exige advertir a las partes y debatir la tesis de calificación alternativa."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 458. Transformación al proceso común y advertencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Enfoque de género obligatorio (Exp. 00134-2023-31)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "si",
+      "rationale": "Exige advertir a las partes y debatir la tesis de calificación alternativa."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 454. Ámbito» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 191.- Sustracción de bien propio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "si",
+      "rationale": "Explica la posibilidad de anular la decisión y renovar el pronunciamiento mediante impugnación."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 190.- Apropiación ilícita común» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que una absolución puede anularse para renovar la apelación, sin ordenar un nuevo juicio oral ante otros jueces."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Identifica defectos de valoración y de desvinculación en un caso semejante, pero no explicita el resultado anulatorio."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 544. Trámite cuando el Perú solicita el traslado del nacional» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 18. Actuación de los operadores de justicia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 557. Recepción y trámite» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Casación 295-2019, Cusco» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la revocación de una absolución como antecedente, pero el criterio central confirma la absolución por duda."
+    },
+    {
+      "dataset_id": "case::jp_00455_e0015::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Explica la posibilidad de anular la decisión y renovar el pronunciamiento mediante impugnación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,84 @@
+{
+ "questions": [
+  {
+   "query": "Me llevaron a una reunión, me dieron drogas y entre varios hombres abusaron de mí. ¿Eso es violación aunque yo hubiera tomado y no pudiera defenderme?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 define la violación sexual, incluyendo el entorno que impide dar libre consentimiento, y las agravantes por varios agresores y por uso de drogas.",
+   "expected_answer_focus": "Debe poder explicar que obligar a alguien a tener acceso carnal aprovechando un entorno que impide consentir es violación, y que actuar entre varios o bajo drogas agrava el delito.",
+   "victim_voice_rationale": "Una víctima que consumió sustancias duda si lo ocurrido cuenta legalmente como violación."
+  },
+  {
+   "query": "Los abogados de ellos dicen que yo quise porque salgo a fiestas y me visto de cierta forma. ¿Pueden usar mi vida privada para decir que mentí?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0082_01"
+   ],
+   "positive_selection_reason": "La sentencia sienta el criterio de que la prueba sobre el comportamiento sexual o social previo o posterior de la víctima es inadmisible para desacreditarla y rechaza los estereotipos de género.",
+   "expected_answer_focus": "Debe poder indicar que no se admite indagar el comportamiento social o sexual de la víctima para desacreditar su palabra y que los estereotipos no deben obstaculizar la justicia.",
+   "victim_voice_rationale": "Expresa el temor de ser juzgada por su forma de vivir y vestir durante el juicio."
+  },
+  {
+   "query": "Con tantos hombres no pude gritar ni pelear. ¿Me van a decir que acepté porque no me resistí? Tengo miedo de que no me crean.",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0082_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 exige libre consentimiento y castiga el aprovechamiento de entornos que lo impiden; la sentencia rechaza estereotipos para desacreditar a la víctima. Juntos sustentan que no puede presumirse aceptación.",
+   "expected_answer_focus": "Debe poder señalar que la violación se configura cuando el entorno impide el libre consentimiento y que no se admiten estereotipos para desacreditar a la víctima.",
+   "victim_voice_rationale": "Teme que su falta de resistencia física se interprete como consentimiento."
+  },
+  {
+   "query": "Fuimos cinco los que estábamos ahí y todos me hicieron daño. ¿Cuántos años de cárcel les pueden dar a los que me agredieron entre varios?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01",
+    "chunk_tipo02_cp_art_23autor_01"
+   ],
+   "positive_selection_reason": "El art. 170 fija la pena mayor cuando participan dos o más sujetos y el art. 23 establece que quienes cometen el hecho conjuntamente reciben la pena del delito.",
+   "expected_answer_focus": "Debe poder explicar que cada coautor responde con la pena del delito y que actuar entre varios se sanciona con una pena más alta.",
+   "victim_voice_rationale": "Quiere saber cómo se castiga cuando varios agresores participaron."
+  },
+  {
+   "query": "Me cuesta pensar que alguien así pueda salir libre sin cumplir cárcel. ¿Un juez puede dejar la pena en suspenso a quien me violó?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 regula los requisitos de la suspensión de la pena y, en su último párrafo, la declara inaplicable a ciertos delitos del Título I-A y del Capítulo IX del Título IV (que incluye violación sexual). Sustenta la duda sobre si el agresor puede quedar libre.",
+   "expected_answer_focus": "Debe poder explicar los límites de la suspensión de la pena y que no procede para delitos del capítulo de violación sexual.",
+   "victim_voice_rationale": "Teme que el agresor evite la cárcel."
+  },
+  {
+   "query": "Después de lo que viví quedé muy afectada y con gastos. ¿Los que me hicieron esto tienen que pagarme algo y hasta cuándo se les puede exigir?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 establece que la reparación civil se fija junto con la pena, es un derecho de la víctima y el juez garantiza que se cumpla mientras dure la condena.",
+   "expected_answer_focus": "Debe poder indicar que la víctima tiene derecho a una reparación decidida junto con la condena y que el juez debe garantizar su cumplimiento durante la condena.",
+   "victim_voice_rationale": "Quiere saber si podrá recibir un pago por el daño sufrido."
+  },
+  {
+   "query": "Si a mi agresor lo condenan por violarme, ¿cuántos años máximo puede estar preso? Me da miedo que salga pronto y me busque.",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_29_01",
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 29 fija la duración máxima temporal de la pena de cárcel y el art. 177 prevé penas más altas para formas agravadas de violación, como crueldad o lesión grave.",
+   "expected_answer_focus": "Debe poder indicar el tope de la pena de cárcel temporal y que ciertas circunstancias graves aumentan la pena, sin fijar cifras históricas del caso.",
+   "victim_voice_rationale": "Quiere saber cuánto tiempo estará preso el agresor por su miedo a que regrese."
+  }
+ ]
+}

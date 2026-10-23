@@ -1,0 +1,827 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica la suficiencia del testimonio corroborado, pero no el silencio inicial debido a dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Analiza una retractación inducida, sin tratar directamente el silencio inicial por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar el contexto de maltrato al valorar credibilidad y retractación, sin abordar la demora económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Establece que declarar tardíamente no desacredita por sí mismo el testimonio y exige considerar el contexto de violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Aplicar principio de oportunidad es una facultad exclusiva del Ministerio Público [Casación 833-2019, Lambayeque]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 813-2022, Madre de Dios», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce relaciones asimétricas y factores patrimoniales en la violencia, sin resolver su efecto en la credibilidad del relato tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona dependencia económica y emocional con ausencia de afectación psicológica, pero no con el silencio inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Analiza denuncia tardía junto a contradicciones importantes, sin valorar una demora explicada por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Limita la exigencia de exactitud a lo sustancial del relato, pero no analiza el silencio por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Confirma una denuncia revelada años después y una retractación por presión, sin desarrollar la causa económica de la demora."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Signos de agresión no consumada (RN 143-2009, Ica)», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 19. Declaración de la víctima y entrevista única», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Distingue precisiones posteriores de incoherencias, sin tratar la demora motivada por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Valida un relato revelado años después y explica su progresividad, pero no analiza dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica la valoración de un testimonio infantil corroborado, sin analizar el silencio inicial por dependencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Que el imputado sea padre de familia no conlleva la aplicación inmediata del principio de interés superior del niño [Casación 1421-2023, Loreto]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 356. Principios del Juicio», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Procede aplicar el principio de oportunidad o acuerdo reparatorio en el delito del art. 122-B del CP [Pleno Jurisdiccional Distrital Penal de Áncash, 2017]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar violencia y dependencia al valorar retractaciones, pero no aborda directamente la revelación tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Indica que puede haber condena sin declaración de la víctima si otras pruebas bastan, sin resolver la credibilidad de la revelación tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «jp_00150_e0012», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Expone posibles corroboraciones del relato de una hija amenazada, sin analizar la demora por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Trata contradicciones y falta de corroboración, sin explicar el silencio inicial por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige atender al ciclo de violencia y proteger a las víctimas, sin establecer criterios probatorios para el relato tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principios en investigación violencia sexual (J. vs. Perú)», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Valora manipulación y consecuencias negativas al examinar una retractación, sin tratar la demora inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Procede principio de oportunidad en el delito de lesiones leves por violencia de género», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal)», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 2. Principio de oportunidad», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 03-2007, Huaura», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 253. Principios y finalidad», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12]», sin abordar la credibilidad del relato tardío por dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 481-A. Utilidad de la información en otros procesos», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a actuar testigos de descargo, sin explicar qué pruebas pueden sostener el caso sin el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Menciona pericia psicológica como corroboración, aunque su regla central es la suficiencia del testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "parcial",
+      "rationale": "Regula la aptitud de las personas para testificar sin identificar pruebas que sustituyan el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "si",
+      "rationale": "Permite incorporar documentos como medios de prueba y establece cómo obtenerlos durante la investigación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica garantías para admitir una pericia psicológica, sin desarrollar la prueba del caso sin testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "parcial",
+      "rationale": "Advierte las limitaciones del testimonio de oídas como corroboración, pero no identifica una base probatoria alternativa suficiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Permite anticipar testimonios, pericias e inspecciones, pero no resuelve la suficiencia de otras pruebas si falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Caso Angulo Losada vs. Bolivia», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "si",
+      "rationale": "Identifica como corroboraciones la admisión del acusado, el testimonio de la abuela y las pericias psicológicas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor probatorio a la confesión del imputado bajo garantías y con corroboración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica requisitos y límites de la prueba indiciaria en otro delito, sin concretar la prueba de la violencia denunciada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "parcial",
+      "rationale": "Permite continuar el juicio prescindiendo de un testigo inubicable, pero no identifica la prueba alternativa necesaria."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 326. Facultad y obligación de denunciar», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Menciona necropsia, registro domiciliario y testimonios como pruebas de un parricidio, sin desarrollar alternativas probatorias para la denuncia planteada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Explica la importancia del testimonio de la víctima en delitos clandestinos, sin responder qué otras pruebas pueden reemplazarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la posibilidad de abstenerse de testificar por parentesco, sin explicar otras pruebas para sostener el caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Prueba de comportamiento previo inadmisible (Exp. 6265-2020)», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 245. Audiencia de prueba anticipada», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce libertad de prueba mediante medios legales, pero no concreta cuáles serían útiles en este caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura]», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Prevé condiciones protegidas para declarar por afectación psicológica, sin resolver la prueba alternativa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 327. No obligados a denunciar», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Expone los límites de un reconocimiento fotográfico tardío, sin ofrecer una base probatoria alternativa suficiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_167_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 167. Testimonio de Altos Dignatarios», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "parcial",
+      "rationale": "Facilita la declaración de testigos distantes, pero no desarrolla qué pruebas pueden sustentar el caso sin la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo interrogar testigos y proteger su domicilio, sin explicar las alternativas probatorias del caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_422_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 422. Pruebas en Segunda Instancia», sin abordar otras pruebas útiles cuando falta el testimonio de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "si",
+      "rationale": "Permite exámenes médicos para constatar huellas o secuelas del delito y obtener evidencia corporal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite disponer prueba de oficio, aunque no identifica qué evidencia reemplaza la declaración de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Prevé incautar bienes que puedan servir como prueba, pero no explica su suficiencia para sostener el caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Menciona pruebas periciales y testimoniales que deben valorarse conjuntamente, sin resolver un caso sin declaración de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Destaca la importancia de otro testigo y de un audio para esclarecer los hechos, pero no establece una respuesta general sobre prueba alternativa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Establece criterios para una retractación, supuesto distinto de variar detalles de un relato tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Considera irrelevantes variaciones en el número de abusos cuando subsiste un relato corroborado, aun revelado años después."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "si",
+      "rationale": "Exige valorar lo sustancial del testimonio infantil sin invalidarlo por contradicciones secundarias, atendiendo a edad y trauma."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Regula el valor de una retractación notarial, sin resolver variaciones de detalles en una denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor al relato corroborado de la víctima y rechaza exigir precisión temporal exacta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Explica que la denuncia tardía y contradicciones en aspectos clave pueden restar fuerza, exigiendo valorar conjuntamente la corroboración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 301.- Coacción al consumo de droga», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 205. Control de identidad policial», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Permite ampliar la declaración para aclarar o precisar puntos, sin fijar criterios de credibilidad del relato tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho)», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 2062-2016, Ica», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar integralmente la entrevista y flexibilizar persistencia, sin analizar específicamente la revelación años después."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 2451-2022, Cajamarca», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 409.- Falsedad en juicio», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Evita repetir declaraciones y permite valorar otras pruebas, pero no explica la credibilidad de diferencias entre detalles."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 349. Contenido», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 118. Juramento», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Establece que un testimonio tardío no pierde credibilidad automáticamente y debe valorarse en su contexto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 576-2022, Del Santa», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 326. Facultad y obligación de denunciar», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 01386-2020-0», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 381. Audiencia especial para testigos y peritos», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 294. Internamiento previo para observación y examen», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Analiza contradicciones y falta de persistencia sin distinguir claramente variaciones menores propias del relato tardío."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 157. Medios de prueba», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Impide descartar el relato por odio derivado de maltrato y examina retractación, sin tratar directamente la tardanza y cambios menores."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Aclara que precisar detalles posteriormente o incurrir en imprecisiones de hora y día no supone incoherencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "si",
+      "rationale": "No exige exactitud en todos los datos circunstanciales del relato de la menor, sino en lo sustancial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC]», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "parcial",
+      "rationale": "Aporta enfoques de edad y vulnerabilidad para examinar violencia, pero no criterios específicos sobre variaciones del relato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 331. Actuación policial», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "parcial",
+      "rationale": "Discute la corroboración mediante testigos de referencia, sin resolver los efectos de la demora o de los cambios menores."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 178-2024, Tumbes, f. j. 12», sin abordar la credibilidad de un relato tardío con diferencias de detalle."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

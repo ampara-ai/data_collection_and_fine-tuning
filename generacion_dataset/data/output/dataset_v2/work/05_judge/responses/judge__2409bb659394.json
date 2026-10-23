@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de concurrir y sus excepciones, pero no determina la sanción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Prevé conducción compulsiva de testigos ausentes, sin determinar la pena por negarse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la sanción al testigo que no comparece."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Sanciona al testigo legalmente requerido que no comparece con prisión hasta dos años o servicio comunitario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Sanciona la omisión del informe requerido y añade inhabilitación para peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Tipifica la negativa del intérprete legalmente requerido y fija pena e inhabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_371_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Fija prisión no mayor de dos años o veinte a treinta jornadas de servicio comunitario."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

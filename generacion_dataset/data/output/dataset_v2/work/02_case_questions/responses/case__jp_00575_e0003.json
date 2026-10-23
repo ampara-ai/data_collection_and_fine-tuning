@@ -1,0 +1,95 @@
+{
+ "questions": [
+  {
+   "query": "Anularon la sentencia a favor de mi hija porque los jueces no explicaron bien sus razones. ¿Se acabó todo o tienen que dictar otra?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00575_e0003_01"
+   ],
+   "positive_selection_reason": "La casación resuelve justo este escenario: la sentencia de vista se anuló por no explicar por qué equiparó maltrato emocional con psicológico, y se ordenó que la Sala emita un nuevo pronunciamiento motivado.",
+   "expected_answer_focus": "Que una sentencia sin razones suficientes puede anularse, que eso no cierra el caso y que la Sala Superior debe volver a resolver explicando sus fundamentos.",
+   "victim_voice_rationale": "Una madre desanimada porque anularon la sentencia favorable y no sabe si el caso termina ahí."
+  },
+  {
+   "query": "Mi expareja le grita a mi hija que solo sirve para pedir cosas y la presiona para elegir con quién vivir. ¿Eso es delito aunque no le pegue?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_442_01"
+   ],
+   "positive_selection_reason": "El artículo sobre maltrato sanciona el maltrato psicológico y las humillaciones o menosprecios reiterados, y agrava el caso cuando la víctima es menor o descendiente. Eso responde si el trato descrito puede ser delito sin golpes.",
+   "expected_answer_focus": "Que maltratar psicológicamente, humillar o menospreciar de forma reiterada es sancionable aunque no haya golpes, y que si la víctima es menor o hija la pena es mayor.",
+   "victim_voice_rationale": "La madre duda si el maltrato solo verbal y emocional cuenta como delito."
+  },
+  {
+   "query": "Si condenan al papá de mi hija por maltratarla así, ¿tendría que ir a la cárcel o le ponen otro tipo de castigo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_442_01",
+    "chunk_tipo02_cp_art_34_01"
+   ],
+   "positive_selection_reason": "El artículo de maltrato indica que la sanción es de servicio comunitario o multa, y el artículo 34 explica en qué consiste el servicio a la comunidad. Juntos responden qué tipo de castigo recibiría.",
+   "expected_answer_focus": "Que la sanción por este maltrato es de trabajo comunitario o multa (no cárcel directa) y cómo se cumple ese trabajo. No se debe afirmar que una cifra histórica siga vigente.",
+   "victim_voice_rationale": "Quiere saber qué castigo real recibiría el padre."
+  },
+  {
+   "query": "Si el padre de mi hija es culpable de hacerle daño emocional, ¿puedo exigir que me pague por lo que ella sufrió?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El artículo 92 establece que la reparación civil se fija junto con la pena, que es un derecho de la víctima y que el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que la víctima tiene derecho a una reparación económica, que se decide junto con la sanción y que el juez debe velar por que se cumpla.",
+   "victim_voice_rationale": "Una madre quiere saber si hay compensación por el sufrimiento de su hija."
+  },
+  {
+   "query": "¿Puede pasar que el juez declare culpable al papá de mi hija pero no le dicte castigo, y qué pasa con lo que debe pagar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_62_01",
+    "chunk_tipo02_cp_art_63_01"
+   ],
+   "positive_selection_reason": "El artículo 62 fija cuándo y con qué requisitos el juez puede reservar el fallo condenatorio, y el 63 explica sus efectos: no se dicta la parte resolutiva, pero se fijan las responsabilidades civiles.",
+   "expected_answer_focus": "Que existe la posibilidad de aplazar el fallo bajo ciertas condiciones, que la reparación económica igual se fija y que el registro es reservado.",
+   "victim_voice_rationale": "Teme que el agresor quede sin consecuencias y no sabe si la víctima igual recibiría su pago."
+  },
+  {
+   "query": "Si el juez le da al padre una oportunidad con reglas y no las cumple o vuelve a cometer otro delito, ¿qué pasa después?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_65_01",
+    "chunk_tipo02_cp_art_66_01"
+   ],
+   "positive_selection_reason": "El artículo 65 indica qué puede hacer el juez si no se cumplen las reglas, y el 66 explica cuándo se revoca el régimen de prueba por un nuevo delito.",
+   "expected_answer_focus": "Que el juez puede prorrogar o revocar la prueba si hay incumplimiento y que un nuevo delito doloso puede llevar a revocarla y aplicar la pena.",
+   "victim_voice_rationale": "Quiere saber si hay consecuencias reales si el agresor incumple."
+  },
+  {
+   "query": "Tengo miedo de que el padre de mi hija siga libre mientras lo investigan. Si el fiscal no pide que lo dejen preso, ¿qué decide el juez?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_286_01"
+   ],
+   "positive_selection_reason": "El artículo 286 del CPP establece que si el fiscal no pide prisión preventiva o no se cumplen sus presupuestos, el juez dicta comparecencia simple y debe motivar su decisión.",
+   "expected_answer_focus": "Que sin pedido fiscal de prisión preventiva, o sin sus requisitos, el imputado sigue el proceso en libertad y la decisión debe estar fundamentada.",
+   "victim_voice_rationale": "Una madre asustada por tener al agresor libre durante el proceso."
+  },
+  {
+   "query": "El papá de mi hija dice que lo suyo fue poca cosa. ¿Puede un juez dejarlo sin castigo si considera que su culpa fue mínima?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_68_01"
+   ],
+   "positive_selection_reason": "El artículo 68 permite al juez eximir de sanción en delitos con pena leve (limitativa de derechos, multa o privativa no mayor de dos años) cuando la responsabilidad del agente es mínima.",
+   "expected_answer_focus": "Que existe la exención de pena para delitos leves con responsabilidad mínima, a criterio del juez.",
+   "victim_voice_rationale": "Teme que el agresor minimice los hechos y el juez lo deje sin sanción."
+  }
+ ]
+}

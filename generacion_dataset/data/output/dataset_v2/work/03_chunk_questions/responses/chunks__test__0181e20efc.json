@@ -1,0 +1,113 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_214_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Sospecho que mi agresor se esconde en una casa y la policía quiere entrar a buscarlo. ¿Pueden entrar sin que nadie les autorice o hace falta un permiso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Fuera de casos en que lo agarran en el acto o hay peligro inminente, el Fiscal debe pedir el ingreso y registro de un domicilio cuando hay motivos razonables de que allí se oculta el imputado o hay objetos del delito."
+    },
+    {
+     "query": "¿Qué datos tienen que decir las autoridades cuando piden entrar a registrar un lugar para buscar pruebas contra mi pareja?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "La solicitud debe indicar la ubicación exacta del lugar, la finalidad, las diligencias a realizar y el tiempo aproximado; si entran sin orden judicial, los motivos se anotan en el acta."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_15_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo vendió a escondidas la casa para no pagarme lo que el juez le va a ordenar por el daño que me hizo. ¿Se puede anular esa venta?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Ministerio Público o quien reclama el pago por el daño puede pedir, dentro del mismo proceso penal, anular la venta o gravamen fraudulento de bienes."
+    },
+    {
+     "query": "Si pido que se anule una venta hecha para esconder bienes del agresor, ¿cuántos días tiene el comprador para responder y cómo sigue el trámite?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez da traslado al imputado y al adquirente, quienes tienen cinco días para responder; luego se cita a audiencia dentro de cinco días y el juez de sentencia resuelve la nulidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_321_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un policía golpeó y maltrató a mi hermana embarazada para hacerla hablar mientras estaba detenida. ¿Qué castigo puede recibir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La tortura por un funcionario se castiga con 8 a 14 años, y con 15 a 20 años si la víctima está embarazada o detenida abusando de la autoridad."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le tocan a alguien que causa un sufrimiento grave a un menor o a un anciano aprovechando un cargo público?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena sube a 15-20 años si la víctima es menor de 18 o mayor de 60, tiene discapacidad o sufre lesión grave, y a 20-25 si muere y era previsible."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_34_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi caso lo está viendo un juez de otra ciudad que creo que no le corresponde. ¿Puedo pedir que lo pase al juez correcto mientras investigan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Durante la investigación, el imputado, quien reclama el pago por el daño o el tercero responsable pueden pedir que el juez deje el caso si no le corresponde por materia, jerarquía o territorio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_164_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Una vecina vio cómo me pegaba mi pareja pero no quiere ir a declarar. ¿La pueden obligar a presentarse?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si el testigo no va a la primera citación, la fuerza pública puede hacerlo comparecer por la fuerza."
+    },
+    {
+     "query": "Mi testigo trabaja en una empresa y su jefe no le da permiso para ir a declarar. ¿Qué pasa con eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El superior o empleador está obligado, bajo responsabilidad, a facilitar que el testigo asista el día y hora citados; además el testigo puede presentarse por iniciativa propia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi padre fue condenado varias veces por maltratar a mi mamá. Cuando ella fallezca, ¿él puede quedarse con su herencia?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quien fue sancionado con sentencia firme más de una vez por violencia familiar contra el causante es excluido de la herencia por indignidad."
+    },
+    {
+     "query": "Mi papá nunca me reconoció ni me pasó dinero para mantenerme de niño. Si yo muero, ¿puede heredarme?",
+     "topic": "hijos_y_tenencia",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El progenitor que no reconoció al hijo ni le dio alimentos y asistencia es indigno de heredarlo; igual el pariente o cónyuge obligado que no dio alimentos y fue demandado."
+    }
+   ]
+  }
+ ]
+}

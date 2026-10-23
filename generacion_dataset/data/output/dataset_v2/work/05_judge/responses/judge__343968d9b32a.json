@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_150_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "si",
+      "rationale": "Tipifica el abandono de la mujer embarazada en situación crítica e indica la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_150_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "si",
+      "rationale": "Señala prisión de seis meses a cuatro años por el abandono descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que los insultos entre separados requieren un contexto de dominación para configurar el delito analizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "si",
+      "rationale": "Aclara que debe existir una relación asimétrica de poder y no solamente un conflicto familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

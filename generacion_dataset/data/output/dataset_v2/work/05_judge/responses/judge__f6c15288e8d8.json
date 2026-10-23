@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00067_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "si",
+      "rationale": "Reconoce la validez de la notificación por WhatsApp si se verifica el número y cumple su finalidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00067_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "si",
+      "rationale": "Señala un plazo de tres días para apelar y su cómputo desde la primera notificación válida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00067_e0017_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "si",
+      "rationale": "Rechaza la queja basada en que la hija usaba el celular y mantiene válida la notificación por WhatsApp."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_139_01",
+      "relevance": "si",
+      "rationale": "Prohíbe publicar datos e imágenes de víctimas menores, salvo autorización judicial en su exclusivo interés."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_139_01",
+      "relevance": "si",
+      "rationale": "Prevé multa y cese de la publicación indebida para participantes procesales que infrinjan la prohibición."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

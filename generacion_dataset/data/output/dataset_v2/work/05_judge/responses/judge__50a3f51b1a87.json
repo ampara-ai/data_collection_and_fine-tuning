@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad de absolución y conformidad fiscal sin criterios sobre detalles añadidos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "Regula proceso de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "Regula valor de informes médicos y no consistencia del relato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata derecho del acusado a declarar y nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Menciona credibilidad de la víctima sin resolver detalles añadidos a su declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula error culturalmente condicionado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula abstención testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluar contexto de retractación infantil, pero no detalles ampliatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula presencia de partes en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Aclara que precisar detalles en juicio no implica incoherencia del relato infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0026_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Anula absolución de segunda instancia por valoración ilegal e ilógica y ordena nuevo juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

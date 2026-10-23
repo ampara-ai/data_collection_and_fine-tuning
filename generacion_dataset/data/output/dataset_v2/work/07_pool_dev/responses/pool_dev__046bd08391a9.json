@@ -1,0 +1,737 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_192_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravar la pena por abuso de parentesco, pero no explica la excusa absolutoria patrimonial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "si",
+      "rationale": "Establece la excusa entre ascendientes y descendientes y su inaplicación en contextos de violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona apropiarse del dinero recibido con obligación de entregarlo, sin resolver la excepción entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "No aborda la excusa absolutoria por apropiación de dinero entre familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "parcial",
+      "rationale": "Define la apropiación ilícita de dinero, pero no determina si constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Explica el abuso de parentesco como agravante, sin clasificar la apropiación de ahorros como violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "parcial",
+      "rationale": "Incluye a familiares y personas mayores entre los protegidos, pero no define la violencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Regula el abuso de parentesco como agravante, sin definir la violencia patrimonial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Exige un contexto de dominio o poder para la violencia doméstica, pero aborda insultos y no apropiación de ahorros."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No permite determinar si apropiarse de ahorros de una persona mayor constituye violencia económica familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Regula el testimonio privado de menores con psicólogo, sin precisar la incorporación de la entrevista previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Admite utilizar en juicio la entrevista en cámara Gesell sin exigir una segunda declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "si",
+      "rationale": "Aclara que la entrevista en cámara Gesell puede valorarse y no es nula por no ser prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Reconoce calidad probatoria a la entrevista única y descarta exigir el trámite de prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Expone un defecto por duración insuficiente de la evaluación, sin resolver la validez de una entrevista única regular."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el valor de la declaración de la víctima como prueba directa, sin tratar su incorporación desde cámara Gesell."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "si",
+      "rationale": "Rechaza repetir la entrevista única salvo supuestos excepcionales, protegiendo a la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece cómo incorporar la declaración previa de la menor al juicio mediante audio, video o acta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Define los supuestos excepcionales para volver a examinar en juicio a una menor que ya declaró."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Distingue la evaluación psicológica de una declaración con garantías, pero trata una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica la exclusión de una pericia por falta de notificación, sin resolver por sí sola la validez de la entrevista única."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Señala que no es necesario que la menor ratifique su declaración en juicio para evitar revictimización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Ordena tramitar la entrevista única como prueba anticipada y limita la ampliación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que una evaluación en una sola sesión no es inválida por ese solo hecho, pero no decide la incorporación de la entrevista al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Confirma la validez y valoración de la entrevista en cámara Gesell cuando no existe indefensión concreta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica que una nueva declaración en juicio es excepcional y enumera sus supuestos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige apoyo psicológico en el interrogatorio de la menor, sin resolver la validez de la entrevista previa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite oralizar y valorar la entrevista en cámara Gesell con garantías de defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No resuelve la validez ni la incorporación al juicio de una entrevista única de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Fundamenta evitar repetir declaraciones por revictimización, pero no establece su incorporación al juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

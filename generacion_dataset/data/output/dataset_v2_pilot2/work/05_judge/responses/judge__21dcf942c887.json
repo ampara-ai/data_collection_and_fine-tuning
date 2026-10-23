@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "si",
+      "rationale": "Explica que sin actos inequívocos de ejecución de la penetración los hechos se calificaron como actos contra el pudor y no tentativa de violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0016_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "si",
+      "rationale": "Indica expresamente que en ese caso se aplicó la confesión sincera para reducir la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "si",
+      "rationale": "Describe una condena por actos contra el pudor pese a no existir lesiones genitales, sustentada en los actos realizados y su reconocimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

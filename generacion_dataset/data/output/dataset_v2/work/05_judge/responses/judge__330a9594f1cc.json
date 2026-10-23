@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Establece entrevista única para menores y limita la ampliación judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Exige que la entrevista se realice en un ambiente privado, cómodo y seguro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Prevé un ambiente reservado para personas bajo protección, con condiciones específicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No señala el ambiente en que debe recibirse la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Regula la entrevista única de mujeres y la aplicación a víctimas adultas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_19_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Solo autoriza una ampliación judicial para aclarar, complementar o precisar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "si",
+      "rationale": "El pleno admite acuerdos reparatorios para lesiones leves agravadas por violencia contra la mujer."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

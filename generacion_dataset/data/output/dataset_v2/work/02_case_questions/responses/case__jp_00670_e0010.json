@@ -1,0 +1,83 @@
+{
+ "questions": [
+  {
+   "query": "Mataron a mi esposo y yo quedé destrozada, igual que mis hijos. ¿Tengo que probar mi dolor para que me reconozcan y me paguen, o eso se da por hecho?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00670_e0010_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia establece que el daño psíquico y moral de familiares directos (cónyuge, hijos, padres) se presume, salvo prueba en contrario. Responde directamente si debe probarse el sufrimiento.",
+   "expected_answer_focus": "Que para cónyuge, hijos y padres se presume el daño a la integridad psíquica y moral, sin necesidad de probarlo, mientras no se demuestre lo contrario.",
+   "victim_voice_rationale": "Una viuda que no sabe si debe demostrar su sufrimiento para ser reconocida como víctima."
+  },
+  {
+   "query": "Mi tío murió a manos de policías y yo, su sobrino, quedé muy afectado. ¿Me toman en cuenta en el caso aunque no sea su hijo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00670_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia trata de familiares no directos y los criterios para ser considerados víctimas: vínculo estrecho, participación en la búsqueda de justicia o sufrimiento propio.",
+   "expected_answer_focus": "Que otros familiares pueden ser reconocidos como víctimas si se evalúa un vínculo particularmente estrecho, su participación en buscar justicia o su propio sufrimiento.",
+   "victim_voice_rationale": "Un familiar lejano duda de si su dolor cuenta para el proceso."
+  },
+  {
+   "query": "La policía dejó un arma junto al cuerpo de mi hermano para decir que hubo balacera. ¿Quién debe cuidar ese sitio para que no cambien las cosas?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_330_01",
+    "chunk_tipo03_cpp_art_322_01"
+   ],
+   "positive_selection_reason": "El art. 330.3 permite acudir al lugar para evitar que se altere la escena del delito, y el art. 322.3 faculta al Fiscal a proteger y aislar los indicios materiales para evitar su desaparición o destrucción.",
+   "expected_answer_focus": "Que el Fiscal o la Policía pueden constituirse de inmediato en el lugar, y que el Fiscal puede disponer medidas para proteger y aislar los indicios y evitar que se alteren.",
+   "victim_voice_rationale": "Una familiar teme que se manipulen las pruebas para encubrir lo ocurrido."
+  },
+  {
+   "query": "Ya hay una investigación en marcha. ¿Qué papel tiene el juez en esa etapa y puede ayudar a que me cuiden de los policías que me amenazan?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_323_01"
+   ],
+   "positive_selection_reason": "El art. 323 describe las funciones del Juez de la Investigación Preparatoria, incluyendo pronunciarse sobre medidas limitativas de derechos y, cuando corresponda, medidas de protección.",
+   "expected_answer_focus": "Que en la investigación preparatoria el juez, a pedido del fiscal o las partes, puede pronunciarse sobre las medidas de protección y otros actos que el Código autoriza.",
+   "victim_voice_rationale": "Una persona amenazada quiere saber si el juez puede intervenir para protegerla durante la investigación."
+  },
+  {
+   "query": "La policía entró a mi casa y se llevó a mi esposo sin mostrar ningún papel. ¿En qué casos se le puede quitar la libertad a alguien mientras dura un proceso?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_253_01"
+   ],
+   "positive_selection_reason": "El art. 253 fija que los derechos fundamentales solo pueden restringirse con autorización legal, proporcionalidad, elementos de convicción y por el tiempo estrictamente necesario.",
+   "expected_answer_focus": "Que limitar un derecho fundamental exige permiso de la ley, proporcionalidad, suficientes elementos y solo cuando sea indispensable y por el tiempo necesario.",
+   "victim_voice_rationale": "Una esposa quiere saber si es legal que se lleven a alguien sin ningún documento."
+  },
+  {
+   "query": "Murió mi padre y varios hermanos queremos que nos paguen por el daño. Si todos reclamamos a la vez, ¿quién tiene prioridad o cómo nos ponemos de acuerdo?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_99_01"
+   ],
+   "positive_selection_reason": "El art. 99 regula la concurrencia de peticiones: se sigue el orden sucesorio civil y, si son del mismo orden, se designa un apoderado común (lo hace el juez si no hay acuerdo).",
+   "expected_answer_focus": "Que varias peticiones se resuelven según el orden sucesorio del Código Civil y que los herederos del mismo orden deben nombrar un apoderado común, o lo designa el juez.",
+   "victim_voice_rationale": "Unos hermanos huérfanos no saben cómo reclamar juntos sin pelearse."
+  },
+  {
+   "query": "Los policías que nos amenazaron son los mismos que investigan. ¿Quién manda en esa investigación, ellos o el fiscal?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_322_01",
+    "chunk_tipo03_cpp_art_330_01"
+   ],
+   "positive_selection_reason": "El art. 322.1 dice que el Fiscal conduce jurídicamente la investigación y el art. 330.1 que la investigación preliminar la hace la Policía bajo conducción jurídica del Fiscal.",
+   "expected_answer_focus": "Que el Fiscal dirige jurídicamente la investigación y la Policía actúa bajo su conducción, además de poder requerir colaboración de autoridades.",
+   "victim_voice_rationale": "Una víctima desconfía de que la policía investigue sin control."
+  }
+ ]
+}

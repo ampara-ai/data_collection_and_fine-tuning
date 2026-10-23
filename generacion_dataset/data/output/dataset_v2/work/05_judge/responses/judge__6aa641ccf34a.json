@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00406_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Aclara que una penetración mínima o leve basta para configurar violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Define el acceso carnal y la agravante docente, pero no precisa si basta una penetración mínima."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Rechaza la alegación de agente provocador en esos hechos y justifica la intervención en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé mayor pena cuando el autor es docente del centro educativo de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "Regula el careo, no la revisión de una sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica la coacción."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la revisión de una condena y los límites de revaloración, sin explicar los requisitos para recurrir."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Explica las facultades de revisión en segunda instancia y la posterior casación condicionada a sus requisitos."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Regula las instrucciones antes de declarar como imputado."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica la esclavitud y otras formas de explotación."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves y sus penas."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata la impugnación de una absolución por la víctima, no la revisión de la condena solicitada por el acusado."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Establece cuándo procede la casación contra sentencias expedidas en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula la extradición activa."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula la clausura de locales y la inmovilización de bienes para investigar."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la revisión y sus límites probatorios, pero no los requisitos del recurso del condenado."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica una facultad probatoria en segunda instancia sin indicar cuándo puede recurrir el condenado."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "Regula la reparación civil en colaboración eficaz, no el acceso a la Corte Suprema."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "Examina recursos contra la devolución de una acusación, no la impugnación del monto indemnizatorio."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Fija el umbral de cincuenta unidades de referencia procesal y excepciones para casación sobre responsabilidad civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica el acceso excepcional a casación en general, sin precisar sus reglas para el objeto civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula una pensión anticipada de alimentos."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Enumera medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "no",
+      "rationale": "Regula el contenido de la acusación, no la impugnación de la reparación ante la Corte Suprema."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula medidas para asegurar el pago de reparación civil, no su revisión en casación."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera causas de exención de responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Menciona requisitos de casación ordinaria y una reparación, sin resolver el acceso por impugnación solo civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la revisión suprema del extremo civil, pero su criterio central limita el recurso del actor civil y no fija el acceso del agresor por el monto."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

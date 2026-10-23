@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El tipo de violación no trata nulidades por el tono de un interrogatorio."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Las reglas de individualización de pena no regulan nulidades por trato áspero."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "parcial",
+      "rationale": "Describe facultades para dirigir y limitar intervenciones en juicio sin resolver si el tono causa nulidad."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "La responsabilidad restringida no regula la validez del interrogatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_404_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "si",
+      "rationale": "Autoriza al defensor a recurrir directamente y permite al patrocinado desistirse con autorización del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_404_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "si",
+      "rationale": "Señala que el recurso se presenta ante el juez que emitió la resolución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

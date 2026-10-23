@@ -1,0 +1,209 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0012::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Prevé ebriedad como agravante y mayor pena cuando concurren varias circunstancias."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "La ayuda dolosa indispensable recibe la pena del autor."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_451_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Establece que quienes cometen conjuntamente el hecho reciben la pena prevista para la infracción."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "No regula la pena de quienes ejecutan conjuntamente el delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q04",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "si",
+      "rationale": "Distingue dolo y culpa, y admite castigo de culpa en supuestos expresamente previstos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0012::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones graves al usar objetos que ponen en riesgo la vida y por concurrencia de agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "si",
+      "rationale": "Establece un protocolo intersectorial de cumplimiento obligatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Exige enfoque de género y considerar vulnerabilidad, sin tratar la situación indígena o geográfica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "si",
+      "rationale": "Exige considerar barreras de acceso de mujeres indígenas y amazónicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "si",
+      "rationale": "Prevé justicia y medidas de protección locales para comunidades nativas y zonas sin comisaría."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "parcial",
+      "rationale": "Exige respeto cultural en investigaciones de violencia sexual en conflicto, sin abordar acceso a servicios locales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No regula atención diferenciada ni acceso a servicios para comunidades nativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "si",
+      "rationale": "Señala que el protocolo es obligatorio bajo responsabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "parcial",
+      "rationale": "Enumera ámbitos de prevención, atención y reeducación, sin detallar las acciones estatales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_41_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "si",
+      "rationale": "Exige considerar especialmente a mujeres afrodescendientes y sus dificultades de acceso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

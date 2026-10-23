@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__0700c5cce5e6",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_329_01::q01\",\n  \"question\": \"Si voy a la comisaría a contar que mi pareja me pegó, ¿la policía tiene que avisar a algún fiscal?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_329_01\",\n    \"title\": \"Artículo 329. Formas de iniciar la investigación\",\n    \"text\": \"1. La Policía Nacional del Perú inicia los actos de investigación comunicando de forma inmediata al Fiscal cuando tenga conocimiento de la sospecha de la comisión de un hecho que reviste los caracteres de delito por denuncia de los agraviados o mediante disposición fiscal.\\n2. La inicia de oficio cuando llega a su conocimiento la comisión de un delito de persecución pública.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_329_01::q02\",\n  \"question\": \"Nadie denunció pero los policías vieron que un hombre agredía a su mujer. ¿Pueden actuar solos?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_329_01\",\n    \"title\": \"Artículo 329. Formas de iniciar la investigación\",\n    \"text\": \"1. La Policía Nacional del Perú inicia los actos de investigación comunicando de forma inmediata al Fiscal cuando tenga conocimiento de la sospecha de la comisión de un hecho que reviste los caracteres de delito por denuncia de los agraviados o mediante disposición fiscal.\\n2. La inicia de oficio cuando llega a su conocimiento la comisión de un delito de persecución pública.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_329_01::q03\",\n  \"question\": \"¿Tengo que presentar una denuncia escrita para que empiecen a investigar?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_329_01\",\n    \"title\": \"Artículo 329. Formas de iniciar la investigación\",\n    \"text\": \"1. La Policía Nacional del Perú inicia los actos de investigación comunicando de forma inmediata al Fiscal cuando tenga conocimiento de la sospecha de la comisión de un hecho que reviste los caracteres de delito por denuncia de los agraviados o mediante disposición fiscal.\\n2. La inicia de oficio cuando llega a su conocimiento la comisión de un delito de persecución pública.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo03_cpp_art_329_01::q01",
+     "chunk_tipo03_cpp_art_329_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_329_01::q02",
+     "chunk_tipo03_cpp_art_329_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_329_01::q03",
+     "chunk_tipo03_cpp_art_329_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__0700c5cce5e6.json"
+}

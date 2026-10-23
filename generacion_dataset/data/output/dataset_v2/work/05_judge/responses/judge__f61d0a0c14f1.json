@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "si",
+      "rationale": "La falta de una prueba de la defensa no impide actuar la prueba fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "si",
+      "rationale": "Admite copia del CD de entrevista cuando es la disponible y no causa indefensión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "si",
+      "rationale": "Establece cuándo solicitar allanamiento y las excepciones a la orden judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "si",
+      "rationale": "Enumera ubicación, finalidad, diligencias y duración estimada de la solicitud."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "si",
+      "rationale": "Enumera los errores jurídicos y de motivación que permiten casación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

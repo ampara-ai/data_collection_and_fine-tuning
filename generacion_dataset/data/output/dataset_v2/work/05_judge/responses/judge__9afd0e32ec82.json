@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que el riesgo para la agraviada se atiende con protección y no constituye esa causal de transferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "si",
+      "rationale": "Señala las medidas de protección procesal como respuesta al acoso y al riesgo para la víctima durante el juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,59 @@
+{
+ "task_id": "judge__8ea0be8d9114",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00196_e0008::q01\",\n  \"question\": \"El papá de mi hija no paga la pensión y su abogado pide arreglar antes con el fiscal; ¿pueden obligar al fiscal a aceptarlo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_404_01\",\n    \"title\": \"Artículo 404. Facultad de recurrir\",\n    \"text\": \"1. Las resoluciones judiciales son impugnables sólo por los medios y en los casos expresamente establecidos por la Ley. Los recursos impugnatorios se interponen ante el juez que emitió la resolución recurrida.\\n2. El derecho de impugnación corresponde sólo a quien la Ley se lo confiere expresamente. Si la Ley no distingue entre los diversos sujetos procesales, el derecho corresponde a cualquiera de ellos.\\n3. El defensor podrá recurrir directamente en favor de su patrocinado, quien posteriormente si no está conforme podrá desistirse. El desistimiento requiere autorización expresa de abogado defensor.\\n4. Los sujetos procesales, cuando tengan derecho de recurrir, podrán adherirse, antes que el expediente se eleve al Juez que corresponda, al recurso interpuesto por cualquiera de ellos, siempre que cumpla con las formalidades de interposición\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_404_01\",\n    \"title\": \"Artículo 404.- Encubrimiento personal\",\n    \"text\": \"El que sustrae a una persona de la persecución penal o a la ejecución de una pena o de otra medida ordenada por la justicia, será reprimido con pena privativa de libertad no menor de tres ni mayor de seis años.\\nSi el Agente sustrae al autor de los delitos previstos en los artículos 152 al 153-A, 200, 273 al 279-D, 296 al 298, 315, 317, 318- A, 325 al 333; 346 al 350, en la Ley Nº 27765 (Ley Penal contra el Lavado de Activos) o en el Decreto Ley Nº 25475 (Establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio), la pena privativa de libertad será no menor de siete ni mayor de diez años y de ciento ochenta a trescientos sesenticinco días-multa.\\nSi el autor del encubrimiento personal es funcionario o servidor público encargado de la investigación del delito o de la custodia del delincuente, la pena será privativa de libertad no menor de diez ni mayor de quince años.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_152_01\",\n    \"title\": \"Artículo 152.- Secuestro\",\n    \"text\": \"Será reprimido con pena privativa de la libertad no menor de veinte ni mayor de treinta años el que, sin derecho, motivo ni facultad justificada, priva a otro de su libertad personal, cualquiera sea el móvil, el propósito, la modalidad o circunstancia o tiempo que el agraviado sufra la privación o restricción de su libertad.\\nLa pena será no menor de treinta años cuando:\\n1. Se abusa, corrompe, trata con crueldad o pone en peligro la vida o salud del agraviado.\\n2. Se pretexta enfermedad mental inexistente en el agraviado.\\n3. El agraviado o el agente es funcionario o servidor público.\\n4. El agraviado es representante diplomático de otro país.\\n5. El agraviado es secuestrado por sus actividades en el sector privado.\\n6. El agraviado es pariente, dentro del tercer grado de consanguinidad o segundo de afinidad con las personas referidas en los incisos 3, 4 y 5 precedentes.\\n7. Tiene por finalidad obligar a un funcionario o servidor público a poner en libertad a un detenido o a conceder exigencias ilegales.\\n8. Se comete para obligar al agraviado a incorporarse a una organización criminal.\\n9. Se comete para obtener tejidos somáticos del agraviado.\\n10. Se causa lesiones leves al agraviado.\\n11. Es cometido por dos o más personas o se utiliza para la comisión del delito a menores de edad u otra persona inimputable.\\n12. El agraviado adolece de enfermedad grave.\\n13. La víctima se encuentra en estado de gestación.\\nLa misma pena se aplicará al que con la finalidad de contribuir a la comisión del delito de secuestro, suministra información que haya conocido por razón o con ocasión de sus funciones, cargo u oficio, o proporciona deliberadamente los medios para la perpetración del delito.\\nLa pena será de cadena perpetua cuando:\\n1. El agraviado es menor de edad o mayor de setenta años.\\n2. El agraviado sufre discapacidad y el agente se aprovecha de ésta circunstancia.\\n3. Si se causa lesiones graves o muerte al agraviado durante el secuestro o como consecuencia de dicho acto.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_92_01\",\n    \"title\": \"Artículo 92.- La reparación civil: Oportunidad de su determinación\",\n    \"text\": \"La reparación civil se determina conjuntamente con la pena y es un derecho de la víctima que debe efectivizarse durante el tiempo que dure la condena. El juez garantiza su cumplimiento.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo04_jp_00540_e0002_01\",\n    \"title\": \"Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]\",\n    \"text\": \"Título: Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]\\nTipo de resolución: Casacion\\nHechos relevantes: El 3 de diciembre de 2012, la agraviada Segunda Feliciana Díaz Cieza salió de su vivienda y no retornó. Fue encontrada sin vida con signos de violencia. Se imputó a su conviviente Domingo Soriano Chávez Yaspana por demorar en denunciar la desaparición, y a su hija María Olinda Gómez Díaz y yerno Antonio Ordóñez Sánchez por problemas previos por terrenos. El Juzgado Penal Colegiado absolvió a los acusados. Solo el actor civil apeló; la fiscal provincial y la fiscal superior estuvieron conformes con la absolución. La Sala Penal de Apelaciones declaró fundada la apelación, anuló la sentencia absolutoria mediante control difuso, inaplicando la Casación N.º 187-2016, y ordenó nuevo juicio. El fiscal superior interpuso casación.\\nProblema jurídico: Determinar si el tribunal revisor puede desestimar el recurso de la víctima cuando el fiscal superior está conforme con la absolución, y si es procedente el control difuso para inaplicar un precedente vinculante.\\nCriterio principal: En línea de principio, si el fiscal superior está conforme con el sobreseimiento o absolución y el tribunal revisor aprecia que es razonable, puede aplicar los principios acusatorio y de jerarquía para desestimar el recurso de la víctima. Sin embargo, si advierte violaciones al derecho a la prueba, defensa, legalidad o motivación, puede anular la decisión más allá de la posición del fiscal. El control difuso es un control normativo, no jurisprudencial; la discrepancia con doctrina jurisprudencial debe canalizarse mediante el apartamiento del artículo 22 de la LOPJ.\\nRelevancia para violencia familiar: Posible relevancia por delitos de parricidio y homicidio en contexto familiar.\\nRelevancia procesal: Aplicación del control difuso para inaplicar un precedente casacional; principios acusatorio y de jerarquía frente a derechos de la víctima.\\nNormas aplicables: Ley Organica del Poder Judicial (LOPJ) art(s). 22; Otro art(s). 3\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00196_e0008::q03\",\n  \"question\": \"Si el caso va por la vía rápida, ¿en la primera audiencia se puede arreglar para que me paguen lo que me deben?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_80_01\",\n    \"title\": \"Artículo 80.- Plazos de prescripción de la acción penal\",\n    \"text\": \"La acción penal prescribe en un tiempo igual al máximo de la pena fijada por la ley para el delito, si es privativa de libertad.\\nEn caso de concurso real de delitos, las acciones prescriben separadamente en el plazo señalado para cada uno.\\nEn caso de concurso ideal de delitos, las acciones prescriben cuando haya transcurrido un plazo igual al máximo correspondiente al delito más grave.\\nLa prescripción no será mayor a veinte años. Tratándose de delitos sancionados con pena de cadena perpetua se extingue la acción penal a los treinta años. En los casos de delito de omisión de asistencia familiar, el plazo de prescripción se duplica.\\nEn los delitos que merezcan otras penas, la acción prescribe a los dos años.\\nEn casos de delitos cometidos por funcionarios y servidores públicos contra el patrimonio del Estado o de organismos sostenidos por este, o cometidos como integrante de organizaciones criminales, el plazo de prescripción se duplica.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_174_01\",\n    \"title\": \"Artículo 174.- Violación de persona bajo autoridad o vigilancia\",\n    \"text\": \"El que, aprovechando la situación de dependencia, autoridad o vigilancia tiene acceso carnal por vía vaginal, anal o bucal o introduce objetos o partes del cuerpo por alguna de las dos primeras vías a una persona colocada en un hospital, asilo u otro establecimiento similar o que se halle detenida o recluida o interna, será reprimido con pena privativa de libertad no menor de veinte ni mayor de veintiséis años.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00196_e0008::q01",
+     "chunk_tipo02_cp_art_152_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q01",
+     "chunk_tipo02_cp_art_92_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q01",
+     "chunk_tipo02_cp_art_404_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q01",
+     "chunk_tipo03_cpp_art_404_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q01",
+     "chunk_tipo04_jp_00540_e0002_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q03",
+     "chunk_tipo02_cp_art_174_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00196_e0008::q03",
+     "chunk_tipo02_cp_art_80_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__8ea0be8d9114.json"
+}

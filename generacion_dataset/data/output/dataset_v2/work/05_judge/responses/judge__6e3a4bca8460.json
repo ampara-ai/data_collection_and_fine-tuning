@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Enumera fuga, obstaculización y reiteración entre los motivos para restringir derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Da garantías generales de restricciones sin precisar amenazas a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas de protección según riesgo sin concretar restricciones al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "Regula atención e investigación de violencia sexual sin medidas contra hostigamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "parcial",
+      "rationale": "Exige actos urgentes e impedir consecuencias sin precisar restricciones por amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena por aceptación de cargos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "Regula ejercicio de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata oportunidad para constituirse en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Describe violencia y deber de prevención sin precisar restricciones de derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "Regula investigación y conservación de indicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Permite restricciones para impedir obstrucción y reiteración delictiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "Regula resolución para vigilancia de locales o bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_253_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Exige autorización legal, proporcionalidad y suficientes elementos de convicción."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

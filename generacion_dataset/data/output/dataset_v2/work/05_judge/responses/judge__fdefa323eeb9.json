@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_10_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Reconoce asistencia jurídica inmediata, gratuita, especializada y en la lengua de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_10_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "La atención estatal gratuita incluye medicamentos y tratamiento psicológico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_10_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Obliga a coordinar intérpretes de lengua de señas de inmediato para recibir denuncias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

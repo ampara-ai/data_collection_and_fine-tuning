@@ -1,0 +1,12 @@
+{
+ "chunks_train": 6,
+ "chunks_dev": 6,
+ "chunks_test": 6,
+ "chunks_con_preguntas_dev": 6,
+ "chunks_con_preguntas_test": 3,
+ "chunks_con_preguntas_train": 4,
+ "rechazada_solapamiento_alto": 3,
+ "preguntas_train": 12,
+ "preguntas_dev": 11,
+ "preguntas_test": 6
+}

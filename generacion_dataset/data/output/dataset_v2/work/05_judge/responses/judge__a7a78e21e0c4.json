@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata impugnaciones de absolución y posición fiscal, no retiro y reemplazo del defensor en una condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "Anula una notificación defectuosa, sin tratar renuncia del defensor ni nulidad del juicio por ese motivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula cuestiones previas y excepciones, no el reemplazo del defensor en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "si",
+      "rationale": "Anula una condena de treinta años por dar solo un día al defensor que reemplazó al abogado retirado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula cambios de acusación y calificación, no renuncia del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce defensa técnica y tiempo razonable para prepararla, pero no determina la nulidad por sustitución del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula ausencia del defensor en prueba anticipada, no nulidad del juicio por su renuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisiones de funcionarios, no efectos procesales del retiro del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica nulidad por exclusión injustificada del abogado, supuesto distinto de su retiro voluntario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de pena, no anulación por vulneración de defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula la denuncia inicial, no validez del juicio tras la renuncia del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Anula una absolución por valoración probatoria deficiente, no por sustitución del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz, ajena a la renuncia del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00653_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "si",
+      "rationale": "Exige tiempo razonable para el reemplazo y establece que un solo día resulta insuficiente, sin fijar un número universal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

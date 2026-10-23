@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Analiza congruencia de una condena por agresiones, no prueba indiciaria de homicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula información de colaboración eficaz para medidas coercitivas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata subsunción de robo en casación con hechos probados, no indicios de feminicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "Analiza declaración contradictoria en violación, no prueba indiciaria de homicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "Regula ejercicio de la acción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones culposas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "Tipifica homicidio culposo sin resolver suficiencia de indicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "Regula concurso real de delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata prueba testimonial de actos contra el pudor, no indicios de feminicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "Exige indicios plurales y concordantes e inferencia unívoca para condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula entrevista única de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de revisión sin establecer suficiencia de indicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "La ambigüedad de los indicios y versiones inconsistentes no supera la presunción de inocencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "El caso revoca la condena y absuelve por insuficiencia de prueba indiciaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "El ocultamiento y otros indicios polivalentes no permiten por sí solos atribuir culpabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0025_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "Exige pluralidad, interrelación y una inferencia unívoca de los indicios."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

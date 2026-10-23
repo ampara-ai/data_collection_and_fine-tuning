@@ -1,0 +1,437 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Permite instar acción pública a cualquier persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Prevé inicio de oficio por conocimiento de un delito público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Regula defensa y participación sin inicio de oficio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce persecución fiscal sin precisar inicio sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdo reparatorio solicitado por víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Regula investigación en querella privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica inicio de persecución sin formalización pero no deber fiscal sin denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula deber médico de denunciar sin responder iniciativa fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "no",
+      "rationale": "Regula opción de vía indemnizatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Permite ejercicio fiscal de oficio de acción pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define formas de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "Declara titular al Ministerio Público y prevé actuar de oficio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Asigna conducción jurídica al fiscal e investigación operativa a Policía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula registros de víctimas y agresores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata eficacia de diligencias policiales como prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_552_01",
+      "relevance": "no",
+      "rationale": "Regula entrega vigilada internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Aclara persecución y competencia fiscal en un caso distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdo reparatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula opción de acción civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce participación de la víctima sin asignar persecución penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Distingue acción pública fiscal y privada del ofendido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula delitos funcionales de magistrados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce acción privada sin explicar quién la ejerce ante juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica rol exclusivo del fiscal en acción pública pero no querella privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula entrevista única."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula acción civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata prescripción de asistencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "si",
+      "rationale": "Describe querella ante juez y funciones acusadoras del querellante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Explica que la persecución privada requiere querella del ofendido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata deber de denuncia del médico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Distingue denuncia de delitos públicos sin explicar acción privada ante juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "parcial",
+      "rationale": "Permite acudir al juez por faltas pero no explica delitos de persecución privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de recurso del actor civil sin definir querella privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_1_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Identifica delitos condicionados a denuncia o autorización del ofendido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "si",
+      "rationale": "Exige tratarlo como inocente hasta sentencia firme y prueba suficiente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "Trata fines de prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula interrogatorios y contradicciones sin regla de duda favorable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Admite declaración de víctima sin testigos pero no resuelve duda subsistente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento de reglas de conducta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "Regula ubicación física en audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Admite violencia sexual sin lesiones pero no regla ante duda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "si",
+      "rationale": "Ordena resolver la duda penal a favor del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Aplica absolución por duda ante insuficiencia de la declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "Regula instalación de audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva de fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula determinación de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula transformación del proceso de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado internacional de condenados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "Tipifica encubrimiento personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Aplica presunción de inocencia sin prohibición de declaraciones públicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula registros sin tratar presentación pública de culpabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "si",
+      "rationale": "Prohíbe a funcionarios presentar como culpable antes de sentencia firme."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Exige prueba suficiente sin regular declaraciones públicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "parcial",
+      "rationale": "Confirma absolución por duda sin prohibir declaraciones públicas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona incapaz de consentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de condena extranjera."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica prueba para condenar sin tratar afirmaciones públicas de autoridades."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios por colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ii_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "si",
+      "rationale": "Exige actividad probatoria suficiente con garantías para superar presunción de inocencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00133_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "si",
+      "rationale": "Describe medidas de pixelación y distorsión de voz para proteger identidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00133_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "si",
+      "rationale": "Valida testimonio pixelado cuando no produce indefensión material."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00133_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "si",
+      "rationale": "Rechaza nulidad basada solo en detalles gestuales sin perjuicio concreto."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

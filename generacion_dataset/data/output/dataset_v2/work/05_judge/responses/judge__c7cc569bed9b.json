@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_61_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "si",
+      "rationale": "Considera no pronunciada la condena si transcurre la prueba sin nuevo delito doloso ni incumplimiento persistente de reglas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

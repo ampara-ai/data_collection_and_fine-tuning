@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "si",
+      "rationale": "Enumera los hechos, valoración probatoria y fundamentos jurídicos que debe explicar la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "si",
+      "rationale": "Exige pronunciarse sobre costas y destino de instrumentos y efectos del delito cuando corresponda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "si",
+      "rationale": "Califica la esterilización no consentida en hospital público como violencia y discriminación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara la responsabilidad estatal por esterilización no consentida realizada en hospital público."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

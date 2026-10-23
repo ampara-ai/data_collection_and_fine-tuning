@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la violencia sexual dentro de la familia o relación interpersonal, pero no determina la agravación por ser esposo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No establece si el vínculo conyugal agrava una violación cometida bajo amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "No establece si el vínculo conyugal agrava una violación cometida bajo amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Descarta consentimiento válido bajo amenazas o coacción, pero no aborda la agravación por matrimonio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

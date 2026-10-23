@@ -1,0 +1,77 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No regula la revisión de la condena por un tribunal superior."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "No regula la revisión de la condena por un tribunal superior."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Describe la interposición y admisión de casación ante la Corte Suprema de sentencias con prisión efectiva."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Regula la queja frente a denegación de recursos, sin resolver la revisión de esta condena."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "No fija la procedencia de casación limitada a la reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "No fija la procedencia de casación limitada a la reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Permite queja por denegación de casación, pero no indica cuándo procede por el monto civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Explica formalidades de casación, sin fijar los requisitos cuando solo se discute reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00406_e0002::q05",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "No fija la procedencia de casación limitada a la reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_190_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "si",
+      "rationale": "Tipifica apropiarse del dinero recibido en depósito con obligación de devolverlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_190_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "si",
+      "rationale": "Fija de dos a cuatro años por apropiación de dinero confiado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_196_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "si",
+      "rationale": "Exige necropsia ante probable criminalidad y permite intervención de peritos de parte."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

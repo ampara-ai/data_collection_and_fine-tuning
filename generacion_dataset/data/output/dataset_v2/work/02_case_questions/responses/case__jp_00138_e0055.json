@@ -1,0 +1,83 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi pareja intentó abusar de mi hija y paró cuando ella lloró de dolor. ¿Por eso dicen que se arrepintió y no es algo tan grave?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0055_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que el llanto de la víctima no es un arrepentimiento voluntario cuando el agresor ya había realizado actos ejecutivos de penetración, y que sigue siendo violación y no un delito menor.",
+   "expected_answer_focus": "Que el llanto o dolor de la víctima que hace detenerse al agresor no se considera un arrepentimiento voluntario que reduzca su responsabilidad si ya había ejecutado actos de intento de penetración.",
+   "victim_voice_rationale": "Una madre desconfía de que se minimice lo ocurrido porque el agresor se detuvo ante el llanto de su hija."
+  },
+  {
+   "query": "Mi hija cuenta que su padrastro le bajó la ropa y quiso penetrarla, pero no lo logró. ¿Eso se considera solo manoseo o es un delito más grave?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01",
+    "chunk_tipo02_cp_art_176-a_01"
+   ],
+   "positive_selection_reason": "El art. 170 define la violación como obligar a tener acceso carnal y el 176-A regula los tocamientos hechos sin propósito de acceso carnal; juntos permiten distinguir ambas figuras.",
+   "expected_answer_focus": "Distinguir entre tocamientos o actos libidinosos sin intención de acceso carnal y la violación sexual, que implica acceso carnal, con penas distintas.",
+   "victim_voice_rationale": "La madre no sabe si lo que le contó su hija es un delito leve o grave."
+  },
+  {
+   "query": "Mi padrastro vive en nuestra casa y abusó de mí cuando mi mamá estaba enferma. ¿Por ser alguien de confianza le suman más castigo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 prevé una pena mayor cuando el agresor se aprovecha de una posición de confianza o autoridad, o habita en el mismo hogar de la víctima.",
+   "expected_answer_focus": "Que existen circunstancias agravantes (confianza, autoridad, convivencia en el mismo hogar) que elevan la pena de la violación sexual.",
+   "victim_voice_rationale": "Una joven quiere saber si la traición de alguien de su propia casa pesa en la sanción."
+  },
+  {
+   "query": "Si condenan a quien abusó de mi hija, ¿me pagan algo por el daño que le hizo y quién vigila que de verdad se cumpla?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 dice que la reparación civil se decide junto con la pena, es un derecho de la víctima y el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que la víctima tiene derecho a una reparación económica fijada en la misma sentencia y que el juez debe garantizar que se cumpla mientras dure la condena.",
+   "victim_voice_rationale": "Una madre quiere saber si habrá compensación económica por el daño a su hija."
+  },
+  {
+   "query": "Me da miedo que al abusador de mi hija le den una condena corta y se quede en su casa sin pisar la cárcel. ¿Eso puede pasar?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 regula cuándo se puede dejar sin efecto el encierro de una condena y excluye a los condenados por delitos contra la libertad sexual.",
+   "expected_answer_focus": "Que la suspensión de la pena solo opera en condenas cortas y con requisitos, y que no se aplica a los condenados por delitos sexuales.",
+   "victim_voice_rationale": "Teme que el agresor quede libre en la práctica pese a ser condenado."
+  },
+  {
+   "query": "Mi hija dice que él fue muy cruel y que quería humillarla mientras abusaba de ella. ¿Eso hace que le pongan una pena más alta?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 177 incrementa la pena en delitos sexuales cuando el agente actuó con crueldad, alevosía o para degradar a la víctima.",
+   "expected_answer_focus": "Que la crueldad o la intención de degradar a la víctima son circunstancias que aumentan la pena de los delitos sexuales contra menores.",
+   "victim_voice_rationale": "Una madre quiere que se tome en cuenta cómo humilló el agresor a su hija."
+  },
+  {
+   "query": "El examen médico de mi hija salió sin señales de que la hayan penetrado. ¿Eso significa que ya no se puede probar que abusaron de ella?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0055_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que para configurar la violación basta el contacto periférico o la introducción parcial, y valora el relato de la menor aunque el certificado no halle signos.",
+   "expected_answer_focus": "Que la ausencia de lesiones en el examen médico no impide que se considere violación, pues basta el contacto o intento de penetración y el relato de la víctima tiene valor.",
+   "victim_voice_rationale": "Una madre teme que un examen médico sin hallazgos deje sin valor la denuncia de su hija."
+  }
+ ]
+}

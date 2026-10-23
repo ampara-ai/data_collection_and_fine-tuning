@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_210_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "si",
+      "rationale": "Regula el sexo de quien registra y la asistencia de una persona de confianza."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_210_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente equipaje, bultos y vehículo en el registro."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

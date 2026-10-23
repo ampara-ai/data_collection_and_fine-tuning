@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula la abstención de testimonio y el secreto, no quién entrega una citación."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios de explotación sexual, no notificaciones."
+    },
+    {
+      "dataset_id": "case::jp_00073_e0002::q04",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata valor probatorio de diligencias policiales, no quién notifica al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Identifica los estereotipos de género en la actuación estatal como fuente de responsabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por falta de búsqueda diligente y estereotipos en desapariciones de mujeres."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

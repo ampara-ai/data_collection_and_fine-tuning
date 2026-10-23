@@ -1,0 +1,47 @@
+{
+ "cobertura": {
+  "filas": 33,
+  "preguntas": 28,
+  "positivos_distintos": 19,
+  "chunks_train": 541,
+  "chunks_train_con_>=1_fila": 19,
+  "chunks_train_con_>=3_filas": 4,
+  "max_filas_en_un_positivo": 5,
+  "pct_positivos_por_tipo": {
+   "01": 0.182,
+   "02": 0.212,
+   "03": 0.394,
+   "04": 0.212
+  },
+  "pct_negativos_por_tipo": {
+   "01": 0.169,
+   "02": 0.201,
+   "03": 0.502,
+   "04": 0.129
+  },
+  "auc_tipo_de_fuente": 0.568,
+  "filas_por_origen": {
+   "case": 20,
+   "chunk": 13
+  },
+  "eval": {
+   "dev": 11,
+   "test": 6
+  }
+ },
+ "contadores": {
+  "negativo_descartado_parcial": 24,
+  "negativo_promovido_a_positivo": 5,
+  "filas_recortadas_por_tope": 0,
+  "negativos_juzgados": 116,
+  "falsos_negativos_estimados_pct": 25.0,
+  "falsos_negativos_ic95_pct": [
+   17.1,
+   32.9
+  ]
+ },
+ "problemas": [
+  "el tipo de fuente predice la etiqueta: AUC=0.568 > 0.55",
+  "tasa de falsos negativos 25.0% > 10 %: juzga todos los negativos (--neg-fraction 1.0)"
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi hija tenía 16 años cuando un hombre que mandaba sobre ella abusó de ella. ¿Se considera una violación aunque ya no sea una niña pequeña?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0033_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia establece que, para víctimas mayores de catorce años, la conducta se califica como violación sexual del art. 170, y ese artículo describe el delito y sus agravantes. Ambos responden si es violación en una adolescente.",
+   "expected_answer_focus": "Que una adolescente mayor de catorce años puede ser víctima de violación sexual, protegida en su libertad sexual, y qué describe el delito.",
+   "victim_voice_rationale": "Una madre duda si el abuso contra una adolescente de esa edad es realmente delito de violación."
+  },
+  {
+   "query": "El hombre que abusó de mí era alguien a quien yo debía obedecer. ¿Eso le agrava el castigo?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 prevé una pena mayor cuando el agresor se aprovecha de una posición de autoridad, custodia o confianza sobre la víctima. La jurisprudencia aplicó esa agravante, pero el artículo basta para responder.",
+   "expected_answer_focus": "Que aprovechar una posición de autoridad o confianza sobre la víctima agrava la pena de la violación.",
+   "victim_voice_rationale": "La víctima pregunta si el poder que el agresor tenía sobre ella cuenta como algo más grave."
+  },
+  {
+   "query": "Tengo miedo de que no me crean porque solo tengo mi palabra y un examen médico. ¿La justicia puede condenarlo con eso?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0033_01"
+   ],
+   "positive_selection_reason": "El texto de la sentencia resume que el caso llegó a condena con pruebas como el certificado médico y el relato de la agraviada, y que la Corte reexaminó la calificación hasta condenar por violación. Es el único candidato que muestra un caso real así.",
+   "expected_answer_focus": "Que en un caso similar la condena se sostuvo y la Corte Suprema terminó condenando por violación sexual a pesar de los debates técnicos.",
+   "victim_voice_rationale": "Teme que su testimonio no baste frente al agresor."
+  },
+  {
+   "query": "Un juez dijo que a una chica de 15 años se le trata distinto que a una niña más chica. ¿Qué decidieron los jueces supremos sobre esto?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0033_01"
+   ],
+   "positive_selection_reason": "La sentencia fija como doctrina que, en víctimas mayores de catorce años, el bien jurídico es la libertad sexual y se aplica el delito de violación sexual. Responde directamente.",
+   "expected_answer_focus": "El criterio de la Corte Suprema: adolescentes mayores de catorce están protegidas por la libertad sexual y se califica como violación.",
+   "victim_voice_rationale": "Quiere entender qué criterio se aplica a adolescentes de su edad."
+  },
+  {
+   "query": "Mi caso se alargó porque los jueces discutían con qué delito condenarlo. ¿Pueden cambiarle la condena en la última instancia y decidir ellos mismos?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_433_01",
+    "chunk_tipo03_cpp_art_432_01"
+   ],
+   "positive_selection_reason": "El art. 432 fija qué puede revisar la Corte Suprema, incluso de oficio, y el 433 dice que si acepta el recurso puede resolver por sí misma el caso o devolverlo. Juntos explican esa posibilidad.",
+   "expected_answer_focus": "Que la Corte Suprema revisa errores jurídicos, puede actuar de oficio y, si anula, puede dictar ella misma la nueva sentencia o reenviar el proceso.",
+   "victim_voice_rationale": "Le preocupa la larga espera y quiere saber si el tribunal máximo puede corregir y resolver."
+  },
+  {
+   "query": "¿Una decisión de la Corte Suprema en mi caso puede servir para que otras chicas en lo mismo sean tratadas igual?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_433_01"
+   ],
+   "positive_selection_reason": "El art. 433.3 dispone que la Sala puede declarar que lo resuelto es doctrina jurisprudencial vinculante para los órganos penales, hasta que otra decisión la modifique.",
+   "expected_answer_focus": "Que la Corte Suprema puede declarar su decisión como doctrina vinculante para otros jueces penales.",
+   "victim_voice_rationale": "Quiere que su caso ayude a otras víctimas."
+  },
+  {
+   "query": "Me violaron y quedé embarazada. ¿Tiene derecho a que le paguen algo por el daño y quién se asegura de que de verdad lo pague?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 establece que la reparación civil se fija junto con la pena, es un derecho de la víctima y el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que la víctima tiene derecho a una reparación decidida junto con la condena y el juez vela por que se cumpla mientras dure la pena.",
+   "victim_voice_rationale": "Pregunta por una compensación tras el daño y el embarazo."
+  },
+  {
+   "query": "Si abusaron de una adolescente y la condena es larga, ¿el agresor puede quedar libre sin ir a la cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 57 limita la suspensión de la pena a condenas cortas y excluye ciertos delitos; el art. 170 muestra la pena mínima elevada de la violación, por lo que no encaja en ese beneficio.",
+   "expected_answer_focus": "Que la suspensión de la pena solo opera en condenas breves y que la violación tiene penas altas, lejos de ese margen.",
+   "victim_voice_rationale": "Teme que el agresor se libre de la cárcel."
+  }
+ ]
+}

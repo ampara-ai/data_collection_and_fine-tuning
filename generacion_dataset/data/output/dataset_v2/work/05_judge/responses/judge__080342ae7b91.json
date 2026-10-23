@@ -1,0 +1,209 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00514_e0022::q01",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "si",
+      "rationale": "Establece la interpretación favorable al acceso al recurso cuando existe duda de admisibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Exige recurrir dentro del plazo, pero no regula su suspensión por huelga."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q02",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Describe el mismo conflicto y el principio pro actione, pero no establece cómo computar el plazo durante el paro."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula la determinación de la pena y no los requisitos de impugnación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata del tiempo de preparación del defensor y no del contenido de un recurso."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Examina la citación urgente a una entrevista y no el escrito impugnatorio."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el principio favorable a la admisión, pero no detalla los requisitos del escrito."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "parcial",
+      "rationale": "Enumera causas de rechazo de casación sin desarrollar los requisitos generales del escrito."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "Regula una solicitud de embargo y no la impugnación de decisiones."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica el libramiento indebido de cheques."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula la constitución en actor civil, un trámite distinto del recurso."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "Trata la oralidad de las audiencias y no los requisitos del recurso escrito."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Aclara el inicio del plazo para apelar una condena, pero no el contenido del escrito."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula el cumplimiento de condenas de extranjeros y no la impugnación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "si",
+      "rationale": "Detalla legitimación, plazo, puntos impugnados, fundamentos y pretensión concreta."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce el derecho a una vida libre de violencia sin regular recursos."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "si",
+      "rationale": "Permite apelar sin fundamentar en ese acto y reservar la decisión de impugnar."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Permite ejercer la acción civil ante la jurisdicción civil si la persecución penal se reserva o suspende."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Exige optar entre la vía penal y la civil para ejercer la acción civil."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "La constitución en actor civil hace cesar la legitimación fiscal sobre el objeto civil."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "Fija principios de investigación de violencia sexual y no requisitos de casación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Explica los efectos de una casación fundada, pero no sus causas de inadmisibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica contactos sexuales con menores y no recursos."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica coacción y no regula la admisión de casación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Establece las resoluciones recurribles y las limitaciones de acceso a casación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo02_cp_art_38_01",
+      "relevance": "no",
+      "rationale": "Determina la duración de la inhabilitación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "Examina revaloración probatoria en apelación y no admisión de casación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "La inadmisibilidad regulada corresponde a la audiencia de apelación, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Analiza la validez de la retractación y no admisión de recursos."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata la revictimización y no el acceso a la Corte Suprema."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "si",
+      "rationale": "Enumera expresamente los supuestos de inadmisibilidad de la casación."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada y no la admisión de recursos."
+    },
+    {
+      "dataset_id": "case::jp_00514_e0022::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos de función de magistrados, sin resolver la admisión de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_361_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula la revocación de beneficios por colaboración y no la lectura del relato en audiencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

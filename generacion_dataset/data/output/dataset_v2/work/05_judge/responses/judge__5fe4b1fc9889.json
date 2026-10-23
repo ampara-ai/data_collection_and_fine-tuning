@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_39_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "si",
+      "rationale": "Prevé inhabilitación accesoria por abuso de patria potestad durante el mismo tiempo que la pena principal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

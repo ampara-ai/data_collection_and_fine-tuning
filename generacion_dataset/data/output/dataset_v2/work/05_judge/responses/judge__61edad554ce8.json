@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00401_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "Regula cuestión previa sin indicar efectos sobre prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00401_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "Regula prolongación de prisión preventiva y no plazo para denunciar impago."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

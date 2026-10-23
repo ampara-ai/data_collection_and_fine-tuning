@@ -1,0 +1,184 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_440_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermano está preso y creo que lo condenaron injustamente. ¿Yo puedo pedir que se vuelva a ver su caso o solo él?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quiénes pueden pedir la revisión de una condena: el Fiscal Supremo en lo Penal, el condenado y, en ciertos casos, sus familiares."
+    },
+    {
+     "query": "Mi papá fue condenado y falleció. ¿Algún familiar puede pedir que se revise su sentencia para limpiar su nombre?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el condenado murió, pueden pedir la revisión su cónyuge, ascendientes, descendientes o hermanos, en ese orden."
+    },
+    {
+     "query": "Mi hijo condenado tiene una discapacidad mental y no entiende su situación. ¿Quién puede pedir que revisen su condena en su lugar?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Si el condenado es incapaz, puede promover la revisión su representante legal."
+    },
+    {
+     "query": "¿Entre mi madre, mi hermano y mi esposa, quién tiene preferencia para pedir revisar la condena de mi marido ya fallecido?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Orden de los familiares legitimados: cónyuge, luego ascendientes, descendientes y hermanos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hija de 15 años la atacaron en la calle y casi lo sueltan porque el tribunal superior dijo que no había pruebas suficientes. ¿Puede pasar eso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Una sala superior absolvió por insuficiencia de pruebas a un agresor condenado por atacar sexualmente a una menor de 15 años, y la Corte Suprema confirmó la absolución."
+    },
+    {
+     "query": "Si el fiscal no está de acuerdo con que absolvieron al agresor de mi hija, ¿puede pedir a la Corte Suprema que lo revise y cambie el resultado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal puede presentar casación, pero en este caso fue declarada infundada y se mantuvo la absolución."
+    },
+    {
+     "query": "¿Los jueces pueden usar un examen médico que nadie cuestionó para dudar de lo que dice la víctima menor de edad?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sala puede analizar una pericia no impugnada si es relevante para contrastar la versión de la víctima."
+    },
+    {
+     "query": "Si absuelven al agresor por duda, ¿el tribunal debe considerar si lo que hizo era otro delito más leve, como tocamientos?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si hay absolución por duda, no es necesario analizar un delito alternativo como actos contra el pudor."
+    },
+    {
+     "query": "Mi hija gritó, mordió al hombre que la atacó y unos vecinos la ayudaron. ¿Eso sirve como prueba para que condenen al agresor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Hechos del caso: la víctima se defendió, pidió auxilio y el agresor fue capturado, pero la sala consideró insuficiente la prueba."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_555_01",
+   "skip": true,
+   "skip_reason": "Trámite de cooperación judicial con la Corte Penal Internacional entre autoridades; ninguna víctima de violencia familiar lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_50_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me golpeó, me amenazó y además me quitó mi dinero. Si lo condenan por todo eso, ¿se le suman las penas de cárcel?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Cuando hay varios delitos independientes se suman las penas de cárcel, con un tope del doble de la pena del delito más grave."
+    },
+    {
+     "query": "¿Cuántos años de cárcel como máximo puede recibir una persona que cometió varios delitos distintos contra mí?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El tope total de la suma de penas es de 35 años."
+    },
+    {
+     "query": "Si el agresor cometió un delito que se castiga con cadena perpetua y otros más, ¿se le suman también los otros años?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si alguno de los delitos tiene cadena perpetua, solo se aplica esa pena."
+    },
+    {
+     "query": "Me da miedo que si lo condenan por varias agresiones salga rápido. ¿Las condenas se juntan o se cumplen por separado?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Las penas por delitos independientes se suman, hasta el doble de la más grave y sin pasar de 35 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_433_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si la Corte Suprema da la razón en el recurso de mi caso, ¿ellos mismos deciden o el juicio se repite desde otra etapa?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Corte Suprema, si declara fundado el recurso, anula la sentencia y puede decidir por sí misma o devolver el proceso para renovar un acto."
+    },
+    {
+     "query": "Mi abogado dice que mi caso podría servir de precedente para otros jueces. ¿Cómo funciona eso y quién lo decide?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Sala Suprema, de oficio o a pedido del Ministerio Público, puede declarar que lo resuelto es doctrina vinculante para los jueces penales."
+    },
+    {
+     "query": "¿Me avisan a mí si la Corte Suprema resuelve el recurso aunque yo no lo haya presentado?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La sentencia casatoria se notifica a todas las partes, incluso a las que no presentaron el recurso."
+    },
+    {
+     "query": "Si distintos jueces supremos resuelven casos parecidos de forma contradictoria, ¿qué se hace para unificar el criterio?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Cuando hay criterios discrepantes, se reúne obligatoriamente el Pleno Casatorio de los vocales penales de la Corte Suprema."
+    },
+    {
+     "query": "Cuando la Corte Suprema fija un criterio obligatorio para todos los jueces, ¿cómo me entero si se publica?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "La resolución que declara doctrina jurisprudencial se publica en el diario oficial."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo abusó de que es mi pareja para agredirme. ¿Le dan más años de cárcel por ser familiar mío?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La pena aumenta hasta un tercio sobre el máximo legal cuando el agresor se aprovecha de su relación familiar con la víctima."
+    },
+    {
+     "query": "Mi padrastro abusó de mí cuando era niña. ¿Su parentesco conmigo hace que el castigo sea mayor?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Entre los parentescos que agravan están padrastro o madrastra, ascendientes, descendientes, cónyuge o conviviente."
+    },
+    {
+     "query": "¿Hay un límite de años de cárcel cuando le suben la pena al agresor por ser mi familiar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena agravada no puede pasar de 35 años, salvo que corresponda una pena indeterminada."
+    },
+    {
+     "query": "Mi conviviente me agredió y mi hijo adoptivo también ha sido maltratado por él. ¿Cuenta el parentesco si es adoptado?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El parentesco agravante incluye ascendientes o descendientes naturales o adoptivos."
+    },
+    {
+     "query": "¿Siempre se le aumenta la pena por ser mi pareja o hay casos en que ya no se aplica ese aumento?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La agravante no se aplica si la ley penal ya la prevé como parte del delito."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

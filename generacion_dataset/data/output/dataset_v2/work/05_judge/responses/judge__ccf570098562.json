@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_193_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "si",
+      "rationale": "Exige inspección minuciosa de la escena y de todo elemento que pueda constituir prueba material."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

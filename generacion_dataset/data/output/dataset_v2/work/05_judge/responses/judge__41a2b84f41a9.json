@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente el acoso sexual laboral dentro de la violencia contra las mujeres en la comunidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Presenta violencia de una expareja pero su criterio central versa sobre los límites de la apelación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "Regula incautación de correspondencia y no violencia psicológica de exparejas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata notificación de condenas y plazo de apelación sin definir violencia de exparejas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula declaración de testigos sin definir violencia de pareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "si",
+      "rationale": "Incluye daño psicológico en relaciones interpersonales aunque no se comparta actualmente domicilio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El acoso sexual exige connotación sexual ausente en la consulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "La reeducación de agresores no define si el daño emocional de una expareja es violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata violencia de género en detención y no la situación de una expareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Regula investigación preliminar en querellas sin determinar violencia de pareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación procesal de personas jurídicas sin relación con la consulta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Contempla lesiones de excónyuges y exconvivientes pero no define el maltrato emocional consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "La difusión de contenido sexual es una conducta distinta del daño emocional descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "Trata tortura sexual policial en protestas y no maltrato emocional de exparejas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la violencia perpetrada o tolerada por agentes del Estado donde ocurra."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

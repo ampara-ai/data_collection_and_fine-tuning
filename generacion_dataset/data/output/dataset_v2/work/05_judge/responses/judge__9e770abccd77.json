@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "Resuelve consumación de violación sexual, no límites de opinión de un testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión y continuidad del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Resuelve protección de identidad del testigo en un procedimiento español."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "Regula rendición de cuentas regional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona negativa a comparecer, sin definir qué opiniones puede emitir el testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Regula conducción compulsiva, no contenido de la declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula variación de calificación y acusación complementaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "Regula declaración de testigos residentes fuera del lugar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "si",
+      "rationale": "Limita la declaración a lo percibido y prohíbe opiniones sobre hechos y responsabilidades salvo testigo técnico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "Discute corroboración por testigos de oídas, no opiniones de un testigo presencial sobre culpabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Define violación de persona incapaz de consentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisión de deberes de funcionarios en otros delitos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "Regula inasistencia de testigos y no contenido de su declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_166_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "si",
+      "rationale": "Admite testimonio indirecto y exige identificar las circunstancias y la fuente del conocimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

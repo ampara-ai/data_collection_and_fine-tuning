@@ -1,0 +1,203 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Admite prueba indiciaria y exige indicios probados e inferencias lógicas, plurales y concordantes cuando corresponda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 481. Mérito de la información y de lo obtenido cuando se rechaza el Acuerdo» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Exige corroboración de una declaración contradictoria de la víctima, sin regular específicamente el testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 34.- Prestación de servicios a la comunidad» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 368.- Resistencia o desobediencia a la autoridad» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa]» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC]» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige otras pruebas que corroboren al testigo de referencia para dictar condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 425. Sentencia de segunda instancia» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 22-A. Criterios para dictar medidas de protección» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 206. Controles policiales públicos en delitos graves» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 50.- Concurso real de delitos» y no aporta información para resolver la suficiencia del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica la insuficiencia de indicios ambiguos, pero no la regla específica del testimonio de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 442.- Maltrato» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece un criterio particular para valorar declaraciones traumáticas, sin desarrollar las reglas generales y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 243. Requisitos de la solicitud» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 65.- Efectos del incumplimiento» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe inferencias estereotipadas sobre consentimiento, pero no desarrolla la valoración general de pruebas ni su explicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 28. Valoración del riesgo» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 481. Mérito de la información y de lo obtenido cuando se rechaza el Acuerdo» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 560. Detención provisional con fines de entrega» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Da pautas contextuales para acreditar violencia sexual, sin explicar integralmente los criterios generales de valoración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Exige valoración conjunta y racional y motivación suficiente, sin descartar automáticamente el testimonio tardío."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige lógica, ciencia y experiencia y exponer los resultados y criterios de la valoración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 481-A. Utilidad de la información en otros procesos» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 170.- Violación sexual» y no aporta información para resolver los criterios de valoración probatoria y su motivación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_61_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "si",
+      "rationale": "Exige disponer inmediatamente la investigación preliminar cuando hay flagrancia o detenido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_61_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "si",
+      "rationale": "Fija un máximo de veinticuatro horas para iniciar investigación en feminicidio y distingue los demás supuestos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_61_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "si",
+      "rationale": "Obliga a investigar tanto circunstancias de imputación como las que eximen o atenúan responsabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que la ausencia de afectación psicológica no demuestra inexistencia del abuso y que puede manifestarse después."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "si",
+      "rationale": "Muestra la casación fiscal que anula la revocatoria de prisión preventiva y ordena nueva resolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "si",
+      "rationale": "Reconoce la cercanía entre víctima e imputado como factor de obstaculización que debe acreditarse concretamente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

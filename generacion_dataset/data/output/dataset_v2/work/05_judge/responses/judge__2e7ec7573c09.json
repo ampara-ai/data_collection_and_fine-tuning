@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusas por delitos patrimoniales, no la cobertura del maltrato psicológico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "Regula la dirección del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula el reemplazo del abogado defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdos reparatorios y no identifica el maltrato psicológico protegido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula la detención preliminar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "Sanciona la desobediencia a órdenes y no determina la cobertura inicial de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "si",
+      "rationale": "Reconoce que la violencia psicológica permite dictar medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "parcial",
+      "rationale": "Describe protección en zonas rurales sin precisar si la humillación y el control están comprendidos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección de la persona agraviada sin definir la violencia psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata salidas alternativas por agresiones y no el alcance de la protección psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "parcial",
+      "rationale": "Afirma cobertura de todos los tipos de violencia sin identificar la humillación y el control."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente afectación psicológica sin necesidad de lesiones corporales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Menciona el protocolo de protección sin desarrollar sus supuestos de aplicación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "si",
+      "rationale": "Extiende la ley a integrantes del grupo familiar sin exigir que sean mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "parcial",
+      "rationale": "Indica todos los tipos de violencia sin especificar las clases de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_4_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "si",
+      "rationale": "Cubre violencia contra las mujeres por su condición sin restringirla al hogar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

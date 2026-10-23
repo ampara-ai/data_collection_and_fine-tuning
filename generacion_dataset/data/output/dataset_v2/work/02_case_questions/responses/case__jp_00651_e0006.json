@@ -1,0 +1,61 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "El abogado de quien maltrató a mi hija presenta escritos que no corresponden y dice que no se enteró del caso, solo para alargar todo. ¿El tribunal puede castigarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00651_e0006_01"
+   ],
+   "positive_selection_reason": "La sentencia confirma una multa al abogado del acusado por insistir en un recurso improcedente y negarse a alegar alegando falta de preparación. Responde directamente si el tribunal puede sancionar esa conducta.",
+   "expected_answer_focus": "Que el tribunal puede sancionar con multa al abogado que actúa con temeridad o mala fe, por ejemplo al insistir en un recurso que no procede o negarse a informar alegando falta de preparación, y que esa sanción fue confirmada por la Corte Suprema.",
+   "victim_voice_rationale": "Una madre o familiar teme que la defensa del agresor retrase el caso con maniobras y quiere saber si el juez puede intervenir."
+  },
+  {
+   "query": "Me cuesta entender el idioma en que hablan en las audiencias y me da miedo no comprender lo que me preguntan. ¿Me darán a alguien que me ayude?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_114_01"
+   ],
+   "positive_selection_reason": "El artículo 114 establece que a quien no comprenda el idioma o no se exprese con facilidad se le brinda ayuda, con traductor o intérprete cuando corresponda.",
+   "expected_answer_focus": "Que las actuaciones se hacen en castellano, pero quien no comprende el idioma o no se expresa con facilidad tiene derecho a ayuda, incluido un traductor o intérprete.",
+   "victim_voice_rationale": "Una víctima con dificultad para entender el idioma teme quedar en desventaja al declarar."
+  },
+  {
+   "query": "¿El fiscal o el juez pueden ir hasta el lugar donde pasaron las agresiones para ver las cosas, o todo se hace solo en sus oficinas?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_116_01"
+   ],
+   "positive_selection_reason": "El artículo 116 dice que las actuaciones se hacen en el despacho, pero el fiscal o juez pueden ir a otro lugar cuando es indispensable para conocer elementos de convicción decisivos.",
+   "expected_answer_focus": "Que lo normal es que las diligencias se hagan en el despacho del fiscal o juez, y que excepcionalmente ellos pueden trasladarse a otro lugar del país si es indispensable para conocer directamente elementos decisivos.",
+   "victim_voice_rationale": "La persona quiere saber si las autoridades pueden ir al lugar de los hechos para verificar lo ocurrido."
+  },
+  {
+   "query": "Mi hija es la víctima y yo la cuido. ¿Nos pueden citar a una diligencia de noche o en fin de semana, o solo en horario normal?",
+   "topic": "procedimiento_penal",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_117_01"
+   ],
+   "positive_selection_reason": "El artículo 117 indica que las actuaciones pueden hacerse cualquier día y a cualquier hora si es absolutamente indispensable según su naturaleza.",
+   "expected_answer_focus": "Que, salvo disposición en contrario, las actuaciones procesales pueden realizarse cualquier día y hora cuando sea absolutamente indispensable, y que se debe dejar constancia del lugar y la fecha.",
+   "victim_voice_rationale": "Una madre quiere saber si la pueden citar en horarios que afecten el cuidado de su hija."
+  },
+  {
+   "query": "Cuando me citan para algo del caso, ¿siempre es en la oficina del fiscal o del juez y en horario de oficina, o pueden hacerme ir a otro sitio u otra hora?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_116_01",
+    "chunk_tipo03_cpp_art_117_01"
+   ],
+   "positive_selection_reason": "El artículo 116 cubre el lugar de las actuaciones (despacho, con excepciones) y el artículo 117 cubre el tiempo (cualquier día y hora si es indispensable). Juntos responden dónde y cuándo se hacen.",
+   "expected_answer_focus": "Que las actuaciones se hacen normalmente en el despacho del fiscal o juez, con posibles traslados excepcionales, y que pueden realizarse cualquier día y hora solo si es absolutamente indispensable.",
+   "victim_voice_rationale": "Una víctima desconfiada quiere entender qué le pueden exigir sobre lugar y horario de las citaciones."
+  }
+ ]
+}

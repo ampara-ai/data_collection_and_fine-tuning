@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__d0d63f89f94e",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_16-b_01::q01\",\n  \"question\": \"Tengo la orden para que no me moleste, pero mi ex sigue acosándome. ¿La jueza puede reforzarla o cambiarla por algo más fuerte?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_16-b_01\",\n    \"title\": \"Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección\",\n    \"text\": \"Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección\\nEl juzgado de familia remite los actuados en original a la fiscalía penal para el inicio de la investigación penal, o al juzgado de paz letrado o al que haga sus veces para el inicio del proceso por faltas, según corresponda, conforme a sus competencias, quedándose con copias certificadas para formar un cuaderno relativo a las medidas de protección adoptadas, a fin de garantizar su cumplimiento y posterior evaluación.\\nCuando el juzgado de familia toma conocimiento de la continuidad del ejercicio de violencia o incumplimiento de las medidas de protección, tiene la obligación de sustituirlas o ampliarlas, a fin de salvaguardar la vida e integridad de la víctima. En los casos de incumplimiento de las medidas de protección o cautelares, pone en conocimiento del Ministerio Público para que investigue por la comisión del delito a que se refiere el artículo 24. \\\"\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_16-b_01::q02\",\n  \"question\": \"Mi pareja rompió la orden de que no se me acerque, ¿a quién le avisa el juez para que lo investiguen por eso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_16-b_01\",\n    \"title\": \"Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección\",\n    \"text\": \"Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección\\nEl juzgado de familia remite los actuados en original a la fiscalía penal para el inicio de la investigación penal, o al juzgado de paz letrado o al que haga sus veces para el inicio del proceso por faltas, según corresponda, conforme a sus competencias, quedándose con copias certificadas para formar un cuaderno relativo a las medidas de protección adoptadas, a fin de garantizar su cumplimiento y posterior evaluación.\\nCuando el juzgado de familia toma conocimiento de la continuidad del ejercicio de violencia o incumplimiento de las medidas de protección, tiene la obligación de sustituirlas o ampliarlas, a fin de salvaguardar la vida e integridad de la víctima. En los casos de incumplimiento de las medidas de protección o cautelares, pone en conocimiento del Ministerio Público para que investigue por la comisión del delito a que se refiere el artículo 24. \\\"\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+     "chunk_tipo01_ley30364_art_16-b_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_16-b_01::q02",
+     "chunk_tipo01_ley30364_art_16-b_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__d0d63f89f94e.json"
+}

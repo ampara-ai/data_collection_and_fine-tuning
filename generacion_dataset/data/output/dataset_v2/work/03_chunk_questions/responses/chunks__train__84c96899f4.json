@@ -1,0 +1,79 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo es policía en servicio y en un operativo hirió a alguien con su arma. ¿Lo pueden dejar preso mientras lo investigan?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Al policía en actividad que usa su arma de forma reglamentaria en su función y causa lesión o muerte no se le puede ordenar detención preliminar ni prisión preventiva; solo restricciones menos severas."
+    },
+    {
+     "query": "Si un agente del orden dispara cumpliendo el reglamento en su trabajo y alguien muere, ¿el fiscal o el juez pueden mandar que lo encierren?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Está prohibido que el fiscal pida y el juez dicte detención o prisión preventiva en ese supuesto; se aplican restricciones de comparecencia."
+    },
+    {
+     "query": "¿Qué le pasa al fiscal o juez que manda encerrar a un policía que usó su arma como corresponde en su labor y dejó a alguien herido?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El fiscal o juez que lo solicite o dicte incurre en responsabilidad funcional."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_i_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "No tengo plata para pagar nada. ¿Tengo que abonar al Estado para que un juez vea mi caso de maltrato?",
+     "topic": "procedimiento_penal",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La justicia penal es gratuita, salvo el pago de las costas procesales previstas en el Código."
+    },
+    {
+     "query": "Mi denuncia lleva años sin avanzar. ¿Tengo derecho a que el caso se resuelva en un tiempo razonable?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La justicia debe impartirse con imparcialidad y en un plazo razonable."
+    },
+    {
+     "query": "Mi agresor tiene abogado caro y yo no sé nada de leyes. ¿El juez debe cuidar que estemos en igualdad de condiciones?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las partes tienen iguales posibilidades y los jueces deben allanar los obstáculos que afecten la igualdad."
+    },
+    {
+     "query": "Si la sentencia me parece injusta, ¿puedo pedir que otro juez la revise?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las resoluciones se pueden recurrir y las sentencias o autos que terminan la instancia son apelables."
+    },
+    {
+     "query": "¿Mi caso se verá en una audiencia donde todos puedan hablar y presentar su versión, o solo con papeles?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Toda persona tiene derecho a un juicio previo, oral, público y contradictorio."
+    },
+    {
+     "query": "Si un juez se equivoca y eso me causa un daño, ¿el Estado responde de alguna manera?",
+     "topic": "reparacion_civil",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado garantiza la indemnización por los errores judiciales."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_545_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico de cooperación judicial internacional sobre cumplimiento en Perú de penas no privativas de libertad dictadas en el extranjero; no genera una pregunta natural de una víctima de violencia.",
+   "questions": []
+  }
+ ]
+}

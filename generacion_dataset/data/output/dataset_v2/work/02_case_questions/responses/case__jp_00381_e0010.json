@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "Fuimos a avisar de madrugada que a mi hija le había pasado algo grave y nos dijeron que volviéramos al día siguiente. ¿Tenían que empezar a actuar al instante?",
+   "topic": "canales_denuncia",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01"
+   ],
+   "positive_selection_reason": "El art. 65 inc. 2 dice que el Fiscal, en cuanto tiene noticia del delito, dispone de inmediato que la policía haga las primeras diligencias. Eso responde si se puede hacer esperar a la familia.",
+   "expected_answer_focus": "Que al conocerse el posible delito el Fiscal debe ordenar de inmediato las primeras diligencias a la policía, y que la investigación no queda sujeta a una espera.",
+   "victim_voice_rationale": "Una madre o padre a quien en la comisaría le piden esperar quiere saber si eso es correcto."
+  },
+  {
+   "query": "Cuando denuncio, ¿quién manda en la investigación: el policía que me atendió o el fiscal? Tengo miedo de que cada uno haga lo que quiera.",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01",
+    "chunk_tipo03_cpp_art_321_01"
+   ],
+   "positive_selection_reason": "El art. 65 reparte los roles del Fiscal (estrategia jurídica) y la policía (estrategia operativa) y exige coordinación. El art. 321 inc. 1 describe la investigación preliminar policial con conducción jurídica del Ministerio Público.",
+   "expected_answer_focus": "Que el Fiscal conduce jurídicamente la investigación y la policía la ejecuta en lo operativo, con coordinación y cooperación entre ambos.",
+   "victim_voice_rationale": "Una víctima desconfiada quiere entender quién responde por su caso."
+  },
+  {
+   "query": "Ya denuncié y me dicen que sigue la etapa de averiguaciones. ¿Qué se busca descubrir ahí y qué decide el fiscal cuando termina?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_321_01"
+   ],
+   "positive_selection_reason": "El art. 321 inc. 1 explica la finalidad de la investigación preparatoria: reunir elementos, determinar si hubo delito, circunstancias, identidad de autor y víctima, daño causado, y que el Fiscal decida si acusa.",
+   "expected_answer_focus": "Que la etapa sirve para reunir elementos a favor y en contra, aclarar qué pasó, quién lo hizo y qué daño hubo, y que con eso el Fiscal decide si acusa o no.",
+   "victim_voice_rationale": "Una persona que ya denunció no entiende qué pasa en esa fase del proceso."
+  },
+  {
+   "query": "Quiero que revisen bien el cuerpo y el lugar de los hechos con especialistas. ¿El fiscal puede pedir ayuda a peritos, médicos forenses o universidades?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_321_01"
+   ],
+   "positive_selection_reason": "El art. 321 incs. 2 y 3 obliga a la policía especializada, medicina legal y otros organismos técnicos a apoyar al Fiscal, permite pedir informes a universidades y formar un equipo interdisciplinario de expertos.",
+   "expected_answer_focus": "Que el Fiscal cuenta con el apoyo obligatorio de órganos técnicos y de criminalística, puede pedir informes a universidades y entidades privadas, y puede formar un equipo de expertos.",
+   "victim_voice_rationale": "Una familiar teme que se pierdan pruebas y quiere saber si hay apoyo técnico para revisarlas."
+  },
+  {
+   "query": "Si denuncio a mi agresor, ¿él puede quejarse ante un juez porque dice que lo investigan mal o que le violaron sus derechos?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_71_01"
+   ],
+   "positive_selection_reason": "El art. 71 inc. 4 permite al imputado acudir al Juez de la Investigación Preparatoria en vía de tutela si considera que se incumplen sus derechos, y el juez resuelve tras una audiencia con las partes.",
+   "expected_answer_focus": "Que la persona investigada tiene derechos desde las primeras diligencias y puede pedir al juez que corrija omisiones o abusos, con una audiencia en la que participan las partes.",
+   "victim_voice_rationale": "La víctima quiere saber con qué reclamos puede salir el denunciado y cómo funcionan."
+  }
+ ]
+}

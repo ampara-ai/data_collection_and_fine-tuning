@@ -1,0 +1,461 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce acción civil del perjudicado, sin precisar el efecto de la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "La absolución no impide pronunciarse sobre la acción civil válidamente ejercida."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil vinculada a la pena, sin resolver la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "No resuelve si procede indemnización pese a la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Mantiene reparación civil pese a quedar firme la absolución penal."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "parcial",
+      "rationale": "Explica ejecución de reparación civil, sin establecer su procedencia tras absolución."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el ejercicio de la acción civil, sin precisar que no puede pedirse sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Limita la intervención del actor civil al objeto civil y le impide revertir el extremo penal."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aborda límites de impugnación frente a conformidad fiscal, sin definir las facultades del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "si",
+      "rationale": "Permite colaborar en esclarecimiento y acreditar reparación, pero prohíbe pedir sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "parcial",
+      "rationale": "Limita recursos del actor civil sobre medidas patrimoniales, sin explicar todas sus facultades."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No define la facultad de pedir reparación frente a la prohibición de solicitar sanción."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Permite declarar de oficio nulidad absoluta por los defectos enumerados."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Autoriza ofrecer pruebas, participar e interponer recursos como actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "si",
+      "rationale": "Legitima al perjudicado por el delito para ejercer la acción reparatoria."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "si",
+      "rationale": "Permite desistir antes de la etapa intermedia sin perder la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No regula plazo de desistimiento de reparación ni conservación de la vía civil."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Una vez elegida la vía penal o civil no puede deducirse la misma acción en la otra."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q07",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de reclamar nuevamente la misma reparación en otra vía."
+    },
+    {
+      "dataset_id": "case::jp_00518_e0001::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Enumera derechos del detenido y las garantías que deben documentarse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Prevé entrevista especializada, cámara Gesell y grabación para evitar revictimización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "si",
+      "rationale": "Prevé psicólogos especializados, cámara Gesell y grabación del relato del menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite prueba anticipada por enfermedad que impediría testimonio en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite anticipar testimonio ante riesgo de inasistencia por enfermedad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo pedir prueba anticipada, pero no especifica el soborno como supuesto habilitante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite prueba anticipada ante ofertas de dinero para no declarar o mentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No regula adelantar declaración de un testigo por ofrecimientos de dinero."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_242_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite prueba anticipada ante ofertas de dinero para no declarar o mentir."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

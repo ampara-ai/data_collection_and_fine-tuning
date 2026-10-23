@@ -1,0 +1,70 @@
+{
+ "questions": [
+  {
+   "query": "Me avisaron que mi caso ya se iba a cerrar y ese mismo día pedí cobrar por el daño, pero me dijeron que era tarde. ¿Cuenta desde cuándo me enteré?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00008_e0002_01"
+   ],
+   "positive_selection_reason": "La sentencia resuelve exactamente que el plazo corre desde la notificación y no desde la fecha del documento.",
+   "expected_answer_focus": "Que el plazo para pedir ser parte en el proceso se cuenta desde que se avisa a la víctima y no desde que se firmó el documento.",
+   "victim_voice_rationale": "Relato breve de una víctima que siente que un trámite la dejó fuera."
+  },
+  {
+   "query": "La fiscalía lleva años con mi denuncia y no termina de investigar. ¿Alguien puede obligarla a cerrar el caso?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_343_01"
+   ],
+   "positive_selection_reason": "El art. 343 regula el control del plazo y la solicitud al juez cuando la fiscalía no concluye.",
+   "expected_answer_focus": "Que las partes pueden pedir al juez que ponga fin a la etapa de investigación vencido el plazo, y qué debe hacer luego el fiscal.",
+   "victim_voice_rationale": "Duda sobre demora de la fiscalía en palabras cotidianas."
+  },
+  {
+   "query": "Si me meto como parte en el juicio contra mi pareja, ¿puedo presentar mis propias pruebas y asistir a las audiencias?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 enumera lo que puede hacer quien se constituye como parte reclamante.",
+   "expected_answer_focus": "Facultades de quien reclama el pago: ofrecer pruebas, participar en diligencias y juicio, apelar.",
+   "victim_voice_rationale": "Pregunta directa sobre qué puede hacer la víctima en el proceso."
+  },
+  {
+   "query": "¿Quién se encarga de reclamar que me compensen por el daño, la fiscalía o yo? Y si lo hago yo, ¿la fiscalía se desentiende?",
+   "topic": "reparacion_civil",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_11_01"
+   ],
+   "positive_selection_reason": "El art. 11 dice quién ejerce la acción civil y que cesa la legitimación fiscal si el perjudicado se constituye.",
+   "expected_answer_focus": "Que la acción corresponde a la fiscalía y especialmente al perjudicado, y que si éste interviene la fiscalía deja ese tema.",
+   "victim_voice_rationale": "Duda sobre quién reclama el dinero y miedo a quedar sola."
+  },
+  {
+   "query": "Mi conviviente me agarró del cuello y me tiró cuchillos delante de mi hijo pequeño. ¿Eso es delito y se castiga más fuerte?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El art. 122-B tipifica la agresión y agrava por uso de objetos y por hacerlo ante menores.",
+   "expected_answer_focus": "Que es delito y qué circunstancias agravan, sin fijar cifras de pena históricas.",
+   "victim_voice_rationale": "Relato con miedo y duda de si lo vivido es delito."
+  },
+  {
+   "query": "Mi hija fue agredida y es menor de edad. No tenemos plata, ¿quién nos puede ayudar a pedir que le paguen por el daño?",
+   "topic": "reparacion_civil",
+   "barrier": "dependencia_economica",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01"
+   ],
+   "positive_selection_reason": "El art. 98 señala quién representa a víctimas menores para solicitar ser parte reclamante.",
+   "expected_answer_focus": "Que el defensor público de víctimas o el abogado del CEM representan a menores en el proceso.",
+   "victim_voice_rationale": "Madre sin recursos que pregunta por ayuda para su hija."
+  }
+ ]
+}

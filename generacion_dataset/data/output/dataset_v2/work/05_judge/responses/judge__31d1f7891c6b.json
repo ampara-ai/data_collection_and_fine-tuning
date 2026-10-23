@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_71_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Prevé control judicial de derechos del detenido, pero no explica la queja o tutela solicitada por maltrato policial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

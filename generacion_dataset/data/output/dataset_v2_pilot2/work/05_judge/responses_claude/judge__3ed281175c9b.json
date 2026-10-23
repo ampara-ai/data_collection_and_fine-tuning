@@ -1,0 +1,251 @@
+{
+ "judgments": [
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+   "relevance": "si",
+   "rationale": "Establece que el plazo para pedir constitución en actor civil corre desde la notificación de la conclusión de la investigación, no desde su emisión."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_360_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo02_cp_art_121_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_102_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo02_cp_art_442_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "parcial",
+   "rationale": "Trata la legitimación para constituirse en actor civil, no el cómputo del plazo."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo02_cp_art_200_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q01",
+   "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_266_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_343_01",
+   "relevance": "si",
+   "rationale": "Permite a las partes pedir al juez el control del plazo y ordenar la conclusión de la investigación si el fiscal no la concluye."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+   "relevance": "parcial",
+   "rationale": "Trata el control vía amparo de decisiones fiscales firmes, no de la demora en investigar."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo02_cp_art_57_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_323_01",
+   "relevance": "parcial",
+   "rationale": "Menciona que el juez de investigación preparatoria controla el cumplimiento del plazo, sin detallar el mecanismo."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo03_cpp_art_532_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q02",
+   "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_98_01",
+   "relevance": "parcial",
+   "rationale": "Regula quién puede constituirse en actor civil, sin detallar los derechos una vez constituido."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_104_01",
+   "relevance": "si",
+   "rationale": "Enumera las facultades del actor civil: ofrecer prueba, participar en actos de prueba e intervenir en juicio oral."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_493_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo02_cp_art_208_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+   "relevance": "parcial",
+   "rationale": "Muestra los límites de la intervención del actor civil al objeto civil, solo contexto parcial."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+   "relevance": "parcial",
+   "rationale": "Trata la constitución en actor civil y su plazo, sin precisar sus facultades probatorias o de asistencia."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q03",
+   "chunk_id": "chunk_tipo03_cpp_art_371_01",
+   "relevance": "no",
+   "rationale": "No responde la pregunta planteada."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q04",
+   "chunk_id": "chunk_tipo03_cpp_art_11_01",
+   "relevance": "si",
+   "rationale": "La acción civil corresponde al fiscal y al perjudicado; si este se constituye en actor civil cesa la legitimación del fiscal."
+  },
+  {
+   "dataset_id": "case::jp_00008_e0002::q05",
+   "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+   "relevance": "si",
+   "rationale": "Tipifica las agresiones contra la mujer o grupo familiar con agravantes por arma y presencia de menores."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

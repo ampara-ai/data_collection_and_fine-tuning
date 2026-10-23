@@ -1,0 +1,143 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 210. Registro de personas no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 100. Requisitos para constituirse en actor civil no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 03590-2019-89, f.j. 4.d no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 120. Régimen General no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "si",
+      "rationale": "Tipifica impedir mediante amenazas actividades que la ley permite."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 301.- Coacción al consumo de droga no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define el control y aislamiento como violencia psicológica, sin establecer su tipificación penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 365. Delito en el juicio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-A.- Trata de personas no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "si",
+      "rationale": "Fija para la coacción una pena privativa de libertad no mayor de dos años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "si",
+      "rationale": "Sanciona impedir por amenazas una actividad lícita como estudiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_151_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "si",
+      "rationale": "Describe la coacción por violencia para obligar a realizar actos no impuestos por ley."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Regula la contumacia por inasistencia consciente y sus efectos sobre cada etapa del proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Contempla la fuga como contumacia y precisa cuándo continúa o se archiva provisionalmente el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Regula ausencia y contumacia y permite continuar investigación y etapa intermedia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Prevé archivo provisional en juicio y prohíbe condenar al ausente o contumaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Exige nombrar defensor de oficio o al propuesto por un familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_79_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Aclara que cesar la contumacia no afecta la prisión preventiva ni la orden de detención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0010_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

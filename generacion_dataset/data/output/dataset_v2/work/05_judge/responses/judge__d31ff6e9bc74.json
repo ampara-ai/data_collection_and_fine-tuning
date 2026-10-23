@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones culposas, no el valor probatorio de la ausencia tardía de secuelas de abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Explica que declarar tardíamente no elimina la credibilidad, pero no aborda la ausencia de secuelas del abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "Aborda congruencia recursiva y contraste pericial de otro caso, sin explicar el significado de no presentar secuelas tras un año."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "Regula traslados temporales al extranjero de personas detenidas, sin relación con las secuelas del abuso."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula la valoración en apelación y sus decisiones, sin abordar el tiempo de aparición del daño."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisiones de funcionarios, sin tratar las secuelas o la credibilidad de una víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Analiza una denuncia tardía junto con contradicciones y pericias no concluyentes, sin explicar la aparición diferida de secuelas psicológicas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales del imputado, no la ausencia de secuelas en una menor víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "si",
+      "rationale": "Explica que los daños psicológicos pueden tardar meses o años en manifestarse y cuestiona exigir su aparición inmediata."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "Regula la tramitación de prueba anticipada, sin explicar el efecto probatorio de no presentar secuelas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisiones funcionales, sin abordar daño psicológico o testimonio de la menor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "Establece reglas generales de admisión y actuación probatoria, sin explicar la ausencia de secuelas tras el abuso."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Exige motivar la equiparación de maltrato emocional y psicológico en otro proceso, sin resolver la ausencia de secuelas tras abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "si",
+      "rationale": "Señala criterios para valorar el testimonio infantil considerando edad, desarrollo psicosocial y uso de cámara Gesell."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé pena agravada cuando el autor aprovecha su deber de cuidado o una posición que lleva a la víctima a confiar en él."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "Regula la lectura de documentos y actas en juicio, no qué actos constituyen violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Regula la audiencia de apelación, sin definir las modalidades de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "Clasifica tocamientos bajo figuras penales colombianas, sin determinar los supuestos de violación sexual de la consulta peruana."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica la explotación sexual de menores con finalidad de aprovechamiento, no el abuso sexual descrito sin ese contexto."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia y seguimiento como técnicas de investigación, no modalidades de violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "Aborda la revictimización en reconstrucciones de hechos, sin definir qué actos constituyen violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula el reconocimiento de personas, no la tipificación de actos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica la gestión de explotación sexual de menores, supuesto distinto del abuso descrito."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "Regula la ficha de valoración del riesgo, sin definir modalidades de violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "Aborda violencia institucional durante investigaciones sexuales, sin explicar qué actos constituyen violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Distingue el bien jurídico protegido según la edad, sin precisar los actos manuales o las vías de penetración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye acceso vaginal, anal y bucal e introducción de objetos o partes del cuerpo por vía vaginal o anal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula la intervención de comunicaciones, sin definir actos constitutivos de violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Explica los requisitos de suspensión de pena y su exclusión para agresiones contra mujeres o integrantes del grupo familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

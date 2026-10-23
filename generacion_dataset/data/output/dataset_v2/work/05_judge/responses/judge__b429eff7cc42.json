@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Establece deberes y plazos de protección inmediata, pero no las sanciones por la omisión policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona al policía que injustificadamente omite el auxilio requerido en violencia familiar o peligro."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

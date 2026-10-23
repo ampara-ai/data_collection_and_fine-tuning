@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad penal, sin regular el embargo de bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia, pero no medidas para asegurar la futura reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "Regula la devolución de objetos incautados y fondos de extorsión, no el embargo para garantizar una indemnización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "La inmovilización que regula sirve a la investigación, no a asegurar el pago de la reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "Regula la constitución en actor civil, sin establecer medidas sobre bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Discute impugnaciones y cuantía de reparación, sin regular medidas para impedir ocultamiento patrimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Aborda los límites de la apelación del actor civil, no el aseguramiento de bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata la legitimación para impugnar y el monto de reparación, sin explicar medidas de embargo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "si",
+      "rationale": "Regula el embargo ante riesgo de insolvencia u ocultamiento de bienes y cómo solicitarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Describe la apertura del juicio y los alegatos, sin regular embargos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata recursos contra absoluciones y control difuso, sin abordar retención de bienes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula el proceso inmediato, sin establecer el embargo destinado a asegurar la reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves y penas, sin regular el aseguramiento patrimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "si",
+      "rationale": "Permite reiterar un embargo denegado si cambian las circunstancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_303_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "si",
+      "rationale": "Explica la contracautela exigida al actor civil y las excepciones a su exigencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

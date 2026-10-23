@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "prompt_version": "closed-legal-candidates-v2",
+  "resolver_version": "deterministic-legal-candidates-v1",
+  "started_at_utc": "2026-10-21T18:22:38.710029+00:00",
+  "finished_at_utc": "2026-10-21T18:35:14.179332+00:00",
+  "generation_config": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "temperature": 0.3,
+    "n_questions_max": 5,
+    "limit": 5
+  },
+  "source_files": {
+    "codigo_penal": "recoleccion/data_types/tipo_02_codigo_penal/data/processed/all_articles.json",
+    "codigo_procesal_penal": "recoleccion/data_types/tipo_03_codigo_procesal_penal/data/processed/all_articles.json",
+    "jurisprudence_context_units": "generacion_dataset/data/input/jurisprudence_context_units.json",
+    "jurisprudence_structured_entries": "recoleccion/data_types/tipo_04_jurisprudencia/data/processed/jurisprudence_entries_structured.json",
+    "ley_30364": "recoleccion/data_types/tipo_01_ley_30364/data/processed/law_30364_structured.json",
+    "document_chunks_snapshot": "generacion_dataset/data/input/document_chunks_all.jsonl"
+  },
+  "corpus": {
+    "snapshot_chunk_count": 757,
+    "effective_chunk_count": 1577
+  },
+  "results": {
+    "case_count_requested": 5,
+    "candidate_set_count": 5,
+    "case_count_processed": 4,
+    "case_count_failed": 1,
+    "case_count_skipped_not_dataset_candidate": 0,
+    "question_count": 20,
+    "candidate_resolution_totals": {
+      "case_jurisprudence_candidate_edges": 5,
+      "case_jurisprudence_references_resolved": 5,
+      "case_jurisprudence_references_total": 5,
+      "cited_in_jurisprudence_candidate_edges": 34,
+      "cited_in_jurisprudence_references_resolved": 34,
+      "cited_in_jurisprudence_references_total": 34,
+      "page_concordance_candidate_edges": 22,
+      "page_concordance_references_resolved": 22,
+      "page_concordance_references_total": 22,
+      "source_article_anchor_candidate_edges": 6,
+      "source_article_anchor_references_resolved": 6,
+      "source_article_anchor_references_total": 6,
+      "unresolved_references": 0
+    }
+  },
+  "artifacts": {
+    "candidate_sets": "generacion_dataset/data/output/legal_questions_dataset_smoke_5/candidate_sets.jsonl",
+    "questions": "generacion_dataset/data/output/legal_questions_dataset_smoke_5/questions_with_positive_context.jsonl",
+    "errors": "generacion_dataset/data/output/legal_questions_dataset_smoke_5/generation_errors.jsonl",
+    "training_triples": "generacion_dataset/data/output/legal_questions_dataset_smoke_5/training_triples.jsonl",
+    "jurisprudence_chunk_updates": "generacion_dataset/data/output/legal_questions_dataset_smoke_5/jurisprudencia_chunk_updates.jsonl"
+  }
+}

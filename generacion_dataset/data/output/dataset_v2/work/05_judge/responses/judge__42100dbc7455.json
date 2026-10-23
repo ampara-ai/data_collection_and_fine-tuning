@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Establece deberes generales de protección a las víctimas, sin desarrollar cómo evitar el trauma al interrogarlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 205. Control de identidad policial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé entrevistas grabadas para evitar revictimización de menores, sin establecer una regla general para esta declarante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-F.- Beneficio p or explotación sexual» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Regula privacidad y seguridad durante declaraciones protegidas, sin abordar directamente la repetición del trauma."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 322. Dirección de la investigación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar la experiencia traumática al interpretar declaraciones, sin regular su reiteración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Establece que las autoridades deben evitar la repetición del trauma y la revictimización al investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece que las autoridades deben evitar la repetición del trauma y la revictimización al investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 294. Internamiento previo para observación y examen» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Establece que las autoridades deben evitar la repetición del trauma y la revictimización al investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige espacios amigables y protección de la salud y dignidad, pero no regula expresamente los interrogatorios reiterados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Aclara que no se requieren denuncias reiteradas para que nazca la obligación de investigar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

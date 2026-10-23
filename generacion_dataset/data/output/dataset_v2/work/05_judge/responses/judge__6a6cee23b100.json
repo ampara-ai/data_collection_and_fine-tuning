@@ -1,0 +1,221 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0091::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso sexual con violencia o amenaza e incluye parentesco y convivencia como agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Contempla víctima de catorce a diecisiete años y parentesco o convivencia como circunstancias agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa cinco años por crueldad, alevosía o finalidad de degradar a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "parcial",
+      "rationale": "Establece penas agravadas por abuso, sin resolver la posibilidad de suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión de ejecución de pena para los delitos de violación de la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Fija penas elevadas de prisión, pero no regula expresamente la suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Confirma prisión aun con reducción por circunstancias especiales, sin establecer la prohibición de suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suspensión de la pena por abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q05",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Fija treinta a treinta y cinco años por lesión grave y cadena perpetua por muerte previsible."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q05",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Distingue pena temporal de hasta treinta y cinco años y perpetua sin indicar cuándo corresponde al abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil junto con la pena y encarga al juez garantizar su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Confirma reparación civil en un caso de violación, sin explicar quién garantiza el pago."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce compensación y recuperación psicológica, pero no determina quién ejecuta el cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación proporcional al daño por violencia, sin detallar su ejecución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Prevé que el fiscal solicite reparación civil, pero no cómo se asegura el pago."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0091::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la reparación y la garantía de cobro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_192_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Permite inspección para comprobar huellas materiales en lugares, cosas o personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_192_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Atribuye la orden al juez o fiscal y su finalidad es contrastar cómo pudieron ocurrir los hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_192_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Expresamente prohíbe obligar al imputado a intervenir en la reconstrucción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_192_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Ordena practicar la reconstrucción con la mayor reserva posible."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

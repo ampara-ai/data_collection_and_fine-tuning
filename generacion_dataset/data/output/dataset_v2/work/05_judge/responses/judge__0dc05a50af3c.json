@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula la gestión de explotación sexual y no la conducta de hacer ejercer actos sexuales para lucrar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "si",
+      "rationale": "Tipifica la explotación sexual de adolescentes y establece que su consentimiento carece de efectos jurídicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula la gestión de explotación sexual y no la conducta de hacer ejercer actos sexuales para lucrar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "si",
+      "rationale": "Establece las penas por explotación sexual de menores de catorce años, incluida cadena perpetua si ocurre el acceso carnal descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula la gestión de explotación sexual y no la conducta de hacer ejercer actos sexuales para lucrar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-h_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "si",
+      "rationale": "Prevé agravación por parentesco y cadena perpetua si se lesiona gravemente la salud física o mental de la menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,83 @@
+{
+ "questions": [
+  {
+   "query": "Si lo condenan a pocos años, ¿puede quedarse en su casa sin pisar la cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 regula cuándo se puede dejar sin cumplir la pena y excluye expresamente las agresiones contra mujeres y familia.",
+   "expected_answer_focus": "Que para el delito de agresiones contra mujeres o familiares no procede suspender la ejecución de la pena.",
+   "victim_voice_rationale": "Duda de una víctima que teme que el agresor no cumpla castigo."
+  },
+  {
+   "query": "Ya no vivimos juntos desde hace tiempo pero me pegó. ¿Igual se considera violencia dentro de la familia?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0005_01",
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "La sentencia afirma que alcanza a ex convivientes y el art. 121-B enumera expareja entre las víctimas protegidas.",
+   "expected_answer_focus": "Que haber terminado la convivencia no excluye la protección penal.",
+   "victim_voice_rationale": "Duda típica de quien ya se separó y no sabe si su caso cuenta."
+  },
+  {
+   "query": "Mi ex me dejó la nariz rota y no pude trabajar varias semanas. ¿La ley lo trata igual que un golpe cualquiera?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01",
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "Los arts. 122-B y 121-B distinguen agresión leve y lesión grave con sus agravantes.",
+   "expected_answer_focus": "Diferencia entre lesión leve y grave y sus consecuencias penales.",
+   "victim_voice_rationale": "Relato concreto de lesión física con duda sobre su gravedad."
+  },
+  {
+   "query": "Cuando me golpeó estaba borracho. ¿Eso lo favorece o más bien lo perjudica ante el juez?",
+   "topic": "violencia_fisica",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El art. 121-B incluye la embriaguez del agresor como circunstancia que agrava la pena.",
+   "expected_answer_focus": "Que actuar bajo efecto del alcohol es un agravante y no una excusa.",
+   "victim_voice_rationale": "Pregunta común de quien teme que la embriaguez sirva de excusa."
+  },
+  {
+   "query": "Si mi agresor termina preso, ¿tiene que hacer alguna terapia para cambiar antes de que le den beneficios?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_31_01"
+   ],
+   "positive_selection_reason": "El art. 31 exige tratamiento de reeducación como requisito para beneficios del condenado a pena efectiva.",
+   "expected_answer_focus": "Que el tratamiento es obligatorio para obtener beneficios penitenciarios.",
+   "victim_voice_rationale": "Duda sobre qué pasa con el agresor mientras cumple condena."
+  },
+  {
+   "query": "¿Después de la condena el juez puede prohibirle que me busque, me escriba o hable con mi familia?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_36_01"
+   ],
+   "positive_selection_reason": "El art. 36 contempla la prohibición de aproximarse o comunicarse con la víctima y sus familiares como inhabilitación.",
+   "expected_answer_focus": "Que la sentencia puede prohibir acercarse o comunicarse con víctima y familiares.",
+   "victim_voice_rationale": "Miedo a que el agresor la siga buscando tras la condena."
+  },
+  {
+   "query": "Me da pavor que me vuelva a pegar si sale libre. ¿La justicia toma en cuenta que estos ataques se repiten y empeoran?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0005_01"
+   ],
+   "positive_selection_reason": "La sentencia razona que la violencia familiar tiende a reiterarse y progresar, por lo que corresponde pena efectiva.",
+   "expected_answer_focus": "Criterio judicial de reiteración y progresión que justifica pena efectiva.",
+   "victim_voice_rationale": "Miedo a la reincidencia expresado con palabras comunes."
+  }
+ ]
+}

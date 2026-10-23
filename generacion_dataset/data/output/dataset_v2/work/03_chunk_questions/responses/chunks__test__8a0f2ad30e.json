@@ -1,0 +1,23 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_413_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja, que estaba detenido por agredirme, se fugó de la cárcel intimidando a los guardias. ¿Qué castigo le puede caer por escaparse así?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Quien estando preso se escapa usando fuerza o intimidación es castigado con cárcel de hasta tres años."
+    },
+    {
+     "query": "Tengo miedo de que el hombre que me maltrató y está preso se fugue a la fuerza. ¿Escaparse así ya es un delito aparte?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Fugarse estando legalmente preso mediante violencia o amenaza es un delito con pena de hasta tres años de cárcel."
+    }
+   ]
+  }
+ ]
+}

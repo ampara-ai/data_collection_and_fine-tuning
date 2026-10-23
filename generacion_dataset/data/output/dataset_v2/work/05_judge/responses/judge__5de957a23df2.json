@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "si",
+      "rationale": "Autoriza la detención policial sin mandato judicial cuando el agresor es descubierto cometiendo el delito o inmediatamente después."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "Regula la detención domiciliaria como alternativa a la prisión preventiva, no el plazo para capturar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula la detención con fines de extradición, no la captura en flagrancia por una agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata la evaluación del riesgo de violencia doméstica y no el plazo de captura por identificación en cámaras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "Examina la revisión de medidas de protección y no los límites temporales de la flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula la entrega a la Corte Penal Internacional, un procedimiento distinto de la captura consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica la trata de personas y no establece plazos de detención en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Analiza la demora judicial posterior a la captura de un contumaz, no el plazo para encontrar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "Sanciona la omisión de auxilio policial y no regula el plazo de captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "parcial",
+      "rationale": "Permite ordenar detención preliminar del sorprendido en flagrancia que eludió su detención, pero no fija el plazo de captura por cámaras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la detención inmediata del agresor en flagrancia familiar, pero no define hasta cuándo subsiste esa flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "si",
+      "rationale": "Establece que la identificación audiovisual permite capturarlo dentro de veinticuatro horas en el supuesto ordinario descrito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "Regula la detención provisional para entrega a la Corte Penal Internacional y no la captura por agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "no",
+      "rationale": "Regula cámaras Gesell para entrevistas y no cámaras de vigilancia ni plazos de captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Examina el control de identidad por fiscales y policías, no la flagrancia por vestigios encontrados al día siguiente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "Regula identificación y registro policial, pero no determina cuándo los vestigios configuran flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Fija plazos para medidas de protección familiar y no supuestos de flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Fija cuánto dura una detención ya practicada, no cuándo hallar vestigios permite detener en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión y sus agravantes, sin definir la flagrancia consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "Regula inspección e incautación de documentos contables, no vestimentas como indicios de flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión del juicio oral y no la captura en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "parcial",
+      "rationale": "Prevé el control judicial de legalidad de la detención por flagrancia, pero no define el supuesto de vestimentas con señales del delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "si",
+      "rationale": "Incluye como flagrancia el hallazgo dentro de veinticuatro horas con señales en las vestimentas que indiquen probable autoría."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de la pena con vigilancia electrónica y no captura en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "Examina suficiencia de indicios para condenar, no los requisitos de flagrancia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Examina valor probatorio de diligencias sin fiscal y no los supuestos temporales de flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_259_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve un caso de encubrimiento y detención sin flagrancia, sin definir el hallazgo posterior de vestigios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_323_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "si",
+      "rationale": "Identifica al juez de investigación preparatoria como autoridad competente para medidas limitativas y, cuando corresponda, de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_323_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "si",
+      "rationale": "Enumera las decisiones reservadas al juez durante la investigación preparatoria."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,509 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_187_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "si",
+      "rationale": "Tipifica sustraer un bien ajeno para usarlo momentáneamente y devolverlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_187_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "si",
+      "rationale": "Fija una pena privativa de libertad no mayor de un año para la sustracción de uso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_187_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "si",
+      "rationale": "Sanciona sustraer un bien mueble ajeno para uso temporal aunque sea devuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 352. Decisiones adoptadas en la audiencia preliminar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 34.- Prestación de servicios a la comunidad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 387. Alegato oral del Fiscal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Criterios que fijan un plazo para efectuar las diligencias que requieran la presencia del imputado [Exp. 00488-2022-0] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Retractación notarial sin valor (RN 1179-2019, Lima) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 245. Audiencia de prueba anticipada no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 16-C. Apelación de la medida de protección o cautelar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 521-C. Audiencia ante la Corte Suprema no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 198.- Administración fraudulenta no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "si",
+      "rationale": "Concede al querellado cinco días hábiles para contestar y ofrecer pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "si",
+      "rationale": "Ordena citar tras vencer el plazo de contestación y celebrar audiencia entre diez y treinta días."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "si",
+      "rationale": "Permite rechazar la conciliación y continuar la audiencia pública en el proceso de querella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 424. Audiencia de apelación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 41. Protocolo Base de Actuación Conjunta no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 200.- Extorsión no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 78.- Causales de extinción no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 278. Apelación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 1381-2022, Moquegua no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "parcial",
+      "rationale": "Prevé sobreseimiento por inasistencia injustificada del querellante, pero no aclara cómo justificar miedo u otro impedimento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 28. Valoración del riesgo no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "si",
+      "rationale": "Otorga al querellante facultades del Ministerio Público y permite interrogarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 83.- Interrupción de la prescripción de la acción penal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo interrogar testigos, sin explicar quién acusa cuando la víctima lleva directamente el caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 480. Revocación de los beneficios no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No desistimiento por llanto de víctima (RN 1178-2018, Lima) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 136. Contenido del Expediente Judicial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 215.- Modalidades de libramientos indebidos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 20.- Inimputabilidad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 366. Auxiliar Jurisdiccional no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "parcial",
+      "rationale": "Resuelve las defensas con la sentencia en querella, sin establecer el régimen general de otros procesos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "si",
+      "rationale": "Regula audiencia y momento de resolución de cuestiones previas, prejudiciales y excepciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada.- no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 480. Revocación de los beneficios no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 419.- Detención ilegal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_462_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 2451-2022, Cajamarca no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 229.- Omisión de deberes de funcionarios públicos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe inferir consentimiento de la conducta, pero no determina la invalidez de la aceptación de una menor de catorce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 157. Medios de prueba no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 9. Derecho a una vida libre de violencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 545. Penas no privativas de libertad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Apelación 312-2023, Lima no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 211. Examen corporal del imputado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 462. Auto de citación a juicio y audiencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 111.- Homicidio Culposo no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara irrelevante el consentimiento de menores de catorce años en actos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 124.- Lesiones Culposas no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 482-2024, Lima no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconduce a actos contra el pudor un caso de tocamientos y desistimiento del acceso carnal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "si",
+      "rationale": "Explica la recalificación a tocamientos por desistimiento voluntario del acceso carnal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 349. Contenido no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 482-2024, Lima no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 397. Correlación entre acusación y sentencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que basta penetración mínima para consumar la violación, sin resolver directamente el desistimiento previo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 50.- Concurso real de delitos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Desfloración y desgarro antiguo (RN 1384-2019, Santa) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 18. Actuación de los operadores de justicia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 299. Duración no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0015_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica tocamientos sin propósito de acceso carnal, pero no regula el desistimiento de una tentativa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00252_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Anula la absolución por valoración deficiente de cámara Gesell y ordena nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite prueba anticipada de niñas en cámara Gesell con grabación para evitar revictimización."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "Prohíbe confrontación y conciliación, sin regular el valor probatorio de declaraciones fiscales."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata legitimación para impugnar y cuantía de pena, no el valor de la declaración inicial."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata recursos contra devolución de acusación, no declaraciones fiscales."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula error culturalmente condicionado, no prueba de investigación."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Exige indicios suficientes para condenar, pero no determina el valor procesal de la declaración fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "Sanciona encubrimiento, no valor probatorio de declaraciones."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Delimita el inicio de persecución para encubrimiento, no el valor en sentencia de una declaración."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de prescripción, no valoración de declaraciones."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "si",
+      "rationale": "Distingue actos de investigación de actos de prueba para sentencia y señala las excepciones."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "Regula reserva y copias de investigación, no su eficacia probatoria para condenar."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Permite lectura limitada de actuaciones previas en apelación, sin explicar el valor general de la declaración fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "parcial",
+      "rationale": "Regula oralidad y recepción de pruebas en juicio, pero no la eficacia de la declaración fiscal previa."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "parcial",
+      "rationale": "Usa actos de investigación como fundamento de medidas coercitivas, sin establecer su valor para sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula proceso inmediato, no careo con menores."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula queja por inadmisibilidad de recursos, no confrontación de víctima y acusado."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe confrontar a la víctima con el agresor en procesos de violencia."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "Regula ubicación en sala y espera de testigos, no procedencia del careo."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Valora una manifestación policial del acusado, no el careo con la niña."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Excluye el careo entre acusado y víctima menor de catorce años salvo solicitud expresa de su representante o defensa."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Trata calificación del delito sexual en adolescentes, no el careo."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata derecho al silencio y suficiencia de prueba, no confrontación con la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata suficiencia de prueba en actos contra el pudor, no procedencia de careo."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula casación, no careo con menores."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones, no confrontación procesal."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud y servidumbre, no careo."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes del tráfico de migrantes, no confrontación procesal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

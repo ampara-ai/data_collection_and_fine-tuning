@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Sanciona incumplir alimentos ordenados judicialmente con prisión de hasta tres años o servicio comunitario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Agravaba la pena a uno a cuatro años cuando se abandona o renuncia maliciosamente al empleo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Aclara que la sanción se impone sin perjuicio de cumplir el mandato judicial de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Establece dos a cuatro años si el incumplimiento causa lesión grave previsible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona simular otra obligación alimentaria en connivencia, pero no se refiere a una deuda común con un amigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "si",
+      "rationale": "Fija penas de prisión o servicio comunitario y agravantes del incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Menciona pena máxima de tres años al explicar prescripción, pero no desarrolla las sanciones aplicables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se cumple servicio comunitario, pero no cuándo corresponde por incumplir alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_149_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la pena por incumplimiento alimentario."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

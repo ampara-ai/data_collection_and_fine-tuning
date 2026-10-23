@@ -1,0 +1,17 @@
+{
+ "_model": "claude-sonnet-5-5",
+ "judgments": [
+  {
+   "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+   "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+   "relevance": "si",
+   "rationale": "El criterio principal establece la obligacion estricta del Estado de prevenir y combatir la violencia contra ninas en escuelas, incluso por docentes."
+  },
+  {
+   "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+   "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+   "relevance": "parcial",
+   "rationale": "Describe un caso con fuga del agresor y prescripcion que genero responsabilidad estatal por impunidad, pero es jurisprudencia interamericana y no explica la via peruana ante la prescripcion."
+  }
+ ]
+}

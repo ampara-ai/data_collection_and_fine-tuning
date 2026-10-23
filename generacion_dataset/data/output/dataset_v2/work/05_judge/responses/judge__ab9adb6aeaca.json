@@ -1,0 +1,401 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Flexibiliza exactitud de detalles del relato, sin analizar demora en denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor del testimonio sexual sin resolver denuncia tardía."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "Regula traslado temporal de detenidos al extranjero."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera eximentes de responsabilidad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Analiza expresamente el efecto de denuncia tardía junto con contradicciones en la credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata valoración del relato infantil y corroboración sin resolver denuncia tardía."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Valora testimonio infantil ratificado años después, sin abordar demora en denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "Regula registro oral del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Regula instrucciones al imputado antes de declarar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula procedimiento por faltas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula condiciones protegidas de declaración sin resolver credibilidad por demora."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registro personal policial."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "Analiza confesión y reducción de pena sin relaciones de expareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deber de protección en violencia doméstica sin tipificar violación entre exparejas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica coacción genérica y no relaciones sexuales forzadas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Permite protección de integridad sexual sin tipificar la violación por expareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aclara acceso carnal mínimo sin resolver efecto del vínculo anterior de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso carnal bajo amenaza y contempla expresamente vínculos de expareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio testimonial."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "Regula inspección e incautación de documentos contables."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves familiares y no violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza validez de entrevista infantil sin tipificar violación entre exparejas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Regula tocamientos a menores de catorce y no a una adolescente de quince."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Analiza agravante por discapacidad no indicada en la pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "Trata reducción por edad del autor, no abuso de confianza."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento de menor de catorce, no agravación por confianza."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Agrava por parentesco y no por amistad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de medida sobre bienes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata ausencia de daño emocional, no agravación por confianza."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula clausura e inmovilización de bienes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual y no abuso cometido por amigo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Limita penas a acusación y petición fiscal sin identificar agravantes aplicables."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Contempla abuso de confianza y aprovechamiento de edad entre catorce y dieciocho como agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro sin agravación por grabar agresiones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula daños a bienes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud y servidumbre."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata obligación de investigar sin denuncias reiteradas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula interceptación estatal de comunicaciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Aumenta cinco años los extremos de pena por registrar o transmitir delitos sexuales enumerados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "Analiza beneficios por confesión y conclusión anticipada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Regula límites de la condena sin agravante por grabación o transmisión."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "Regula restricciones de comparecencia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "Regula registro de comunicaciones intervenidas judicialmente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata ausencia de afectación emocional y pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección y no agravación de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución procesal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos de suspensión y excluye agresiones familiares y otros delitos indicados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Califica daño psicológico sin reglas de pago indemnizatorio."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica reparación proporcional sin plazo de pago ni garantía judicial de cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata pena por violación sin afectación emocional."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "parcial",
+      "rationale": "Confirma reparación civil sin explicar plazo ni cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Confirma pago de reparación sin desarrollar cuándo ni cómo exigirlo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de terceros."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Dispone reparación durante la condena y garantía de cumplimiento a cargo del juez."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusa absolutoria de delitos patrimoniales familiares."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula determinación de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_123_01",
+      "relevance": "no",
+      "rationale": "Regula tipos de resoluciones judiciales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de condenas de extranjeros en su país."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0067::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

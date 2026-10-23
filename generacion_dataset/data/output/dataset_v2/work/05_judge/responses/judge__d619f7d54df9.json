@@ -1,0 +1,245 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "si",
+      "rationale": "Permite prorrogar o revocar el régimen de prueba ante incumplimiento imputable de las reglas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-C. Apelación de la medida de protección o cautelar no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "si",
+      "rationale": "Limita la prórroga a la mitad del plazo inicial y la acumulada a tres años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 66-2018, Cusco no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 7498-2014-54 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 237. Procedencia no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 80.- Plazos de prescripción de la acción penal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 190.- Apropiación ilícita común no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 289. La caución no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 274. Prolongación de la prisión preventiva no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_65_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_187_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 187. Traducción, Transcripción y Visualización de documentos no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 368.- Resistencia o desobediencia a la autoridad no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 7. Oportunidad de los medios de defensa no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 308. Desafectación y Tercería no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 111.- Homicidio Culposo no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154. Efectos de la nulidad no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 104. Facultades del actor civil no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23-B. Órganos de supervisión y apoyo de la ejecución de la medida de protección no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 1442-2022, Puno no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "si",
+      "rationale": "Describe condena por agresión de tía a sobrina menor y concreta la pena y su conversión a servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones de pocos días y su posible gravedad, pero no desarrolla el delito específico de agresión familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 80.- Plazos de prescripción de la acción penal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 8. Tipos de violencia no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 83.- Interrupción de la prescripción de la acción penal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2451-2022, Cajamarca no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "parcial",
+      "rationale": "Regula la declaración voluntaria del imputado, pero no la nulidad por omisión atribuible a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 104. Facultades del actor civil no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "si",
+      "rationale": "Descarta nulidad cuando la defensa no pidió oportunamente la declaración y no acredita perjuicio concreto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a declarar o guardar silencio y a un abogado, sin resolver la nulidad planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20.- Inimputabilidad no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no resuelve lo consultado en esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

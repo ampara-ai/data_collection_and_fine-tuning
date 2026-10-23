@@ -1,0 +1,185 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_291_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si el delito que denuncié es de poca gravedad, ¿el juez puede dejar al acusado libre sin ponerle restricciones mientras dura el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez puede prescindir de las restricciones más fuertes cuando el delito tiene sanción leve o las pruebas de la investigación no justifican esas restricciones."
+    },
+    {
+     "query": "Mi expareja no se presentó cuando lo citaron a declarar. ¿Qué pasa si no hace caso a la citación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el imputado incumple la citación, se ordena que la Policía lo lleve a la fuerza para su declaración o diligencia."
+    },
+    {
+     "query": "¿Pueden obligar a la fuerza a que el denunciado vaya a declarar si ignora los llamados de la fiscalía o del juzgado?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Ante el incumplimiento de la citación, el juez ordena su conducción compulsiva por la Policía."
+    },
+    {
+     "query": "Me da miedo que el agresor siga libre porque dicen que las pruebas son pocas. ¿Por qué a veces no le imponen ninguna restricción?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez no aplica restricciones más severas si el hecho tiene pena leve o los actos de investigación no las justifican."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_366_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Quién se encarga en el juzgado de avisar a los testigos y a las partes para que vayan el día del juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El auxiliar jurisdiccional del juzgado hace las notificaciones y coordina la asistencia puntual de fiscal, partes, abogados, testigos y peritos."
+    },
+    {
+     "query": "¿Quién guarda y se hace responsable de las actas y registros de lo que se dice durante el juicio contra mi agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El auxiliar jurisdiccional es responsable de elaborar y custodiar las actas del juicio y demás registros, incluidos los medios técnicos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_311_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Alguien se metió a vivir en mi casa sin permiso y me quitó la vivienda. ¿En cuánto tiempo pueden sacarlo mientras dura el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez ordena el desalojo preventivo en 24 horas y se ejecuta dentro de 72 horas de concedido."
+    },
+    {
+     "query": "¿Puedo pedir que me devuelvan mi vivienda de forma provisional antes de que termine todo el juicio por invasión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La víctima o el fiscal puede solicitar el desalojo y la entrega provisional de la posesión durante diligencias preliminares o en la investigación preparatoria."
+    },
+    {
+     "query": "¿Qué tengo que presentar para que el juez acepte sacar a quien ocupa mi terreno o casa de forma ilegal?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se acompañan elementos que acrediten el delito y el derecho del afectado, y debe haber motivo razonable de que se cometió el delito."
+    },
+    {
+     "query": "Si el ocupante apela la orden para sacarlo de mi casa, ¿se detiene el desalojo y cuánto demora la decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La apelación suspende la ejecución; el juez eleva el cuaderno en 24 horas y la Sala resuelve en tres días tras audiencia."
+    },
+    {
+     "query": "¿Qué debe hacer la policía cuando le aviso que me quitaron mi casa o terreno, y me dan algún documento?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La Policía informa al fiscal e investiga; el fiscal inspecciona el inmueble y el agraviado recibe copia certificada de lo actuado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_185_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja se llevó mis cosas y mi dinero de la casa sin permiso para quedárselos. ¿Eso es robo y qué pena tiene?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Apoderarse de un bien mueble ajeno sustrayéndolo para obtener provecho es hurto, con pena de uno a tres años de cárcel."
+    },
+    {
+     "query": "¿Cuántos años de cárcel puede recibir alguien que se lleva cosas que no son suyas sin usar violencia?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El hurto simple se sanciona con pena privativa de libertad de uno a tres años."
+    },
+    {
+     "query": "Mi expareja me cortó la luz y se conectó a mi servicio sin pagar. ¿También cuenta como quitarme algo mío?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La energía eléctrica, el gas, el agua y otras energías con valor económico se equiparan a bien mueble para el hurto."
+    },
+    {
+     "query": "¿Se considera delito si solo se llevó una parte de lo que era mío y otra parte era de los dos?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El hurto aplica aunque el bien sea total o parcialmente ajeno."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_11_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quiero que me paguen por el daño que me hizo mi agresor. ¿Quién puede pedirlo dentro del proceso penal, el fiscal o yo?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La acción civil corresponde al Ministerio Público y especialmente al perjudicado por el delito."
+    },
+    {
+     "query": "Si yo me meto como parte para reclamar el pago por el daño, ¿el fiscal deja de encargarse de ese reclamo?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el perjudicado se constituye en actor civil, el Ministerio Público pierde legitimación para intervenir en lo civil."
+    },
+    {
+     "query": "Mi agresor vendió un bien mío para que no me lo devuelva. ¿Se puede anular esa venta y recuperar lo que me quitó?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La acción civil incluye la restitución del bien y, si es posible, la nulidad de actos jurídicos, citando a los afectados."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_249_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Tengo miedo de que me tomen fotos o me reconozcan cuando vaya a declarar contra mi agresor. ¿Pueden evitarlo?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La Fiscalía y la Policía deben evitar que se fotografíe o filme a los protegidos y retirar ese material si los identifica."
+    },
+    {
+     "query": "Si tengo que esperar en el juzgado para declarar, ¿pueden darme un lugar aparte para no cruzarme con el denunciado?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se facilita un ambiente reservado, custodiado, de uso exclusivo para los protegidos que deban permanecer en dependencias judiciales."
+    },
+    {
+     "query": "Mi vida corre peligro por denunciar. ¿Pueden darme otra identidad o ayudarme a mudarme y cambiar de trabajo?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En casos excepcionales el juez, a pedido del fiscal, puede ordenar nueva identidad y medios económicos para cambiar de residencia o trabajo."
+    },
+    {
+     "query": "Cuando termine el juicio, ¿seguiré protegida si el peligro continúa o me dejan sola?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El fiscal decide si continúan las medidas de protección tras el proceso, si se mantiene el peligro grave."
+    },
+    {
+     "query": "¿Me ayudan con transporte seguro para ir a las diligencias si me amenazan por haber denunciado?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se facilitan traslados en vehículos adecuados para las diligencias a los agraviados y testigos protegidos."
+    }
+   ]
+  }
+ ]
+}

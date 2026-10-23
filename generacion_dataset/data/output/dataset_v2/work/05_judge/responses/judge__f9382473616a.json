@@ -1,0 +1,281 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0051::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza una retractación inducida por familiares, pero no regula el efecto jurídico del perdón o desistimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Considera trauma y edad al valorar testimonio, pero no determina obligación de volver al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficio de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencia y valoración en apelación, sin resolver comparecencia de víctimas de abuso infantil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Afirma que no es necesario que la víctima vuelva a ratificar en juicio para evitar revictimización."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Dispone entrevista única y limita la ampliación a aclaraciones o precisiones necesarias."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Analiza duración e identificación en pericia psicológica, sin resolver si debe repetirse la declaración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "Regula declaración del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "parcial",
+      "rationale": "Permite leer actuaciones previas en apelación, pero no establece la exención de nueva declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual de menores."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Exige conducción de testigos en tentativa de feminicidio, sin resolver la especial protección de víctimas de abuso infantil."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Regula validez de retractación y no obligación de comparecer nuevamente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé prueba anticipada y grabación para evitar revictimización, sin precisar si debe declarar otra vez tras años."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación cuando se realiza con empleo de arma."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza legitimación civil y penas por lesiones, no agravación de abuso por degradación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de investigación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula agravación por parentesco, no por humillación ni uso de cuchillo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "Analiza reducción por confesión y conclusión anticipada, no agravación por humillación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "Regula disminución por confesión sincera."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "Regula concurso real de delitos sin identificar degradación como agravante."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes del tráfico ilícito de migrantes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Prohíbe reducir pena por condición de trabajadora sexual y no aborda degradación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial por flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar amenazas y contexto de violencia, pero no establece incremento por degradación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa la pena cuando el agente procede con crueldad o para degradar a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula duración de detenciones, no incremento de condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil con la pena, exigible durante la condena y garantizada por el juez."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye suspensión de ejecución de la pena para delitos contra la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0051::q07",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "si",
+      "rationale": "Fija máximo temporal de treinta y cinco años y contempla cadena perpetua."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves y no concesión de medidas de protección con informe de ansiedad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de queja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Aprueba guía de evaluación psicológica, pero no determina cuándo su informe permite protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "Regula exclusión de una pericia penal por notificación defectuosa, no concesión de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor del informe psicológico para acreditar afectación, pero no la concesión de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato como falta y no medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "Regula tratamiento penitenciario del agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivar la relación entre maltrato emocional y psicológico, sin resolver protección por ansiedad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "si",
+      "rationale": "Permite medidas de protección ante indicadores de maltrato y reacción ansiosa ligada a los hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Regula sentencia de segunda instancia penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de proceso por faltas sin explicar el valor del informe para protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "si",
+      "rationale": "Establece procedencia de protección cuando la evaluación muestra maltrato y reacción ansiosa por los hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0008_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "si",
+      "rationale": "Permite deducir violencia psicológica de indicadores de maltrato y reacción ansiosa vinculada a lo denunciado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

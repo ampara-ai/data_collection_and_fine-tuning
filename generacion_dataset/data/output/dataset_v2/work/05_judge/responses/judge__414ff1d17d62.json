@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "no",
+      "rationale": "Trata la investigación culturalmente adecuada de violencia sexual en un conflicto armado, no la prevención ante amenazas de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "Regula el trámite de extradición, sin abordar protección frente a amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "si",
+      "rationale": "Establece el deber estatal de adoptar medidas eficaces ante un riesgo conocido de violencia contra la mujer."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "Regula copias de actuaciones procesales, no protección preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Contiene medidas preventivas frente al riesgo, incluidas restricciones de acercamiento y retirada de armas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves y sus penas, sin regular el deber de protección de la policía."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "Aborda la revictimización durante una investigación sexual, no la prevención ante amenazas armadas de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula la inasistencia del defensor a diligencias, sin relación con la protección solicitada."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula el registro personal para encontrar bienes relacionados con un delito, no la protección de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Declara el incumplimiento estatal por no proteger ante denuncias reiteradas y amenazas armadas en violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras, no medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber de investigar denuncias reiteradas de violencia doméstica, pero no desarrolla la protección preventiva ante el riesgo."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones y agravantes, sin establecer el deber policial de protección preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que los derechos del agresor no prevalecen sobre la vida y la integridad de las víctimas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Prevé agravación por vínculo de pareja y uso de arma, y una pena superior cuando concurren varias circunstancias."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0019::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye la gestación y el vínculo de pareja como agravantes de lesiones graves."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

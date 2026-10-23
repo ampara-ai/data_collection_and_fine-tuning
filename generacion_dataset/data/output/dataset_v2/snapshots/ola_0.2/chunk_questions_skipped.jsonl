@@ -1,0 +1,51 @@
+{"chunk_id": "chunk_tipo03_cpp_art_558_01", "split": "dev", "reason": "Trámite de entrega de personas a la Corte Penal Internacional; ninguna víctima lo preguntaría."}
+{"chunk_id": "chunk_tipo03_cpp_art_563_01", "split": "dev", "reason": "Cooperación con el Fiscal de la Corte Penal Internacional; administrativo e internacional."}
+{"chunk_id": "chunk_tipo03_cpp_art_213_01", "split": "dev", "reason": "Prueba de alcoholemia en conducción de vehículos; sin relación con la violencia familiar."}
+{"chunk_id": "chunk_tipo03_cpp_art_201-a_01", "split": "dev", "reason": "Informes técnicos de la Contraloría como pericia; trámite técnico sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_535_01", "split": "dev", "reason": "Cooperación judicial internacional: confidencialidad entre autoridades, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_512_01", "split": "dev", "reason": "Autoridad central de cooperación jurídica internacional, organización interna del Estado sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_541_01", "split": "dev", "reason": "Traslado de condenados extranjeros: asunto interestatal que ninguna víctima preguntaría."}
+{"chunk_id": "chunk_tipo03_cpp_art_375_01", "split": "dev", "reason": "Orden interno del debate en juicio, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_220_01", "split": "test", "reason": "Trámite técnico interno sobre registro y custodia de bienes incautados."}
+{"chunk_id": "chunk_tipo03_cpp_art_496_01", "split": "test", "reason": "Competencia técnica sobre terceros que reclaman bienes decomisados."}
+{"chunk_id": "chunk_tipo03_cpp_art_526_01", "split": "test", "reason": "Trámite interno entre autoridades para pedidos de extradición."}
+{"chunk_id": "chunk_tipo03_cpp_art_354_01", "split": "test", "reason": "Trámite técnico interno de notificación y remisión de expedientes entre jueces; no genera una pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_238_01", "split": "test", "reason": "Detalle técnico interno de lo que el fiscal debe indicar en un pedido judicial; ninguna víctima lo preguntaría."}
+{"chunk_id": "chunk_tipo03_cpp_art_69_01", "split": "test", "reason": "Norma de organización interna sobre instrucciones generales del Fiscal de la Nación; ninguna víctima lo preguntaría."}
+{"chunk_id": "chunk_tipo01_ley30364_art_35_01", "split": "test", "reason": "Artículo organizativo sobre una comisión estatal; ninguna víctima lo preguntaría."}
+{"chunk_id": "chunk_tipo03_cpp_art_548_01", "split": "test", "reason": "Ejecución de inhabilitación impuesta por tribunal extranjero; cooperación internacional sin pregunta de víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_560_01", "split": "train", "reason": "Detención provisional a pedido de la Corte Penal Internacional; trámite internacional sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_228_01", "split": "train", "reason": "Reexamen de interceptación de comunicaciones del afectado; trámite técnico de investigación sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_481_01", "split": "train", "reason": "Acuerdo de colaboración de un colaborador eficaz; trámite técnico interno sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_120_01", "split": "train", "reason": "Reglas formales sobre actas y firmas, trámite técnico interno sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_438_01", "split": "train", "reason": "Trámite interno del recurso de queja entre órganos judiciales."}
+{"chunk_id": "chunk_tipo03_cpp_art_217_01", "split": "train", "reason": "Detalles técnicos del registro y allanamiento por el fiscal, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_544_01", "split": "train", "reason": "Trámite administrativo interno para el traslado de condenados desde el extranjero."}
+{"chunk_id": "chunk_tipo05_mimp_protocolo_base_2019_01", "split": "train", "reason": "Solo aprueba un protocolo y no tiene contenido útil para una pregunta de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_546_01", "split": "train", "reason": "Trámite técnico sobre cumplimiento en el extranjero de penas no privativas de libertad de condenados extranjeros; no genera pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo04_jp_00651_e0006_01", "split": "train", "reason": "Sanción disciplinaria a un abogado defensor por conducta temeraria; sin utilidad para una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_547_01", "split": "train", "reason": "Cooperación internacional para ejecutar multas extranjeras; no genera pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_514_01", "split": "train", "reason": "Trámite interno de extradición entre autoridades del Estado."}
+{"chunk_id": "chunk_tipo03_cpp_art_16_01", "split": "train", "reason": "Lista de órganos judiciales de organización interna sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_521-c_01", "split": "train", "reason": "Audiencia de extradición ante la Corte Suprema; trámite técnico sin relación con preguntas de víctimas."}
+{"chunk_id": "chunk_tipo03_cpp_art_458_01", "split": "train", "reason": "Transformación del proceso inmediato al común durante el juicio; trámite técnico interno."}
+{"chunk_id": "chunk_tipo03_cpp_art_261-a_01", "split": "train", "reason": "Impedimento de pedir detención contra policías que usan armas; sin relación con la víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_365_01", "split": "train", "reason": "Delito cometido durante el juicio, procedimiento interno del juez sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_397_01", "split": "train", "reason": "Regla técnica de congruencia entre acusación y sentencia para jueces, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_206_01", "split": "train", "reason": "Controles policiales en vías públicas, sin relación con una pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_226_01", "split": "train", "reason": "Intervención reservada de correspondencia del investigado, trámite técnico sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_481-a_01", "split": "train", "reason": "Uso de declaraciones de colaboradores eficaces, tema técnico ajeno a las víctimas."}
+{"chunk_id": "chunk_tipo03_cpp_art_473_01", "split": "train", "reason": "Procedimiento de colaboración eficaz entre fiscal y aspirante; trámite técnico sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_559_01", "split": "train", "reason": "Detención y libertad provisional por entrega a la Corte Penal Internacional; ajeno a la situación de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_566_01", "split": "train", "reason": "Ejecución de penas de la Corte Penal Internacional; no genera pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_8_01", "split": "train", "reason": "Trámite de defensas técnicas del imputado; procedimiento interno sin pregunta natural de víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_64_01", "split": "train", "reason": "Forma de redactar disposiciones del Ministerio Público; trámite técnico interno."}
+{"chunk_id": "chunk_tipo03_cpp_art_246_01", "split": "train", "reason": "Apelación contra decisión sobre prueba anticipada; trámite técnico interno."}
+{"chunk_id": "chunk_tipo03_cpp_art_29_01", "split": "train", "reason": "Competencia de los juzgados de investigación preparatoria; organización judicial interna."}
+{"chunk_id": "chunk_tipo04_jp_00052_e0020_01", "split": "train", "reason": "Guía médico legal administrativa sin contenido sustantivo; solo metadatos, no permite responder ninguna pregunta."}
+{"chunk_id": "chunk_tipo04_jp_00138_e0107_01", "split": "train", "reason": "Resolución administrativa que solo aprueba una guía para psicólogos forenses; sin contenido que una víctima pueda preguntar ni responder."}
+{"chunk_id": "chunk_tipo03_cpp_art_237_01", "split": "train", "reason": "Clausura o vigilancia de locales como medida de investigación, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_234_01", "split": "train", "reason": "Aseguramiento de documentos contables por el fiscal, trámite técnico sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_240_01", "split": "train", "reason": "Forma técnica de levantar actas en una diligencia, sin pregunta natural de una víctima."}
+{"chunk_id": "chunk_tipo03_cpp_art_537_01", "split": "train", "reason": "Trámite técnico de cooperación judicial internacional para traslado de detenidos; ninguna víctima lo preguntaría."}
+{"chunk_id": "chunk_tipo01_ley30364_art_39-b_01", "split": "train", "reason": "Obligación administrativa de gobiernos regionales de rendir cuentas en audiencias públicas; ninguna víctima lo preguntaría."}

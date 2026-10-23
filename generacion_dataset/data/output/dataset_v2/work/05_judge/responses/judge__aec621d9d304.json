@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_75_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "si",
+      "rationale": "El juez ordena un examen por perito especializado ante razones fundadas de inimputabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_75_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "si",
+      "rationale": "Tras pericia y audiencia, el juez puede promover el procedimiento de seguridad si acredita la inimputabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_75_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "si",
+      "rationale": "Permite que una parte solicite el examen especializado cuando exista razón fundada de inimputabilidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

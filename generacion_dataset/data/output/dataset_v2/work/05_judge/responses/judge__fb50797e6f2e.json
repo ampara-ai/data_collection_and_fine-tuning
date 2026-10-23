@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00382_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige obtener pruebas alternativas y evitar repetir el testimonio para no revictimizar."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Distribuye la conducción jurídica fiscal y la investigación material policial por etapas."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Distingue la estrategia jurídica fiscal de la operativa policial y exige coordinación."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Obliga al fiscal a disponer diligencias preliminares de inmediato al conocer el delito."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 404.- Encubrimiento personal» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 173. Nombramiento» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 44. Centro de Altos Estudios» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 191.- Sustracción de bien propio» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 334. Calificación» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 20.- Inimputabilidad» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Faculta al fiscal a proteger y aislar indicios para evitar su desaparición o destrucción."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios]» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 264. Plazo de la detención» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 324. Reserva y secreto de la investigación» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash)» no establece la protección y preservación de los indicios en la escena de la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal o juez desplazarse a cualquier lugar nacional para conocer elementos decisivos."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "si",
+      "rationale": "Permite revisar las medidas de coerción y disponer libertad al dictar el auto de enjuiciamiento."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 334. Calificación» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 249. Medidas adicionales» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 461. Investigación preliminar» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 208.- Excusa absolutoria. Exención de Pena» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Exp. 03590-2019-89, f.j. 4.d» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones grabadas de menores para evitar revictimización, sin regular la coordinación institucional general."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Exige cooperación, protocolos y estrategias coordinadas entre Ministerio Público y Policía."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar testimonios repetidos y buscar otras pruebas, sin detallar la coordinación entre oficinas."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Limita diligencias revictimizantes con menores, pero no establece reglas generales de trabajo conjunto."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige atención efectiva y actuación sin dilaciones, sin precisar protocolos conjuntos ni repetición de declaraciones."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 243. Requisitos de la solicitud» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00382_e0010::q07",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 36. Inhabilitación» no establece la coordinación policial y fiscal para evitar declaraciones repetidas de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_352_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Exige resolver inmediatamente o diferir excepcionalmente hasta cuarenta y ocho horas y notificar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_352_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Permite corregir defectos en audiencia o devolver la acusación para subsanación por cinco días."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_352_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Exige aporte específico, pertinencia, utilidad y conducencia, e identificar los puntos de testimonios y peritajes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 430. Interposición y admisión» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 5. Definición de violencia contra las mujeres» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 8. Trámite de los medios de defensa» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Signos de agresión no consumada (RN 143-2009, Ica)» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 117. Tiempo» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 215.- Modalidades de libramientos indebidos» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 425. Sentencia de segunda instancia» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020]» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 66.- Revocación del régimen de prueba» no establece la exclusión de una pericia psicológica por omitir la notificación a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "si",
+      "rationale": "Confirma la exclusión de la pericia por falta de notificación oportuna a la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige notificar oportunamente la fecha, hora y lugar para garantizar la participación de la defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "si",
+      "rationale": "Relata la casación fiscal contra la exclusión, declarada infundada, y la confirmación de la exclusión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00256_e0001_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "si",
+      "rationale": "Admite excepcionalmente otra fecha, pero exige emplazar debidamente a la defensa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

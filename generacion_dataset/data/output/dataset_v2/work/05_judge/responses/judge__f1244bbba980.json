@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0021::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava las lesiones graves cuando víctima y agresor tienen hijos en común, aunque no convivan."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0021::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Mantiene la condición agravante por hijos en común o expareja con independencia de la convivencia actual."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0021::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Prevé agravación de las lesiones graves cuando la mujer es lesionada por su condición de tal en los contextos señalados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_29_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "si",
+      "rationale": "Atribuye al Estado la creación permanente de refugios y al Ministerio de la Mujer su registro, acreditación y monitoreo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_29_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Declara confidencial la información de registro y acreditación de refugios, sin especificar expresamente la reserva de su ubicación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

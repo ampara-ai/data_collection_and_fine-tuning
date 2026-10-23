@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar presiones familiares al valorar retractación y anuló la absolución que omitió ese análisis."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige autenticar y ratificar certificados privados antes de reconocerles valor probatorio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige considerar dependencia económica y presión familiar para valorar la retractación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

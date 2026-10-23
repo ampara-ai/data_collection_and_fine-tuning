@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "si",
+      "rationale": "Dispone intérprete para testigos sordos y extiende esas reglas a la persona agraviada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "si",
+      "rationale": "Permite declaración privada, apoyo psicológico y acompañamiento de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_318_01",
+      "relevance": "si",
+      "rationale": "Reconoce al propietario ajeno a la imputación participación, audiencia y oposición a la incautación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_318_01",
+      "relevance": "si",
+      "rationale": "Permite uso provisional condicionado del bien incautado si no compromete los fines de aseguramiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

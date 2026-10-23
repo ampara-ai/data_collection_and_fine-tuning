@@ -1,0 +1,149 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_402_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si al hombre que me agredió lo condenan pero apela, ¿igual tiene que empezar a cumplir su castigo o se queda libre hasta que resuelvan?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La condena penal se cumple provisionalmente aunque se apele, salvo que la pena sea multa o restricción de derechos."
+    },
+    {
+     "query": "Mi agresor estaba en la calle durante el juicio y lo sentenciaron a cárcel. ¿Se lo llevan de inmediato o puede seguir libre mientras apela?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si estaba libre y la condena es de cárcel efectiva, el juez decide según gravedad y riesgo de fuga si lo encarcela ya o le impone restricciones mientras se resuelve la apelación."
+    },
+    {
+     "query": "¿En qué casos el condenado no tiene que cumplir su castigo mientras apela?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La ejecución provisional no aplica cuando la pena es multa o limitativa de derechos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_94_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana murió por la violencia de su esposo. ¿Quién de la familia puede participar en el proceso como parte afectada?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el delito causa la muerte, quienes están en el orden de herederos según el Código Civil tienen la condición de agraviados."
+    },
+    {
+     "query": "¿Quién cuenta como víctima en un caso penal además de la persona que recibió el golpe directamente?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Es agraviado quien resulta directamente ofendido por el delito o perjudicado por sus consecuencias."
+    },
+    {
+     "query": "Mi hijo tiene una discapacidad mental y fue maltratado. ¿Quién puede actuar en el proceso en su nombre?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "En el caso de personas incapaces, la representación corresponde a quienes la ley designe."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija no quiso contar nada al principio porque dependemos del dinero del hombre que abusó de ella. ¿Eso hace que no le crean?",
+     "topic": "violencia_sexual",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La falta de declaración inicial de la víctima puede explicarse por su dependencia económica y afectiva, y los jueces deben valorarlo con enfoque de género."
+    },
+    {
+     "query": "Si la víctima de abuso sexual no declaró antes, ¿pueden absolver al acusado solo por eso aunque haya otras pruebas?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No basta exigir declaración previa; hay que valorar testigos, pericias psicológicas y otros indicios, y por motivación insuficiente se anuló la absolución."
+    },
+    {
+     "query": "Me da miedo denunciar porque creo que sin mi testimonio no hay caso. ¿Qué otras pruebas pueden servir?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El Estado debe investigar todas las líneas posibles y la prueba no se limita al testimonio de la víctima: testigos, pericias, indicios."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_204_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un juez ordenó una medida en mi contra y no estoy de acuerdo. ¿Cuántos días tengo para pedir que la revisen otra vez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal o el afectado pueden apelar dentro del tercer día de ejecutada la medida."
+    },
+    {
+     "query": "Cambiaron mis circunstancias y quiero que el juez revise de nuevo la medida que me impuso. ¿Se puede pedir?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El afectado puede solicitar reexamen ante el juez si hay nuevas circunstancias, y contra lo que resuelva cabe apelación."
+    },
+    {
+     "query": "¿Quién decide cuando alguien apela una decisión de un juez de investigación y se hace una audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La Sala Penal Superior resuelve la apelación previa audiencia con los sujetos procesales."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi sobrina fue abusada por un tío de la familia cuando era niña. ¿La pueden obligar a declarar otra vez delante del juez en el juicio?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Normalmente se evita que la menor vuelva a declarar, pero excepcionalmente el juez puede disponerlo en ciertos supuestos."
+    },
+    {
+     "query": "Mi hija quiere cambiar lo que dijo antes sobre el abuso. ¿El juez puede llamarla a declarar de nuevo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez puede ordenar examen de la menor en juicio si ella lo solicita o se retracta, entre otros supuestos."
+    },
+    {
+     "query": "¿Se puede hacer que mi hija declare sin que tenga que ver cara a cara al hombre que abusó de ella?",
+     "topic": "violencia_sexual",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Uno de los supuestos de examen excepcional es evitar el contacto entre la víctima y el procesado, protegiéndola de la revictimización."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_40_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Hay algún registro del Estado donde figuren las víctimas y los agresores de violencia familiar?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Entre los mecanismos del sistema existe un Registro Único de Víctimas y Agresores."
+    },
+    {
+     "query": "¿Existe alguna institución que estudie y haga seguimiento a la violencia contra las mujeres en el país?",
+     "topic": "otro",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El sistema incluye un Observatorio Nacional de la Violencia y un Centro de Altos Estudios sobre el tema."
+    }
+   ]
+  }
+ ]
+}

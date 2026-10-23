@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "si",
+      "rationale": "Exime de denunciar contra parientes hasta el segundo grado de afinidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "si",
+      "rationale": "Contempla la excepción a denunciar por secreto profesional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "si",
+      "rationale": "Exige medidas preventivas razonables ante riesgo conocido y considera insuficiente limitarse a interrogar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal por omitir protección ante riesgo conocido de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "si",
+      "rationale": "Presume afectación de la integridad de familiares directos de víctimas de tortura sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "si",
+      "rationale": "Incluye hermanos entre familiares directos presumidos víctimas de graves violaciones."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,197 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 10 años ya contó lo que le pasó en una sala especial con psicóloga. ¿Tendrá que volver a contarlo delante del juez en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La declaración de la menor en cámara Gesell durante la investigación puede leerse o reproducirse en juicio, evitando que la niña repita su relato y se revictimice."
+    },
+    {
+     "query": "El abogado del acusado dice que la declaración de mi sobrina no vale porque se tomó antes del juicio. ¿Es cierto que se puede anular esa prueba?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La declaración tomada en investigación es válida en juicio si estuvo presente un defensor y hubo motivo fundado, como evitar revictimizar."
+    },
+    {
+     "query": "¿Qué condiciones se exigen para que lo que dijo una niña abusada en la entrevista especial se use después contra el agresor?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe haber intervenido el defensor del acusado o haber sido emplazado, y existir un motivo fundado como la urgencia o el riesgo de revictimización."
+    },
+    {
+     "query": "Tengo miedo de que mi hijo menor sufra más si lo hacen declarar muchas veces sobre el tocamiento. ¿Hay forma de evitarlo?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se prioriza evitar la revictimización: la declaración única en cámara Gesell puede usarse luego en juicio, incluso si se tomó como acto de investigación por urgencia."
+    },
+    {
+     "query": "Un tipo fue condenado por tocar a una menor y apeló diciendo que la prueba era ilegal. ¿Le dieron la razón?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El recurso fue rechazado y se confirmó la condena porque la prueba era válida al haber participado el defensor público."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_102_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Pedí al juez que me deje participar en el proceso para cobrar una compensación por el daño. ¿En cuántos días me responde?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez debe resolver la solicitud dentro del tercer día tras notificar a las partes."
+    },
+    {
+     "query": "Si el acusado no quiere que me admitan como parte para pedir dinero por el daño, ¿qué pasa con mi pedido?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si alguna parte se opone por escrito fundamentado dentro de tres días hábiles, se aplica el trámite previsto para resolver esa oposición."
+    },
+    {
+     "query": "¿Quién avisa a la otra parte de que quiero ser reconocida para reclamar una indemnización en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez recaba información del fiscal sobre las partes del caso y les notifica la solicitud antes de resolver."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermano murió por violencia y toda la familia sufre. ¿Solo los padres e hijos pueden reclamar una reparación o también los demás parientes?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se presume daño en familiares directos (padres, hijos, cónyuges); otros parientes deben demostrar vínculo estrecho, participación en buscar justicia o sufrimiento propio."
+    },
+    {
+     "query": "Soy tía y crié a mi sobrina que sufrió un crimen grave. ¿Puedo ser considerada afectada aunque no sea su mamá?",
+     "topic": "reparacion_civil",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Un familiar no directo puede ser reconocido como víctima si prueba un vínculo particularmente estrecho o su propio sufrimiento."
+    },
+    {
+     "query": "¿Tengo que demostrar que sufrí por lo que le pasó a mi madre, o se da por hecho que me afectó siendo su hija?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Para hijos, padres y cónyuges se presume el daño psíquico y moral, aunque admite prueba en contrario."
+    },
+    {
+     "query": "He estado buscando justicia por mi primo desaparecido, aunque no vivíamos juntos. ¿Eso cuenta para que me reconozcan como afectado?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "La participación activa en la búsqueda de justicia es uno de los factores para reconocer a familiares no directos como víctimas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_260_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Vi que un hombre estaba golpeando a su pareja en la calle. ¿Puedo detenerlo yo misma hasta que llegue la policía?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Cualquier persona puede arrestar a alguien sorprendido cometiendo un delito, pero debe entregarlo de inmediato a la policía."
+    },
+    {
+     "query": "Si atrapamos a un agresor en el acto, ¿podemos encerrarlo en una casa hasta que vengan los agentes?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No se permite encerrar ni mantener privada de libertad a la persona en lugar público o privado hasta entregarla a la policía."
+    },
+    {
+     "query": "¿Cuánto tiempo tengo para llevar a la comisaría a alguien que sorprendí haciendo daño a mi hermana?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La entrega debe ser inmediata, es decir el tiempo necesario para ir a la dependencia policial más cercana o al policía cercano."
+    },
+    {
+     "query": "Cuando entrego a una persona que atrapé en el acto, ¿también debo dar los objetos que usó para el delito?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se debe entregar al arrestado junto con las cosas que constituyen el cuerpo del delito, y se levanta un acta de la entrega."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_21_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me defendí de mi pareja que me atacaba, pero quizá me excedí un poco. ¿Me pueden dar una pena menor por eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si no se cumplen todos los requisitos de la defensa propia, el juez puede reducir la pena por debajo del mínimo legal."
+    },
+    {
+     "query": "Para protegerme de un agresor usé el arma que tengo registrada a mi nombre. ¿Qué pasará con esa arma?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El arma de fuego legalmente inscrita usada para repeler la agresión será incautada dentro de las 48 horas requeridas por la autoridad para las investigaciones."
+    },
+    {
+     "query": "Tengo miedo de ir presa si me defendí de quien me golpeaba y no cumplí todo lo que exige la ley. ¿Qué puede decidir el juez?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede disminuir prudencialmente la pena a límites inferiores al mínimo cuando falta algún requisito de la defensa legítima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Ya me separé de mi esposo hace años pero sigue acosándome. ¿Esta ley todavía me protege aunque ya no estemos juntos?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La protección alcanza a excónyuges y exconvivientes además de las mujeres de todas las edades."
+    },
+    {
+     "query": "Mi suegra vive en nuestra casa y me maltrata. ¿Puedo pedir ayuda por esta ley aunque no sea mi madre?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se protege a parientes por afinidad y a quienes viven en el mismo hogar si no hay relación laboral o contractual."
+    },
+    {
+     "query": "No vivo con el papá de mi hijo ni nunca nos casamos. ¿Igual me cubre la ley si me agrede?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quienes tienen hijos en común están protegidos aunque no convivan ni estén casados."
+    },
+    {
+     "query": "Tengo 75 años y mi nieto me grita y me golpea. ¿Una persona mayor también puede pedir protección?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las mujeres están protegidas en todas las etapas de vida, incluida adulta mayor, y los descendientes forman parte del grupo familiar."
+    },
+    {
+     "query": "La empleada que trabaja en mi casa recibe malos tratos de mi marido. ¿Ella cuenta como protegida por esta ley?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quienes habitan en el mismo hogar quedan protegidos solo si no media una relación contractual o laboral."
+    },
+    {
+     "query": "¿Un primo o un tío que me agrede se considera familia para pedir ayuda por violencia?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se incluyen parientes colaterales hasta el cuarto grado de consanguinidad y segundo de afinidad."
+    }
+   ]
+  }
+ ]
+}

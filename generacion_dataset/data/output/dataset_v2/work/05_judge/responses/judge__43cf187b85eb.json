@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Autoriza retirar al agresor aun sin ser propietario exclusivo y contempla expresamente el inmueble conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Permite prohibir comunicaciones por teléfono, chat y redes sociales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Prevé prohibir tenencia y porte de armas, cancelar la licencia e incautarlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Prevé una asignación económica de emergencia para la víctima y sus dependientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes de responsabilidad penal, no alojamiento de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El ambiente seguro corresponde a la declaración, no a un albergue."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Permite medidas de protección por violencia psicológica sin precisar alojamiento seguro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Expone fines de las penas, no servicios de acogida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional, no albergues de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones y sus penas, sin ofrecer alojamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Establece plazos y garantías de detención, no protección residencial de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Remite el riesgo de la víctima a medidas de protección, sin especificar albergue."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "Regula incautaciones durante allanamientos, no alojamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Contempla albergue de la víctima en un establecimiento que garantice su seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Valida medidas urgentes de protección sin audiencia previa, pero no identifica alojamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige implementar efectivamente las medidas de protección sin indicar albergues."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula clausura de locales e inmovilización de pruebas, no alojamiento seguro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Permite prohibir disponer de bienes comunes y retirar a los niños del cuidado familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_324_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de prisión preventiva, no acceso de la denunciante a copias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0058_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "si",
+      "rationale": "Declara irrelevante el consentimiento de menores de catorce años para la condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0058_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "si",
+      "rationale": "Precisa que se confirmó una pena de treinta años de prisión por ese caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

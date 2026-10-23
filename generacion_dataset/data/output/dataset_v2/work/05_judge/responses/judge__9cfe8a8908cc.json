@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_31_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "si",
+      "rationale": "Enumera servicios comunitarios, limitación de días libres e inhabilitación como penas limitativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_31_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente servicios a la comunidad e inhabilitación entre las penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_31_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "si",
+      "rationale": "Proporciona la lista de las tres penas limitativas de derechos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

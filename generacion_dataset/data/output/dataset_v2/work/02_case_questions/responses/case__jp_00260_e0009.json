@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "El juez ordenó que me cuiden, pero la policía tardó semanas en ponerlo en práctica y mi familia fue amenazada. ¿Qué puedo reclamar?",
+   "topic": "medidas_proteccion",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00260_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia señala que las medidas de protección deben ejecutarse de forma inmediata y constante.",
+   "expected_answer_focus": "Que las autoridades deben aplicar de inmediato y mantener las medidas ordenadas; su demora las vuelve inefectivas.",
+   "victim_voice_rationale": "Víctima desprotegida por la demora en ejecutar la protección."
+  },
+  {
+   "query": "Temo que él se entere dónde vivo y trabajo. ¿Pueden ocultar mis datos, mandarme vigilancia o mudarme a otro sitio?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_248_01"
+   ],
+   "positive_selection_reason": "El art. 248 CPP lista las medidas para resguardar identidad, domicilio y seguridad del protegido.",
+   "expected_answer_focus": "Qué medidas puede dictar el fiscal o juez: resguardo policial, cambio de residencia, reserva de datos y otras.",
+   "victim_voice_rationale": "Víctima con miedo a ser ubicada por su agresor."
+  },
+  {
+   "query": "Quiero saber cuánto tiempo como máximo puede estar preso el que me hizo daño mientras lo juzgan. Temo que lo suelten pronto.",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_272_01"
+   ],
+   "positive_selection_reason": "El art. 272 CPP fija la duración máxima de la prisión preventiva.",
+   "expected_answer_focus": "Los límites de tiempo de la prisión preventiva según el tipo de proceso.",
+   "victim_voice_rationale": "Víctima que teme la liberación temprana del agresor."
+  },
+  {
+   "query": "Si el agresor se escapa y la policía no lo encuentra, ¿el juez puede mandar que lo busquen y lo detengan aunque no lo hayan pillado en el acto?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_261_01"
+   ],
+   "positive_selection_reason": "El art. 261 CPP regula la detención preliminar cuando no hay flagrancia o el agresor evade la captura.",
+   "expected_answer_focus": "Cuándo el juez dicta detención preliminar y cómo se ordena su ejecución.",
+   "victim_voice_rationale": "Familiar angustiada porque el agresor sigue libre."
+  },
+  {
+   "query": "Al que me secuestró le dieron arresto en su casa y no cárcel. ¿El juez puede decidir eso sin explicar por qué?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_254_01"
+   ],
+   "positive_selection_reason": "El art. 254 CPP exige resolución motivada con finalidades y duración al imponer medidas restrictivas.",
+   "expected_answer_focus": "Que las medidas restrictivas requieren resolución motivada con hechos, fundamentos y plazo.",
+   "victim_voice_rationale": "Víctima indignada por una decisión judicial sin explicación."
+  },
+  {
+   "query": "Si él puede matarnos a mis hijos y a mí en cualquier momento, ¿nos ayudan a irnos a vivir a otro país un tiempo?",
+   "topic": "medidas_proteccion",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_248_01"
+   ],
+   "positive_selection_reason": "El art. 248 CPP prevé facilitar la salida del país ante riesgo grave e inminente.",
+   "expected_answer_focus": "Que ante riesgo grave e inminente puede facilitarse la salida del país con calidad migratoria temporal.",
+   "victim_voice_rationale": "Madre en riesgo que busca una salida segura."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

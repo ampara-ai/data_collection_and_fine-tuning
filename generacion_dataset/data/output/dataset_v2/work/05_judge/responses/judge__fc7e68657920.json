@@ -1,0 +1,137 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 212. Examen corporal de otras personas» y no aporta información para resolver la ausencia de resistencia por miedo como supuesto consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» y no aporta información para resolver la ausencia de resistencia por miedo como supuesto consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 147. Renuncia de plazos» y no aporta información para resolver la ausencia de resistencia por miedo como supuesto consentimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "si",
+      "rationale": "Dispone ficha de riesgo, citación a audiencia y pruebas de oficio cuando sean necesarias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "si",
+      "rationale": "Exige considerar la ficha de riesgo, antecedentes, gravedad y posibilidad de nueva agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "si",
+      "rationale": "Ordena aplicar la ficha de valoración de riesgo al tramitar la denuncia ante el juzgado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11]» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 203. Presupuestos» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 293. Presupuestos» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "Fundamenta la protección en instrumentos objetivos de valoración del riesgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este]» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona el riesgo para la víctima con medidas protectoras, pero no describe la evaluación inicial de la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 559. Plazo de la detención y libertad provisional» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 478. Colaboración durante las otras etapas del proceso contradictorio» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» y no aporta información para resolver la valoración del riesgo al presentar la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 198.- Administración fraudulenta» y no aporta información para resolver la toma inicial de huellas del denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 21.- Responsabilidad restringida» y no aporta información para resolver la toma inicial de huellas del denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 117. Tiempo» y no aporta información para resolver los errores en el apellido del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 14.- Error de tipo y error de prohibición» y no aporta información para resolver los errores en el apellido del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 143.- Alteración o supresión del estado civil» y no aporta información para resolver los errores en el apellido del imputado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

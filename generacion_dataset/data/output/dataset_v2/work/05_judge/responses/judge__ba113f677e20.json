@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_513_01",
+      "relevance": "si",
+      "rationale": "Permite extraditar al procesado o condenado para juicio o cumplimiento de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "si",
+      "rationale": "Explica responsabilidad del participante en el plan que crea intimidación sin penetrar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "si",
+      "rationale": "No exige sujeción física para cooperación necesaria en el ataque grupal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

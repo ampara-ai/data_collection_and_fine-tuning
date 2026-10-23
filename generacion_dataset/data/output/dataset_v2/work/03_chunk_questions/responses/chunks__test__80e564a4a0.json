@@ -1,0 +1,93 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_491_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja fue condenado pero le dieron pena en libertad condicional a prueba y no cumple las reglas. ¿Se puede pedir que lo manden a la cárcel y quién lo decide?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal, el condenado o su defensor pueden plantear ante el juez la revocación de la suspensión de la pena, que se resuelve en cinco días tras una audiencia."
+    },
+    {
+     "query": "Si no estoy de acuerdo con lo que decide el juez sobre cuándo termina la condena de mi agresor, ¿a qué tribunal se puede reclamar?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "En todos estos incidentes el recurso de apelación lo conoce la Sala Penal Superior."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_78_01",
+   "skip": true,
+   "skip_reason": "Trámite interno de informes del director de un hospital al fiscal y juez sobre un procesado; ninguna víctima lo preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_9_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno sobre el envío de copias del expediente a la Sala Superior en una apelación; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija adolescente fue tocada por un profesor de su colegio público y me da miedo que no pase nada. ¿El Estado tiene alguna obligación de protegerla?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los Estados deben adoptar todas las medidas apropiadas para prevenir y sancionar la violencia contra niñas en las escuelas, especialmente por parte de docentes con autoridad."
+    },
+    {
+     "query": "Denunciamos a un directivo del colegio por abusar de una alumna, pero se escapó y el caso quedó olvidado con los años. ¿Eso puede traer responsabilidad al Estado?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte declaró responsable al Estado por la falta de prevención y sanción y por la impunidad, tras prescribir la acción penal con el agresor prófugo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_156_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Trabajé como empleada en una casa y mi exjefe cuenta a otros cosas muy privadas de la familia que supo por mí. ¿Eso tiene castigo?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien revela aspectos de la intimidad personal o familiar conocidos por su trabajo para la víctima puede ser sancionado con pena de hasta un año de cárcel."
+    },
+    {
+     "query": "¿Cuántos años de cárcel puede tener alguien que cuenta secretos de mi familia que supo por haber trabajado para nosotros?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La pena privativa de libertad es no mayor de un año."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_127_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a mi pareja y quiero saber en cuánto tiempo me avisan lo que decide el juez o el fiscal sobre mi caso.",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las resoluciones y disposiciones deben notificarse a las partes por medio físico o electrónico dentro de las veinticuatro horas de dictadas, salvo plazo menor."
+    },
+    {
+     "query": "Tengo abogado en mi proceso. ¿Los avisos del juzgado me llegan a mí o solo a él?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si las partes tienen defensor, las notificaciones se dirigen solo a este, salvo que la ley o la naturaleza del acto exijan notificar también a la parte."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "corpus_path": "/Users/renato/universidad/tp/peru-legal-rag-data/recoleccion/data/processed/document_chunks_all.jsonl",
+ "corpus_sha256": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
+ "prompts_sha256": "2663ce751569759b2418d6a504abfc417bbfd905d4e0a5580d1c49fdf0569667",
+ "params": {
+  "SEED": 520,
+  "TEST_FRAC": 0.2,
+  "DEV_FRAC": 0.1,
+  "CHUNK_QUESTIONS": {
+   "train": 6,
+   "dev": 3,
+   "test": 2
+  },
+  "MAX_LEXICAL_OVERLAP": 0.3,
+  "N_NEG_SELECT": 12,
+  "N_NEG_FINAL": 10,
+  "NEG_MIN_RANK": 5,
+  "NEG_MAX_SCORE_RATIO": 0.9,
+  "MAX_NEG_USES": 150,
+  "NEG_JUDGE_FRACTION": 0.25,
+  "MAX_ROWS_PER_POSITIVE": 12,
+  "PROMPT_VERSION": "v2-chunk-holdout-same-type-negatives-judged"
+ },
+ "extended_from": {
+  "corpus_sha256": "beda338e312d168a00d0cf80fb64405aaebb2bf5863c7f8626948fbdedd8583f",
+  "prompts_sha256": "447f4f0c2c6f6169ce5fc5f9e0481b5ee9e656f7d8dd74ff7383ee567ad99302"
+ }
+}

@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15.- Error de comprensión culturalmente condicionado» no establece la exclusión de estereotipos sobre la vestimenta y vida social de las mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "si",
+      "rationale": "Establece que la acusación directa suspende la prescripción en un proceso de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "si",
+      "rationale": "Explica que la acusación directa suspende el cómputo, por lo que el mero transcurso temporal no basta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Describe el proceso inmediato por alimentos y la oportunidad fiscal, pero no todo el trámite tras la remisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Queja NCPP 376-2021, Tacna» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 266. Detención judicial en caso de flagrancia» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Casación 931-2016, Cusco» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 225. Copia de documentos incautados» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "parcial",
+      "rationale": "Expone el delito y sus penas, sin indicar las actuaciones posteriores a la remisión fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 521-B. Recepción y calificación de la demanda» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 459. Querella» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 80.- Plazos de prescripción de la acción penal» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 387. Alegato oral del Fiscal» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la acusación directa tras la remisión civil, pero su criterio central trata de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0011_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido de «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no establece el trámite penal posterior a la remisión judicial por incumplimiento de alimentos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

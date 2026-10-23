@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00686_e0027::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Permite que cualquier persona promueva la acción penal pública, sin exigir denuncia de la agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Excluye exigir denuncias reiteradas, pero no resuelve quién puede dar el aviso inicial."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Regula penas de inhabilitación, no el inicio de la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "Regula pruebas de oficio en juicio, no quién puede denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica el inicio de la persecución penal, pero no la necesidad de denuncia de la agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Autoriza denunciar a cualquier persona en favor de la víctima sin representación."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Prevé el ejercicio de oficio o a instancia de cualquier persona de la acción penal pública."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción, no la persona que puede denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de tráfico de migrantes, no el inicio de investigaciones."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Permite actuar al fiscal o policía al conocer un delito público sin exigir aviso personal de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Describe requisitos de formalización, pero no aclara quién puede informar inicialmente."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Valora una denuncia tardía como prueba y no quién puede activar la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Dispone iniciar de oficio la investigación de delitos de persecución pública."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata la suspensión de la prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00686_e0027::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Identifica al Ministerio Público como titular de la acción penal que cualquier persona puede promover."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

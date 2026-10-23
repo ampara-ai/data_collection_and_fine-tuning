@@ -5,3 +5,4 @@ __pycache__/
 *.pdf
 *.html
 generacion_dataset/data/intermediate/resumeai_batch/cases/*
+.DS_Store

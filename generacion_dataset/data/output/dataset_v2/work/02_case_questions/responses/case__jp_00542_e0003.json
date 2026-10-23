@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "Mi hija de 13 años declaró y el juez le creyó al condenar al hombre. ¿Pueden los jueces de arriba decidir que no es creíble sin escucharla de nuevo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_425_01"
+   ],
+   "positive_selection_reason": "El art. 425.2 CPP establece que la Sala Superior no puede dar distinto valor a la prueba personal valorada por el juez de primera instancia, salvo que una prueba en segunda instancia la cuestione. Responde directamente la duda.",
+   "expected_answer_focus": "Debe indicar que el tribunal que revisa la sentencia no puede cambiar el peso dado a los testimonios ya valorados por el primer juez, salvo que exista una prueba nueva en segunda instancia que los cuestione.",
+   "victim_voice_rationale": "Una madre teme que la palabra de su hija sea descartada por jueces que no la escucharon."
+  },
+  {
+   "query": "Lo condenaron en la primera sentencia, pero en la apelación lo dejaron libre. ¿Eso se puede arreglar o ya no hay nada que hacer?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_425_01",
+    "chunk_tipo04_jp_00542_e0003_01"
+   ],
+   "positive_selection_reason": "El art. 425 CPP indica que contra la sentencia de segunda instancia procede el recurso de casación; la jurisprudencia muestra un caso donde la Corte Suprema anuló una absolución y ordenó nueva audiencia.",
+   "expected_answer_focus": "Debe poder explicar que contra la sentencia de apelación cabe casación y que, si la absolución se basó en una revaloración indebida de la prueba, puede anularse y ordenarse que otra Sala resuelva de nuevo.",
+   "victim_voice_rationale": "La víctima siente que la absolución en apelación cierra su caso y no sabe si hay otra vía."
+  },
+  {
+   "query": "¿En qué casos los jueces de la apelación sí pueden cambiar lo que se creyó del testimonio de mi hija?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00542_e0003_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia fija el criterio: solo si hubo error manifiesto en la apreciación de la prueba personal o si fue desvirtuada por pruebas en segunda instancia.",
+   "expected_answer_focus": "Debe indicar los dos supuestos excepcionales (error manifiesto o desvirtuación por prueba de segunda instancia) y que sin ellos el tribunal superior no puede sustituir la valoración del primer juez.",
+   "victim_voice_rationale": "La familia quiere entender los límites reales para que el testimonio de la menor no sea desechado."
+  },
+  {
+   "query": "Mi hija tiene que volver a contar lo que le pasó ante otro tribunal. ¿Deben tener cuidado con cómo se siente ella cuando declara?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_155_01"
+   ],
+   "positive_selection_reason": "El art. 155.5 CPP dispone que la actuación probatoria debe considerar el estado físico y emocional de la víctima.",
+   "expected_answer_focus": "Debe señalar que al practicar las pruebas se debe tener en cuenta el estado físico y emocional de la víctima.",
+   "victim_voice_rationale": "La madre teme que su hija sea revictimizada al tener que revivir los hechos."
+  },
+  {
+   "query": "Un juez de apelación absolvió al acusado sin explicar por qué el primer juez se equivocó. ¿Eso puede hacer que se anule la sentencia?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00542_e0003_01",
+    "chunk_tipo03_cpp_art_150_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia declara nula la sentencia de vista que sustituyó la valoración sin invocar causales válidas; el art. 150 CPP permite declarar nulidad de oficio por inobservancia del contenido esencial de derechos y garantías constitucionales.",
+   "expected_answer_focus": "Debe explicar que si la Sala solo sustituye la valoración sin error manifiesto ni prueba nueva, la sentencia puede anularse, y que la inobservancia de garantías constitucionales es causal de nulidad absoluta.",
+   "victim_voice_rationale": "La víctima percibe una absolución injustificada y busca saber si hay remedio."
+  },
+  {
+   "query": "Si anulan la absolución del hombre que abusó de mi hija, ¿quién vuelve a decidir el caso y qué pasa con lo que ya se declaró?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00542_e0003_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia indica que se declaró nula la sentencia de vista y se ordenó que otra Sala Penal de Apelaciones realice nueva audiencia y emita nuevo pronunciamiento.",
+   "expected_answer_focus": "Debe indicar que al casarse la sentencia, otra Sala distinta realiza una nueva audiencia de apelación y emite nueva sentencia, respetando la valoración correcta de la prueba personal.",
+   "victim_voice_rationale": "La familia quiere saber qué sigue después de que se anula la absolución."
+  }
+ ]
+}

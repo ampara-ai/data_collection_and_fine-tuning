@@ -1,0 +1,93 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi pareja admitió todo ante la policía sin abogado ni fiscal, pero en el juicio lo negó. ¿Esa primera versión se puede tomar en cuenta?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00624_e0008_01"
+   ],
+   "positive_selection_reason": "La sentencia resuelve exactamente si una manifestación policial sin fiscal ni abogado defensor puede valorarse como indicador periférico cuando luego el acusado la niega en juicio.",
+   "expected_answer_focus": "Que esa declaración policial puede valorarse junto con otras pruebas como indicio que corrobora el relato de la víctima, sin que se considere violado el derecho de defensa.",
+   "victim_voice_rationale": "La víctima teme que el agresor se libre al negar en juicio lo que ya dijo a la policía."
+  },
+  {
+   "query": "Mi hija dice que su padre abusó de ella y él lo niega. Además de lo que ella cuenta, ¿qué otras cosas pueden ayudar a creerle?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00624_e0008_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que el relato de la menor fue corroborado por indicadores periféricos: lo que el acusado dijo a la policía, el testimonio de la abuela y las pericias psicológicas.",
+   "expected_answer_focus": "Que el relato de la menor se refuerza con otros elementos, como testigos familiares, evaluaciones psicológicas y declaraciones previas del acusado.",
+   "victim_voice_rationale": "Una madre teme que la palabra de su hija no alcance frente a la negativa del agresor."
+  },
+  {
+   "query": "Si interrogan al que maltrató a mi hija, ¿le tienen que avisar que puede quedarse callado y pedir un abogado antes de hablar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_87_01"
+   ],
+   "positive_selection_reason": "El artículo 87 establece las advertencias previas a la declaración del imputado: derecho a callar, a un abogado (o de oficio) y a ser informado de los cargos.",
+   "expected_answer_focus": "Antes de declarar, al imputado se le informa de los hechos y pruebas, de su derecho a abstenerse y de su derecho a un abogado defensor, que será de oficio si no tiene uno.",
+   "victim_voice_rationale": "La familia quiere entender qué derechos tiene el agresor durante el interrogatorio."
+  },
+  {
+   "query": "Mi hija es menor de edad y no tenemos plata para abogado. ¿Quién puede pedir en el juicio que el agresor nos pague por el daño?",
+   "topic": "reparacion_civil",
+   "barrier": "dependencia_economica",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01"
+   ],
+   "positive_selection_reason": "El artículo 98 dice quién puede reclamar la reparación en el proceso penal y que, si la víctima es menor, la representan el defensor público de víctimas o el abogado del Centro de Emergencia Mujer.",
+   "expected_answer_focus": "El perjudicado puede reclamar el pago por el daño dentro del proceso penal; si es menor, la representan el defensor público de víctimas o el abogado del CEM, que pueden pedir que se la tenga como parte.",
+   "victim_voice_rationale": "Una familia sin recursos quiere saber si puede reclamar un pago sin contratar abogado."
+  },
+  {
+   "query": "Si mi hija entra al juicio como parte para cobrar por el daño, ¿qué puede hacer ahí? ¿Puede presentar pruebas o apelar si no le dan la razón?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El artículo 104 enumera lo que puede hacer quien se constituye en actor civil: ofrecer pruebas, intervenir en juicio, impugnar y formular solicitudes.",
+   "expected_answer_focus": "La parte civil puede ofrecer pruebas, participar en los actos de investigación y en el juicio oral, presentar recursos y hacer solicitudes para defender su derecho.",
+   "victim_voice_rationale": "La madre no sabe qué papel real tiene su hija si se une al proceso para reclamar el pago."
+  },
+  {
+   "query": "Denuncié a mi pareja y quiero saber cómo va todo. ¿Me pueden dar copia de lo que investigan o es algo secreto?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_324_01"
+   ],
+   "positive_selection_reason": "El artículo 324 regula la reserva de la investigación: solo las partes (directamente o por sus abogados) pueden enterarse, pueden pedir copias, y el fiscal puede declarar secreto por tiempo limitado.",
+   "expected_answer_focus": "La investigación es reservada para terceros, pero las partes y sus abogados pueden conocerla y obtener copias; el fiscal puede ordenar secreto de algunas actuaciones por un plazo máximo de veinte días prorrogable.",
+   "victim_voice_rationale": "La denunciante siente que no le informan cómo avanza su caso."
+  },
+  {
+   "query": "Si voy a pedir ayuda a la policía por violencia en mi casa y se niegan a atenderme, ¿al policía le puede pasar algo?",
+   "topic": "canales_denuncia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_378_01"
+   ],
+   "positive_selection_reason": "El artículo 378 sanciona al policía que rehúsa, omite o retarda el auxilio solicitado, con pena agravada si se trata de un caso de violencia familiar.",
+   "expected_answer_focus": "El policía que niega o demora sin justificación el auxilio en un caso de violencia familiar puede ser sancionado penalmente, con una pena mayor cuando el auxilio lo pide una persona en peligro.",
+   "victim_voice_rationale": "Teme que la policía no la ayude al denunciar y quiere saber si eso tiene consecuencias."
+  },
+  {
+   "query": "Si la policía agarra al agresor en el momento en que está abusando, ¿qué tiene que hacer con él y qué derechos le avisan?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_263_01"
+   ],
+   "positive_selection_reason": "El artículo 263 indica los deberes de la policía tras una detención en flagrancia: informar el delito, comunicar a la autoridad y advertir los derechos del detenido.",
+   "expected_answer_focus": "La policía debe informar al detenido del delito que se le atribuye, comunicar la detención a la autoridad competente para ponerlo a su disposición y advertirle sus derechos, dejando un acta.",
+   "victim_voice_rationale": "La familia quiere saber qué sigue después de que detienen al agresor en el acto."
+  }
+ ]
+}

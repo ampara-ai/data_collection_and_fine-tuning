@@ -39,6 +39,19 @@ STRUCTURAL_RE = re.compile(
 )
 
 
+# Fin del articulado: el último artículo de cada tramo absorbía todo lo que venía después (disposiciones
+# complementarias, firmas y el listado de normas conexas) porque nada cerraba el artículo en curso.
+SECTION_RE = re.compile(
+    r"^DISPOSICIONES?\s+COMPLEMENTARIAS?\s+(FINALES?|TRANSITORIAS?|MODIFICATORIAS?|DEROGATORIAS?)\s*$",
+    re.IGNORECASE,
+)
+SIGNATURE_RE = re.compile(r"^Comun[ií]quese\b", re.IGNORECASE)
+PROVISION_RE = re.compile(
+    r"^(PRIMERA|SEGUNDA|TERCERA|CUARTA|QUINTA|SEXTA|S[EÉ]PTIMA|OCTAVA|NOVENA|D[EÉ]CIMA|[UÚ]NICA)\.\s*(.*)$",
+    re.IGNORECASE,
+)
+
+
 def normalize_text(text: str) -> str:
     text = text.replace("\xa0", " ")
     text = text.replace("“", '"').replace("”", '"')
@@ -185,6 +198,12 @@ def parse_spij_detail_to_law(detail: dict) -> LawDocument:
     current_heading: str | None = None
     current_lines: list[str] = []
 
+    # Texto que queda fuera de los artículos: disposiciones complementarias y anexo posterior a la firma.
+    provisions: list[dict] = []
+    annex_lines: list[str] = []
+    section: str | None = None
+    in_annex = False
+
     def flush_current_article() -> None:
         nonlocal current_article_id, current_heading, current_lines
 
@@ -219,6 +238,21 @@ def parse_spij_detail_to_law(detail: dict) -> LawDocument:
         if STRUCTURAL_RE.match(block):
             continue
 
+        if SECTION_RE.match(block) or SIGNATURE_RE.match(block):
+            # Cierra el artículo en curso: lo que sigue no es parte de él.
+            flush_current_article()
+            current_article_id, current_heading, current_lines = None, None, []
+            if SIGNATURE_RE.match(block):
+                in_annex = True
+                annex_lines.append(block)
+            else:
+                section = SECTION_RE.match(block).group(1).upper()
+            continue
+
+        if in_annex:
+            annex_lines.append(block)
+            continue
+
         match = is_article_heading(block)
 
         if match:
@@ -242,8 +276,21 @@ def parse_spij_detail_to_law(detail: dict) -> LawDocument:
 
         if current_article_id is not None:
             current_lines.append(block)
+        elif section is not None:
+            m = PROVISION_RE.match(block)
+            if m or not provisions or provisions[-1]["section"] != section:
+                provisions.append({"section": section, "number": m.group(1).upper() if m else None,
+                                   "title": m.group(2).strip() if m else block, "lines": [block]})
+            else:
+                provisions[-1]["lines"].append(block)
 
     flush_current_article()
+
+    complementary_provisions = [
+        {"section": p["section"], "number": p["number"], "title": p["title"], "text": "\n".join(p["lines"])}
+        for p in provisions
+    ]
+    annexes = [{"unit_type": "post_signature_text", "text": "\n".join(annex_lines)}] if annex_lines else []
 
     articles = [
         articles_by_id[k]
@@ -256,12 +303,12 @@ def parse_spij_detail_to_law(detail: dict) -> LawDocument:
         title=BeautifulSoup(detail.get("sumilla", ""), "lxml").get_text(" ", strip=True),
         source="SPIJ",
         articles=articles,
-        complementary_provisions=[],
-        annexes=[],
+        complementary_provisions=complementary_provisions,
+        annexes=annexes,
         metadata={
             "fechaPublicacion": detail.get("fechaPublicacion"),
             "sector": detail.get("sector"),
             "dispositivoLegal": detail.get("dispositivoLegal"),
-            "parser_strategy": "spij_latest_article_version_with_partial_mod_cleanup",
+            "parser_strategy": "spij_latest_article_version_with_partial_mod_cleanup_and_section_boundaries",
         },
     )

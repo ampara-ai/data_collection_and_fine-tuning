@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00118_e0025::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos de prueba indiciaria para condenar sin testigos directos."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0025::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige indicios probados, concordantes y convergentes sin contraindicios consistentes."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0025::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "Explica que un indicio con varias explicaciones no basta para condenar."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0025::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige otras pruebas que corroboren el testimonio de referencia para condenar."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0025::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "si",
+      "rationale": "Detalla las exigencias de pluralidad y solidez de los indicios en un feminicidio sin prueba directa."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0025::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica la valoración de indicios en general, pero no evalúa testimonios sobre moretones o agresiones previas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

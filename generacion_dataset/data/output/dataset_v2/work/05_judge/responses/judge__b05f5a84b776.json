@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Establece qué resoluciones admiten casación, sus límites y la vía excepcional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata legitimación y cuantificación de reparación en recurso de nulidad, no el umbral económico de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Fija para la casación civil un monto superior a cincuenta Unidades de Referencia Procesal y la excepción no valorizable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato, no umbral económico para casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "Regula reparación en colaboración eficaz, no acceso económico a casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, no admisión de recursos por monto civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "Regula careos, no casación de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_34_01",
+      "relevance": "no",
+      "rationale": "Define integrantes del sistema contra violencia, no recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza agente provocador y acceso carnal, no el monto que habilita casación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula prueba de oficio en apelación, no umbral económico de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula valoración de daño psíquico, no monto de reparación para recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "Analiza veracidad del testimonio, no procedencia económica de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "Regula queja por denegación de recursos, no el umbral de reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Expone admisión y formalidades de casación, pero no el monto civil mínimo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_427_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Permite casación excepcional para desarrollar doctrina jurisprudencial aunque falten los requisitos ordinarios."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

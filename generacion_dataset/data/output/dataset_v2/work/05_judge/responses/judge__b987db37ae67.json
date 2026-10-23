@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Examina falta de ratificación y evidencia médica concluyente y confirma absolución por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Considera los conflictos y procesos entre los padres al valorar la declaración materna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas, no suficiencia de pericia psicológica por abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección por violencia psicológica, no prueba suficiente para condenar por abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "Tipifica alteración del estado civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Cuestiona una pericia que concluye abuso sexual fuera de su ámbito y considera insuficiente el conjunto probatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución en Perú de condenas extranjeras no privativas de libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones, no el valor de una pericia sobre abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica la corroboración psicológica de un testimonio suficiente, pero no resuelve la suficiencia de la pericia aislada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "no",
+      "rationale": "Regula cómputo de plazos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "Regula inspección e incautación de documentos contables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Aborda valoración de declaración infantil junto con pericias, sin resolver la suficiencia de la conclusión psicológica aislada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra las mujeres sin reglas de suficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0071_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Explica que contradicciones periciales generan duda razonable, sin analizar si una sola opinión psicológica basta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "si",
+      "rationale": "Reconoce la entrevista en cámara Gesell como prueba preconstituida de alta fiabilidad en un caso de absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Regula prueba anticipada y urgencia, pero no aclara el valor de las diligencias previas a formalizar la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de la prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata oportunidad fiscal en omisión alimentaria, no validez de diligencias urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza abreviar o actuar inmediatamente prueba anticipada urgente, sin resolver en general el valor de diligencias preliminares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica que la urgencia preliminar preserva información y no supone plazos preclusivos que invaliden la prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Admite entrevista sin formalidad de prueba anticipada si se respetan garantías, sin abordar la urgencia previa a formalización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios de colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "no",
+      "rationale": "Trata vencimiento de plazos, no la validez de actuaciones urgentes previas a formalización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula excepcionalidad del careo en España."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Regula información al imputado antes de declarar, no el valor de diligencias preliminares urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica exclusión de una pericia por falta de emplazamiento, aportando un límite de validez distinto de la urgencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

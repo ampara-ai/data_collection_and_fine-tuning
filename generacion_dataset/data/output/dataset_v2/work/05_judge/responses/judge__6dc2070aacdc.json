@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Analiza precisamente la pérdida de credibilidad por acudir a una cita con el agresor y la falta de corroboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Analiza la insuficiencia de la declaración de la víctima y el testimonio referencial materno sin corroboración suficiente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 176-B.- Acoso sexual» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 17-A. Flagrancia en casos de riesgo severo» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 46.- Circunstancias de atenuación y agravación» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 170.- Violación sexual» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas de credibilidad sin estereotipos, pero no aborda el retraso en denunciar ni el caso del pastor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Expone factores de credibilidad y falta de corroboración en una denuncia de violación contra un pastor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra cómo valorar relato y corroboraciones en abuso infantil, sin tratar la denuncia tardía de la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 182. Procedencia» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Identifica contradicciones y ausencia de corroboración como factores que impiden una condena por violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 481-A. Utilidad de la información en otros procesos» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que agregar detalles no equivale a contradicción, pero no resuelve el efecto de denunciar años después."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 483. Iniciación» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0018_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 248. Medidas de protección» y no aporta información para resolver los riesgos de falta de credibilidad y corroboración del abuso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

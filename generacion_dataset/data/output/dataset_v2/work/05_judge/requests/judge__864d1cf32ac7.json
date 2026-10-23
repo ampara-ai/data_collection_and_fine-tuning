@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__864d1cf32ac7",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_22-b_01::q01\",\n  \"question\": \"Me separé de mi pareja violento y no tengo cómo mantener a mis hijos. ¿La jueza puede ordenar que reciban dinero mientras dura el caso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_22-b_01\",\n    \"title\": \"Artículo 22-B. Medidas cautelares\",\n    \"text\": \"Artículo 22-B. Medidas cautelares\\nDe oficio o a solicitud de la víctima, el juzgado de familia, en la audiencia oral, se pronuncia sobre las medidas cautelares que resguardan pretensiones de alimentos, regímenes de visitas, tenencia, suspensión de la patria potestad, acogimiento familiar, disposición de bienes y otros aspectos conexos que sean necesarios para garantizar el bienestar de las víctimas, las personas dependientes o en situación de vulnerabilidad a cargo de la víctima.\\nEl juzgado de familia informa a la víctima sobre su derecho de iniciar el proceso sobre las materias a las que se refiere el párrafo anterior y, a su solicitud, oficia al Ministerio de Justicia y Derechos Humanos para que actúe de acuerdo a sus competencias. \\\"\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_22-b_01::q02\",\n  \"question\": \"¿La jueza me va a avisar que puedo pedir quedarme con mis hijos o exigir ayuda de otro tipo, o tengo que saberlo yo sola?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_22-b_01\",\n    \"title\": \"Artículo 22-B. Medidas cautelares\",\n    \"text\": \"Artículo 22-B. Medidas cautelares\\nDe oficio o a solicitud de la víctima, el juzgado de familia, en la audiencia oral, se pronuncia sobre las medidas cautelares que resguardan pretensiones de alimentos, regímenes de visitas, tenencia, suspensión de la patria potestad, acogimiento familiar, disposición de bienes y otros aspectos conexos que sean necesarios para garantizar el bienestar de las víctimas, las personas dependientes o en situación de vulnerabilidad a cargo de la víctima.\\nEl juzgado de familia informa a la víctima sobre su derecho de iniciar el proceso sobre las materias a las que se refiere el párrafo anterior y, a su solicitud, oficia al Ministerio de Justicia y Derechos Humanos para que actúe de acuerdo a sus competencias. \\\"\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_22-b_01::q01",
+     "chunk_tipo01_ley30364_art_22-b_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+     "chunk_tipo01_ley30364_art_22-b_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__864d1cf32ac7.json"
+}

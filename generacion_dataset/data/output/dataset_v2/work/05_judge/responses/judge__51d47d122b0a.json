@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata la eficacia de la protección estatal, sin precisar la facultad de denuncia de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "Se refiere a mecanismos de denuncia de violencia obstétrica, no a denuncias de vecinos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve facultades de control de identidad y encubrimiento, no quién puede denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula la denuncia del ofendido por faltas, no la de un tercero por violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula la remisión judicial de nuevos delitos descubiertos en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "Describe el trámite policial posterior a la denuncia, sin regular quién puede presentarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "si",
+      "rationale": "Reconoce a cualquier persona la facultad de denunciar delitos de persecución pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica la difusión de contenido sexual sin autorización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "Regula los presupuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "Establece deberes de protección estatal sin resolver la facultad de denuncia de una vecina."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica y sanciona la extorsión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula la investigación fiscal y policial, sin precisar la facultad de denunciar de terceros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "si",
+      "rationale": "Establece la obligación de los profesionales de salud de denunciar delitos conocidos en su actividad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "La obligación expresa del educador se refiere a hechos ocurridos en el centro educativo y no resuelve el maltrato en casa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_326_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "si",
+      "rationale": "Obliga a denunciar a funcionarios que conocen hechos punibles por sus atribuciones o cargo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

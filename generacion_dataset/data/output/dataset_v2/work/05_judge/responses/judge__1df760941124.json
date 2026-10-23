@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00518_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Prohíbe condenar en apelación si únicamente recurrió el actor civil y el fiscal consintió la absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00518_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Mantiene la reparación civil pese a anular el extremo penal por falta de apelación fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,38 @@
+{
+ "questions": [
+  {
+   "query": "Mi hijo de 9 años contó lo que le hacía su papá, pero dicen que se equivocó en detalles pequeños. ¿Eso hace que no le crean?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00108_e0003_01"
+   ],
+   "positive_selection_reason": "El criterio de la casación dice que la declaración del menor se evalúa en lo sustancial y que las imprecisiones secundarias no invalidan la sindicación, considerando su edad, el trauma y las pericias. Responde directamente la duda.",
+   "expected_answer_focus": "Que el relato de un niño víctima se valora en lo esencial, que los detalles secundarios no lo invalidan y que se toman en cuenta su edad, el trauma y las pericias.",
+   "victim_voice_rationale": "Una madre teme que se desconfíe del relato de su hijo por no recordar detalles menores."
+  },
+  {
+   "query": "Si en el juicio contra el agresor de mi hijo se pasaron por encima sus derechos, ¿el juez puede dejar sin efecto todo aunque nadie lo pida?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_150_01"
+   ],
+   "positive_selection_reason": "El artículo 150 del CPP establece que ciertos defectos, entre ellos la inobservancia del contenido esencial de los derechos y garantías constitucionales, pueden declararse de oficio sin pedido de parte.",
+   "expected_answer_focus": "Que existen defectos graves que pueden anularse incluso de oficio, sin solicitud de las partes, como los que afectan derechos y garantías constitucionales, la constitución del tribunal o la intervención del Ministerio Público.",
+   "victim_voice_rationale": "La familia quiere saber si se puede corregir un juicio injusto aunque nadie lo solicite."
+  },
+  {
+   "query": "Quiero que se repita el juicio porque creo que hubo errores. ¿Cualquier error basta para que lo anulen o hay condiciones?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00108_e0003_01",
+    "chunk_tipo03_cpp_art_150_01"
+   ],
+   "positive_selection_reason": "La casación explica que no toda inobservancia procesal produce nulidad y que deben cumplirse requisitos de oportunidad, taxatividad y trascendencia. El artículo 150 detalla los defectos que dan lugar a nulidad absoluta.",
+   "expected_answer_focus": "Que no todo error genera nulidad, que deben cumplirse ciertos requisitos y que hay supuestos de nulidad absoluta que se declaran incluso de oficio.",
+   "victim_voice_rationale": "Una familiar quiere saber si cualquier error del proceso basta para pedir que se repita el juicio."
+  }
+ ]
+}

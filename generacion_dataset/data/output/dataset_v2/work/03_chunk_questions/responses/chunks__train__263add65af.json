@@ -1,0 +1,104 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo obliga a una joven a acostarse con clientes y se queda con el dinero. ¿Cuántos años de cárcel puede recibir?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien dirige o gestiona la explotación sexual de otro recibe de 10 a 15 años, con agravantes hasta 25 y 30 años si muere la víctima."
+    },
+    {
+     "query": "Un hombre manda a su propia hija a prostituirse. ¿Su condena es más grave por ser el padre?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El parentesco, la convivencia o la relación de pareja elevan la pena a 20 a 25 años."
+    },
+    {
+     "query": "Tengo una discapacidad y alguien me hizo trabajar en eso por necesidad de dinero. ¿Eso empeora lo que le toca al que lo hizo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Discapacidad, vulnerabilidad, necesidad económica o abandono de la víctima agravan la pena."
+    },
+    {
+     "query": "Si el que sometió a mi hermana formaba parte de una mafia, ¿su condena es mayor y además le quitan derechos?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Pertenecer a banda u organización criminal agrava la pena y siempre se impone además inhabilitación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_14_01",
+   "skip": true,
+   "skip_reason": "Artículo doctrinal sobre error de tipo y de prohibición del agresor; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_77_01",
+   "skip": true,
+   "skip_reason": "Trata sobre la atención médica del imputado enfermo en prisión; ninguna víctima lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_243_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi testigo se va a vivir al extranjero y no podrá venir al juicio. ¿Se puede tomar su declaración antes para que quede guardada?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La prueba anticipada se pide al juez de investigación preparatoria explicando la prueba, los hechos y por qué no podrá darse en el juicio."
+    },
+    {
+     "query": "¿Hasta cuándo se puede pedir que se adelante una prueba importante de mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se solicita durante las diligencias preliminares o la investigación, hasta antes de enviar la causa al juzgado penal, si hay tiempo."
+    },
+    {
+     "query": "¿Es obligatorio que el representante de la fiscalía asista cuando adelantan una diligencia de mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La asistencia del Ministerio Público a la audiencia es obligatoria y debe mostrar su expediente al juez."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un jefe de alto cargo me acosó para renovarme el contrato y ahora me amenaza. ¿Pueden obligarlo a presentarse con más frecuencia ante la justicia?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Ante riesgo de obstaculización el tribunal endureció el control biométrico a cada 30 días y subió la caución a S/30,000."
+    },
+    {
+     "query": "Me cambiaron de número y me denunciaron para callarme. ¿Eso hace que al acusado le pongan reglas más estrictas mientras sigue libre?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las conductas de obstaculización como cambiar el teléfono, negarse a pericias o hacer denuncias paralelas justifican restricciones más severas."
+    },
+    {
+     "query": "Si el acusado de acosarme tiene mucho dinero, ¿la fianza que le ponen puede ser alta?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La caución se aumentó por la solvencia del imputado y la gravedad de los delitos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_254_01",
+   "skip": true,
+   "skip_reason": "Detalla requisitos formales internos del auto judicial que impone medidas de investigación; trámite técnico sin pregunta natural de una víctima.",
+   "questions": []
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

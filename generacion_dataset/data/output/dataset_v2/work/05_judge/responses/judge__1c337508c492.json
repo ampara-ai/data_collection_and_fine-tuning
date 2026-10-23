@@ -1,0 +1,197 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "parcial",
+      "rationale": "Ordena diligencias preliminares inmediatas, pero no detalla preservación del lugar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "Regula arresto ciudadano y no las agravantes de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Incluye incapacidad para ejercer patria potestad, tutela o curatela."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Prevé suspensión o cancelación de autorización para armas por condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "parcial",
+      "rationale": "Explica la inhabilitación accesoria sin precisar las prohibiciones de contacto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Permite prohibir acercamiento y comunicación con víctima y familiares en sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece las prohibiciones de acercamiento y comunicación como consecuencia de la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Establece inhabilitación para trabajar en educación y con menores por delitos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Incluye suspensión, cancelación o incapacidad para obtener permiso de conducir según sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Prevé privación del cargo incluso electivo e impedimento para empleo público."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_36_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "No determina la pérdida del cargo público por condena en el supuesto preguntado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula la denegación de auxilio policial, no beneficios por confesión."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata la validez de la entrevista de una menor, no la reducción por confesión."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula la suspensión de la pena, no su reducción por admitir los hechos."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado sin establecer beneficios por confesión."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "Regula traslados internacionales de internos, no confesión sincera."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve la exclusión del abogado defensor, no beneficios por confesión."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Analiza amenazas en actos contra el pudor, no la confesión del homicida."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz, un procedimiento distinto de la confesión sincera consultada."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Analiza la retractación de una víctima, no la confesión del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación sexual, no la reducción de pena por matar a una persona."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula denegación de apoyo policial, no beneficios por confesión."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo la confesión policial ratificada ante fiscal y abogado permite acceder a la confesión sincera."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Establece la reducción por confesión y las exclusiones, incluido el feminicidio."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "si",
+      "rationale": "Indica el beneficio de confesión sincera y su inaplicabilidad al feminicidio."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "si",
+      "rationale": "Detalla el contenido de la acusación fiscal e incluye el monto de reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "si",
+      "rationale": "Autoriza control de identidad sin orden y registro del equipaje cuando existen motivos fundados."
+    },
+    {
+      "dataset_id": "case::jp_00122_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Exige al fiscal solicitar inmediatamente confirmación judicial de restricciones urgentes de derechos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

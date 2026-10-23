@@ -1,0 +1,71 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de testigos, no evaluación de peligro ni protección familiar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica el secuestro y sus penas, no protección de víctimas y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "Regula el trámite policial de denuncias sin establecer la validez de citaciones telefónicas."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica la trata de personas, no la forma de citar a declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Analiza facultades para control de identidad, no citaciones telefónicas."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Afirma el deber de proteger ante riesgo doméstico, pero no concreta cómo resguardar a una testigo sin trasladar el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Regula esclavitud y explotación, no medidas de resguardo procesal."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Menciona protección de víctimas y testigos y medidas penales, pero bajo supuestos de flagrancia ajenos a los descritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_272_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Fija los plazos de prisión preventiva para procesos comunes, complejos y de criminalidad organizada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_272_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Permite un plazo mayor de prisión preventiva cuando el proceso es complejo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_272_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Establece los límites temporales de prisión preventiva según el tipo de proceso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

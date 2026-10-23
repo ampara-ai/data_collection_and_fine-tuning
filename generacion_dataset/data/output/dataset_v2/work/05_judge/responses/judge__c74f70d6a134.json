@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "si",
+      "rationale": "Exige tratamiento reeducativo e informes psicológico y social para beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula tráfico ilícito de migrantes, no libertad anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica, no evaluación de rehabilitación para beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula daños agravados, no beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento en Perú de penas extranjeras no privativas, no libertad anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza prueba de insultos y enjuiciamiento, no beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Analiza reducción de pena al sentenciar por circunstancias personales, no libertad anticipada tras tratamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Regula instrucciones antes de declarar, no evaluación penitenciaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "Regula beneficios de colaboración eficaz, no evaluación de cambio para beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "Regula seguimiento de medidas de protección, no tratamiento de internos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "Regula información policial a medios, no beneficios penitenciarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Menciona tratamiento reeducativo y pena efectiva, pero no la evaluación previa para beneficios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "Regula reparación psicológica de la víctima, no rehabilitación del condenado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "si",
+      "rationale": "Condiciona beneficios al tratamiento cumplido y a informes sobre su evolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_31_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "si",
+      "rationale": "Asigna al INPE el tratamiento penitenciario y al Ministerio de la Mujer la asistencia técnica."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

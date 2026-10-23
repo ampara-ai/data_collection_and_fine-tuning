@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0032_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "parcial",
+      "rationale": "Relata el uso de cámara oculta para descubrir el abuso, pero no analiza ni establece la legalidad de esa grabación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0032_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "si",
+      "rationale": "Reconoce equivalencia sexual del sexo oral y explica el criterio de proporcionalidad usado para diferenciar la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0032_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "si",
+      "rationale": "Explica la reducción de treinta a quince años por falta de motivación de la pena y aplicación de proporcionalidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

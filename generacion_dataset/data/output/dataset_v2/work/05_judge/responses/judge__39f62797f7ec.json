@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_6_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "si",
+      "rationale": "Incluye el sufrimiento psicológico entre familiares y exige especial consideración hacia adultos mayores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_6_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "si",
+      "rationale": "Enumera muerte y daño o sufrimiento físico, sexual o psicológico en el ámbito familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_6_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "si",
+      "rationale": "Dispone especial consideración hacia niños y personas con discapacidad víctimas de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_6_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "si",
+      "rationale": "La violencia puede provenir de cualquier integrante del grupo familiar en una relación de responsabilidad, confianza o poder."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,737 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que se incorpora la declaración previa y que la menor solo debe declarar excepcionalmente en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Enumera los supuestos excepcionales de nuevo examen y exige evitar el contacto con el procesado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 391. Autodefensa del acusado no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce validez a la entrevista con garantías, sin decidir cuándo puede exigirse otra declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo incorporar la entrevista previa, sin regular expresamente la repetición del testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé grabar entrevistas de menores para evitar revictimización, pero no regula su repetición en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige soporte psicológico durante el interrogatorio de la menor, sin resolver si debe volver a declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Limita la declaración ampliatoria a aclarar, complementar o precisar la entrevista única."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite oralizar la entrevista previa para evitar la revictimización de la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "si",
+      "rationale": "Rechaza repetir la entrevista cuando no concurren los supuestos excepcionales permitidos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo excepcionalmente puede volver a examinarse a la víctima menor en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "si",
+      "rationale": "Permite retirar al acusado durante el interrogatorio cuando su presencia perjudique al menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "si",
+      "rationale": "Reconoce eficacia a la entrevista previa y rechaza repetirla salvo necesidad de ampliación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Considera injustificado conducir compulsivamente a las menores a declarar por la revictimización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no explica si una menor ya entrevistada debe volver a declarar frente al acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 1442-2022, Puno no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Queja NCPP 630-2021, Lima Norte no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_140_01",
+      "relevance": "parcial",
+      "rationale": "Permite reemplazar originales destruidos por copias certificadas, pero no resuelve el valor del acta de una entrevista con video dañado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso J. vs. Perú (Corte IDH 2013) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 312-A. Secuestro conservativo no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 138.- Ejercicio privado de la acción penal no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 499. Personas e Instituciones exentas. Caso especial de imposición no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación notarial sin valor (RN 1179-2019, Lima) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2558-2021, Ica no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 458. Transformación al proceso común y advertencia no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Permite oralizar el acta de la entrevista con garantías, sin abordar el daño de la grabación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 487. Desistimiento o transacción no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Expediente 03997-2022-PHD/TC no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite una copia de respaldo de la entrevista, pero no decide si el acta sustituye al video dañado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_187_01",
+      "relevance": "parcial",
+      "rationale": "Regula la transcripción del video en acta, pero no su eficacia cuando la grabación está dañada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Embarazo confirma consumación (Revisión NCPP 426-2019) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cooperadores necesarios (STS 6833/2005, España) no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 381. Audiencia especial para testigos y peritos no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 7498-2014-54 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 07371-2020 no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso Angulo Losada vs. Bolivia no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 361. Oralidad y registro no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar no explica si el acta conserva valor probatorio cuando se daña el video de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Permite valorar la incriminación inicial pese a la retractación si cumple garantías de credibilidad y corroboración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 544-A. Ejecución de la condena en el Estado peruano no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Signos de agresión no consumada (RN 143-2009, Ica) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rodríguez Pacheco y otra vs. Venezuela, f.j. 112 no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Explica los criterios para evaluar la retractación y confirma que no impide automáticamente condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza absolver sin examinar la posible influencia del padre en la retractación de la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 327. No obligados a denunciar no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 541. Jurisdicción del Perú sobre la condena impuesta no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona falta de persistencia y debilidad de corroboración con la absolución, pero no analiza propiamente una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de afectación psicológica (Exp. 122-2020-65) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 61.- Condena no pronunciada no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 295-2019, Cusco no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Descarta la retractación notarial de la madre, situación distinta de la retractación de la hija víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 326. Facultad y obligación de denunciar no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar otras pruebas y la dependencia que explica falta de incriminación, sin abordar una retractación posterior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Explica la necesidad de corroboración ante contradicciones y posible retractación, pero no desarrolla cómo valorar esta última."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2062-2016, Ica no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no explica el efecto de la retractación de la hija víctima sobre una posible condena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Analiza la retractación en violencia de pareja, aportando contexto sobre dependencia y valoración conjunta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00468_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a retractación de la menor obtenida por presión familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

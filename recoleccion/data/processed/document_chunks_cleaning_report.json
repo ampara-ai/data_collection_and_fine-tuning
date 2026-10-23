@@ -1,0 +1,51 @@
+{
+  "chunks_entrada": 899,
+  "chunks_salida": 893,
+  "chunks_eliminados": [
+    {
+      "chunk_id": "chunk_tipo02_cp_art_153-h_01",
+      "reason": "sin_contenido_tras_limpieza",
+      "chars": 111
+    },
+    {
+      "chunk_id": "chunk_tipo02_cp_art_153-i_01",
+      "reason": "sin_contenido_tras_limpieza",
+      "chars": 111
+    },
+    {
+      "chunk_id": "chunk_tipo02_cp_art_153-j_01",
+      "reason": "sin_contenido_tras_limpieza",
+      "chars": 111
+    },
+    {
+      "chunk_id": "chunk_tipo02_cp_art_181-a_01",
+      "reason": "sin_contenido_tras_limpieza",
+      "chars": 111
+    },
+    {
+      "chunk_id": "chunk_tipo02_cp_art_182-a_01",
+      "reason": "sin_contenido_tras_limpieza",
+      "chars": 111
+    },
+    {
+      "chunk_id": "chunk_tipo05_mimp_guias_publicas_01",
+      "reason": "pagina_de_navegacion",
+      "chars": 8989
+    }
+  ],
+  "caracteres_antes": 1296739,
+  "caracteres_despues": 1226948,
+  "por_regla": {
+    "boilerplate_web:caracteres": 3027,
+    "boilerplate_web:chunks": 3,
+    "encabezados_finales:caracteres": 603,
+    "encabezados_finales:chunks": 7,
+    "enlaces_acortados:caracteres": 11940,
+    "enlaces_acortados:chunks": 243,
+    "marcador_nuevo:caracteres": 21,
+    "marcador_nuevo:chunks": 3,
+    "notas_historial:caracteres": 45211,
+    "notas_historial:chunks": 246,
+    "titulos_limpiados:chunks": 254
+  }
+}

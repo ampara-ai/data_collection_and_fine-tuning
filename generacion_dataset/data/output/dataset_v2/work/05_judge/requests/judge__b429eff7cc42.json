@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__b429eff7cc42",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo04_jp_00260_e0012_01::q02\",\n  \"question\": \"Mi esposo ya era brusco y la policía ignoró mi miedo; luego atacó a mis niños. ¿Puedo reclamar a quienes no me cuidaron a tiempo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_16_01\",\n    \"title\": \"Artículo 16. Proceso especial\",\n    \"text\": \"Artículo 16. Proceso especial\\nEl proceso especial de violencia contra las mujeres e integrantes del grupo familiar se realiza teniendo en cuenta lo siguiente:\\na. En caso de riesgo leve, moderado o severo identificado en la ficha de valoración de riesgo, el juzgado de familia, en el plazo máximo de veinticuatro (24) horas, contadas desde que toma conocimiento de la denuncia evalúa el caso y resuelve, priorizando según el nivel de riesgo, en audiencia la emisión de las medidas de protección y/o cautelares requeridas, que sean acordes con las necesidades de la víctima, salvo en el supuesto de riesgo severo, donde el juez puede prescindir de la audiencia.\\nb. En caso no pueda determinarse el riesgo, el juzgado de familia en el plazo máximo de cuarenta y ocho (48) horas, contadas desde que toma conocimiento de la denuncia, evalúa el caso y resuelve en audiencia.\\nc. El juzgado de familia, por el medio más célere, en el día y bajo responsabilidad, comunica la emisión de las medidas a las entidades encargadas de su ejecución para su cumplimiento inmediato y a los sujetos procesales.\\nd. Las medidas de protección emitidas deben ejecutarse de forma inmediata, independientemente del nivel de riesgo. El plazo desde que se presenta la denuncia hasta que se dictan las medidas de protección no puede exceder de cuarenta y ocho (48) horas\\\".\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_378_01\",\n    \"title\": \"Artículo 378.- Denegación o deficiente apoyo policial\",\n    \"text\": \"El policía que rehúsa, omite o retarda, sin causa justificada, la prestación de un auxilio legalmente requerido por la autoridad civil competente, será reprimido con pena privativa de libertad no mayor de dos años.\\nSi la prestación de auxilio es requerida por un particular en situación de peligro, la pena será no menor de dos ni mayor de cuatro años.\\nLa pena prevista en el párrafo segundo se impondrá, si la prestación de auxilio está referida a una solicitud de garantías personales o un caso de violencia familiar.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo04_jp_00260_e0012_01::q02",
+     "chunk_tipo01_ley30364_art_16_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo04_jp_00260_e0012_01::q02",
+     "chunk_tipo02_cp_art_378_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__b429eff7cc42.json"
+}

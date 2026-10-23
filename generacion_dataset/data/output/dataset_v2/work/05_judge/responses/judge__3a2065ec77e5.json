@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_110_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "si",
+      "rationale": "Permite justificar la inasistencia y evita el desistimiento tácito cuando existe justa causa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_110_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "si",
+      "rationale": "Autoriza desistirse expresamente en cualquier estado sin excluir el pago de costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_110_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "si",
+      "rationale": "Fija la justificación antes de la diligencia o dentro de las cuarenta y ocho horas siguientes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

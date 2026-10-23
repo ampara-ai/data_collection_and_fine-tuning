@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "Mi hija de siete años me contó que su papá le tocaba sus partes. ¿Se castiga más fuerte si quien abusa es su propio padre?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 agrava la pena cuando el agresor es ascendiente de la víctima o ella es menor de edad.",
+   "expected_answer_focus": "Que el parentesco y la minoría de edad de la víctima son agravantes de la violación sexual.",
+   "victim_voice_rationale": "Madre que busca saber cómo se sanciona al padre agresor."
+  },
+  {
+   "query": "A mi hija no la llevaron a ratificar lo que dijo ante el juez y dejaron libre a su papá. ¿Sin eso mi denuncia ya no vale?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0071_01"
+   ],
+   "positive_selection_reason": "La sentencia absolvió por falta de ratificación de la menor y de prueba concluyente.",
+   "expected_answer_focus": "Que la falta de declaración judicial de la menor y de pruebas concluyentes pesó en la absolución.",
+   "victim_voice_rationale": "Madre desconfiada tras ver al agresor libre por trabas del proceso."
+  },
+  {
+   "query": "Si el abusador de mi hija le hubiera dejado una lesión grave, ¿cuánto más cárcel le tocaría?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 177 aumenta la pena si hay crueldad, lesión grave o muerte en delitos sexuales.",
+   "expected_answer_focus": "Que crueldad, lesión grave, muerte o grabar los hechos elevan la pena de los delitos sexuales.",
+   "victim_voice_rationale": "Madre que quiere entender hasta dónde llega el castigo en casos graves."
+  },
+  {
+   "query": "Como mi expareja y yo tenemos varias denuncias cruzadas, siento que no me creen lo de mi hija. ¿Eso pesa en contra mía?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0071_01"
+   ],
+   "positive_selection_reason": "La sentencia ponderó las declaraciones de la madre a la luz de los procesos por violencia familiar previos.",
+   "expected_answer_focus": "Que los conflictos previos entre los padres influyeron en cómo se valoró la declaración de la madre.",
+   "victim_voice_rationale": "Madre que teme que sus problemas de pareja desacrediten su denuncia."
+  },
+  {
+   "query": "¿Hay un tope de años que le pueden dar a quien abusa de una niña, o puede quedar preso de por vida?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_29_01"
+   ],
+   "positive_selection_reason": "El art. 29 define las clases de pena privativa de libertad: temporal o cadena perpetua.",
+   "expected_answer_focus": "Que la pena de cárcel puede ser temporal, con duración mínima y máxima, o de cadena perpetua.",
+   "victim_voice_rationale": "Familiar que quiere saber hasta cuánto puede durar la condena."
+  },
+  {
+   "query": "Si condenan al agresor de mi hija, ¿ella recibe algo por todo el daño que sufrió o solo va preso él?",
+   "topic": "reparacion_civil",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 establece la reparación civil como derecho de la víctima fijado junto con la pena.",
+   "expected_answer_focus": "Que la reparación civil se decide con la pena y es un derecho de la víctima que el juez garantiza.",
+   "victim_voice_rationale": "Madre que se pregunta si su hija será compensada."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

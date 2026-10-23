@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "La prescripción no determina quién dirige las averiguaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "Las excepciones procesales no establecen dirección de investigaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "El inicio de los plazos de prescripción no establece quién ordena diligencias policiales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,8 +1,8 @@
 {
   "copied": {
-    "jurisprudence_context_units": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/input/jurisprudence_context_units.json",
-    "document_chunks_all": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_all.jsonl",
-    "document_chunks_tipo04": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_tipo04.jsonl",
-    "document_chunks_summary": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_summary.json"
+    "jurisprudence_context_units": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/input/jurisprudence_context_units.json",
+    "document_chunks_all": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_all.jsonl",
+    "document_chunks_tipo04": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_tipo04.jsonl",
+    "document_chunks_summary": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/input/document_chunks_summary.json"
   }
 }

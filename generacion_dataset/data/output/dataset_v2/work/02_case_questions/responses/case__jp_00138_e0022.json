@@ -1,0 +1,82 @@
+{
+ "questions": [
+  {
+   "query": "Me dijeron que si no grité ni me defendí, entonces es como si hubiera aceptado lo que me hizo. ¿Eso es cierto ante un juez?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0022_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia establece que la conducta de la víctima antes, durante o después del hecho no indica consentimiento, ni siquiera por no haberse resistido. Responde directamente la duda.",
+   "expected_answer_focus": "Debe poder explicar que no gritar ni resistirse no significa consentir y que los jueces no pueden inferir consentimiento de la conducta de la víctima.",
+   "victim_voice_rationale": "Una víctima teme que su falta de resistencia sea tomada como aceptación."
+  },
+  {
+   "query": "Mi hija de 16 años fue forzada por la ex pareja mía, que nos pegaba a las dos. ¿Qué delito es y cuántos años de cárcel puede tener?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo 170 tipifica la violación sexual con violencia, amenaza o entorno coercitivo, e incluye agravantes por haber sido pareja de la madre, por la edad de 14 a 18 años y por el entorno de convivencia.",
+   "expected_answer_focus": "Debe identificar el delito de violación sexual, sus formas agravadas (víctima adolescente, relación con la familia) y el rango de pena previsto actualmente.",
+   "victim_voice_rationale": "Una madre quiere saber si lo ocurrido a su hija es delito y qué castigo le corresponde."
+  },
+  {
+   "query": "Me amenazó con golpearme y me encerró, aunque yo no quería ir con él. ¿Eso cuenta aunque no me haya dejado marcas o no haya usado un arma?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo 170 incluye la grave amenaza y el aprovechamiento de un entorno de coacción como medios del delito, sin exigir arma ni marcas.",
+   "expected_answer_focus": "Debe aclarar que la amenaza o el entorno de coacción bastan para configurar la violación, sin necesidad de arma ni lesiones visibles.",
+   "victim_voice_rationale": "La víctima duda si su caso califica como delito sin huellas físicas."
+  },
+  {
+   "query": "Los jueces de la segunda instancia dejaron libre al hombre que abusó de mi hija y no tomaron en cuenta su examen psicológico. ¿Se puede corregir eso?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0022_01"
+   ],
+   "positive_selection_reason": "La sentencia anuló la absolución porque la Sala omitió valorar la pericia psicológica y ordenó un nuevo juicio de apelación; sustenta que la decisión puede corregirse.",
+   "expected_answer_focus": "Debe explicar que la Corte Suprema puede anular una absolución mal motivada, y que se ordena un nuevo juicio de apelación considerando la pericia psicológica.",
+   "victim_voice_rationale": "Una madre desconfía del sistema tras ver al agresor absuelto sin que se valorara el daño psicológico."
+  },
+  {
+   "query": "Si el agresor la golpeó, la hizo tomar licor y luego la llevó a otro lugar a seguir abusando, ¿la pena puede ser más grave por eso?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 177 prevé aumento de pena por crueldad o para degradar a la víctima, y el art. 170 contiene las agravantes por edad y relación; juntos responden sobre la gravedad de la pena.",
+   "expected_answer_focus": "Debe explicar que hay agravantes (crueldad, degradación, edad de la víctima, relación con la familia) que incrementan la pena de la violación.",
+   "victim_voice_rationale": "La familia quiere saber si la crueldad del ataque eleva el castigo."
+  },
+  {
+   "query": "Si lo condenan, ¿me van a pagar algo por todo el daño que sufrió mi hija, y hasta cuándo se le puede exigir?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El artículo 92 indica que la reparación civil se fija junto con la pena, es un derecho de la víctima y el juez garantiza su cumplimiento durante la condena.",
+   "expected_answer_focus": "Debe responder que el pago por el daño se decide en la misma sentencia penal, es derecho de la víctima y el juez vela por su cumplimiento mientras dure la condena.",
+   "victim_voice_rationale": "La madre quiere saber si habrá compensación económica y cómo se asegura."
+  },
+  {
+   "query": "¿Y si lo condenan pero el juez le deja la pena sin cumplirla en la cárcel, como que quede libre con reglas? ¿Eso puede pasar en un caso así?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 regula la suspensión de la pena y excluye expresamente a condenados por delitos del Capítulo IX del Título IV (violación sexual y otros contra la libertad sexual), además de requerir pena no mayor a cinco años.",
+   "expected_answer_focus": "Debe explicar que la suspensión de la pena no es aplicable a quienes cometen delitos contra la libertad sexual, por lo que no quedaría libre bajo reglas.",
+   "victim_voice_rationale": "Una víctima teme que el agresor condenado no pise la cárcel."
+  }
+ ]
+}

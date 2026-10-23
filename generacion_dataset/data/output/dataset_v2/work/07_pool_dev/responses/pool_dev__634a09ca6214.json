@@ -1,0 +1,791 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Describe los supuestos de prueba anticipada para menores, pero no la eficacia de una entrevista que omitió ese trámite."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 443. Trámite no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 381. Audiencia especial para testigos y peritos no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 576-2022, Del Santa no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 324. Reserva y secreto de la investigación no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 457. Reglas especiales no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 117. Tiempo no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Reconoce validez a la entrevista no tramitada como prueba anticipada si se respetan garantías y se oraliza debidamente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 482-2024, Lima no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 468. Normas de aplicación no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "si",
+      "rationale": "Reconoce eficacia probatoria a la entrevista practicada como prueba preconstituida sin exigir repetirla como anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 562. Asistencia Judicial no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 299. Duración no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-C. Audiencia ante la Corte Suprema no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista como prueba anticipada sin precisar el efecto de omitir esa formalidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 1381-2022, Moquegua no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16. Proceso especial no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 63.- Efectos de la Reserva de Fallo Condenatorio no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 380. Examen especial del testigo o perito no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 274. Prolongación de la prisión preventiva no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 26. Competencia de la Sala Penal de la Corte Suprema no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 7498-2014-54 no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Prevé testimonios especiales sin prueba anticipada y sus garantías, pero no resuelve la incorporación de la grabación previa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo reproducir y contradecir registros en juicio, sin decidir su validez por omisión de prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Valida una entrevista con citación inmediata y contradicción, pero trata un defecto distinto del trámite de prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se debe justificar la imposición de una prisión preventiva con fines preventivo-generales o especiales, sino con un fin legítimo [J. vs. Perú] no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 188. Requerimiento de informes no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 214. Solicitud y ámbito del allanamiento no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 419. Facultades de la Sala Penal Superior no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "si",
+      "rationale": "Afirma que la falta de trámite como prueba anticipada no invalida la entrevista si se respetaron garantías."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 294. Internamiento previo para observación y examen no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Explica que la entrevista tiene calidad de prueba preconstituida y no necesita el trámite de prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 491. Incidentes de modificación de la sentencia no explica la validez de la entrevista grabada sin tramitarla como prueba anticipada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 470. Declaración inexistente no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 216. Desarrollo de la diligencia no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 576-2022, Del Santa no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 344. Decisión del Ministerio Público no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 85. Reemplazo del abogado defensor no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 386. Desarrollo de la discusión final no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho del defensor a aportar pruebas, pero no el efecto de perder una prueba sobre las ofrecidas por la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 482-2024, Lima no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Signos de agresión no consumada (RN 143-2009, Ica) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Actos del Ministerio Público no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Sexo oral equivalente pero con proporcionalidad (Casación 73-2011, Puno) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación notarial sin valor (RN 1179-2019, Lima) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 28. Valoración del riesgo no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Aplicar principio de oportunidad es una facultad exclusiva del Ministerio Público [Casación 833-2019, Lambayeque] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206. Controles policiales públicos en delitos graves no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La ausencia de participación del fiscal a nivel preliminar disminuye la aptitud preliminar pero no es objeto de sanción de nulidad [RN 380-2020, Lima] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Trata la igualdad de armas al citar pruebas de descargo, pero no la pérdida de un documento ni la validez de las pruebas fiscales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica si la pérdida de una prueba de la defensa impide actuar las pruebas de la fiscalía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración de victima bajo las reglas de la prueba preconstituida tiene eficacia probatoria, no siendo necesaria su repetición [Casación 21-2019, Arequipa] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025 no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación notarial sin valor (RN 1179-2019, Lima) no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Expediente 03997-2022-PHD/TC no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 391. Autodefensa del acusado no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_220_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 220. Diligencia de secuestro o exhibición no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo incorporar la entrevista documentada a juicio, pero no resuelve si una copia sustituye al disco original."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Admite el acta escrita ante defectos del disco, pero no aborda la eficacia de una copia audiovisual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 66-2018, Cusco no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_140_01",
+      "relevance": "si",
+      "rationale": "Otorga a la copia certificada el valor del original de un acto procesal perdido o destruido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es necesario actuar la prueba de ADN si guarda relación directa con el hecho principal (doctrina jurisprudencial vinculante) [Casación 292-2014, Ancash] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 135. Requerimientos del Fiscal no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Signos de agresión no consumada (RN 143-2009, Ica) no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "parcial",
+      "rationale": "Permite obtener copias físicas o digitales de actuaciones, pero no fija su valor para condenar al faltar el original."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 225. Copia de documentos incautados no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 420. Trámite no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00462_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no explica si una copia de la entrevista puede sustituir al disco original perdido para sentenciar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

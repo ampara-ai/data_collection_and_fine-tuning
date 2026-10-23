@@ -1,0 +1,797 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Contempla la dependencia como agravante de lesiones, pero no explica el criterio general ni los hijos a cargo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "parcial",
+      "rationale": "Agrava el maltrato en situaciones de dependencia, sin resolver el peso general de la vulnerabilidad y los hijos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se valoran agravantes y atenuantes, pero no identifica la vulnerabilidad de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Recoge agravantes por vulnerabilidad y presencia de menores, sin tratar la dependencia ni los hijos a cargo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Agrava lesiones graves por dependencia aprovechada por el agresor, pero se limita a ese delito."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Contempla la dependencia como agravante en lesiones, sin abordar los hijos a cargo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la pena con el interés del hijo en un caso específico, sin establecer el criterio consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Prioriza a víctimas vulnerables, sin precisar cómo influye ello en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "parcial",
+      "rationale": "Da un límite general de proporcionalidad de la pena, sin concretar el peso de la vulnerabilidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Agrava lesiones graves por dependencia, pero no establece el criterio general sobre la víctima y sus hijos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No explica cómo influye la vulnerabilidad de la víctima y sus dependientes en la determinación de la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_192_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona el beneficio económico de la prostitución y el vínculo con la expareja, pero no la explotación mediante amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona favorecer la explotación sexual, sin regular directamente a quien obliga mediante amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona gestionar la prostitución de la expareja, pero no aborda la coacción propia de los hechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No establece el castigo por obligar a la expareja a actos sexuales con terceros para obtener ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona gestionar explotación sexual, pero no explica la explotación mediante engaño o manipulación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona gestionar prostitución ajena, pero no desarrolla la captación mediante engaño o manipulación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona favorecer explotación sexual, pero no define el supuesto de engaño o manipulación consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona engaño y explotación con la trata, pero requiere actos de captación o traslado que la pregunta no precisa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona promover la prostitución ajena, sin explicar la explotación por engaño ni el cobro de ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "si",
+      "rationale": "Tipifica y sanciona gestionar el beneficio económico de la prostitución ajena, conducta descrita al cobrar sus ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_474_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona recibir beneficios de la explotación, pero exige no participar en sus actos y no resuelve la manipulación descrita."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-c_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No resuelve la responsabilidad por explotar sexualmente mediante engaño o manipulación y cobrar las ganancias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

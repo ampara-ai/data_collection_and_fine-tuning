@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_171_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "si",
+      "rationale": "Tipifica la violación después de poner a la víctima inconsciente o imposibilitada de resistir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_171_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Indica la pena cuando el agresor causó la inconsciencia o imposibilidad de resistir, condición no precisada en la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_67_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_67_01",
+      "relevance": "si",
+      "rationale": "Establece que al cumplir el régimen de prueba no revocado se extingue y el juzgamiento se considera no efectuado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

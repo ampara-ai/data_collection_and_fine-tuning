@@ -1,0 +1,5 @@
+Genera entre <<MIN_Q>> y <<MAX_Q>> preguntas basadas en este caso y en los documentos candidatos. Prima la fidelidad jurídica y la variedad sobre alcanzar el máximo de preguntas.
+
+Entrada completa en JSON:
+
+<<PAYLOAD>>

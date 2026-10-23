@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción por acusación directa y no recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión sin regular recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Regula legitimación para impugnar absoluciones y no recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El principio de oficialidad en impugnaciones no establece cómo recibir una denuncia verbal."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Permite iniciar acción pública a instancia del agraviado sin fijar formalidades de recepción de denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula trámite policial posterior de la denuncia sin precisar la obligación fiscal de recibirla verbalmente."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El encubrimiento personal no regula recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "La prescripción de la acción penal no regula la recepción de una denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de indicios desde un proceso extrapenal y no recepción de denuncias verbales."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "Las vías de reparación civil no regulan recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la facultad de cualquier persona para denunciar sin establecer el deber de documentar la denuncia oral."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "parcial",
+      "rationale": "Exige documentar y suscribir actuaciones fiscales pero no regula específicamente la recepción de denuncias verbales."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "La facultad de control de identidad no determina si la fiscalía puede rechazar una denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Ordena a la Policía comunicar inmediatamente al fiscal la sospecha de delito conocida por denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica proposiciones sexuales a menores sin regular detención policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "La exhibición de documentos contables no regula detención de personas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "si",
+      "rationale": "Permite detener sin orden al autor identificado por un testigo y hallado dentro de veinticuatro horas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicaciones y derechos después de detener sin definir la flagrancia por hallazgo horas después."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detenciones judiciales ilegales sin establecer cuándo puede detener la Policía en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "La responsabilidad restringida no regula detención policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El secreto bancario no determina facultades de detención."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "parcial",
+      "rationale": "Regula una detención judicial cuando falta flagrancia sin definir el supuesto de detención policial sin orden."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "La valoración de una declaración policial no establece facultades de detención."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Las medidas de protección no regulan detención en flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Las preguntas aclaratorias del juez no regulan detención policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica que sin flagrancia ni mandato la detención es ilegal pero no precisa el hallazgo horas después."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Distingue retención para identificar por la Policía de retención fiscal sin definir detención por flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "La denuncia única para activar investigación no establece requisitos para detener al denunciado días después."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "La entrega a la Corte Penal Internacional es un procedimiento distinto de la captura nacional consultada."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Permite solicitar detención preliminar judicial cuando se evitó la detención en flagrancia o concurren sus demás presupuestos."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Las penas por maltrato no establecen requisitos de búsqueda y detención."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "La extradición exige que la persona esté en otro Estado y no regula el supuesto nacional descrito."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "La valoración del riesgo para protección no determina la detención del fugado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "La confesión sincera no regula búsqueda y captura del denunciado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "La prohibición de exigir denuncias reiteradas no regula la detención del fugado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Describe puesta a disposición tras una detención ordenada sin explicar cómo obtener esa orden."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El acceso a copias no determina requisitos para detener."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "La reserva del fallo no regula captura previa al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "La revisión de medidas de protección doméstica no regula captura del denunciado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Las penas por lesiones no establecen requisitos para ordenar detención."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "si",
+      "rationale": "Tipifica sustraer a una persona de persecución penal y agrava la pena de funcionarios encargados."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "si",
+      "rationale": "Analiza el encubrimiento y explica por qué liberar sin persecución iniciada ni detención legal no lo configuró."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q06",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "si",
+      "rationale": "Explica que la persecución puede comenzar antes de una investigación formal, como en flagrancia, y que la mera sospecha no basta."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "La prohibición de doble procesamiento no regula control policial de identidad."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "La información policial a medios no regula identificación ni registro de personas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El delito de detención judicial ilegal no regula controles policiales de identidad."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "La duración de una pericia psicológica no regula identificación policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Las circunstancias de pena no regulan control de identidad."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "La detención con fines de extradición es otro procedimiento distinto del control de identidad."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "El amparo contra decisiones fiscales no regula identificación en la vía pública."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "La valoración de manifestación policial no establece facultades de identificación ni registro."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El estándar para acusación directa no regula controles de identidad."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "si",
+      "rationale": "Autoriza identificación sin orden fiscal o judicial y registro ante motivos fundados de vinculación delictiva."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "El delito de daños materiales no regula control policial de personas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El trámite de denuncias y patrullaje no regula controles de identidad ni registro."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Enumera derechos frente a restricciones ilegales sin establecer requisitos de identificación y registro policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Autoriza revocar absoluciones y condenar dentro de los límites del recurso con posibilidad de apelación ante la Corte Suprema."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

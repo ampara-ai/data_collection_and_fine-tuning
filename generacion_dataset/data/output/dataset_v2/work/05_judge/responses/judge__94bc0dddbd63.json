@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0092_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "si",
+      "rationale": "Establece que la penetración digital superficial sin consentimiento constituye violación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0092_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "si",
+      "rationale": "Incluye penetraciones vaginales o anales con objetos en el concepto de violación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

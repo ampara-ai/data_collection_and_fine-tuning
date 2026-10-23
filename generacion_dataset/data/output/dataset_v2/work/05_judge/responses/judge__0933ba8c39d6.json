@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_369_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "si",
+      "rationale": "Establece que la ausencia de la víctima o testigos no impide instalar la audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_369_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "si",
+      "rationale": "Enumera las personas cuya presencia es obligatoria para instalar la audiencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

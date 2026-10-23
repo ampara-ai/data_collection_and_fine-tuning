@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0012::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar flexiblemente el peligro inmediato atendiendo a la escalada y los antecedentes de violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Apelación 333-2025, Corte Suprema, f. j. 12 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 247. Personas destinatarias de las medidas de protección aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121.- Lesiones graves no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre jp_00260_e0008 aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 559. Plazo de la detención y libertad provisional no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 188.- Robo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 22. Objeto y tipos de medidas de protección aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas de protección como reserva de identidad, cambio de residencia, protección policial y videoconferencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Dinámica de violencia doméstica para evaluar riesgo [Kurt vs. Austria] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 181.- Proxenetismo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 463. Medidas de coerción personal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Regula la detención preliminar fuera de flagrancia cuando concurren los presupuestos legales."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Fija los plazos máximos ordinarios de prisión preventiva según la complejidad del proceso."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Exige proporcionalidad, elementos de convicción e indispensabilidad para restringir derechos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 254. Requisitos y trámite del auto judicial aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0012::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 254. Requisitos y trámite del auto judicial aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_383_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "si",
+      "rationale": "Permite incorporar por lectura la pericia cuando el perito no concurre por enfermedad, bajo los requisitos indicados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 154. Efectos de la nulidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 126. Poder coercitivo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 180.- Rufianismo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22. Objeto y tipos de medidas de protección no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 178-2024, Tumbes, f. j. 12 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 295. Solicitud del Fiscal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 261. Detención Preliminar Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 369. Instalación de la audiencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 261. Detención Preliminar Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 490. Cómputo de la pena privativa de libertad aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 50.- Concurso real de delitos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22-A. Criterios para dictar medidas de protección no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15.- Error de comprensión culturalmente condicionado no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 517. Rechazo de la extradición no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 369. Instalación de la audiencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 566. Ejecución de las penas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 34.- Prestación de servicios a la comunidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Violación sexual: prueba en delitos a puerta cerrada (Colombia) [Radicado 58187] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0005_01::q06",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma prisión efectiva y reparación por agresiones de un exconviviente y aclara que la separación no excluye la violencia familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,791 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Obliga al juez a garantizar el pago, sin identificar quién investiga casas o cuentas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_93_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la indemnización como reparación, sin regular la búsqueda de bienes para cobrarla."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No contiene información sobre la búsqueda de casas o cuentas del responsable para asegurar el pago de la indemnización."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Permite inventariar bienes y prohibir ocultar el patrimonio común, pero no identifica quién investiga bienes para la reparación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_220_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_318_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_302_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "No identifica quién investiga los bienes del agresor ni cómo localizarlos para asegurar el futuro cobro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "parcial",
+      "rationale": "Permite expulsar al acusado por incumplir gravemente las reglas de su alegato final, sin regular a los demás asistentes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_392_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_220_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula la exclusión de asistentes por gritar, interrumpir o alterar el orden de una diligencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

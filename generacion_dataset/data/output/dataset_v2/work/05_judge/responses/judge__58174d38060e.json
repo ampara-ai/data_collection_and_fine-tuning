@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Expone plazos ordinario y extraordinario y el límite de suspensión por acusación directa en omisión alimentaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Determina que la acusación directa suspende la prescripción de modo análogo a la formalización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Revoca precisamente la decisión de prescripción y ordena continuar el proceso alimentario."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Analiza notificación de liquidación, acusación directa y plazos para determinar que aún podía procesarse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica el incumplimiento alimentario judicial, pero no indica cuándo prescribe."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00401_e0016_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la viabilidad temporal de procesar por alimentos impagos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

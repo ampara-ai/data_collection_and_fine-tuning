@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "si",
+      "rationale": "Fija veinticuatro horas para remitir los actuados al juzgado de familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "si",
+      "rationale": "Ordena valorar el riesgo, disponer exámenes y diligencias y solicitar protección judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_154_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "si",
+      "rationale": "Sanciona observar o registrar la intimidad personal o familiar mediante instrumentos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_154_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "si",
+      "rationale": "Establece una pena mayor cuando se revela la intimidad registrada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,48 @@
+{
+ "questions": [
+  {
+   "query": "Me llamaron para amenazarme por seguir con el caso de mi hermano asesinado. ¿Alguien puede protegernos a mí y a mi familia mientras investigan?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_247_01"
+   ],
+   "positive_selection_reason": "El art. 247 establece que las medidas de protección alcanzan a agraviados y testigos, y a su cónyuge, conviviente, ascendientes, descendientes o hermanos, cuando el fiscal o el juez aprecian un peligro grave.",
+   "expected_answer_focus": "Quiénes pueden recibir protección durante el proceso penal (víctima, testigo y sus familiares cercanos) y qué debe apreciar el fiscal o el juez para otorgarla.",
+   "victim_voice_rationale": "Una familiar amenazada por insistir en la investigación pregunta si el Estado puede protegerla a ella y a los suyos."
+  },
+  {
+   "query": "Quiero que me paguen por el daño de la muerte de mi hermano y participar en el juicio. ¿Puedo presentar pruebas y apelar si no estoy de acuerdo?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 enumera lo que puede hacer quien se constituye como actor civil: ofrecer pruebas, participar en actos de investigación, intervenir en el juicio oral e interponer recursos.",
+   "expected_answer_focus": "Qué facultades procesales tiene quien reclama el pago por el daño dentro del proceso penal: aportar pruebas, intervenir en el juicio y apelar.",
+   "victim_voice_rationale": "Un familiar que busca compensación quiere saber si puede tener un papel activo en el proceso y no solo esperar."
+  },
+  {
+   "query": "Voy a declarar como testigo y tengo miedo. ¿Cómo me avisan para presentarme y pueden llamarme por celular de un día para otro?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_129_01"
+   ],
+   "positive_selection_reason": "El art. 129 regula cómo se cita a víctimas y testigos: por la Policía o personal de Fiscalía o del juzgado, y en urgencia verbalmente, por teléfono, correo u otro medio.",
+   "expected_answer_focus": "Las formas de citación de testigos y víctimas y la posibilidad de citarlos por teléfono u otros medios en casos urgentes.",
+   "victim_voice_rationale": "Un testigo asustado quiere entender cómo y con qué rapidez lo pueden convocar a declarar."
+  },
+  {
+   "query": "Avisé a las autoridades que nos amenazan y nadie hizo nada. ¿Quiénes tienen derecho a que el fiscal o el juez les den resguardo?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_247_01"
+   ],
+   "positive_selection_reason": "El art. 247 define a las personas destinatarias de las medidas de protección y exige que el fiscal o el juez aprecie un peligro grave; responde quién puede exigir resguardo.",
+   "expected_answer_focus": "Qué personas pueden recibir medidas de protección en un proceso penal y bajo qué condición el fiscal o el juez deben otorgarlas.",
+   "victim_voice_rationale": "Una persona que no recibió respuesta tras avisar de amenazas quiere saber si tiene derecho a que la protejan."
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me golpeó en el vientre estando embarazada, me amenazó de muerte y me puso un aparato para rastrearme. ¿Eso puede verse tan grave como una tortura?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Una jueza sostuvo que la violencia doméstica extrema (golpes, aborto provocado, amenazas, rastreo, secuestro) cumple los criterios de tortura."
+    },
+    {
+     "query": "Denuncié a mi ex por amenazas y por difundir mis fotos íntimas y las autoridades no hicieron nada. ¿El Estado tiene alguna responsabilidad por no protegerme?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El caso establece que el Estado debe prevenir, investigar y sancionar la violencia doméstica, y que no hacerlo adecuadamente es una falla."
+    },
+    {
+     "query": "Mi pareja me controla, me hace vivir con miedo y me siento impotente aunque ya no me golpee tanto. ¿Eso también cuenta como daño serio?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El miedo, la ansiedad, la impotencia y el comportamiento controlador y coercitivo se consideran parte del sufrimiento grave que puede calificarse como tortura."
+    },
+    {
+     "query": "¿Qué cosas hacen que el maltrato de una expareja se considere un sufrimiento extremo y una ofensa a la dignidad de la mujer?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La acumulación de factores agravantes y de machismo que lesionan la dignidad y la integridad física y psicológica lleva a considerar el maltrato como tortura."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hija de 13 años la entrevistaron una sola vez en una sala especial para niños. ¿Esa declaración pierde valor si no se hizo con todos los trámites?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La entrevista única en sala especial no pierde validez por no tramitarse como prueba anticipada si se incorporó bien y se permitió el contradictorio."
+    },
+    {
+     "query": "¿Se puede condenar a un abusador solo con lo que contó la niña en la entrevista especial o necesitan más pruebas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La entrevista es válida siempre que no sea la única prueba; se valoraron además el certificado médico y la pericia psicológica."
+    },
+    {
+     "query": "Mi hermana menor fue abusada por el conviviente de mi otra hermana y mi madre lo denunció al enterarse. ¿Qué castigo le pueden dar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En el caso se confirmó cadena perpetua para quien violó a una menor de catorce años que vivía con él."
+    },
+    {
+     "query": "Si hubo un error en el trámite de la declaración de un niño víctima, ¿se puede anular todo el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El defecto formal es relativo y puede superarse; el interés superior del niño justifica flexibilizar el procedimiento."
+    },
+    {
+     "query": "Además de la cárcel, ¿al que abusó de una niña lo obligan a pagar dinero a la familia? ¿Cuánto fue en un caso así?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se mantuvo la condena de cadena perpetua y una reparación civil de S/ 5000."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 8 años acusó a su papá de tocarla, pero en el juicio dijo que era mentira después de que él se le acercó. ¿Ya no vale su denuncia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Cuando la niña se retracta, el juez debe analizar si el acercamiento del padre pudo influir; la retractación no basta por sí sola."
+    },
+    {
+     "query": "Si una niña cambia su versión en el juicio, ¿el juez puede absolver al acusado sin revisar si la presionaron?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No basta decir que no hay prueba objetiva de injerencia; hay que analizar si el acercamiento del acusado influyó en la declaración."
+    },
+    {
+     "query": "Absolvieron al acusado por lo que dijo la niña al final y el fiscal no está de acuerdo. ¿Se puede pedir que se revise esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró fundado el recurso del Ministerio Público y se anuló la sentencia que absolvía por falta de motivación adecuada."
+    },
+    {
+     "query": "¿Qué debe revisar un juez cuando una menor se desdice y quien la acusó es su propio padre?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "Debe evaluar el contexto familiar y la posible influencia del acusado, siguiendo los parámetros fijados para analizar la retractación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_34_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A quien me agredió lo condenaron a trabajar gratis para el Estado. ¿En qué lugares puede cumplir ese castigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe trabajar gratis en entidades asistenciales, hospitales, escuelas, orfanatos, obras públicas o instituciones privadas con fines sociales."
+    },
+    {
+     "query": "¿Cuántas horas a la semana tiene que trabajar un condenado a esa pena de trabajos gratuitos y en qué días?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Son diez horas semanales, en sábados, domingos o feriados, sin afectar su trabajo habitual."
+    },
+    {
+     "query": "¿Hasta cuánto tiempo puede durar la pena de trabajar gratis para la comunidad?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Dura de diez a ciento cincuenta y seis jornadas semanales, salvo que la ley disponga otra cosa."
+    },
+    {
+     "query": "El condenado dice que hará sus trabajos gratuitos entre semana y no en fin de semana. ¿Se lo pueden permitir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Puede ser autorizado a cumplir la jornada en días hábiles, computándose la jornada correspondiente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me da miedo ir sola a la comisaría. ¿Puedo denunciar la violencia de mi pareja por WhatsApp o por correo?",
+     "topic": "canales_denuncia",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La denuncia puede hacerse por escrito, verbalmente o por canales virtuales, correo o mensajería ante policía, fiscalía o juzgados."
+    },
+    {
+     "query": "Mi vecina es golpeada por su esposo y no se atreve a hablar. ¿Yo puedo denunciar por ella sin ser su familiar?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Cualquier persona puede denunciar a favor de la víctima sin representación, solo identificándose; también puede hacerlo la Defensoría del Pueblo."
+    },
+    {
+     "query": "¿Necesito contratar abogado o pagar algún trámite para que me reciban una denuncia por maltrato?",
+     "topic": "canales_denuncia",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "No se requiere firma de abogado, tasa ni otra formalidad."
+    },
+    {
+     "query": "No me hice ningún examen médico y no tengo moretones a la vista. ¿Igual me aceptan la denuncia?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No se exige presentar exámenes, pericias ni mostrar huellas de violencia; los documentos que tenga se reciben e incluyen."
+    },
+    {
+     "query": "Soy profesora y una alumna llega con señales de maltrato en su casa. ¿Estoy obligada a avisar a alguien?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Los profesionales de salud y educación deben denunciar los casos de violencia que conozcan en su trabajo."
+    },
+    {
+     "query": "En mi pueblo no hay juzgado de familia ni cerca una comisaría grande. ¿A dónde puedo ir a denunciar?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Donde no hay juzgados de familia se puede denunciar ante los juzgados de paz letrado o de paz, además de la policía y la fiscalía."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_207_01",
+   "skip": true,
+   "skip_reason": "Regula técnicas de vigilancia e investigación reservada del Fiscal y la Policía; es un trámite técnico interno que una víctima no preguntaría de forma natural.",
+   "questions": []
+  }
+ ]
+}

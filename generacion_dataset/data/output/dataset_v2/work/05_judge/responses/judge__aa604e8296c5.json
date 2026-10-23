@@ -1,0 +1,203 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica los límites del recurso de la víctima cuando el fiscal acepta la absolución y las excepciones por vulneración de garantías."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Establece que la parte civil no sustituye al fiscal que no impugnó la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la acción civil puede subsistir tras una absolución, pero no la facultad de impugnar penalmente."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye la acción penal pública al fiscal, pero no resuelve la legitimación de la víctima para apelar una absolución."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si la víctima puede impugnar una absolución que el fiscal no recurrió."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Describe un caso de deformación del rostro por el conviviente en que se aumentaron la pena efectiva y la reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Establece que la acción penal pública corresponde al Ministerio Público y puede ejercerse de oficio."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Fija las penas de lesiones graves agravadas cuando la víctima es conviviente."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "Enumera la ausencia de antecedentes y determinadas conductas posteriores reparadoras como atenuantes, sin equipararlas al simple arrepentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q05",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No establece el efecto de la falta de antecedentes o del arrepentimiento en la determinación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00698_e0004::q06",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "si",
+      "rationale": "Considera agravante abusar de superioridad o aprovechar circunstancias que dificulten la defensa de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "No tipifica la demora deliberada del agente al atender una solicitud de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "No tipifica la demora deliberada del agente al atender una solicitud de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No tipifica la demora deliberada del agente al atender una solicitud de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

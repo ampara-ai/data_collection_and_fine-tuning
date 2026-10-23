@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Enumera los supuestos para un nuevo examen en juicio y exige evitar el contacto con el procesado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00141_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Incluye la retractación como supuesto que puede justificar un nuevo examen en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00395_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la coordinación entre fiscalía y policía y un manual, pero no describe los pasos de investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

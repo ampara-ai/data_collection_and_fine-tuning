@@ -1,0 +1,61 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi suegro nos atacó a mi esposo y a mí en su casa, pero dicen que no es violencia familiar porque ya somos adultos y vivimos aparte. ¿Eso es cierto?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00055_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia explica que, aunque exista parentesco, no se aplicó la ley de violencia familiar porque los agraviados eran adultos, independientes y sin dependencia ni asimetría respecto del agresor.",
+   "expected_answer_focus": "Que el parentesco por sí solo no basta según este criterio de la Corte Suprema: se evaluó la situación de vulnerabilidad o dependencia, y al no haberla el hecho se trató como lesiones comunes.",
+   "victim_voice_rationale": "Una nuera agredida por su suegro que no entiende por qué le dicen que lo ocurrido no cuenta como violencia dentro de la familia."
+  },
+  {
+   "query": "Mi suegro me hirió los brazos con un vidrio roto cuando quise separarlo de mi esposo. ¿Se considera más grave por haber usado algo así y ser mi familiar?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122_01"
+   ],
+   "positive_selection_reason": "El artículo 122 vigente regula las lesiones leves y prevé agravantes por el uso de armas u objetos peligrosos y por el parentesco, incluido el de afinidad.",
+   "expected_answer_focus": "Que las lesiones pueden tener una sanción más severa si se usó un arma u objeto que ponga en riesgo la vida o si el agresor es pariente por afinidad, según el texto vigente. La respuesta no debe fijar cifras de la época del caso.",
+   "victim_voice_rationale": "La víctima quiere saber si herirla con un vidrio y siendo familiar político cambia la gravedad del delito."
+  },
+  {
+   "query": "Tengo miedo de que me pongan frente a frente con el que me agredió porque cada uno cuenta algo distinto. ¿Pueden obligarme a eso?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "El artículo 182 del CPP regula cuándo procede el careo entre el imputado y el agraviado ante contradicciones importantes.",
+   "expected_answer_focus": "Que el careo procede cuando hay contradicciones importantes entre lo declarado por el imputado y el agraviado, y cuya aclaración requiera oír a ambos. Solo se menciona una salvaguarda expresa para menores de catorce años.",
+   "victim_voice_rationale": "Una víctima teme enfrentarse con su agresor durante el proceso porque las versiones no coinciden."
+  },
+  {
+   "query": "Me avisaron de una resolución del caso un viernes y el plazo vence en pocos días. ¿Desde cuándo cuentan los días y qué pasa si el último cae en feriado?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_143_01"
+   ],
+   "positive_selection_reason": "El artículo 143 del CPP establece cómo se cuentan los plazos por días y qué ocurre cuando vencen en día inhábil.",
+   "expected_answer_focus": "Que los plazos por días se cuentan desde el día hábil siguiente a la notificación, y que si el último día es inhábil se prorrogan al siguiente día hábil.",
+   "victim_voice_rationale": "Pregunta práctica de alguien que teme perder un plazo del proceso por no saber cómo se cuentan los días."
+  },
+  {
+   "query": "Mi suegro nos lastimó a mi esposo y a mí, y al final el juez lo trató como una lesión común y no como violencia en la familia. ¿Por qué cambió el delito?",
+   "topic": "identificacion_delito",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00055_e0009_01",
+    "chunk_tipo02_cp_art_122_01"
+   ],
+   "positive_selection_reason": "La sentencia explica por qué el hecho se calificó como lesiones leves en lugar de violencia familiar, y el artículo 122 es el tipo penal aplicado en su lugar.",
+   "expected_answer_focus": "Que la Corte Suprema recalificó los hechos como lesiones leves porque no vio dependencia ni vulnerabilidad entre adultos independientes, y que el delito de lesiones leves está regulado en el Código Penal con sus agravantes.",
+   "victim_voice_rationale": "Una víctima desconcertada porque el delito por el que se condenó no corresponde a lo que ella entendía como violencia familiar."
+  }
+ ]
+}

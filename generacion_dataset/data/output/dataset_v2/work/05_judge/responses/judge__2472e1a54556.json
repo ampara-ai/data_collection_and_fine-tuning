@@ -1,0 +1,617 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 343. Control del Plazo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Establece que la constitución del perjudicado como actor civil hace cesar la intervención fiscal en el objeto civil; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 8. Tipos de violencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "parcial",
+      "rationale": "Permite colaborar en el esclarecimiento y acreditar la reparación civil, pero prohíbe al actor civil pedir sanción; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Enumera las facultades del actor civil para ofrecer pruebas, intervenir en juicio y recurrir; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que la notificación de la conclusión de la investigación determina la oportunidad de constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Queja NCPP 630-2021, Lima Norte no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la reparación civil como derecho de la víctima y encarga al juez garantizar su cumplimiento durante la condena; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 215.- Modalidades de libramientos indebidos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Expediente 03681-2022-HC/TC no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 17-A. Flagrancia en casos de riesgo severo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 105. Facultades adicionales del actor civil no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 102. Trámite de la constitución en actor civil no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Enumera las facultades del actor civil para ofrecer pruebas, intervenir en juicio y recurrir; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Queja NCPP 630-2021, Lima Norte no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 215.- Modalidades de libramientos indebidos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 98. Constitución y derechos no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que la notificación de la conclusión de la investigación determina la oportunidad de constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 92.- La reparación civil: Oportunidad de su determinación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00339-2021-PHC/TC no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 192. Objeto no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Enumera las facultades del actor civil para ofrecer pruebas, intervenir en juicio y recurrir."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Expediente 03681-2022-HC/TC no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada.- aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 245. Audiencia de prueba anticipada aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 468. Normas de aplicación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 243. Requisitos de la solicitud no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Establece que la notificación de la conclusión de la investigación determina la oportunidad de constituirse en actor civil; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Establece que la constitución del perjudicado como actor civil hace cesar la intervención fiscal en el objeto civil; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-F.- Beneficio p or explotación sexual no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "si",
+      "rationale": "Permite colaborar en el esclarecimiento y acreditar la reparación civil, pero prohíbe al actor civil pedir sanción."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "si",
+      "rationale": "Permite elegir entre ejercer la acción civil en el proceso penal o ante la jurisdicción civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "si",
+      "rationale": "Establece que la constitución del perjudicado como actor civil hace cesar la intervención fiscal en el objeto civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 368.- Resistencia o desobediencia a la autoridad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 189. Reconocimientos de personas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica las agresiones familiares, fija penas y contempla agravantes por armas, presencia de menores e incumplimiento de protección."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Establece las penas de lesiones graves familiares e incluye la ebriedad entre las circunstancias agravantes; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 261. Detención Preliminar Judicial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 207. Presupuestos y Ejecución no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 555. Trámite inicial de las solicitudes de Cooperación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Apelación 324-2023 Puno no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 2030-2019 Lima no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Exige que la violencia familiar se produzca en una relación de responsabilidad, confianza o poder; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q08",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que la notificación de la conclusión de la investigación determina la oportunidad de constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q08",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 343. Control del Plazo aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 65. La investigación del delito destinada a ejercitar la acción penal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 120. Régimen General no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "si",
+      "rationale": "Ordena brindar ayuda lingüística y proveer traductor o intérprete a quien no comprenda el castellano."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 20.- Inimputabilidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 371.- Negativa a colaborar con la administración de justicia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 303. Embargo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 557. Recepción y trámite no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00008_e0002::q09",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 378. Denegación o deficiente apoyo policial no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-c_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 311. Desalojo preventivo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Regula las pesquisas policiales, su documentación y la comunicación inmediata al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "parcial",
+      "rationale": "Regula las pesquisas policiales, su documentación y la comunicación inmediata al fiscal; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Regula las pesquisas policiales, su documentación y la comunicación inmediata al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Regula las pesquisas policiales, su documentación y la comunicación inmediata al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 336. Formalización y continuación de la Investigación Preparatoria no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 205. Control de identidad policial aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Interpretación del peligro inmediato para medidas de protección [Kurt vs. Austria] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 244. Trámite de la solicitud no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 243. Requisitos de la solicitud no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 17. Flagrancia aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Regula las pesquisas policiales, su documentación y la comunicación inmediata al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 208.- Excusa absolutoria. Exención de Pena no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_208_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 311. Desalojo preventivo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 79. Contumacia y Ausencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22. Objeto y tipos de medidas de protección no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 425.- Funcionario o servidor público no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "si",
+      "rationale": "Permite decidir sobre la libertad y practicar diligencias urgentes mientras se resuelve la competencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 419.- Detención ilegal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 36. Inhabilitación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 556. Consultas y acuerdos con la Corte Penal Internacional no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 438. Trámite no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 321. Finalidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "si",
+      "rationale": "Permite decidir sobre la libertad y practicar diligencias urgentes mientras se resuelve la competencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,190 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un conocido nos ayudó a cruzar la frontera, pero el viaje fue tan peligroso que hubo heridos graves. ¿Cuánta cárcel le pueden dar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si hay muerte, lesión grave o grave peligro en el traslado, la pena es no menor de 25 años."
+    },
+    {
+     "query": "Si quien lleva gente ilegalmente al extranjero es un pariente o el esposo de la persona trasladada, ¿el castigo es más fuerte?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Ser cónyuge, conviviente, pariente o tener a la víctima a su cuidado agrava la pena a entre 5 y 8 años."
+    },
+    {
+     "query": "Mi hijo de 16 años fue sacado del país sin papeles por unos conocidos. ¿Eso se castiga más duro que si fuera adulto?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Que la víctima tenga entre 14 y menos de 18 años es una agravante (5 a 8 años); si es menor de 14, la pena sube a 25 años o más."
+    },
+    {
+     "query": "¿Qué pasa con quien organiza traslados ilegales de personas si es un funcionario público que se aprovecha de su puesto?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Abusar de la función pública agrava la pena a 5 a 8 años, con inhabilitación."
+    },
+    {
+     "query": "Mi hermana con discapacidad fue llevada sin papeles en un transporte muy inseguro. ¿Qué pena enfrentan los responsables?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si la víctima tiene discapacidad o el transporte pone en grave peligro su integridad, la pena es de al menos 25 años."
+    },
+    {
+     "query": "Si un grupo de varias personas lleva a muchos migrantes de forma ilegal, ¿la pena es mayor que si lo hace una sola persona?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pluralidad de víctimas y que el hecho lo cometan dos o más personas son agravantes; si es una organización criminal, la pena es de al menos 25 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi nieta denunció a su abuelo por abusar de ella y ahora dice que todo fue mentira. ¿El juez igual puede condenarlo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si hay pruebas que respaldan la denuncia inicial, el cambio de versión de la víctima no impide condenar al acusado."
+    },
+    {
+     "query": "¿Cómo decide un juez si una niña que se desdice de su denuncia de abuso dice ahora la verdad o la presionaron?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se evalúa la solidez de la primera declaración, la coherencia del nuevo relato, el motivo de la falsa denuncia, posibles contactos con el acusado y las consecuencias de la denuncia."
+    },
+    {
+     "query": "Mi hija de 9 años fue tocada por su abuelo y la familia quiere que firme que inventó todo. ¿Eso sirve para que lo liberen?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Una retractación por sí sola no basta; se valora con las demás pruebas y puede no ser creíble si hay evidencia que respalda los hechos."
+    },
+    {
+     "query": "El agresor huyó cuando lo denunciaron y admitió algo a medias. ¿Eso pesa en su contra aunque la víctima cambie su versión?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El reconocimiento parcial de los hechos y la fuga tras la denuncia se tomaron como elementos contra el acusado."
+    },
+    {
+     "query": "¿Qué pruebas ayudan a que se mantenga una condena por abuso sexual de una niña aunque ella luego se arrepienta de haber denunciado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los certificados médicos, informes psicológicos y declaraciones de la madre y peritos sirvieron para corroborar los hechos."
+    },
+    {
+     "query": "¿Qué castigo recibió un abuelo que abusó sexualmente de su nieta de 8 años y de otras niñas de la familia?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó la condena de cadena perpetua y el pago de reparación civil."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez cerró el caso de abuso de mi hija porque dice que no hay pruebas suficientes. ¿Eso es normal o se puede discutir?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El caso puede archivarse cuando no hay elementos suficientes y no hay posibilidad de incorporar nuevos datos; la decisión puede ser confirmada en instancias superiores."
+    },
+    {
+     "query": "¿En qué situación un juez puede dar por terminado definitivamente un caso de violación de una menor sin llegar a juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Procede cuando faltan elementos de convicción y no se espera conseguir nuevos datos."
+    },
+    {
+     "query": "El fiscal se opuso a que cerraran el caso de violación de una adolescente y llegó hasta la Corte Suprema. ¿Se logró reabrir?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema declaró infundado el recurso del fiscal y confirmó el cierre del caso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo no me pega, pero me humilla, me insulta y no me deja ver a mis amigas. ¿Eso también es violencia?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Controlar, aislar, humillar o insultar a una persona contra su voluntad es violencia psicológica, sin importar cuánto tarde en recuperarse."
+    },
+    {
+     "query": "Mi pareja dejó de darme dinero para la comida de los niños y no paga la pensión. ¿Eso cuenta como maltrato aunque no me golpee?",
+     "topic": "violencia_economica",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Limitar los recursos o evadir la obligación de alimentos es violencia económica contra la mujer y los hijos que viven con ella."
+    },
+    {
+     "query": "A mi madre anciana la dejan sin comida ni cuidados y se ha enfermado. ¿Eso se considera maltrato físico aunque nadie le pegue?",
+     "topic": "violencia_fisica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El maltrato por negligencia, descuido o privación de necesidades básicas que causa o puede causar daño físico es violencia física."
+    },
+    {
+     "query": "Mi pareja me obliga a ver videos pornográficos y me presiona para tener relaciones. ¿Es violencia sexual aunque no me toque?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La violencia sexual incluye actos sin contacto físico, la exposición a pornografía y la coerción sobre la vida sexual o reproductiva."
+    },
+    {
+     "query": "Mi ex se quedó con mis documentos y rompió mis herramientas de trabajo. ¿Qué tipo de violencia es esa?",
+     "topic": "violencia_economica",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La retención, destrucción o apropiación de documentos, instrumentos de trabajo y bienes es violencia económica o patrimonial."
+    },
+    {
+     "query": "En mi trabajo me pagan menos que a un compañero que hace lo mismo que yo por ser mujer. ¿Eso puede ser violencia económica?",
+     "topic": "violencia_economica",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Percibir un salario menor por igual tarea en el mismo lugar de trabajo está incluido como forma de violencia económica o patrimonial."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_236_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico entre juez, fiscal y administración tributaria; ninguna víctima haría una pregunta natural sobre esto.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Condenaron al hombre que intentó matar a mi hermana, pero dicen que el juez sacó a su abogado. ¿Pueden anular la sentencia por eso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Excluir sin base legal al abogado elegido por el acusado vulnera su defensa y causa nulidad absoluta de la sentencia."
+    },
+    {
+     "query": "¿Un juez puede quitarle al acusado el abogado que él mismo eligió y dejar otro durante todo el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No; solo puede reemplazarlo por una falta a una diligencia que no se puede postergar, y solo para ese acto."
+    },
+    {
+     "query": "Si anulan la condena del que casi mata a mi hija por un error del juez, ¿el juicio se tiene que repetir desde el inicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se declararon nulas las sentencias y se ordenó retrotraer el proceso al inicio del juicio oral, con el abogado elegido."
+    }
+   ]
+  }
+ ]
+}

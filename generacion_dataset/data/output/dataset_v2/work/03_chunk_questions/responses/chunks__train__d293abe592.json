@@ -1,0 +1,166 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_172_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana tiene una discapacidad mental y un vecino abusó de ella sexualmente. ¿Cuántos años de cárcel le pueden dar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quien tiene relaciones sexuales con una persona con anomalía psíquica o retardo mental que no puede consentir recibe entre 20 y 26 años de cárcel."
+    },
+    {
+     "query": "Mi pareja tuvo relaciones conmigo cuando yo estaba inconsciente por un golpe. ¿Eso cuenta como violación aunque sea mi pareja?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aprovecharse de una persona con grave alteración de la conciencia o incapaz de resistir para tener acceso carnal es violación sancionada con 20 a 26 años."
+    },
+    {
+     "query": "Estaba tan drogada que no podía moverme ni decir que no y abusaron de mí. ¿Aunque no haya gritado ni peleado, es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Es delito tener acceso carnal con quien no puede resistir ni dar su consentimiento; no se exige que la víctima se haya defendido."
+    },
+    {
+     "query": "Un conocido abusó de mi prima con retraso mental usando un objeto y no solo con su cuerpo. ¿También se considera violación?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "También es violación introducir un objeto o parte del cuerpo por vía vaginal o anal a una persona incapaz de consentir."
+    },
+    {
+     "query": "¿Qué castigo reciben quienes abusan sexualmente de una persona que no puede defenderse ni entender lo que pasa?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena es cárcel no menor de veinte ni mayor de veintiséis años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_187_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja agarró mi moto sin permiso, la usó un rato y la devolvió. ¿Eso es delito o no pasa nada?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Llevarse un bien ajeno para usarlo momentáneamente y devolverlo es un delito sancionado con hasta un año de cárcel."
+    },
+    {
+     "query": "Si alguien se lleva algo mío solo para usarlo un momento y luego me lo devuelve, ¿cuánto tiempo de cárcel puede tener?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La pena es de cárcel no mayor de un año."
+    },
+    {
+     "query": "Mi ex se llevó mi celular un par de horas para revisarlo y luego me lo regresó. ¿Puedo denunciarlo por eso?",
+     "topic": "violencia_economica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Sustraer un bien mueble ajeno para uso momentáneo y devolverlo está penado, aunque con sanción menor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_447_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Detuvieron a mi agresor justo cuando me golpeaba. ¿En cuánto tiempo un juez decide si el caso sigue por la vía rápida?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez realiza la audiencia única dentro de las 48 horas siguientes al requerimiento del fiscal, al terminar la detención policial."
+    },
+    {
+     "query": "Mientras llega esa primera audiencia, ¿mi agresor sigue detenido o lo pueden soltar?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La detención se mantiene hasta que se realice la audiencia única de incoación."
+    },
+    {
+     "query": "¿En esa primera audiencia se puede llegar a un arreglo con el agresor o hay que esperar al juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En la audiencia las partes pueden pedir principio de oportunidad, acuerdo reparatorio o terminación anticipada."
+    },
+    {
+     "query": "Si el juez acepta llevar el caso por la vía rápida, ¿en cuánto tiempo el fiscal tiene que presentar su acusación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Tras decidirse el proceso inmediato, el fiscal debe formular acusación en 24 horas."
+    },
+    {
+     "query": "Si el juez no acepta que el caso vaya por la vía rápida, ¿se acaba el proceso contra mi agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si se rechaza, el fiscal dicta la disposición que corresponda o formaliza la investigación preparatoria; el caso continúa por la vía ordinaria."
+    },
+    {
+     "query": "Si yo reclamo que me paguen por el daño, ¿puedo pedirle al fiscal la vía rápida y qué hago si me dice que no?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El actor civil puede solicitar la vía rápida al fiscal, que responde en 3 días; si deniega, puede acudir al juez en 2 días hábiles para que lo revise."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_144_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El fiscal o el juez se pasó de los días que tenía para actuar en mi caso. ¿Qué les pasa a ellos por eso?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los plazos que solo regulan la actividad de fiscales y jueces deben cumplirse, y su incumplimiento solo acarrea responsabilidad disciplinaria."
+    },
+    {
+     "query": "Si dejo pasar el tiempo para hacer un trámite en mi proceso, ¿pierdo la oportunidad de hacerlo después?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Vencido un plazo máximo se pierde lo que se pudo o debió hacer, salvo que la ley permita ampliarlo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_63_01",
+   "skip": true,
+   "skip_reason": "Norma administrativa sobre organización y distribución de funciones internas del Ministerio Público; ninguna víctima lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi ex no paga la pensión de mis hijos y el fiscal ya presentó su acusación. ¿Eso frena que el delito se olvide por el paso del tiempo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La acusación directa suspende el plazo de prescripción de la acción penal en el delito de omisión de asistencia familiar."
+    },
+    {
+     "query": "Un juez cerró el caso de pensión impaga diciendo que ya había pasado mucho tiempo, aunque el fiscal había acusado. ¿Eso fue correcto?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema indicó que la acusación directa suspende la prescripción, por lo que declararla de oficio en ese caso fue errado."
+    },
+    {
+     "query": "¿El tiempo sigue corriendo a favor del padre que no da alimentos a sus hijos si el fiscal acusa sin hacer una investigación larga?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La acusación directa, como la formalización de la investigación, suspende el plazo y evita que se pierda la posibilidad de castigar."
+    },
+    {
+     "query": "¿Por qué la ley no deja que un padre moroso quede libre solo porque pasó el tiempo si ya lo acusaron?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se busca evitar la impunidad y garantizar la persecución penal, por lo que la suspensión se proyecta a todo el proceso."
+    }
+   ]
+  }
+ ]
+}

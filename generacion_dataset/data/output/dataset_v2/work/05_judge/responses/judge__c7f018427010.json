@@ -1,0 +1,299 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00163_e0006::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Condiciona el careo a contradicciones importantes y establece protección especial para menores de catorce años."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "si",
+      "rationale": "Considera el careo una facultad excepcional cuya denegación no vulnera por sí sola el derecho a la prueba."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Impide el careo con la víctima de doce años salvo petición expresa de su representante o defensa."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Alude a valorar el relato infantil mediante cámara Gesell, pero no a grabarlo para evitar repetirlo."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Valora una entrevista en cámara Gesell, pero no resuelve si evita repetir la declaración en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Ordena intervención de psicólogos y grabación de declaraciones de menores para evitar revictimización."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124-B. Determinación de la lesión psicológica no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "parcial",
+      "rationale": "Describe cómo pedir prueba anticipada, sin regular grabación ni entrevista psicológica de menores."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce eficacia probatoria de la prueba anticipada, sin explicar la entrevista grabada."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla formalidades de prueba anticipada, sin regular la entrevista psicológica grabada."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aborda garantías de la entrevista única y evaluación psicológica, sin explicar su grabación para evitar reiteraciones."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Describe el destino de la cámara Gesell y la validez de pericias, sin resolver la grabación para no reiterar el relato."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_38_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 38.- Duración de la inhabilitación principal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 173. Nombramiento no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Permite adelantar el testimonio cuando hay amenazas o presiones para declarar falsamente."
+    },
+    {
+      "dataset_id": "case::jp_00163_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Autoriza careo entre agraviados y testigos ante contradicciones importantes que requieran confrontación."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 84.- Suspensión de la prescripción no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación psicológica y obligación estatal de garantizar acceso al tratamiento en la salud pública."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 473-A. Participación del agraviado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 189.- Robo agravado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "parcial",
+      "rationale": "Prevé recuperación de salud mental en comunidades y zonas rurales, sin precisar gratuidad ni el derecho general consultado."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos de acceso carnal (RN 2289-2011, Lima) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 120. Régimen General no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 547. Pena de multa y el decomiso no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "si",
+      "rationale": "Señala que el testimonio de la víctima puede bastar si cumple las garantías de credibilidad, verosimilitud y persistencia."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Enumera facultades del actor civil para reclamar y defender su derecho a reparación dentro del proceso."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "si",
+      "rationale": "Permite devolver bienes ya utilizados en la investigación y acudir al juez dentro del tercer día ante negativa fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce intervención y recursos del actor civil, pero no determina los derechos de la madre que aún no se ha constituido como tal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 71. Derechos del imputado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124.- Lesiones Culposas no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "parcial",
+      "rationale": "Explica el trámite de constitución en actor civil, pero no quién representa a la menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 44. Centro de Altos Estudios no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2451-2022, Cajamarca no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RFN 3963-2016-MP-FN Daño Psíquico no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "si",
+      "rationale": "Prevé representación de víctimas menores por defensor público de víctimas o abogado del Centro Emergencia Mujer."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00059-2019-0, f.j. 10 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_98_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "si",
+      "rationale": "Legitima a los perjudicados por el delito conforme a la ley civil para reclamar reparación en el proceso penal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

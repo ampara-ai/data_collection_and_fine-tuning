@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "A quien me golpeó lo condenaron, pero dicen que no le avisaron bien de la sentencia y se cayó todo. ¿Se repite el juicio?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00067_e0026_01"
+   ],
+   "positive_selection_reason": "La sentencia trata justo de una condena anulada por una entrega defectuosa de la notificación.",
+   "expected_answer_focus": "Que una notificación mal hecha puede anular lo posterior y obliga a notificar de nuevo, sin absolver al agresor.",
+   "victim_voice_rationale": "Víctima que teme perder la condena por un error de trámite."
+  },
+  {
+   "query": "Me citaron para declarar contra mi agresor y tengo miedo. ¿Estoy obligada a ir y qué pasa con mi trabajo ese día?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_163_01"
+   ],
+   "positive_selection_reason": "El art. 163 establece el deber de concurrir y que la asistencia justifica la ausencia laboral o educativa.",
+   "expected_answer_focus": "Deber de acudir, decir la verdad y que faltar al trabajo por la cita no acarrea consecuencias adversas.",
+   "victim_voice_rationale": "Duda práctica de quien teme declarar."
+  },
+  {
+   "query": "Mi hija tiene problemas de la cabeza y vio cómo me pegaban. ¿Ella puede contarle al juez lo que presenció?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_162_01"
+   ],
+   "positive_selection_reason": "El art. 162 regula quién puede declarar y las pericias para valorar la idoneidad.",
+   "expected_answer_focus": "Regla general de que toda persona puede testificar y evaluación de su aptitud mediante pericias.",
+   "victim_voice_rationale": "Familiar con dudas sobre la validez del testimonio de su hija."
+  },
+  {
+   "query": "Denuncié a mi pareja y me da miedo que el fiscal cierre todo sin decirme nada. ¿Quién decide eso y debe explicarlo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_122_01"
+   ],
+   "positive_selection_reason": "El art. 122 dice que el Ministerio Público decide el inicio, continuación o archivo mediante actos motivados.",
+   "expected_answer_focus": "Que el fiscal decide archivar o continuar y que sus decisiones deben estar motivadas.",
+   "victim_voice_rationale": "Desconfianza ante el archivo sin explicación."
+  },
+  {
+   "query": "Si me llaman de testigo y lo que cuente puede meter en problemas a un familiar mío, ¿me pueden obligar a hablar igual?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_163_01"
+   ],
+   "positive_selection_reason": "El art. 163 numeral 2 regula el derecho del testigo a no declarar contra sí mismo o ciertos allegados.",
+   "expected_answer_focus": "Límites a la obligación de declarar cuando implica incriminarse o incriminar a ciertos parientes.",
+   "victim_voice_rationale": "Duda de lealtad familiar al declarar."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

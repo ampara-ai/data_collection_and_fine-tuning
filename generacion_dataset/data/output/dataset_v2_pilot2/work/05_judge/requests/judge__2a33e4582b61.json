@@ -1,0 +1,59 @@
+{
+ "task_id": "judge__2a33e4582b61",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_121-b_01::q03\",\n  \"question\": \"Si mi pareja me golpea y yo me muero por las heridas, ¿qué castigo le toca a él?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_121-b_01\",\n    \"title\": \"Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar\",\n    \"text\": \"Artículo 121-B .- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar\\nEn los casos previstos en la primera parte del artículo 121 se aplica pena privativa de libertad no menor de seis ni mayor de doce años cuando la víctima:\\n1. Es mujer y es lesionada por su condición de tal en cualquiera de los contextos previstos en el primer párrafo del artículo 108-B.\\n2. Es ascendiente, descendiente, natural o adoptivo, cónyuge o conviviente del agente.\\n3. Depende o está subordinado.\\nCuando la víctima muere a consecuencia de la lesión y el agente pudo prever ese resultado, la pena será no menor de doce ni mayor de quince años.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_121-b_01\",\n    \"title\": \"Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar\",\n    \"text\": \"En los supuestos previstos en el primer párrafo del artículo 121 se aplica pena privativa de libertad no menor de seis ni mayor de doce años e inhabilitación conforme a los numerales 5 y 11 del artículo 36 del presente Código y los artículos 75 y 77 del Código de los Niños y Adolescentes, según corresponda, cuando:\\n1. La víctima es mujer y es lesionada por su condición de tal en cualquiera de los contextos previstos en el primer párrafo del artículo 108-B.\\n2. La víctima se encuentra en estado de gestación.\\n3. La víctima es cónyuge; excónyuge; conviviente; exconviviente; padrastro; madrastra; ascendiente o descendiente por consanguinidad, adopción o afinidad; pariente colateral del cónyuge y conviviente hasta el cuarto grado de consanguinidad y segundo de afinidad; habita en el mismo hogar, siempre que no medien relaciones contractuales o laborales; o es con quien se ha procreado hijos en común, independientemente de que se conviva o no al momento de producirse los actos de violencia, o la violencia se da en cualquiera de los contextos de los numerales 1, 2 y 3 del primer párrafo del artículo 108-B.\\n4. La víctima mantiene cualquier tipo de relación de dependencia o subordinación sea de autoridad, económica, cuidado, laboral o contractual y el agente se hubiera aprovechado de esta situación.\\n5. Para cometer el delito se hubiera utilizado cualquier tipo de arma, objeto contundente o instrumento que ponga en riesgo la vida de la víctima.\\n6. El delito se hubiera realizado en cualquiera de las circunstancias del artículo 108.\\n7. La afectación psicológica a la que se hace referencia en el numeral 4 del primer párrafo del artículo 121, se causa a cualquier niña, niño o adolescente en contextos de violencia familiar o de violación sexual.\\n8. Si el agente actúa en estado de ebriedad, con presencia de alcohol en la sangre en proporción mayor de 0.25 gramos-litro, o bajo efecto de drogas tóxicas, estupefacientes, sustancias psicotrópicas o sintéticas.\\nLa pena será no menor de doce ni mayor de quince años cuando concurran dos o más circunstancias agravantes.\\nCuando la víctima muere a consecuencia de cualquiera de las agravantes y el agente pudo prever ese resultado, la pena será no menor de quince ni mayor de veinte años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo01_ley30364_art_121-b_01::q04\",\n  \"question\": \"Trabajo en casa de mi patrón y me dejó herida de gravedad. ¿Cuenta como más grave porque yo dependo de él?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_121-b_01\",\n    \"title\": \"Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar\",\n    \"text\": \"Artículo 121-B .- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar\\nEn los casos previstos en la primera parte del artículo 121 se aplica pena privativa de libertad no menor de seis ni mayor de doce años cuando la víctima:\\n1. Es mujer y es lesionada por su condición de tal en cualquiera de los contextos previstos en el primer párrafo del artículo 108-B.\\n2. Es ascendiente, descendiente, natural o adoptivo, cónyuge o conviviente del agente.\\n3. Depende o está subordinado.\\nCuando la víctima muere a consecuencia de la lesión y el agente pudo prever ese resultado, la pena será no menor de doce ni mayor de quince años.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_121-b_01\",\n    \"title\": \"Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar\",\n    \"text\": \"En los supuestos previstos en el primer párrafo del artículo 121 se aplica pena privativa de libertad no menor de seis ni mayor de doce años e inhabilitación conforme a los numerales 5 y 11 del artículo 36 del presente Código y los artículos 75 y 77 del Código de los Niños y Adolescentes, según corresponda, cuando:\\n1. La víctima es mujer y es lesionada por su condición de tal en cualquiera de los contextos previstos en el primer párrafo del artículo 108-B.\\n2. La víctima se encuentra en estado de gestación.\\n3. La víctima es cónyuge; excónyuge; conviviente; exconviviente; padrastro; madrastra; ascendiente o descendiente por consanguinidad, adopción o afinidad; pariente colateral del cónyuge y conviviente hasta el cuarto grado de consanguinidad y segundo de afinidad; habita en el mismo hogar, siempre que no medien relaciones contractuales o laborales; o es con quien se ha procreado hijos en común, independientemente de que se conviva o no al momento de producirse los actos de violencia, o la violencia se da en cualquiera de los contextos de los numerales 1, 2 y 3 del primer párrafo del artículo 108-B.\\n4. La víctima mantiene cualquier tipo de relación de dependencia o subordinación sea de autoridad, económica, cuidado, laboral o contractual y el agente se hubiera aprovechado de esta situación.\\n5. Para cometer el delito se hubiera utilizado cualquier tipo de arma, objeto contundente o instrumento que ponga en riesgo la vida de la víctima.\\n6. El delito se hubiera realizado en cualquiera de las circunstancias del artículo 108.\\n7. La afectación psicológica a la que se hace referencia en el numeral 4 del primer párrafo del artículo 121, se causa a cualquier niña, niño o adolescente en contextos de violencia familiar o de violación sexual.\\n8. Si el agente actúa en estado de ebriedad, con presencia de alcohol en la sangre en proporción mayor de 0.25 gramos-litro, o bajo efecto de drogas tóxicas, estupefacientes, sustancias psicotrópicas o sintéticas.\\nLa pena será no menor de doce ni mayor de quince años cuando concurran dos o más circunstancias agravantes.\\nCuando la víctima muere a consecuencia de cualquiera de las agravantes y el agente pudo prever ese resultado, la pena será no menor de quince ni mayor de veinte años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_107_01::q01\",\n  \"question\": \"¿Puedo ir yo sola al juzgado, sin que la fiscalía me ayude, a pedir castigo y también que me paguen?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_107_01\",\n    \"title\": \"Artículo 107. Derechos del querellante particular\",\n    \"text\": \"En los delitos de ejercicio privado de la acción penal, conforme al numeral 2 del artículo 1°, el directamente ofendido por el delito podrá instar ante el órgano jurisdiccional, siempre conjuntamente, la sanción penal y pago de la reparación civil contra quien considere responsable del delito en su agravio.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_107_01::q02\",\n  \"question\": \"Nadie me hace caso con mi caso, ¿yo misma puedo acusar a quien me ofendió y pedir plata por el daño?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_107_01\",\n    \"title\": \"Artículo 107. Derechos del querellante particular\",\n    \"text\": \"En los delitos de ejercicio privado de la acción penal, conforme al numeral 2 del artículo 1°, el directamente ofendido por el delito podrá instar ante el órgano jurisdiccional, siempre conjuntamente, la sanción penal y pago de la reparación civil contra quien considere responsable del delito en su agravio.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_107_01::q03\",\n  \"question\": \"Si acuso por mi cuenta, ¿puedo pedir solo que lo castiguen y dejar lo del dinero para después?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_107_01\",\n    \"title\": \"Artículo 107. Derechos del querellante particular\",\n    \"text\": \"En los delitos de ejercicio privado de la acción penal, conforme al numeral 2 del artículo 1°, el directamente ofendido por el delito podrá instar ante el órgano jurisdiccional, siempre conjuntamente, la sanción penal y pago de la reparación civil contra quien considere responsable del delito en su agravio.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+     "chunk_tipo01_ley30364_art_121-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_121-b_01::q03",
+     "chunk_tipo02_cp_art_121-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+     "chunk_tipo01_ley30364_art_121-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo01_ley30364_art_121-b_01::q04",
+     "chunk_tipo02_cp_art_121-b_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_107_01::q01",
+     "chunk_tipo03_cpp_art_107_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_107_01::q02",
+     "chunk_tipo03_cpp_art_107_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_107_01::q03",
+     "chunk_tipo03_cpp_art_107_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2_pilot2/work/05_judge/responses/judge__2a33e4582b61.json"
+}

@@ -1,0 +1,749 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-A. Audiencia de control de la detención con fines de extradición no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 21.- Responsabilidad restringida no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16. Proceso especial no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Describe la notificación de la acusación y la preparación del juicio, pero no el plazo mínimo de citación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 40. Trámite no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Queja NCPP 630-2021, Lima Norte no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 117. Tiempo no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 523. Detención Preventiva con fines de extradición no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 401. Recurso de apelación no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 461. Investigación preliminar no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-C. Apelación de la medida de protección o cautelar no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "parcial",
+      "rationale": "Explica las reglas generales de notificación, pero no el plazo mínimo para el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo I. Justicia Penal no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 483. Iniciación no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 356. Principios del Juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 363. Dirección del juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 07371-2020 no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 351. Audiencia Preliminar no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-C. Audiencia ante la Corte Suprema no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23-C. Informe de cumplimiento de la medida de protección no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 193. Adecuación no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 409.- Falsedad en juicio no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 244. Trámite de la solicitud no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 411. Libertad de los imputados no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 245. Audiencia de prueba anticipada no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Estándares mínimos que se deben seguir ante el hallazgo de un cadáver [Veliz Franco y otros vs. Guatemala] no explica el plazo mínimo de citación al juicio y quién realiza el emplazamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Exige la presencia del acusado para instalar el juicio, pero no precisa la consecuencia de su inasistencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 271. Audiencia y resolución no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 351. Audiencia Preliminar no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "parcial",
+      "rationale": "Indica la presencia obligatoria del imputado en juicio, sin explicar la sanción por faltar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 245. Audiencia de prueba anticipada no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 352. Decisiones adoptadas en la audiencia preliminar no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 379. Inconcurrencia del testigo o perito no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 345. Control del requerimiento de sobreseimiento y Audiencia de control del sobreseimiento no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 110. Desistimiento del querellante particular no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 350. Notificación de la acusación y objeción de los demás sujetos procesales no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 423. Emplazamiento para la audiencia de apelación no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 386. Desarrollo de la discusión final no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "si",
+      "rationale": "Establece la declaración de contumacia y la reprogramación o continuación ante la inasistencia injustificada del acusado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 334. Calificación no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Directiva 001-2014-CE-PJ no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 483. Iniciación no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-A. Audiencia de control de la detención con fines de extradición no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 431. Preparación y Audiencia no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 85. Reemplazo del abogado defensor no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 485. Medidas de coerción no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 461. Investigación preliminar no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378. Examen de testigos y peritos no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-C. Audiencia ante la Corte Suprema no explica las consecuencias de que el acusado falte al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025 no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00059-2019-0, f.j. 10 no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos de acceso carnal (RN 2289-2011, Lima) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Trata los efectos penológicos de la conclusión anticipada, pero no cuándo concluye el juicio ni el plazo de sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 45. Inhibición del Juez no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2062-2016, Ica no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2558-2021, Ica no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Queja NCPP 630-2021, Lima Norte no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación notarial sin valor (RN 1179-2019, Lima) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Procede aplicar el principio de oportunidad o acuerdo reparatorio en el delito del art. 122-B del CP [Pleno Jurisdiccional Distrital Penal de Áncash, 2017] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20. Sentencia no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 92.- La reparación civil: Oportunidad de su determinación no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 356. Principios del Juicio no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 541. Jurisdicción del Perú sobre la condena impuesta no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 295-2019, Cusco no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 1865-2015, Huancavelica no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 61.- Condena no pronunciada no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 363. Dirección del juicio no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 544-A. Ejecución de la condena en el Estado peruano no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de afectación psicológica (Exp. 122-2020-65) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_372_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no explica la conclusión del juicio por aceptación de cargos y el plazo para dictar sentencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

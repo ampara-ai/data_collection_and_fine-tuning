@@ -1,0 +1,137 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_66_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_66_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_66_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_451_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto o un supuesto relacionado, pero no desarrolla íntegramente el punto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto o un supuesto relacionado, pero no desarrolla íntegramente el punto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto o un supuesto relacionado, pero no desarrolla íntegramente el punto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto o un supuesto relacionado, pero no desarrolla íntegramente el punto preguntado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_150_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no aporta información para responder la pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

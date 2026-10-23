@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0040::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "si",
+      "rationale": "Explica que una entrevista de cinco minutos resulta insuficiente según la guía forense."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0040::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Indica la agravante por parentesco, pero no la pena específica del abuso de menores de catorce años."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0040::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Establece incrementos por lesiones graves y por registrar audiovisualmente la agresión sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0040::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Enumera requisitos, plazos y exclusiones de la suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0040::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Dispone que la reparación se fija con la pena y que el juez garantiza su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0040::q06",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "si",
+      "rationale": "Fija treinta y cinco años como máximo de la pena temporal y contempla cadena perpetua."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

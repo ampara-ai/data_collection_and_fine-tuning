@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho del agraviado a solicitar información de actuaciones y resultados."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "si",
+      "rationale": "Ordena preservar la identidad en procesos por delitos contra la libertad sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "si",
+      "rationale": "Reconoce acompañamiento de una persona de confianza a menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "si",
+      "rationale": "Exige remitir sentencia firme al juzgado de familia para reevaluar el riesgo y las medidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "si",
+      "rationale": "El archivo penal exige reevaluación del riesgo antes de decidir vigencia o archivo de medidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "si",
+      "rationale": "Detalla preservación de escena, fotografías, muestras y manipulación profesional del cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por falta de búsqueda e investigación diligentes de la adolescente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

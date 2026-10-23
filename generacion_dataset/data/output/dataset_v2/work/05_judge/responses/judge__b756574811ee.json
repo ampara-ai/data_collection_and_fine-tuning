@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "si",
+      "rationale": "Excluye la excusa por parentesco en apropiación cometida en contexto de violencia familiar y confirma condena al nieto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Confirma responsabilidad por apropiarse del cheque de la abuela y reparación civil, sin ordenar ni explicar devolución íntegra del dinero."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00212_e0003_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "si",
+      "rationale": "Considera violencia familiar la apropiación de dinero aprovechando vulnerabilidad y confianza de una adulta mayor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

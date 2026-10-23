@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "Hablaron con mi hija un ratito y ahora dicen que lo que ella contó vale poco. ¿Eso es verdad?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0040_01"
+   ],
+   "positive_selection_reason": "La sentencia analiza el tiempo mínimo de la evaluación psicológica y su efecto sobre la valoración del relato de la víctima.",
+   "expected_answer_focus": "Que una entrevista demasiado corta no cumple la guía forense y puede debilitar la prueba.",
+   "victim_voice_rationale": "Madre preocupada por una evaluación apresurada."
+  },
+  {
+   "query": "Mi papá abusó de mí desde niña durante años y quedé destruida. ¿Cuánto castigo puede recibir por ser mi propio familiar?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 tipifica la violación y agrava la pena cuando el agresor es ascendiente.",
+   "expected_answer_focus": "Pena del delito y agravante por parentesco o por ser menor la víctima.",
+   "victim_voice_rationale": "Víctima de abuso intrafamiliar que ignora la sanción."
+  },
+  {
+   "query": "Mi agresor me lastimó muy feo y lo filmó con su celular. ¿Eso hace que lo castiguen todavía más?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01"
+   ],
+   "positive_selection_reason": "El art. 177 aumenta la pena por crueldad, lesiones graves o por registrar y difundir el acto.",
+   "expected_answer_focus": "Agravantes por crueldad, resultado grave y por grabar o transmitir los hechos.",
+   "victim_voice_rationale": "Duda sobre si grabar el abuso agrava la pena."
+  },
+  {
+   "query": "Mi agresor dice que aunque lo condenen no pisará la cárcel y se quedará en su casa con reglas. ¿Cuándo pasa eso?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 fija requisitos y exclusiones de la suspensión de la pena.",
+   "expected_answer_focus": "Condiciones para dejar en suspenso la pena y delitos donde no procede.",
+   "victim_voice_rationale": "Temor a la impunidad del agresor."
+  },
+  {
+   "query": "Quiero que mi agresor me pague por el daño que me hizo. ¿Eso se decide en el mismo juicio y quién vigila que cumpla?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 dice que se fija junto con la pena, es un derecho de la víctima y el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que se determina con la pena, es derecho de la víctima y el juez garantiza su pago.",
+   "victim_voice_rationale": "Víctima que quiere ser compensada."
+  },
+  {
+   "query": "Me contaron que a un violador pueden darle prisión por muchísimos años. ¿Hay un tope máximo de tiempo preso?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_29_01"
+   ],
+   "positive_selection_reason": "El art. 29 fija mínimo y máximo de la pena temporal y la cadena perpetua.",
+   "expected_answer_focus": "Que la pena temporal tiene un máximo legal y existe la cadena perpetua.",
+   "victim_voice_rationale": "Curiosidad de víctima sobre el límite de condena."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,269 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "Trata tentativa de violación, no legitimación de la víctima para apelar."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Regula decisiones de segunda instancia, sin precisar si la víctima puede recurrir por sí sola."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "Regula embargo para asegurar reparación civil."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "no",
+      "rationale": "Crea el sistema nacional de prevención y sanción."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Resuelve que la parte civil no puede impugnar la absolución penal sin el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce recursos del actor civil, pero no precisa su alcance ante una absolución."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata notificación y apelación de condenados, no impugnación autónoma de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "Regula legitimación para reparación, no impugnación de absoluciones."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata defectos de valoración probatoria, sin resolver la legitimación para recurrir."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula apelación en terminación anticipada, no absolución de cargos."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "Regula derechos en ejecución de condena."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusa absolutoria patrimonial."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Trata pericia y prueba sexual, no legitimación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Fija agravantes y penas de lesiones familiares graves, pero no define la desfiguración permanente como lesión grave."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al fiscal y perjudicado como titulares de la acción civil, sin precisar representación de menores."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "no",
+      "rationale": "Regula nulidad absoluta, no representación de víctimas menores."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata oralización de cámara Gesell."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "Define tipos de violencia, no representación para reparación."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "si",
+      "rationale": "Identifica al defensor público de víctimas o abogado del CEM para representar a menores y constituirse en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula presencia en juicio, sin designar representantes de víctimas menores."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Trata retractación de una víctima sexual."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Regula reemplazo del defensor del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata manifestación tardía del daño psicológico."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones culposas."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves, sin regular representación procesal."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata preparación de la defensa del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "si",
+      "rationale": "Autoriza exámenes y análisis sin consentimiento y establece sus garantías."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "parcial",
+      "rationale": "Describe formación del expediente fiscal, sin atribuir expresamente la decisión de continuar o archivar."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula decisiones propias de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Atribuye al fiscal la calificación y el archivo de la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "si",
+      "rationale": "Atribuye al Ministerio Público las disposiciones de inicio, continuación o archivo."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata encubrimiento y comienzo de persecución penal, no decisión ordinaria de archivo."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata valor probatorio de diligencias policiales."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin lesión."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones familiares."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra abstención fiscal por acuerdo, sin explicar la distribución general de competencias."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "Regula clausura e inmovilización urgentes."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "si",
+      "rationale": "Identifica la conducción fiscal y decisiones de archivo, sujetas a control constitucional."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Indica dónde denunciar, pero no quién decide continuar o archivar."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "si",
+      "rationale": "Establece que la policía remite al fiscal un informe no vinculante sobre continuar la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "si",
+      "rationale": "Autoriza al fiscal y juez a requerir fuerza pública para cumplir sus órdenes."
+    },
+    {
+      "dataset_id": "case::jp_00013_e0009::q07",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce impugnación del monto civil y su incremento proporcional al daño por desfiguración."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

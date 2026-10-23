@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__93f7c0b832f0",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00051_e0020::q03\",\n  \"question\": \"Me dijeron que, para que lo castiguen más fuerte, yo tendría que demostrar que me maltrata solo por ser mujer. ¿Eso es verdad?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_428_01\",\n    \"title\": \"Artículo 428. Desestimación\",\n    \"text\": \"1. La Sala Penal de la Corte Suprema declarará la inadmisibilidad del recurso de casación cuando:\\na) no se cumplen los requisitos y causales previstos en los artículos 405° y 429°;\\nb) se hubiere interpuesto por motivos distintos a los enumerados en el Código;\\nc) se refiere a resoluciones no impugnables en casación; y,\\nd) el recurrente hubiera consentido previamente la resolución adversa de primera instancia, si ésta fuere confirmada por la resolución objeto del recurso; o, si invoca violaciones de la Ley que no hayan sido deducidas en los fundamentos de su recurso de apelación.\\n2. También declarará la inadmisibilidad del recurso cuando:\\na) carezca manifiestamente de fundamento;\\nb) se hubieren desestimado en el fondo otros recursos sustancialmente iguales y el recurrente no da argumentos suficientes para que se modifique el criterio o doctrina jurisprudencial ya establecida.\\n3. En estos casos la inadmisibilidad del recurso podrá afectar a todos los motivos aducidos o referirse solamente a alguno de ellos.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_370_01::q01\",\n  \"question\": \"Me citaron como testigo al juicio de mi hermana. ¿Voy a estar en la sala junto al agresor mientras esperan que declare?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_370_01\",\n    \"title\": \"Artículo 370. Ubicación de las partes en la audiencia\",\n    \"text\": \"1. El Juez Penal tendrá a su frente al acusado; a su derecha, al Fiscal y al abogado de la parte civil; y, a su izquierda al abogado defensor del acusado.\\n2. Los testigos y peritos ocuparán un ambiente contiguo a la Sala de Audiencias. El Auxiliar Jurisdiccional tomará las medidas necesarias para que los testigos no puedan dialogar entre sí. Los testigos y peritos sólo serán introducidos a la Sala de Audiencias a medida que sean llamados para ser examinados.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_370_01::q02\",\n  \"question\": \"Seré testigo y tengo miedo de que me presionen o me hablen otros testigos antes de declarar. ¿Eso se evita?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_370_01\",\n    \"title\": \"Artículo 370. Ubicación de las partes en la audiencia\",\n    \"text\": \"1. El Juez Penal tendrá a su frente al acusado; a su derecha, al Fiscal y al abogado de la parte civil; y, a su izquierda al abogado defensor del acusado.\\n2. Los testigos y peritos ocuparán un ambiente contiguo a la Sala de Audiencias. El Auxiliar Jurisdiccional tomará las medidas necesarias para que los testigos no puedan dialogar entre sí. Los testigos y peritos sólo serán introducidos a la Sala de Audiencias a medida que sean llamados para ser examinados.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00051_e0020::q03",
+     "chunk_tipo03_cpp_art_428_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_370_01::q01",
+     "chunk_tipo03_cpp_art_370_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_370_01::q02",
+     "chunk_tipo03_cpp_art_370_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__93f7c0b832f0.json"
+}

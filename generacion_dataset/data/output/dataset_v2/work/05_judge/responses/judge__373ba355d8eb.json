@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_iii_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "si",
+      "rationale": "Prohíbe procesar o sancionar dos veces al mismo sujeto por el mismo hecho y fundamento, con una excepción de revisión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,52 @@
+{
+ "task_id": "judge__17136ed6e5c9",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00260_e0010::q01\",\n  \"question\": \"Acudí a la policía y me dijeron que lo mío era un pleito de pareja y que no era para tanto. ¿Tienen que ayudarme de verdad o basta con que la ley exista?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_425_01\",\n    \"title\": \"Artículo 425.- Funcionario o servidor público\",\n    \"text\": \"Son funcionarios o servidores públicos:\\n1. Los que están comprendidos en la carrera administrativa.\\n2. Los que desempeñan cargos políticos o de confianza, incluso si emanan de elección popular.\\n3. Todo aquel que, independientemente del régimen laboral en que se encuentre, mantiene vínculo laboral o contractual de cualquier naturaleza con entidades u organismos del Estado, incluidas las empresas del Estado o sociedades de economía mixta comprendidas en la actividad empresarial del Estado, y que en virtud de ello ejerce funciones en dichas entidades u organismos.\\n4. Los administradores y depositarios de caudales embargados o depositados por autoridad competente, aunque pertenezcan a particulares.\\n5. Los miembros de las Fuerzas Armadas y Policía Nacional.\\n6. Los designados, elegidos o proclamados, por autoridad competente, para desempeñar actividades o funciones en nombre o al servicio del Estado o sus entidades.\\n7. Los demás indicados por la Constitución Política y la ley.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00260_e0010::q03\",\n  \"question\": \"Me aterra que mi agresor descubra dónde duermo y en qué empleo estoy mientras avanza el caso. ¿Me pueden ocultar o mudar?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_394_01\",\n    \"title\": \"Artículo 394.- Cohecho pasivo impropio\",\n    \"text\": \"El funcionario o servidor público que acepte o reciba donativo, promesa o cualquier otra ventaja o beneficio indebido para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con ciento ochenta a trescientos sesenta y cinco días-multa.\\nEl funcionario o servidor público que solicita, directa o indirectamente, donativo, promesa o cualquier otra ventaja indebida para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cinco ni mayor de ocho años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con trescientos sesenta y cinco a setecientos treinta días-multa.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_198_01\",\n    \"title\": \"Artículo 198.- Administración fraudulenta\",\n    \"text\": \"Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco años y con ciento ochenta a trescientos sesenta y cinco días-multa, el que, ejerciendo funciones de administración o representación de una persona jurídica, realiza, en perjuicio de ella o de terceros, cualquiera de los actos siguientes:\\n1. Ocultar a los accionistas, socios, asociados, auditor interno, auditor externo, según sea el caso o a terceros interesados, la verdadera situación de la persona jurídica, falseando los balances, reflejando u omitiendo en los mismos beneficios o pérdidas o usando cualquier artificio que suponga aumento o disminución de las partidas contables.\\n2. Proporcionar datos falsos relativos a la situación de una persona jurídica.\\n3. Promover, por cualquier medio fraudulento, falsas cotizaciones de acciones, títulos o participaciones.\\n4. Aceptar, estando prohibido hacerlo, acciones o títulos de la misma persona jurídica como garantía de crédito.\\n5. Fraguar balances para reflejar y distribuir utilidades inexistentes.\\n6. Omitir comunicar al directorio, consejo de administración, consejo directivo u otro órgano similar o al auditor interno o externo, acerca de la existencia de intereses propios que son incompatibles con los de la persona jurídica.\\n7. Asumir indebidamente préstamos para la persona jurídica.\\n8. Usar en provecho propio, o de otro, el patrimonio de la persona jurídica.\\n9. Utilizar cualquier documento contable que sustente operaciones inexistentes o simuladas para encubrir pagos a favor de terceras personas naturales o jurídicas, nacionales o extranjeras.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_323_01\",\n    \"title\": \"Artículo 323. Función del Juez de la Investigación Preparatoria\",\n    \"text\": \"1. Corresponde, en esta etapa, al Juez de la Investigación Preparatoria realizar, a requerimiento del Fiscal o a solicitud de las demás partes, los actos procesales que expresamente autoriza este Código.\\n2. El Juez de la Investigación Preparatoria, enunciativamente, está facultado para: a) autorizar la constitución de las partes; b) pronunciarse sobre las medidas limitativas de derechos que requieran orden judicial y —cuando corresponda— las medidas de protección; c) resolver excepciones, cuestiones previas y prejudiciales; d) realizar los actos de prueba anticipada; y, e) controlar el cumplimiento del plazo en las condiciones fijadas en este código.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00260_e0010::q05\",\n  \"question\": \"Mi ex me persigue y me amenaza, pero no lo agarran en el momento. ¿Un juez puede mandar que lo detengan igual?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_62_01\",\n    \"title\": \"Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos\",\n    \"text\": \"El juez puede disponer la reserva del fallo condenatorio siempre que de las circunstancias individuales, verificables al momento de la expedición de la sentencia, pueda colegir que el agente no cometerá nuevo delito. Los pronósticos favorables sobre la conducta futura del sentenciado que formule la autoridad judicial requieren de debida motivación.\\nLa reserva está dispuesta en los siguientes casos:\\n1. Cuando el delito está sancionado con pena privativa de libertad no mayor de cuatro años o con multa;\\n2. Cuando la pena a imponerse no supere las noventa jornadas de prestación de servicios a la comunidad o de limitación de días libres;\\n3. Cuando la pena a imponerse no supere los dos años de inhabilitación.\\nExcepcionalmente, puede aplicarse lo establecido en el presente artículo cuando la condena se refiera a pena privativa de libertad no mayor de siete años y el autor o partícipe del delito carezca de antecedentes penales y sea menor de 25 años al momento de cometer el delito. Para este supuesto es aplicable lo previsto en el primer párrafo, exigiéndose una motivación reforzada.\\nEl plazo de reserva del fallo condenatorio es de uno a tres años, contado desde que la decisión adquiere calidad de cosa juzgada. En caso de la excepción prevista en el párrafo anterior el plazo de suspensión puede extenderse hasta seis (6) años.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_15_01\",\n    \"title\": \"Artículo 15.- Error de comprensión culturalmente condicionado\",\n    \"text\": \"El que por su cultura o costumbres comete un hecho punible sin poder comprender el carácter delictuoso de su acto o determinarse de acuerdo con esa comprensión, será eximido de responsabilidad. Cuando por igual razón, esa posibilidad se halla disminuida, se atenuará la pena.\\nLo dispuesto en el primer párrafo será aplicable siguiendo los lineamientos para procesos penales interculturales señalados por la judicatura para los casos de la comisión de los delitos previstos en los capítulos IX, X y XI del Título IV del Libro Segundo cometidos en perjuicio de menores de catorce años y de mayores de catorce años cuando estos no hayan prestado su libre consentimiento.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00260_e0010::q01",
+     "chunk_tipo02_cp_art_425_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00260_e0010::q03",
+     "chunk_tipo02_cp_art_198_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00260_e0010::q03",
+     "chunk_tipo02_cp_art_394_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00260_e0010::q03",
+     "chunk_tipo03_cpp_art_323_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00260_e0010::q05",
+     "chunk_tipo02_cp_art_15_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00260_e0010::q05",
+     "chunk_tipo02_cp_art_62_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__17136ed6e5c9.json"
+}

@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisiones vinculadas a otros delitos y no explica el inicio de la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "si",
+      "rationale": "Rechaza una alegación de emoción violenta y mantiene una condena grave por matar a la conviviente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de multas y decomisos extranjeros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra la mujer sin resolver la alegación de emoción violenta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "Regula obligaciones de colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento en un delito sexual, no emoción violenta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata impugnación y pena por lesiones sin analizar emoción violenta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "Regula revocación del régimen de prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual y no la alegación de pérdida de control."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Trata validez de la retractación de una víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula los efectos del cumplimiento del plazo de prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata revaloración de prueba personal en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se documenta y evalúa el riesgo denunciado, pero no su valor probatorio tras el homicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "Sanciona omisión de auxilio policial sin determinar el valor probatorio de la petición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula revaloración de prueba personal, no solicitudes previas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio de testigos y peritos, no prueba documental de denuncias previas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "Regula motivación de medidas coercitivas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata validez de entrevista de una menor en cámara Gesell."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "si",
+      "rationale": "La solicitud previa de garantías personales figura expresamente entre las pruebas de responsabilidad por la muerte."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Trata retractación de la víctima en delitos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "Regula libertad durante la entrega a la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata el careo en un proceso penal español."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera causas de exención penal sin resolver el valor probatorio de la petición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00403_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "Regula revocación del régimen de prueba."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

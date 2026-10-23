@@ -1,0 +1,166 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_273_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja, que me agredió, lleva años preso esperando que lo juzguen y no hay condena. ¿Puede salir en libertad solo porque pasó tanto tiempo?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si se vence el tiempo máximo sin sentencia de primera instancia, el juez ordena que el acusado sea liberado de inmediato."
+    },
+    {
+     "query": "Me da miedo que cuando se acabe el tiempo máximo de encierro de mi agresor lo suelten sin más. ¿Pueden ponerle otras condiciones para que siga en el proceso?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Al liberarlo, el juez puede dictar a la vez otras medidas, incluidas restricciones, para asegurar que siga presente en las diligencias."
+    },
+    {
+     "query": "¿Quién decide soltar a un detenido cuando se cumple el tiempo máximo de encierro: el juez por su cuenta o alguien tiene que pedirlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez puede ordenar la liberación de oficio o a pedido de las partes."
+    },
+    {
+     "query": "Si sueltan a quien me agredió porque se venció el tiempo, ¿todavía pueden obligarlo a presentarse cuando lo citen?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La liberación no impide que el juez dicte medidas para asegurar la presencia del acusado en las diligencias judiciales."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_419_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un juez mandó encerrar a mi hermano sin ningún motivo legal, solo por mala fe. ¿Qué castigo puede tener ese juez?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez que ordena maliciosamente o sin motivo legal una detención es sancionado con pena de cárcel de dos a cuatro años."
+    },
+    {
+     "query": "Ya tenían que dejar salir a mi esposo por orden legal y el juez no lo suelta. ¿Eso es un delito del magistrado?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No dar la libertad a un detenido cuando el juez debió otorgarla es delito, con pena de dos a cuatro años."
+    },
+    {
+     "query": "¿Cuántos años de cárcel puede recibir un magistrado que manda detener a alguien de forma injusta?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La pena es no menor de dos ni mayor de cuatro años de privación de libertad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez dejó en su casa al hombre que intentó matar a su pareja porque tiene un hijo pequeño. ¿Es válido que lo suelten solo por ser papá?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Ser padre no basta para aplicar automáticamente el interés del niño y evitar la prisión; se requiere una ponderación concreta."
+    },
+    {
+     "query": "Mi agresor dice que no puede estar preso porque su hijo lo necesita. ¿Eso alcanza para que no lo encierren mientras lo juzgan?",
+     "topic": "hijos_y_tenencia",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La sola condición de padre no justifica sustituir la prisión preventiva; hay que evaluar el impacto real en el menor."
+    },
+    {
+     "query": "¿Qué tiene que analizar un juez antes de decidir que un acusado con hijos menores no vaya preso durante el proceso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez debe realizar una ponderación reforzada, evaluando si la decisión afecta directamente al menor y la necesidad de la medida."
+    },
+    {
+     "query": "Un tribunal soltó con restricciones al hombre que intentó matarme y luego otra instancia lo anuló. ¿Se puede revertir esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la decisión de la Sala Superior por falta de justificación y confirmó la prisión preventiva en un caso de tentativa de feminicidio."
+    },
+    {
+     "query": "¿Cuando el agresor tiene un niño, el juez debe pensar primero en el niño y dejarlo libre sí o sí?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "No es automático: el interés del niño debe ponderarse con otros principios y no sustituye por sí solo la prisión."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_341_01",
+   "skip": true,
+   "skip_reason": "Regula técnicas especiales de investigación policial (agentes encubiertos, informantes) contra bandas criminales, trata y corrupción; no genera una pregunta natural de una víctima de violencia familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_425_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Al hombre que me agredió lo absolvieron en la primera sentencia y apelamos. ¿Puede el tribunal superior cambiar eso y condenarlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si la sentencia de primera instancia fue absolutoria, la Sala Superior puede condenar e imponer la pena y la reparación civil."
+    },
+    {
+     "query": "¿Cuánto demora el tribunal superior en dar su decisión final después de ver la apelación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El plazo para dictar sentencia de segunda instancia no excede de diez días, y de tres días en proceso inmediato."
+    },
+    {
+     "query": "Ya salió la decisión del tribunal de apelación y no estoy de acuerdo. ¿Qué más puedo hacer?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Contra la sentencia de segunda instancia solo cabe pedir aclaración o corrección, o presentar recurso de casación si se cumplen los requisitos."
+    },
+    {
+     "query": "¿Pueden postergar la lectura de la sentencia de apelación si el abogado del acusado no llega?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La audiencia de lectura es pública, se hace con quienes asistan y no puede aplazarse bajo ninguna circunstancia."
+    },
+    {
+     "query": "Si en apelación revocan la absolución y condenan al acusado, ¿él puede reclamar otra vez ante un tribunal más alto?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Si la Sala revoca la absolución y condena, las partes pueden apelar ante la Sala Penal de la Corte Suprema."
+    },
+    {
+     "query": "¿El tribunal de apelación puede darle otro valor a lo que dijeron los testigos en el primer juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Sala no puede cambiar el valor de la prueba personal vista por el primer juez, salvo que otra prueba en segunda instancia la cuestione."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_485_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si la persona acusada no se presenta a la audiencia porque no quiere, ¿pueden traerla con la policía?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Si no comparece voluntariamente, se le puede hacer comparecer por medio de la fuerza pública."
+    },
+    {
+     "query": "Si el acusado se niega a venir a la audiencia, ¿lo pueden dejar preso hasta que termine?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si fuera necesario, se ordena prisión preventiva hasta que se realice y culmine la audiencia, que se celebra de inmediato."
+    }
+   ]
+  }
+ ]
+}

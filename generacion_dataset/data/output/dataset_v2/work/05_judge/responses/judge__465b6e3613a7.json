@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "si",
+      "rationale": "Identifica a los juzgados de paz letrado o de paz donde no existen juzgados de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "si",
+      "rationale": "Dispone intervención de la fiscalía de familia desde la etapa policial cuando las víctimas son menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_151-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acoso reiterado incluso por tecnología y establece penas y agravación por expareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_151-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "si",
+      "rationale": "Agrava la pena a cuatro a siete años por vínculo de pareja o convivencia en el mismo domicilio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "si",
+      "rationale": "Exige medidas preventivas adecuadas y eficaces al riesgo para proteger la vida de las víctimas de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "si",
+      "rationale": "Admite interferir proporcionalmente en la vida privada y familiar del agresor para proteger a las víctimas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

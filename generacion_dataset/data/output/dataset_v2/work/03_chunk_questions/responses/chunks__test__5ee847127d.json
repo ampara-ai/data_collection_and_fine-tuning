@@ -1,0 +1,106 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_82_01",
+   "skip": true,
+   "skip_reason": "Regula cómo actúan abogados de un mismo estudio en la defensa del procesado; interno y sin interés para una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_409_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor fue sentenciado y ahora apeló. ¿Pueden aumentarle o bajarle la condena solo porque él pidió revisar el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si solo el imputado impugna, no se puede empeorar su situación; si lo hace el fiscal, sí se puede modificar aun a favor del imputado."
+    },
+    {
+     "query": "Si en la sentencia hubo un error de redacción pero la decisión final es correcta, ¿se cae todo el juicio contra mi pareja?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los errores que no influyen en lo decidido no anulan la resolución, solo se corrigen."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a denunciar y el funcionario me dijo que volviera otro día y no hizo nada. ¿Puede tener problemas por no atenderme?",
+     "topic": "canales_denuncia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El funcionario que omite, rehúsa o retarda un acto en estos procesos comete delito y responde civil y administrativamente."
+    },
+    {
+     "query": "¿Qué pasa con un policía o juez que se hace el desentendido con mi caso de maltrato?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Quien omite o retarda actos a su cargo en procesos de violencia comete delito sancionado por el Código Penal."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_109_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quiero seguir yo misma el caso contra mi ex y no depender solo del fiscal. ¿Puedo estar presente en todas las audiencias y presentar pruebas?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El querellante puede participar en todas las diligencias, ofrecer pruebas y recurrir lo penal y lo civil."
+    },
+    {
+     "query": "Me da miedo ver a mi agresor en persona. ¿Puede un abogado representarme en el proceso sin que yo tenga que ir siempre?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Puede intervenir mediante un apoderado especial, aunque igual debe declarar en el proceso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi padrastro me tocó y trató de abusar de mí, pero el médico dice que sigo virgen. ¿Entonces no cuenta como violación?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No se requiere desfloración ni penetración total; basta llegar hasta el himen para que haya acceso carnal."
+    },
+    {
+     "query": "Mi niña salió esperando un bebé de su padre, aunque el examen no halló desgarro. ¿Qué pena recibe él?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se confirmó cadena perpetua, tratamiento terapéutico y pago de S/50,000 por parentesco con la menor y embarazo comprobado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mis hijas pequeñas ya les tomaron su relato una vez con la psicóloga. ¿Las van a hacer contar todo de nuevo ante el juez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La declaración ya tomada con las reglas de entrevista única vale como prueba y no debe repetirse salvo para aclarar o ampliar."
+    },
+    {
+     "query": "Modificaron las reglas cuando mi niña ya había contado todo. ¿Aquel relato queda sin efecto o se respeta?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Lo ya actuado bajo la ley anterior conserva eficacia; una reforma posterior no lo invalida."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

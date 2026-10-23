@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00055_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "si",
+      "rationale": "Resuelve el mismo supuesto de agresión por deuda entre familiares independientes y descarta el contexto de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00055_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "si",
+      "rationale": "Explica que el parentesco por sí solo no basta si faltan vulnerabilidad, dependencia y asimetría."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

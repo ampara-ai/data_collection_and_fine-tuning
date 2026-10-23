@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "No establece límites al interrogatorio de la víctima sobre su vestimenta o vida privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No establece límites al interrogatorio de la víctima sobre su vestimenta o vida privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar la revictimización en la investigación, pero no aborda preguntas sobre vestimenta o vida privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_18_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No establece límites al interrogatorio de la víctima sobre su vestimenta o vida privada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber de protección policial ante un riesgo inmediato, pero no cómo comunicar ni ejecutar una orden de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No establece a quién llamar ni la respuesta policial ante el incumplimiento de una orden de alejamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

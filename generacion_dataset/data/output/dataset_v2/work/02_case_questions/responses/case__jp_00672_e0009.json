@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "Mi hijo quedó muy mal tras el abuso. ¿Tiene derecho a que lo atiendan sin pagar con alguien que lo ayude a sanar por dentro?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00672_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que la reparación integral incluye tratamiento psicológico garantizado por el Estado.",
+   "expected_answer_focus": "Que la reparación va más allá del dinero e incluye atención psicológica a cargo del sistema de salud.",
+   "victim_voice_rationale": "Madre que busca terapia para su hijo."
+  },
+  {
+   "query": "Mi hijo fue el único que vio y sufrió lo ocurrido, sin otros testigos. ¿Su palabra sola alcanza para condenar al agresor?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00672_e0009_01"
+   ],
+   "positive_selection_reason": "La sentencia concluye que la declaración de la víctima con garantías de certeza basta como prueba de cargo.",
+   "expected_answer_focus": "Requisitos para que el relato único de la víctima sirva de prueba suficiente.",
+   "victim_voice_rationale": "Temor de que sin testigos no le crean."
+  },
+  {
+   "query": "Quiero meterme al juicio para reclamar que me paguen por el daño. ¿Qué puedo hacer yo dentro del proceso?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 enumera las facultades de quien participa como parte reclamante de la indemnización.",
+   "expected_answer_focus": "Que puede pedir pruebas, participar en audiencias, apelar y presentar solicitudes.",
+   "victim_voice_rationale": "Víctima que quiere participar activamente."
+  },
+  {
+   "query": "Se llevaron mis pertenencias para revisarlas. ¿Cuándo me las devuelven y a quién acudo si el fiscal no quiere?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_222_01"
+   ],
+   "positive_selection_reason": "El art. 222 regula la devolución de bienes y la posibilidad de acudir al juez en tres días.",
+   "expected_answer_focus": "Que el fiscal puede devolver bienes y, si se niega, se puede acudir al juez dentro de tres días.",
+   "victim_voice_rationale": "Duda práctica sobre pertenencias retenidas."
+  },
+  {
+   "query": "Soy la mamá de un niño agredido y quiero seguir el caso de cerca. ¿Puedo ir a las audiencias y apelar si no estoy de acuerdo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 reconoce intervenir en juicio oral e interponer recursos impugnatorios.",
+   "expected_answer_focus": "Que la parte civil puede intervenir en el juicio y presentar recursos.",
+   "victim_voice_rationale": "Madre que desconfía y quiere vigilar el proceso."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

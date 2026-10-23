@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "si",
+      "rationale": "Permite prohibir comunicarse con personas determinadas sin afectar la defensa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "si",
+      "rationale": "Contempla restricciones de desplazamiento, lugares y presentaciones periódicas ante la autoridad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_288_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "si",
+      "rationale": "Fija tres días hábiles para resolver y atribuye a la policía la vigilancia del desplazamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

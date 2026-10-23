@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_121_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Contiene la pena general por desfiguración grave permanente, pero no el régimen específico de lesiones por el esposo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_121_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "si",
+      "rationale": "Define como graves las lesiones que requieren veinte o más días de asistencia o descanso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_121_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravación por arma que ponga en riesgo la vida, pero no aborda el embarazo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

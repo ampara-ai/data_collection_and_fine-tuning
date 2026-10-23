@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_553_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "si",
+      "rationale": "Exige autorización fiscal previa para informar a medios sobre identidad de víctimas o testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reserva del nombre del denunciante en ciertos supuestos, pero no regula comunicación a la prensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la difusión de la identidad de la denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "si",
+      "rationale": "Permite a la Policía informar a los medios la identidad de los imputados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_70_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "si",
+      "rationale": "Requiere autorización previa del fiscal para revelar a medios la identidad de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Responsabiliza al Estado por no proteger pese a denuncias y amenazas con armas conocidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Señala expresamente que los derechos del agresor no prevalecen sobre vida e integridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece medidas para preservar seguridad y respetar contradicción, sin resolver la prioridad frente a la libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la prioridad entre libertad del agresor y seguridad de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Obliga a aplicar y actualizar la ficha de valoración de riesgo ante denuncias de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Considera incumplimiento estatal no evaluar el riesgo ni adoptar medidas ante amenazas conocidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección proporcional al riesgo conocido, sin desarrollar el procedimiento de valoración al denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Ordena adoptar medidas según grado de riesgo, pero no regula la ficha ni la evaluación inicial por denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la evaluación del riesgo ante una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica cómo valorar peligro inmediato atendiendo a antecedentes y escalada de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0019_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Declara violados los derechos a la vida de la madre y a la integridad de la demandante y condena a Turquía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

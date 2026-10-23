@@ -1,0 +1,82 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Mi expareja me humilla y me amenaza todo el tiempo. ¿Qué cosas le pueden prohibir al juez para que me deje en paz y no se me acerque?",
+   "topic": "medidas_proteccion",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_22_01"
+   ],
+   "positive_selection_reason": "El art. 22 de la Ley 30364 enumera las medidas de protección (impedimento de acercamiento, prohibición de comunicación, retiro del domicilio, etc.), que responden directamente a lo que la víctima quiere saber.",
+   "expected_answer_focus": "Listado de medidas que el juzgado puede dictar: alejamiento del domicilio y trabajo, prohibición de contacto por cualquier medio, retiro del hogar, tratamiento psicológico, entre otras.",
+   "victim_voice_rationale": "Una víctima de maltrato psicológico quiere saber qué protección concreta puede pedir."
+  },
+  {
+   "query": "Mi pareja me escribe y me llama a cada rato por el celular y las redes aunque le dije que no. ¿Eso también se puede impedir?",
+   "topic": "medidas_proteccion",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_22_01"
+   ],
+   "positive_selection_reason": "El art. 22 numeral 3 prohíbe la comunicación con la víctima por vía telefónica, electrónica, chat y redes sociales.",
+   "expected_answer_focus": "Que existe una medida que prohíbe al agresor comunicarse con la víctima por teléfono, mensajes, redes sociales u otros medios.",
+   "victim_voice_rationale": "Describe un acoso cotidiano por medios digitales y duda si la ley lo cubre."
+  },
+  {
+   "query": "Tengo miedo de que el juez me cite junto con él y que me vuelva a intimidar. ¿Pueden darme protección sin que él esté presente?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00260_e0006_01"
+   ],
+   "positive_selection_reason": "La sentencia del TC establece que es constitucional dictar medidas de protección sin escuchar previamente al denunciado en casos de riesgo severo, apoyándose en la ficha de valoración de riesgo.",
+   "expected_answer_focus": "Que ante riesgo severo el juez puede dictar medidas urgentes sin audiencia previa con el denunciado, y que él podrá defenderse después impugnando.",
+   "victim_voice_rationale": "Teme el encuentro con el agresor y quiere saber si la protección puede ser inmediata."
+  },
+  {
+   "query": "Mi agresor dice que el juez no lo escuchó antes de prohibirle acercarse y que por eso todo es nulo. ¿Eso es cierto, me pueden quitar la protección?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00260_e0006_01"
+   ],
+   "positive_selection_reason": "La sentencia declaró infundada la demanda de un denunciado con el mismo argumento y confirmó la validez de las medidas dictadas sin escucharlo.",
+   "expected_answer_focus": "Que dictar medidas sin escuchar antes al denunciado no vulnera su derecho de defensa si hay riesgo severo y pruebas objetivas; él puede impugnar después.",
+   "victim_voice_rationale": "Teme perder la protección por el reclamo del agresor."
+  },
+  {
+   "query": "¿Qué tiene que tomar en cuenta el juez para decidir qué tan rápido y qué tan fuerte me protege de mi pareja?",
+   "topic": "medidas_proteccion",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_22_01"
+   ],
+   "positive_selection_reason": "El art. 22 indica que el juzgado dicta las medidas considerando el riesgo de la víctima, la urgencia, la necesidad y el peligro en la demora, y precisa su finalidad.",
+   "expected_answer_focus": "Los criterios del juzgado (riesgo, urgencia, necesidad, peligro en la demora) y el objetivo de neutralizar los efectos de la violencia.",
+   "victim_voice_rationale": "Quiere entender cómo se decide el nivel de protección que recibirá."
+  },
+  {
+   "query": "Soy testigo de una agresión a mi hermana y tengo miedo de que el agresor se entere de quién soy y de dónde vivo. ¿Se puede proteger mi identidad en el proceso penal?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_248_01"
+   ],
+   "positive_selection_reason": "El art. 248 del CPP permite reservar identidad, domicilio y datos personales, protección policial y cambio de residencia de quien participa en el proceso y está en riesgo.",
+   "expected_answer_focus": "Medidas como reserva de identidad y datos, protección policial, cambio de residencia y ocultación del paradero, según el grado de riesgo.",
+   "victim_voice_rationale": "Un familiar teme represalias por intervenir en el proceso."
+  },
+  {
+   "query": "Si el agresor ya tiene prohibido acercarse pero igual me sigue y me amenaza, ¿qué tan seguro es que lo dejen preso mientras lo investigan, y por cuánto tiempo?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_272_01"
+   ],
+   "positive_selection_reason": "El art. 272 del CPP fija la duración máxima de la prisión preventiva (9, 18 o 36 meses según el tipo de proceso), lo que responde a la duda de plazo.",
+   "expected_answer_focus": "Que la prisión preventiva tiene un tope de duración según el tipo de proceso; no responde si procederá en su caso concreto.",
+   "victim_voice_rationale": "Le preocupa cuánto tiempo estaría preso el agresor mientras se le investiga y juzga."
+  }
+ ]
+}

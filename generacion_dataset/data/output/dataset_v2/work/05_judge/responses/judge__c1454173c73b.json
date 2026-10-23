@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución del imputado y no criterios de protección de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones sin regular concesión de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Describe una condición psicológica relevante para protección sin desarrollar criterios generales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Establece evaluación de ficha de riesgo para decidir medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica valoración flexible del peligro inmediato y antecedentes de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "si",
+      "rationale": "Enumera riesgo, antecedentes, vínculo, vulnerabilidad y gravedad para dictar protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "Define competencias de salas penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "si",
+      "rationale": "Exige considerar ciclos, frecuencia e intensidad de violencia al valorar riesgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula sanciones por lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "Valora peligro procesal para comparecencia y no concesión de amparo a la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula circunstancias de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "parcial",
+      "rationale": "Identifica competencia para protección sin establecer criterios para concederla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "si",
+      "rationale": "Señala que antecedentes de violencia indican riesgo de violencia adicional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección efectiva sin analizar antecedentes contra otras mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "Tipifica disposición indebida de prenda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé protección en flagrancia según riesgo sin precisar antecedentes de otras agresiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "Define competencias de salas penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "si",
+      "rationale": "Incluye antecedentes policiales y sentencias por violencia como criterio de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Regula valoración general de pruebas sin explicar valor de antecedentes para protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdo reparatorio y no evaluación de riesgo por antecedentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula registro de reserva del fallo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "Exige considerar antecedentes violentos para evaluar peligro inmediato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye competencia protectora sin criterios relativos a antecedentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones sin criterios de protección por antecedentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "Regula coerción en proceso por faltas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_22-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "si",
+      "rationale": "Permite extender medidas a dependientes y personas vulnerables a cargo de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_108_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "si",
+      "rationale": "Enumera identificación, relato, pretensiones y medios de prueba exigidos en la querella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_108_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "si",
+      "rationale": "Exige precisar y justificar pretensión civil en la querella."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "No exige predecir exactamente el ataque para apreciar riesgo inmediato de escalada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica deber de valorar escalada de riesgo sin precisar resultado o vía de responsabilidad estatal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera eximentes penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección por peligro grave para víctima y familiares sin responsabilidad por omisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Reconoce obligación estatal de prevenir malos tratos conocidos y proteger a niños y víctimas domésticas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza validez de confesión sincera."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por demora e inconstancia de medidas protectoras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "Regula dirección investigativa y preservación de indicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula circunstancias de determinación de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige protección eficaz en la práctica y examen sin demoras de violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia judicial internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0012_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Describe medidas para resguardar víctima y familia sin precisar responsabilidad por omisión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

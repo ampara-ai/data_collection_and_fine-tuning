@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00388_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "si",
+      "rationale": "Obliga a los profesionales de salud a denunciar los delitos conocidos en su actividad."
+    },
+    {
+      "dataset_id": "case::jp_00388_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de denunciar, pero no resuelve la responsabilidad penal por desconocer signos."
+    },
+    {
+      "dataset_id": "case::jp_00388_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "si",
+      "rationale": "Excluye la omisión de denuncia cuando el médico no tuvo conocimiento cierto del delito."
+    },
+    {
+      "dataset_id": "case::jp_00388_e0002::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "si",
+      "rationale": "Detalla los datos de la denuncia y admite su presentación digital."
+    },
+    {
+      "dataset_id": "case::jp_00388_e0002::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "si",
+      "rationale": "Explica los límites de la casación y su procedencia excepcional para desarrollar doctrina."
+    },
+    {
+      "dataset_id": "case::jp_00388_e0002::q05",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige conocimiento cierto y concreto del delito evidenciado en signos de agresión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

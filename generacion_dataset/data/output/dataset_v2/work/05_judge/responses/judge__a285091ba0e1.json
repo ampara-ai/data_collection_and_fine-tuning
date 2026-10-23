@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00118_e0038::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige valorar conforme a lógica, ciencia y experiencia y exponer resultados y criterios."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0038::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "si",
+      "rationale": "Exige incluir en la acusación el monto de reparación y la persona que debe percibirlo."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0038::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Requiere pruebas corroborantes para condenar con testimonios de referencia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0038::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos para la prueba indiciaria, incluidos indicios probados e inferencias lógicas."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0038::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "si",
+      "rationale": "Exige al fiscal ofrecer la lista de testigos con nombre, domicilio y puntos de declaración en su acusación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

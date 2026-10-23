@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Prevé detención domiciliaria para mayores de 65 años si permite evitar los riesgos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Enumera los supuestos y condiciones de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula una materia distinta y no establece los supuestos de detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Permite al juez limitar o prohibir comunicaciones durante la detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Identifica la custodia y las autoridades encargadas de controlar las obligaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Ordena prisión preventiva al desaparecer la enfermedad, previo informe pericial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_290_01::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "si",
+      "rationale": "Establece que dura lo mismo que la prisión preventiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

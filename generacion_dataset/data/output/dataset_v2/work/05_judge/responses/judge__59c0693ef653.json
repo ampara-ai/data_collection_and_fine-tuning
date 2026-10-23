@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_536_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "si",
+      "rationale": "Regula las solicitudes de asistencia judicial a autoridades extranjeras para investigaciones penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_536_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "si",
+      "rationale": "Encarga a jueces y fiscales cursar la carta rogatoria a través de la Fiscalía de la Nación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_536_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "si",
+      "rationale": "Permite indicar los hechos por acreditar cuando se desconocen las pruebas particulares."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

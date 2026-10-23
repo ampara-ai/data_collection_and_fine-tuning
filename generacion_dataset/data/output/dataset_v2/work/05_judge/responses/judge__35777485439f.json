@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00149_e0015::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "si",
+      "rationale": "Tipifica los tocamientos sexuales a menores de catorce años sin exigir acceso carnal."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "si",
+      "rationale": "Explica expresamente que el consentimiento de una menor de catorce años es irrelevante."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica los tocamientos a menores de catorce años, pero no explica expresamente el efecto de su consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "si",
+      "rationale": "Describe la reconducción a actos contra el pudor y la reducción de pena por desistimiento voluntario."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de violación sexual, no de los tocamientos a la menor descritos en el caso."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula el aumento de pena por parentesco, no la suspensión de su ejecución."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Examina la amenaza y la discapacidad en actos contra el pudor, sin tratar la ejecución suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Los beneficios corresponden al procedimiento especial de colaboración eficaz, ajeno a la consulta."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Regula el delito de extorsión."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "Regula la motivación de medidas coercitivas, no la ejecución de condenas."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece un ejemplo de pena reducida por actos contra el pudor, pero no aclara si puede suspenderse."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "Regula obligaciones de colaboradores eficaces."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "Trata la ejecución de multas, inhabilitación y decomiso en el extranjero."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula la extradición activa."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata la prescripción en omisión de asistencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos, límites y exclusiones de la suspensión de la ejecución de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula el aumento de pena por parentesco, no su ejecución suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Trata la tipificación colombiana de violencia intrafamiliar entre exparejas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

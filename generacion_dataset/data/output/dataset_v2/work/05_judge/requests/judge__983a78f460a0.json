@@ -1,0 +1,17 @@
+{
+ "task_id": "judge__983a78f460a0",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo04_jp_00468_e0005_01::q03\",\n  \"question\": \"Soltaron al agresor de mi hija en el primer fallo. ¿Un tribunal superior puede cambiar eso y encarcelarlo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_226_01\",\n    \"title\": \"Artículo 226. Autorización\",\n    \"text\": \"1. Las cartas, pliegos, valores, telegramas y otros objetos de correspondencia o envío postal, en las oficinas o empresas —públicas o privadas— postales o telegráficas, dirigidos al imputado o remitidos por él, aun bajo nombre supuesto, o de aquellos de los cuales por razón de especiales circunstancias, se presumiere emanan de él o de los que él pudiere ser el destinatario, pueden ser objeto, a instancia del Fiscal al Juez de la Investigación Preparatoria, de interceptación, incautación y ulterior apertura.\\n2. La orden judicial se instará cuando su obtención sea indispensable para el debido esclarecimiento de los hechos investigados. Esta medida, estrictamente reservada y sin conocimiento del afectado, se prolongará por el tiempo estrictamente necesario, el que no será mayor que el período de la investigación.\\n3. Del mismo modo, se podrá disponer la obtención de copias o respaldos de la correspondencia electrónica dirigida al imputado o emanada de él.\\n4. El Juez de la Investigación Preparatoria resolverá, mediante trámite reservado e inmediatamente, teniendo a la vista los recaudos que justifiquen el requerimiento fiscal. La denegación de la medida podrá ser apelada por el Fiscal, e igualmente se tramitará reservada por el Superior Tribunal, sin trámite alguno e inmediatamente.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo04_jp_00468_e0005_01::q03",
+     "chunk_tipo03_cpp_art_226_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__983a78f460a0.json"
+}

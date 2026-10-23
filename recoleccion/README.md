@@ -26,6 +26,18 @@ Dentro de esta fase, cada tipo de dato vive en su propio subárbol.
 - `data_types/tipo_01_ley_30364/` → normativa principal del dominio
 - `data_types/tipo_02_codigo_penal/` → normativa penal sustantiva complementaria
 - `data_types/tipo_03_codigo_procesal_penal/` → normativa procesal penal complementaria
+- `data_types/tipo_04_jurisprudencia/` → resoluciones y relaciones con artículos
+- `data_types/tipo_05_documentos_institucionales/` → orientación y rutas de atención
+
+## Artefactos canónicos
+
+- `data/processed/document_chunks_all.jsonl`: corpus consolidado consumido por generación;
+- `data/processed/document_chunks_summary.json`: conteos por tipo y control de vacíos;
+- `data_types/*/data/processed/normalized_documents.jsonl`: documentos normalizados por familia;
+- `data_types/*/data/processed/document_chunks.jsonl`: chunks antes de consolidar;
+- `data_types/tipo_04_jurisprudencia/data/processed/jurisprudence_context_units.json`: casos, procedencia y relaciones jurídicas.
+
+El snapshot consolidado contiene 757 chunks.
 
 ## Reproducción desde la raíz del repo
 
@@ -33,19 +45,19 @@ Desde `/` del repositorio:
 
 ```bash
 uv sync
-python3 run_recoleccion.py collect
+uv run --frozen python run_recoleccion.py collect
 ```
 
 O con fecha explícita:
 
 ```bash
-python3 run_recoleccion.py collect 20250914
+uv run --frozen python run_recoleccion.py collect 20250914
 ```
 
 Para modo worker:
 
 ```bash
-python3 run_recoleccion.py worker
+uv run --frozen python run_recoleccion.py worker
 ```
 
 ## Pipeline base documental unificado
@@ -55,52 +67,54 @@ Desde `recoleccion/` o desde la raíz del repo se debe poder invocar un runner r
 Desde la raíz del repo:
 
 ```bash
-python3 recoleccion/run_base_documental.py plan
+uv run --frozen python recoleccion/run_base_documental.py plan
 ```
+
+`plan` es de solo lectura. Los demás subcomandos reconstruyen o descargan artefactos y algunos requieren red o `OPENROUTER_API_KEY`.
 
 Para ejecutar la muestra reproducible actual de jurisprudencia tipo 04:
 
 ```bash
-python3 recoleccion/run_base_documental.py tipo04-sample10
+uv run --frozen python recoleccion/run_base_documental.py tipo04-sample10
 ```
 
 Comandos disponibles actualmente para artefactos reales:
 
 ```bash
-python3 recoleccion/run_base_documental.py tipo01-normalize
-python3 recoleccion/run_base_documental.py tipo01-chunk
-python3 recoleccion/run_base_documental.py tipo02-normalize
-python3 recoleccion/run_base_documental.py tipo02-chunk
-python3 recoleccion/run_base_documental.py tipo03-normalize
-python3 recoleccion/run_base_documental.py tipo03-chunk
-python3 recoleccion/run_base_documental.py tipo04-build-seeds
-python3 recoleccion/run_base_documental.py tipo04-fetch-indexes
-python3 recoleccion/run_base_documental.py tipo04-parse-entries
-python3 recoleccion/run_base_documental.py tipo04-resolve-content
-python3 recoleccion/run_base_documental.py tipo04-summarize
-python3 recoleccion/run_base_documental.py tipo04-build-contextual-chunks
-python3 recoleccion/run_base_documental.py tipo04-normalize
-python3 recoleccion/run_base_documental.py tipo04-chunk
-python3 recoleccion/run_base_documental.py tipo05-normalize
-python3 recoleccion/run_base_documental.py tipo05-chunk
-python3 recoleccion/run_base_documental.py consolidate-chunks
+uv run --frozen python recoleccion/run_base_documental.py tipo01-normalize
+uv run --frozen python recoleccion/run_base_documental.py tipo01-chunk
+uv run --frozen python recoleccion/run_base_documental.py tipo02-normalize
+uv run --frozen python recoleccion/run_base_documental.py tipo02-chunk
+uv run --frozen python recoleccion/run_base_documental.py tipo03-normalize
+uv run --frozen python recoleccion/run_base_documental.py tipo03-chunk
+uv run --frozen python recoleccion/run_base_documental.py tipo04-build-seeds
+uv run --frozen python recoleccion/run_base_documental.py tipo04-fetch-indexes
+uv run --frozen python recoleccion/run_base_documental.py tipo04-parse-entries
+uv run --frozen python recoleccion/run_base_documental.py tipo04-resolve-content
+uv run --frozen python recoleccion/run_base_documental.py tipo04-summarize
+uv run --frozen python recoleccion/run_base_documental.py tipo04-build-contextual-chunks
+uv run --frozen python recoleccion/run_base_documental.py tipo04-normalize
+uv run --frozen python recoleccion/run_base_documental.py tipo04-chunk
+uv run --frozen python recoleccion/run_base_documental.py tipo05-normalize
+uv run --frozen python recoleccion/run_base_documental.py tipo05-chunk
+uv run --frozen python recoleccion/run_base_documental.py consolidate-chunks
 ```
 
 Además, sigue disponible la muestra reproducible actual de tipo 04:
 
 ```bash
-python3 recoleccion/run_base_documental.py tipo04-sample10
+uv run --frozen python recoleccion/run_base_documental.py tipo04-sample10
 ```
 
 Pipeline recomendado nuevo para tipo 04:
 
 ```bash
-python3 recoleccion/run_base_documental.py tipo04-build-seeds
-python3 recoleccion/run_base_documental.py tipo04-fetch-indexes
-python3 recoleccion/run_base_documental.py tipo04-parse-entries
-python3 recoleccion/run_base_documental.py tipo04-resolve-content
-python3 recoleccion/run_base_documental.py tipo04-summarize
-python3 recoleccion/run_base_documental.py tipo04-build-contextual-chunks
+uv run --frozen python recoleccion/run_base_documental.py tipo04-build-seeds
+uv run --frozen python recoleccion/run_base_documental.py tipo04-fetch-indexes
+uv run --frozen python recoleccion/run_base_documental.py tipo04-parse-entries
+uv run --frozen python recoleccion/run_base_documental.py tipo04-resolve-content
+uv run --frozen python recoleccion/run_base_documental.py tipo04-summarize
+uv run --frozen python recoleccion/run_base_documental.py tipo04-build-contextual-chunks
 ```
 
 ## Documentación del schema unificado

@@ -1,0 +1,773 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_140_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_146_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Describe un juicio inmediato por omisión alimentaria y exige celeridad, pero no explica los requisitos para incoarlo con copias civiles."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "parcial",
+      "rationale": "Detalla los plazos del juicio inmediato una vez iniciado, sin establecer su procedencia por falta de pago de alimentos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No establece si el incumplimiento de alimentos con copias del juzgado civil habilita un juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "si",
+      "rationale": "Regula la incoación del proceso inmediato por flagrancia y fija plazos breves para la audiencia y la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "parcial",
+      "rationale": "Define la flagrancia aplicable a la captura durante la agresión, pero no explica el proceso acelerado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_39_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Regula la detención y comunicación inmediata en violencia flagrante, sin establecer los plazos del juicio penal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No explica la tramitación acelerada del proceso penal por captura durante la agresión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "si",
+      "rationale": "La admisión de cargos puede concluir el juicio y producir sentencia en la sesión o dentro de cuarenta y ocho horas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona confesión y conclusión anticipada, pero se centra en reducción de pena y no establece plazos ni la incoación del proceso inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_90_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "parcial",
+      "rationale": "Fija plazos para el proceso inmediato remitiendo a supuestos de otro artículo, sin explicar cuándo la admisión basta para aplicarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_446_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece que admitir los hechos permita abreviar el proceso ni precisa el trámite correspondiente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

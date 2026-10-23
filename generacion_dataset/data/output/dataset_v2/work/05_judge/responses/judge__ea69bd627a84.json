@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "si",
+      "rationale": "Exige protección adecuada al riesgo conocido y considera insuficiente entregar solo un documento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "Regula traslado de condenados desde el extranjero, no responsabilidad estatal por falta de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "parcial",
+      "rationale": "Establece deberes estatales de prevención y servicios, sin desarrollar responsabilidad por muerte advertida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Reconoce vulneración estatal por falta de protección contra violencia doméstica, aun sin intencionalidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes de responsabilidad penal individual, no omisión estatal de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Regula atenuantes y agravantes de delitos, no responsabilidad del Estado por desprotección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece obligación estatal de prevenir violencia conocida o cognoscible mediante medidas razonables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "parcial",
+      "rationale": "Declara responsabilidad por normas discriminatorias e investigación deficiente, sin resolver protección ante riesgo de muerte avisado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "Regula traslado temporal de detenidos para diligencias, no deber de proteger a mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Declara incumplimiento estatal al no evaluar continuamente el riesgo y levantar protección sin recurso efectivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por asesinato de una mujer cuyo riesgo se conocía y no se atendió adecuadamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "Regula restricciones de derechos en medidas coercitivas, no responsabilidad estatal por desprotección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado, no deber estatal de prevenir una muerte anunciada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Agrava tráfico de migrantes, no responsabilidad estatal por omisión de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,94 @@
+{
+ "questions": [
+  {
+   "query": "Me han llamado muchas veces a contar lo que viví y siento que me hacen revivirlo. ¿No deberían buscar otras pruebas en vez de pedirme siempre lo mismo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00382_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que en violencia sexual se debe evitar la revictimización y que la investigación debe centrarse en obtener otras pruebas, no en repetir el testimonio de la víctima.",
+   "expected_answer_focus": "Debe poder explicar que las autoridades han de evitar que la víctima reviva el trauma y buscar pruebas distintas a su declaración reiterada.",
+   "victim_voice_rationale": "Expresa el cansancio y el dolor de una víctima citada una y otra vez a declarar."
+  },
+  {
+   "query": "Hice mi denuncia por una violación. ¿Quién lleva el caso y decide qué hay que averiguar: la policía o la fiscalía?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_322_01",
+    "chunk_tipo03_cpp_art_65_01"
+   ],
+   "positive_selection_reason": "El art. 322 dice que el Fiscal conduce jurídicamente la investigación y la Policía hace la investigación material; el art. 65 reparte estrategia jurídica (Fiscal) y operativa (Policía).",
+   "expected_answer_focus": "Debe poder aclarar los roles del Fiscal y de la Policía y que deben coordinarse en la investigación.",
+   "victim_voice_rationale": "Una víctima que no entiende quién maneja su caso tras denunciar."
+  },
+  {
+   "query": "Fui a denunciar y me dijeron que no había tiempo para atenderme. ¿Pueden negarse o tienen que mover el caso de inmediato?",
+   "topic": "canales_denuncia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01"
+   ],
+   "positive_selection_reason": "El art. 65.2 indica que el Fiscal, en cuanto tiene noticia del delito, dispone de forma inmediata que la Policía realice diligencias preliminares.",
+   "expected_answer_focus": "Debe poder indicar que, al conocer el delito, el Fiscal debe ordenar de inmediato las primeras diligencias.",
+   "victim_voice_rationale": "Refleja el rechazo inicial que sufrió la denunciante del caso al querer denunciar."
+  },
+  {
+   "query": "Me da miedo que con los días desaparezca lo que quedó en el lugar donde me agredieron. ¿Alguien puede cuidar esas huellas?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_322_01"
+   ],
+   "positive_selection_reason": "El art. 322.3 permite al Fiscal disponer medidas razonables para proteger y aislar indicios materiales en el lugar del delito y evitar su desaparición o destrucción.",
+   "expected_answer_focus": "Debe poder señalar que el Fiscal puede ordenar que se protejan y aíslen los indicios del lugar para que no se pierdan.",
+   "victim_voice_rationale": "Preocupación por la pérdida de pruebas, como ocurrió con la prueba del caso."
+  },
+  {
+   "query": "Todo pasó en mi casa, en un lugar alejado. ¿Pueden ir hasta allá a verlo ellos mismos o todo se hace en una oficina?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_116_01"
+   ],
+   "positive_selection_reason": "El art. 116 señala que las actuaciones son en el despacho, pero el Fiscal o el Juez pueden ir a cualquier lugar del país cuando sea indispensable para conocer directamente elementos decisivos.",
+   "expected_answer_focus": "Debe poder explicar que, aunque lo normal es la oficina, el Fiscal o el Juez pueden trasladarse al lugar cuando sea indispensable.",
+   "victim_voice_rationale": "Una víctima que vive lejos y teme tener que desplazarse o que no se vea el lugar de los hechos."
+  },
+  {
+   "query": "Si ya acusaron a quien me agredió, ¿antes del juicio el juez decide si lo dejan libre o sigue detenido?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_353_01"
+   ],
+   "positive_selection_reason": "El art. 353.3 indica que al dictar el auto de enjuiciamiento el Juez se pronuncia sobre la subsistencia o sustitución de las medidas de coerción, incluso disponiendo la libertad del imputado.",
+   "expected_answer_focus": "Debe poder explicar que al pasar a juicio el juez revisa si se mantienen las medidas contra el acusado, y qué contiene esa resolución.",
+   "victim_voice_rationale": "Temor de que el agresor salga libre justo antes del juicio."
+  },
+  {
+   "query": "Quien me agredió es militar y quieren que su caso lo vean tribunales militares. ¿Es correcto o debe verlo la justicia común?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00382_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia censura el uso indebido del fuero militar en un caso de violación contra una civil y ordena el juzgamiento en el fuero ordinario.",
+   "expected_answer_focus": "Debe poder indicar que la justicia militar no es adecuada para estos casos y que debe intervenir la justicia ordinaria.",
+   "victim_voice_rationale": "Desconfianza de que el agresor sea juzgado por sus propios compañeros."
+  },
+  {
+   "query": "¿Policía y fiscalía deben trabajar juntos con reglas claras para que a mí no me hagan repetir todo en cada oficina?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_65_01",
+    "chunk_tipo04_jp_00382_e0010_01"
+   ],
+   "positive_selection_reason": "El art. 65 obliga a Ministerio Público y Policía a cooperar y diseñar protocolos de actuación; la sentencia destaca la necesidad de protocolos con perspectiva de género y evitar la revictimización.",
+   "expected_answer_focus": "Debe poder señalar que las instituciones deben coordinarse con protocolos y que se debe evitar revictimizar a la denunciante.",
+   "victim_voice_rationale": "Una víctima cansada de dar vueltas y repetir su relato en distintas instituciones."
+  }
+ ]
+}

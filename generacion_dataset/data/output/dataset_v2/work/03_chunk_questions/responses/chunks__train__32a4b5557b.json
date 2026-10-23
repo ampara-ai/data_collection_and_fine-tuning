@@ -1,0 +1,153 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El esposo de mi mamá intentó abusar de mi hija, pero ella lloró y él paró. ¿Eso cuenta como abuso completo o solo como intento?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aunque no se completó, los actos de desvestir, contacto íntimo e intento de penetrar ya constituyen violación sexual de menor y no solo tocamientos."
+    },
+    {
+     "query": "Si el agresor se detuvo porque la niña lloraba, ¿puede alegar que se arrepintió por su cuenta y librarse de la condena?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El llanto de la víctima no es un desistimiento voluntario cuando el agresor ya había ejecutado actos de penetración; el delito igual se considera cometido."
+    },
+    {
+     "query": "A un hombre lo sentenciaron solo por tocamientos a mi sobrina, pero hubo intento de penetrarla. ¿Se puede corregir esa condena?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema revocó la condena por tocamientos indebidos y condenó por violación sexual de menor tras el recurso del Ministerio Público."
+    },
+    {
+     "query": "¿Hace falta que haya penetración completa para que se considere violación de una niña?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Basta el contacto periférico o la introducción parcial para que se configure la violación sexual."
+    },
+    {
+     "query": "Mi hija de 10 años dice que la pareja de mi mamá le quitó la ropa y se echó sobre ella. ¿Es un delito grave aunque no llegara a más?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Desvestir a la menor, acostarse sobre ella e intentar penetrarla se considera violación sexual y no solo actos contra el pudor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_562_01",
+   "skip": true,
+   "skip_reason": "Trámite de cooperación judicial con la Corte Penal Internacional; es técnico-institucional y ninguna víctima de violencia familiar lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_4_01",
+   "skip": true,
+   "skip_reason": "Mecanismo procesal técnico (defensa por falta de un requisito para investigar) que no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_57_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja fue condenado por golpearme. ¿Puede quedar libre sin pisar la cárcel si promete portarse bien?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Quien es condenado por agresiones contra mujeres o integrantes del grupo familiar no puede recibir la suspensión de la pena, es decir, no se libra de la cárcel por esa vía."
+    },
+    {
+     "query": "¿Un hombre sentenciado por maltratar a su esposa puede evitar la cárcel con una condena que no se cumple?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La suspensión de la ejecución de la pena es inaplicable a condenados por agresiones contra mujeres o integrantes del grupo familiar."
+    },
+    {
+     "query": "¿Cuántos años de condena debe tener alguien para que el juez permita que no entre a prisión y quede en libertad vigilada?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez puede suspender la pena si no pasa de cinco años (hasta ocho en casos excepcionales de jóvenes sin antecedentes), por un plazo de uno a cuatro años."
+    },
+    {
+     "query": "Mi ex ya tenía condenas antes por otros delitos. ¿Aun así el juez puede dejarlo sin cárcel?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Entre los requisitos, el condenado no debe ser reincidente ni habitual, y el juez debe motivar que no volverá a delinquir."
+    },
+    {
+     "query": "Me aterra que lo condenen y salga al día siguiente. En casos de violencia contra la mujer, ¿hay forma de que no cumpla la pena en la calle?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En delitos de agresión contra mujeres o integrantes del grupo familiar y otros delitos listados, el juez no puede suspender la pena."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_105_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quiero cobrarle al agresor una compensación dentro del juicio penal. ¿También puedo exigir que le den más años de cárcel?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quien reclama dinero por el daño dentro del proceso penal no puede pedir que se imponga una sanción al acusado."
+    },
+    {
+     "query": "Si participo en el juicio solo para que me paguen por el daño, ¿tengo que ayudar a la fiscalía a investigar?",
+     "topic": "reparacion_civil",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Su actividad incluye colaborar en esclarecer el hecho y la identificación de quien lo cometió, además de acreditar lo que reclama."
+    },
+    {
+     "query": "¿Me toca demostrar cuánto me deben por el daño que sufrí o eso lo calcula solo el juez?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quien reclama la indemnización debe acreditar el monto de la reparación civil que pretende."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Tengo moretones en los muslos de cuando me forzó, pero él también tenía chupetones en el cuello. ¿Eso me quita credibilidad?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las marcas mutuas en el cuello se valoraron como indicio contradictorio que contribuyó a la duda y a la absolución."
+    },
+    {
+     "query": "Al principio no conté que me habían violado y dije otra cosa. ¿Pueden dejar de creerme después?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Que la víctima inicialmente no mencionara el ultraje sexual fue un factor que debilitó la prueba y llevó a la absolución."
+    },
+    {
+     "query": "Si después de una violación no tengo lesiones en mis partes íntimas, ¿pueden dejar libre al acusado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de lesiones genitales o paragenitales fue considerada junto con otros elementos para concluir que la prueba no alcanzaba para condenar."
+    },
+    {
+     "query": "No me resistí mucho por miedo y pude haberme ido antes. ¿Eso hace que el juez dude de mi denuncia?",
+     "topic": "violencia_sexual",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se valoró que la víctima tuvo oportunidades de alejarse sin hacerlo, lo que sumó a la duda razonable."
+    },
+    {
+     "query": "¿Qué pasa en un juicio por violación si el juez no está del todo seguro de lo ocurrido? ¿El acusado queda libre?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si la prueba no da certeza y persiste la duda razonable, rige la presunción de inocencia y se confirma la absolución."
+    }
+   ]
+  }
+ ]
+}

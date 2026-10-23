@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "Conté una vez lo que me hicieron en la detención, pero nadie hizo nada. ¿Me van a exigir que lo repita muchas veces para que investiguen?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00390_e0007_01"
+   ],
+   "positive_selection_reason": "El criterio principal de la sentencia establece que no hace falta denunciar los hechos de violencia sexual más de una vez para que surja el deber de investigar y que se debe evitar la revictimización. Responde directamente la duda.",
+   "expected_answer_focus": "Que la víctima de violencia sexual no tiene que denunciar repetidamente para que las autoridades estén obligadas a investigar, y que se debe evitar que reviva lo ocurrido en cada declaración.",
+   "victim_voice_rationale": "Una víctima teme que su primera declaración no cuente y que le exijan insistir una y otra vez."
+  },
+  {
+   "query": "Me da pánico tener que contar otra vez en cada oficina lo que me hicieron. ¿Pueden obligarme a repetirlo todo cada vez que declaro?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "verguenza",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00390_e0007_01"
+   ],
+   "positive_selection_reason": "La sentencia señala que, en casos de violencia sexual, no es razonable exigir que la víctima reitere los maltratos en cada declaración y que debe evitarse la revictimización.",
+   "expected_answer_focus": "Que no es razonable exigir a la víctima de violencia sexual que repita los hechos en cada declaración y que las autoridades deben evitar revictimizarla.",
+   "victim_voice_rationale": "Expresa el miedo y el desgaste de volver a relatar una experiencia traumática ante distintas autoridades."
+  },
+  {
+   "query": "Si la policía se entera de que me hicieron daño, ¿tienen que investigar aunque yo no presente una denuncia formal?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_329_01",
+    "chunk_tipo03_cpp_art_1_01"
+   ],
+   "positive_selection_reason": "El art. 329 dice que la Policía inicia investigación de oficio al conocer un delito de persecución pública, y el art. 1 indica que el Ministerio Público ejerce la acción penal de oficio o a instancia del agraviado o de cualquier persona.",
+   "expected_answer_focus": "Que en delitos de persecución pública la Policía y el Ministerio Público pueden actuar de oficio, sin depender solo de la denuncia de la víctima.",
+   "victim_voice_rationale": "Una víctima que no se atreve a denunciar quiere saber si las autoridades deben actuar por su cuenta."
+  },
+  {
+   "query": "¿Cómo empieza una investigación cuando yo aviso a la policía que me lastimaron? ¿Ellos tienen que avisarle a alguien más?",
+   "topic": "canales_denuncia",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_329_01"
+   ],
+   "positive_selection_reason": "El art. 329 regula cómo la Policía inicia los actos de investigación tras la denuncia de los agraviados, comunicándolo de inmediato al Fiscal.",
+   "expected_answer_focus": "Que la Policía inicia la investigación al recibir la denuncia y debe comunicarlo de inmediato al Fiscal.",
+   "victim_voice_rationale": "Pregunta práctica de quien no conoce el trámite tras acudir a la comisaría."
+  },
+  {
+   "query": "Mi familiar vio lo que me pasó y quiere avisar a las autoridades por mí. ¿Alguien que no sea yo puede hacer que se investigue?",
+   "topic": "canales_denuncia",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_1_01"
+   ],
+   "positive_selection_reason": "El art. 1 señala que el Ministerio Público ejerce la acción penal de oficio, a instancia del agraviado o de cualquier persona, natural o jurídica.",
+   "expected_answer_focus": "Que en delitos de persecución pública la acción penal puede promoverse a instancia de cualquier persona, además de la víctima.",
+   "victim_voice_rationale": "Quien tiene miedo de denunciar quiere saber si un familiar puede hacerlo por ella."
+  },
+  {
+   "query": "Dicen que el caso no avanzó porque solo hablé una vez. ¿Es cierto que eso basta para que no investiguen lo que sufrí?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00390_e0007_01",
+    "chunk_tipo03_cpp_art_329_01"
+   ],
+   "positive_selection_reason": "La sentencia rechaza que se justifique no investigar porque la víctima no denunció en otras oportunidades, y el art. 329 permite iniciar la investigación de oficio al conocer el delito.",
+   "expected_answer_focus": "Que no denunciar varias veces no justifica la inacción, y que la Policía puede y debe investigar de oficio delitos de persecución pública.",
+   "victim_voice_rationale": "Una víctima desconfía al escuchar que su caso quedó parado por no insistir."
+  }
+ ]
+}

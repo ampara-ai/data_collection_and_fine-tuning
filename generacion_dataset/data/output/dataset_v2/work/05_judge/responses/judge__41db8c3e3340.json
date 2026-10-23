@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_286_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Dispone comparecencia simple cuando el fiscal no solicita prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_286_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Exige al fiscal y al juez motivar la decisión de comparecencia simple."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

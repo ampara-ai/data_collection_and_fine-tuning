@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "si",
+      "rationale": "Admite juzgamiento anticipado en violencia familiar con prueba documental y demandado declarado rebelde."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "si",
+      "rationale": "Admite juzgamiento anticipado en violencia familiar con prueba documental y demandado declarado rebelde."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 80.- Plazos de prescripción de la acción penal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 342. Plazo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "si",
+      "rationale": "Admite juzgamiento anticipado en violencia familiar con prueba documental y demandado declarado rebelde."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_67_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 67.- Extinción del régimen de prueba no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 12. Ejercicio alternativo y accesoriedad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129. Citaciones no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00114_e0007_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 16. Proceso especial aporta contexto relacionado, pero no contiene la información central consultada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

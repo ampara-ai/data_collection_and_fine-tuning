@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica los límites de atenuación de la pena por lesiones graves, pero no el efecto del alcohol."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye la ebriedad superior a 0,25 g/l como agravante de lesiones graves en violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica cómo influye la ebriedad en la pena por lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Contempla el uso de armas que arriesgan la vida como agravante de lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye la afectación psicológica de niños en contextos de violencia familiar entre las lesiones graves agravadas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Declara que la falta de protección estatal frente a violencia doméstica vulnera la igualdad ante la ley."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el deber de protección y trato adecuado a la víctima, sin desarrollar discriminación sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Considera violatoria de derechos la trivialización de denuncias, pero no analiza igualdad sin intencionalidad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Expresamente considera discriminatoria la falta de protección a mujeres sin exigir intencionalidad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "parcial",
+      "rationale": "Analiza protección desigual de mujeres por normas discriminatorias, no el supuesto de desatención sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a valorar el riesgo, pero no establece el criterio de discriminación consultado."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber estatal de proteger e investigar, sin desarrollar la discriminación no intencional."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0018::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la discriminación estatal aun sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Explica que el relato de la víctima puede bastar en delitos sexuales clandestinos si supera la sana crítica."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Establece requisitos para condenar mediante indicios probados e inferencias lógicas concordantes."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe inferir consentimiento de la conducta y exige valorar pericias, pero no desarrolla un examen general de credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Expone corroboración externa y valoración contextual de violencia sexual, sin desarrollar todos los criterios de credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Enumera seguridad, concreción, claridad, ausencia de contradicciones y corroboración periférica."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Remite a criterios jurisprudenciales y a la edad y desarrollo de menores sin enumerar el examen general."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Exige sana crítica y escrutinio riguroso, pero no concreta sus criterios de credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "parcial",
+      "rationale": "Permite pericias de idoneidad del testigo, sin fijar criterios generales de credibilidad."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de credibilidad del testimonio."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Ordena valorar la prueba con lógica, ciencia y experiencia y explicar los criterios adoptados."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige otras pruebas corroborantes para imponer coerción o condenar con testimonios de referencia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0087::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "si",
+      "rationale": "Otorga relevancia preponderante al testimonio de la víctima por la clandestinidad de los delitos sexuales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

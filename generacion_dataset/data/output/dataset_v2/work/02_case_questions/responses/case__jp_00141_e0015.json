@@ -1,0 +1,38 @@
+{
+ "questions": [
+  {
+   "query": "Me hicieron cosas muy feas de tipo sexual y cada vez que declaro me piden contarlo todo otra vez. ¿Estoy obligada a repetir esos detalles en cada ocasión?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "verguenza",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00141_e0015_01"
+   ],
+   "positive_selection_reason": "El criterio principal del único candidato dice que no es razonable exigir a la víctima de violencia sexual que reitere en cada declaración los maltratos de naturaleza sexual.",
+   "expected_answer_focus": "Debe poder indicar que no es razonable exigir a una víctima de violencia sexual que repita en cada declaración los hechos sexuales sufridos, y que el sistema debe evitar que reviva el trauma.",
+   "victim_voice_rationale": "Una víctima cansada de tener que revivir lo ocurrido cada vez que declara pregunta si está obligada a hacerlo."
+  },
+  {
+   "query": "Solo conté lo que me pasó una vez y después no quise volver a insistir. ¿Pueden dejar mi caso sin investigar por eso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00141_e0015_01"
+   ],
+   "positive_selection_reason": "El candidato establece que la obligación de investigar no depende de que la víctima denuncie más de una vez y que el Estado no puede excusarse en que no denunció en otras oportunidades.",
+   "expected_answer_focus": "Debe poder explicar que el Estado no queda eximido de investigar porque la víctima no haya repetido su denuncia varias veces.",
+   "victim_voice_rationale": "Expresa el temor de perder su caso por haber hablado una sola vez."
+  },
+  {
+   "query": "Me da pánico volver a vivir lo que me pasó cada vez que me hacen contarlo. ¿Las autoridades tienen que cuidar que no sufra de nuevo al declarar?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00141_e0015_01"
+   ],
+   "positive_selection_reason": "El candidato señala que en casos de violencia sexual debe evitarse la reexperimentación de la experiencia traumática cada vez que la víctima declara.",
+   "expected_answer_focus": "Debe poder indicar que la investigación debe evitar que la víctima de violencia sexual reviva el trauma en cada declaración y que las autoridades deben adoptar medidas en ese sentido.",
+   "victim_voice_rationale": "Una víctima con angustia al declarar quiere saber si tiene derecho a un trato que no la dañe otra vez."
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

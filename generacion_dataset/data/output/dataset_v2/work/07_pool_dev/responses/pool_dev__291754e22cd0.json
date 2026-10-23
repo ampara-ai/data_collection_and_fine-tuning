@@ -1,0 +1,755 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica la suficiencia del testimonio infantil corroborado, pero no la denuncia tras años de amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que el testimonio y la pericia psicológica permiten condenar sin lesiones, pero no aborda la denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Expone exigencias probatorias para condenar, sin resolver las consecuencias de denunciar años después."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Permite denunciar sin pericias y por medio de terceros, pero no resuelve la demora de cuatro años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla la suficiencia del testimonio, sin abordar el silencio prolongado por amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Examina el efecto de una denuncia tardía y las contradicciones sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Admite declaraciones preliminares urgentes, sin resolver la denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Examina requisitos de prueba e identificación, sin resolver los efectos de una denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Trata la declaración infantil y su retractación, pero no la denuncia después de años de amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Explica la validez de declaraciones y retractaciones tras años, pero la denuncia fue inmediata."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "parcial",
+      "rationale": "Aclara el alcance de evidencia médica antigua, sin resolver la denuncia tardía por amenazas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena por abuso revelado dos años después, corroborado con testimonios y pericias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone valoración de prueba infantil, sin analizar el silencio de años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Indica vías de denuncia y protección, sin resolver la demora ni la posibilidad de condena por abuso infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una condena con amenazas, relato a la abuela y corroboraciones, sin resolver el lapso de cuatro años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Explica valorar el contexto de violencia ante retractaciones, sin abordar denuncias tardías de menores."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la denuncia después de años de silencio por amenazas ni sus efectos sobre la posibilidad de condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que amenazas y sentimientos hacia el agresor no destruyen credibilidad, sin resolver la denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Permite denunciar delitos de acción pública, sin tratar plazos ni prueba tras cuatro años."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Analiza credibilidad y retractación en abuso infantil, sin resolver la denuncia tardía."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que silencio y amenazas no implican consentimiento, pero no aborda la denuncia tardía ni prescripción."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Explica la valoración conjunta de cámara Gesell, pericia psicológica y testimonio de la hermana."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Discute expresamente si un testimonio de referencia sirve de corroboración y distingue el voto disidente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Regula cuándo volver a examinar a una menor, sin identificar corroboraciones para acreditar el abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Explica que la declaración coherente y las pericias psicológicas bastan aun sin desfloración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Orienta la valoración racional del testimonio infantil tardío, aunque trata una agresión contra su madre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que debe valorarse íntegramente la pericia psicológica y que la ausencia de daño no descarta el abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Explica la credibilidad del relato y las corroboraciones indiciarias incluso sin lesiones ni afectación psicológica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "si",
+      "rationale": "Identifica el relato de la abuela, pericias psicológicas y admisión policial como corroboraciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que no se exige resistencia ni fuerza para probar falta de consentimiento, sin desarrollar prueba infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Excluye estereotipos sobre la conducta sexual como forma de desacreditar a la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el ADN no es indispensable y debe valorarse el conjunto de indicios, en un caso de víctima adulta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Enumera documentos y pericias admisibles por lectura, sin desarrollar cómo corroborar el abuso infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Identifica pericias, mensajes de admisión y documentos como prueba suficiente sin nueva declaración infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica la necesidad de actuar un testimonio esencial y un audio, sin desarrollar la credibilidad de la niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica las exigencias de persistencia y la falta de valor de reconocimientos policiales irregulares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_422_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "si",
+      "rationale": "Explica la necesidad de corroboración y la insuficiencia de la prueba ante retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "si",
+      "rationale": "Explica que las contradicciones periciales y la falta de corroboración impiden alcanzar certeza."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "si",
+      "rationale": "Exige valorar pericias, testigos e indicios y la dependencia familiar aunque falte declaración previa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula el examen protegido de menores, sin desarrollar corroboraciones de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite usar una copia de cámara Gesell y explica igualdad de armas, sin desarrollar la credibilidad del relato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige valorar testimonios de referencia, informes periciales y dependencia familiar además del relato infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Aclara que la pericia psicológica es complementaria y su resultado negativo no desvirtúa el delito."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "parcial",
+      "rationale": "Permite diligencias y nueva prueba indispensables, sin identificar las corroboraciones del abuso infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "si",
+      "rationale": "Explica por qué un reconocimiento fotográfico tardío como única prueba no basta para condenar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Expone la importancia de la declaración y las pericias y por qué resultaron insuficientes en el caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "si",
+      "rationale": "Identifica el testimonio coherente y la pericia psicológica como prueba suficiente incluso sin huellas materiales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "si",
+      "rationale": "Identifica declaración coherente, pericia psicológica y testimonio materno como corroboraciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Aclara la validez de cámara Gesell con garantías, sin desarrollar la corroboración de la credibilidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "parcial",
+      "rationale": "Menciona inspecciones y registros probatorios con protección de menores, sin resolver su credibilidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica el uso de la declaración de la madre como prueba complementaria, sin desarrollar la credibilidad infantil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige autenticación de certificados y valorar las presiones familiares al analizar retractaciones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0036_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No aporta criterios sobre pruebas o corroboraciones para acreditar el relato de una niña víctima de abuso sin testigos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Permite evitar la comparecencia para no revictimizar, sin regular el acompañamiento especializado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_201-a_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé intervención del programa de asistencia a víctimas, sin concretar acompañamiento especializado al declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar diligencias revictimizantes para niñas, sin regular el apoyo especializado durante el testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Regula la declaración excepcional en juicio y evitar contacto con el acusado, sin mencionar acompañamiento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Prevé entrevista única en ambiente seguro, pero no precisa el acompañamiento especializado en la declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo evitar revictimización mediante cámara Gesell, sin regular el acompañamiento en juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección reforzada de niñas durante el proceso, sin precisar acompañamiento al declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Dispone que las declaraciones infantiles se realicen con psicólogos especializados en cámara Gesell o sala de entrevistas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Condena la revictimización, sin especificar acompañamiento especializado durante la declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a declarar ante personal especializado en un ambiente que proteja dignidad e intimidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00141_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula el acompañamiento especializado de la niña durante su declaración ni las garantías específicas de esa intervención."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

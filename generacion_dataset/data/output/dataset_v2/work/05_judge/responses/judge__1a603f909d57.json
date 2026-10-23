@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "si",
+      "rationale": "Reconoce como agraviados por muerte a quienes correspondan según el orden sucesorio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "si",
+      "rationale": "Define agraviados directos e indirectos y otros sujetos legitimados."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_94_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "parcial",
+      "rationale": "Remite a la representación que designe la ley sin identificar quién puede representar al hijo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "si",
+      "rationale": "Exige declaración oral y admite consultar notas con autorización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "si",
+      "rationale": "Prohíbe preguntas impertinentes, capciosas y sugestivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_380_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "si",
+      "rationale": "Permite excluir al acusado cuando su presencia afecte la declaración o la salud del testigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_380_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "si",
+      "rationale": "Permite interrogar a menores sin el acusado ante riesgo de perjuicio relevante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

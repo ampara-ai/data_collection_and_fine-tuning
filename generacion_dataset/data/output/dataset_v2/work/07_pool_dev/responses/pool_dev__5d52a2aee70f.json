@@ -1,0 +1,743 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_141_01",
+      "relevance": "si",
+      "rationale": "Dispone recomponer el expediente perdido, renovar actuaciones sin copia y agregar el original si aparece."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_137_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la recomposición y conservación de actuaciones fiscales, sin detallar cómo recuperar el expediente perdido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reglamentar la recomposición del expediente judicial, pero no desarrolla el trámite ante su pérdida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_140_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No aborda la pérdida ni la recuperación del expediente de la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Regula la recepción policial de declaraciones con defensa y registro, sin resolver su valor tras una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "si",
+      "rationale": "Permite valorar una admisión policial posteriormente negada como indicador periférico junto con otras pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_213_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "si",
+      "rationale": "Explica los requisitos para validar una confesión inicial ante la policía mediante renovación ante fiscal con abogado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina el valor probatorio de una admisión del imputado ante la policía posteriormente negada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica garantías formales de la confesión ante fiscal y abogado, pero no resuelve la coacción ni la intoxicación al confesar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_40_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece los efectos de la coacción o la ebriedad sobre la validez de una confesión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

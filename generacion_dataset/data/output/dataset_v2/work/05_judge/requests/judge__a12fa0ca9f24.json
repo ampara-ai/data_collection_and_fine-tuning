@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__a12fa0ca9f24",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_200_01::q01\",\n  \"question\": \"Mi ex me chantajea mostrando imágenes mías y de mis seres queridos para que le dé plata cada mes. ¿Qué falta grave comete?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_54_01\",\n    \"title\": \"Artículo 54. Requisitos de la recusación\",\n    \"text\": \"1. Si el Juez no se inhibe, puede ser recusado por las partes. La recusación se formulará por escrito, bajo sanción de inadmisibilidad, siempre que la recusación se sustente en alguna de las causales señaladas en el artículo 53°, esté explicada con toda claridad la causal que invoca y se adjunten, si los tuviera, los elementos de convicción pertinentes. También será inadmisible y se rechazará de plano por el propio Juez de la causa, la recusación que se interponga fuera del plazo legal.\\n2. La recusación será interpuesta hasta antes de la emisión del acto que pone fin a cada etapa del proceso. No obstante ello, si con posterioridad al inicio de la audiencia el Juez advierte —por sí o por intermedio de las partes— un hecho constitutivo de causal de inhibición deberá declararse de oficio. El Juez que no cumpla con inhibirse en este supuesto incurre en falta muy grave prevista en la Ley 29277, Ley de la Carrera Judicial.\\n3. Cuando se trate del procedimiento recursal, la recusación será interpuesta hasta un día hábil antes de la audiencia de vista de la causa. El órgano revisor tiene el deber de conceder el plazo de tres días a las partes para que ejerzan el derecho de recusar al Juez o a los jueces de revisión. Los integrantes del órgano revisor que no cumplan con este deber incurren en falta muy grave prevista en la Ley 29277, Ley de la Carrera Judicial.\\n4. Todas las causales de recusación deben ser alegadas al mismo tiempo.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo04_jp_00138_e0061_01::q01\",\n  \"question\": \"Un sujeto desvistió a mi niña de 12 años y quiso abusar de ella, pero lo interrumpieron. ¿Lo juzgan por algo grave o por algo menor?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_10_01\",\n    \"title\": \"Artículo 10. Indicios de delitos en proceso extra – penal\",\n    \"text\": \"1. Cuando en la sustanciación de un proceso extra – penal aparezcan indicios de la comisión de un delito de persecución pública el Juez de oficio o a pedido de parte, comunicará al Ministerio Público para los fines consiguientes.\\n2. Si el Fiscal luego de las primeras diligencias decide continuar con la Investigación Preparatoria lo comunicará al Juez extra penal, quien suspenderá el proceso, siempre que considere que la sentencia penal puede influir en la resolución que le corresponde dictar.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo02_cp_art_200_01::q01",
+     "chunk_tipo03_cpp_art_54_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "train::chunk_tipo04_jp_00138_e0061_01::q01",
+     "chunk_tipo03_cpp_art_10_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__a12fa0ca9f24.json"
+}

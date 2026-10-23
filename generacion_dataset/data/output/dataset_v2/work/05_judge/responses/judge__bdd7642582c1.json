@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas para impedir acercamiento y comunicación, pero no regula declarar por videoconferencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "si",
+      "rationale": "Contempla videoconferencia preferente como protección en procesos de violencia de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No permite resolver si la víctima puede declarar a distancia para evitar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00044_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "si",
+      "rationale": "Permite videoconferencias ante dificultades para la presencia física en audiencias penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "si",
+      "rationale": "La retractación ante psicólogo no constituye una retractación procesal válida para absolver."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0039_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "si",
+      "rationale": "Expone la casación que anuló la absolución basada indebidamente en manifestaciones ante un psicólogo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

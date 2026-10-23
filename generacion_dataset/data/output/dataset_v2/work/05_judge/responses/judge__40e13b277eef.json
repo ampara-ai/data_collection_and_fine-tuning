@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-i_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que el consentimiento del adolescente carece de efectos jurídicos en la explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-i_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "si",
+      "rationale": "Prevé una pena agravada cuando quien favorece la explotación es ascendiente por afinidad o tiene autoridad sobre la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-i_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "si",
+      "rationale": "Fija de treinta a treinta y cinco años cuando la víctima de explotación sexual tiene menos de catorce años y contempla supuestos de cadena perpetua."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

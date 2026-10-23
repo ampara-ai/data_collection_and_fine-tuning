@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "si",
+      "rationale": "Limita a cuatro meses la medida para testigos importantes y distingue plazos de imputados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "parcial",
+      "rationale": "Exige limitar las restricciones al tiempo indispensable, pero no fija el máximo del testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica el plazo máximo de una restricción al testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "si",
+      "rationale": "La medida se levanta tras realizar la declaración o actuación que la motivó."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_296_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "si",
+      "rationale": "Expresamente permite la prolongación solo respecto de imputados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

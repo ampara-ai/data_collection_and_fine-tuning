@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "si",
+      "rationale": "Autoriza al actor civil a recurrir el objeto civil de la resolución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "si",
+      "rationale": "Permite al imputado y al fiscal impugnar tanto el objeto penal como el civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

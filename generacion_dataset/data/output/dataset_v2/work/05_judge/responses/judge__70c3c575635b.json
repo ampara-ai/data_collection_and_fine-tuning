@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "si",
+      "rationale": "Señala los límites y equivalencias para convertir penas de prisión en multa o servicios comunitarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "si",
+      "rationale": "Establece las condiciones para convertir la prisión en expulsión y enumera los delitos excluidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_367_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ausencia del acusado al abrir y desarrollar el juicio, pero no resuelve específicamente su ausencia en la sesión de sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_367_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "si",
+      "rationale": "Dispone que el preso preventivo comparezca sin ligaduras, acompañado por policías, salvo circunstancias especialmente graves."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

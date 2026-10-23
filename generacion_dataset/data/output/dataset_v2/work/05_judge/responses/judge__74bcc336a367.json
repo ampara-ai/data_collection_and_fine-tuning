@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0084_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Explica que la falta de daño psicológico o lesiones no desacredita por sí sola el relato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0084_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Analiza una declaración coherente en Cámara Gesell con corroboraciones pese al tiempo transcurrido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0084_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "si",
+      "rationale": "Señala que la falta de unanimidad para cadena perpetua determina aplicar la pena temporal máxima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

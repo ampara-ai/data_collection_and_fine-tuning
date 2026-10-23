@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 226. Autorización» no aporta la información necesaria para resolver esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

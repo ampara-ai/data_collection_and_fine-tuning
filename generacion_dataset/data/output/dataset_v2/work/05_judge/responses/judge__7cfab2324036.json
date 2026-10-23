@@ -1,0 +1,539 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00108_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Enumera defectos de defensa y garantías constitucionales que permiten declarar nulidad incluso de oficio."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "si",
+      "rationale": "Ordena anular condenas y reiniciar el juicio por exclusión injustificada del defensor elegido."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata declaración policial sin defensor, no inasistencia del abogado a una audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Establece principios de protección frente a violencia, no sustitución de defensores."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "parcial",
+      "rationale": "Prevé defensor de oficio para audiencia de faltas, sin resolver la ausencia del abogado ya elegido."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de medios de defensa, sin precisar reemplazo por inasistencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata citación urgente a cámara Gesell, no ausencia del defensor."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Analiza sanción por conducta temeraria del abogado, sin regular su reemplazo por inasistencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce asistencia letrada y postergación al incorporarse abogado, pero no la ausencia a audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica personal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Distingue audiencias inaplazables y otras diligencias y establece reemplazo o reprogramación ante inasistencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata investigación con enfoque de género."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de revisión de sentencia, sin tratar sustitución por inasistencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deberes estatales de protección e investigación sin precisar información y participación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "Regula prohibición de doble procesamiento."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Tutela el tiempo de preparación del defensor del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce igualdad procesal y justicia en plazo razonable, sin desarrollar información ni trato a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata exclusión del abogado del procesado."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige sencillez, espacios amigables y atención oportuna a víctimas, sin desarrollar su derecho a información del caso."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "Regula presunción de inocencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata omisión de declaración de la acusada y nulidad."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Garantiza información, participación procesal, protección y trato adecuado a la persona agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Admite nulidad por violación de derechos fundamentales, pero analiza absolución y conformidad fiscal, no exclusión del abogado."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata retractación ante psicólogo."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención judicial ilegal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Permite anular y reenviar para renovar actuaciones, sin establecer que excluir al defensor sea causal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica personal."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "si",
+      "rationale": "Declara nulidad absoluta por exclusión injustificada del abogado elegido y dispone reiniciar el juicio."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "Regula inhibición del juez."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula recusación del juez."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata retractación notarial."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Regula principios de protección de víctimas, no nulidad por exclusión del abogado."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "Regula sustitución del defensor ausente en prisión preventiva, no nulidad por exclusión en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata estrategia de guardar silencio y suficiencia probatoria."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q04",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "Define funcionarios públicos."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho irrestricto a defensa por abogado elegido durante todo el procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Permite reemplazo por inasistencia según el tipo de diligencia y preserva la defensa del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_143_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "si",
+      "rationale": "Tipifica alterar o suprimir el estado civil ajeno causando perjuicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica el seguimiento y contacto no consentidos con fines sexuales, incluso por medios tecnológicos y en el trabajo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Agrava el acoso sexual cuando existió relación de pareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula clausura temporal de locales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Sanciona beneficio de explotación sexual de menores, no acecho sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata prueba de tocamientos contra una niña, no pena por acecho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "Regula careo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Establece pena de cuatro a ocho años por acoso sexual a víctimas de catorce a menos de dieciocho años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Sanciona violación sexual, una conducta distinta al acecho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Distingue acoso de tocamientos en un caso extranjero, pero no fija la pena peruana por acecho de adolescente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Trata violación sexual y libertad sexual de adolescentes, no acecho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena de violación por circunstancias familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_176-b_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "no",
+      "rationale": "Fija duración de prisión preventiva, no pena por acoso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "Analiza motivación y credibilidad, sin plazos para recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "si",
+      "rationale": "Fija cinco días para apelar sentencias, con la excepción del proceso inmediato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Regula tramitación de casación y otros plazos, sin indicar plazo para presentar apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Define procedencia de casación, sin fijar días para impugnar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Permite reservar la decisión de apelar y regula el acto de lectura, sin dar el plazo general solicitado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "Regula servicios comunitarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de contenido sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "Regula sanciones de faltas de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Trata valoración del testimonio tardío, sin plazos de recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de querella, no plazo para recurrir sentencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "no",
+      "rationale": "Trata valoración de restos seminales y ADN."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "Analiza límites de valoración en apelación, sin plazos para interponerla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Vincula el plazo a notificación válida en domicilio real para condenas que afectan la libertad, sin establecer el cómputo general de toda resolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "parcial",
+      "rationale": "Fija reexamen de intervención de comunicaciones desde su notificación, un régimen especial que no resuelve el cómputo general."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Regula cheques sin fondos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Fija el inicio del plazo para acusados ausentes a la lectura de sentencia, sin regla general para toda resolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "si",
+      "rationale": "Dispone que los plazos de recurso se cuentan desde el día siguiente a la notificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Exige notificación válida de condena para impugnar, sin precisar el cómputo general de plazos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata plazo para preparar defensa pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula duración de prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula plazos para emitir medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Valida citación urgente a cámara Gesell, sin plazo para recurrir resoluciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "Regula duración de medidas de suspensión de derechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_414_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "si",
+      "rationale": "Establece tres días para apelar autos interlocutorios y dos para reposición, desde el día siguiente a la notificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00108_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "si",
+      "rationale": "Explica que no se deben invalidar relatos infantiles por diferencias secundarias y que la nulidad exige oportunidad, taxatividad y trascendencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00108_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "si",
+      "rationale": "Establece los requisitos de oportunidad, taxatividad y trascendencia para declarar nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00393_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Concluye que el reconocimiento fotográfico policial sin fiscal carece de valor para sustentar condena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

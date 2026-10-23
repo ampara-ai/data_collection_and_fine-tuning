@@ -1,0 +1,215 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_66_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citaron como testigo en el caso de mi hermana y no fui. ¿Pueden mandar a la policía a llevarme a la fuerza?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si alguien no acude a una citación notificada con advertencia, el Ministerio Público puede ordenar que la Policía lo lleve por la fuerza."
+    },
+    {
+     "query": "Mi agresor no se presenta a las citaciones de la fiscalía y el caso no avanza. ¿Qué se puede hacer para obligarlo a venir?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El fiscal puede disponer la conducción compulsiva del que no asiste a una citación debidamente notificada con apercibimiento, ejecutada por la Policía."
+    },
+    {
+     "query": "Si la policía me lleva a la fuerza a declarar, ¿cuánto tiempo pueden tenerme retenida?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Tras realizarse la diligencia, o a más tardar en 24 horas desde que se ejecutó la orden, el fiscal debe levantar la medida."
+    },
+    {
+     "query": "¿Quién decide que me traigan con la policía cuando falto a una citación?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Es el Ministerio Público (fiscal) quien dispone la conducción compulsiva, y la Policía Nacional la ejecuta."
+    },
+    {
+     "query": "¿Hay un límite para que me lleven a la fuerza a una diligencia o pueden dejarme así todo el tiempo que quieran?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La medida debe terminar al cumplirse la diligencia o antes de 24 horas, bajo responsabilidad del fiscal."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_151_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me amenaza con golpearme si salgo a trabajar o visito a mi familia. ¿Eso es un delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Obligar a alguien con amenaza o violencia a hacer lo que la ley no manda o impedirle lo que no prohíbe es delito de coacción."
+    },
+    {
+     "query": "¿Cuántos años de cárcel puede recibir alguien que me obliga a hacer cosas con gritos y amenazas?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La coacción se sanciona con pena privativa de libertad no mayor de dos años."
+    },
+    {
+     "query": "Mi esposo no me deja ir a estudiar y me dice que me va a pegar si insisto. ¿Puedo denunciarlo por eso?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Impedir mediante amenaza o violencia algo que la ley no prohíbe, como estudiar, constituye coacción."
+    },
+    {
+     "query": "Mi expareja me obligó con golpes a firmar un papel que no quería. ¿Cómo se llama ese delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Forzar a alguien con violencia o amenaza a hacer algo contra su voluntad configura el delito de coacción."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_335_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "La fiscalía cerró mi denuncia y dijo que no había nada que investigar. ¿Puedo volver a denunciar lo mismo con otro fiscal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Tras el archivo, otro fiscal no puede promover una nueva investigación por los mismos hechos, salvo excepciones como nuevos elementos de convicción."
+    },
+    {
+     "query": "Archivaron mi caso, pero ahora conseguí mensajes y videos que antes no tenía. ¿Se puede reabrir?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si se aportan nuevos elementos de convicción, el fiscal que previno debe reexaminar lo actuado y puede reabrirse."
+    },
+    {
+     "query": "Siento que el fiscal no investigó bien mi denuncia y la archivó. ¿Qué puedo hacer para que alguien más la revise?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si se demuestra que la denuncia anterior no fue debidamente investigada, el Fiscal Superior designa a otro Fiscal Provincial."
+    },
+    {
+     "query": "¿Mi caso cerrado por la fiscalía se puede abrir otra vez algún día?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Por regla no, pero se exceptúa si hay nuevos elementos de convicción o si no se investigó debidamente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hija menor la evaluó una psicóloga por un abuso, pero al acusado no le avisaron el día ni la hora. ¿Eso puede hacer que se anule el examen?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La falta de notificación oportuna de fecha, hora y lugar de la evaluación psicológica vulnera el derecho de defensa y procede excluir esa prueba."
+    },
+    {
+     "query": "¿Por qué la Corte dejó fuera el informe psicológico de una niña agraviada? Me da miedo que pase lo mismo con el de mi hija.",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se excluyó el protocolo de pericia psicológica porque no se emplazó debidamente a la defensa de la fecha, hora y lugar, afectando su derecho de defensa."
+    },
+    {
+     "query": "¿La defensa del acusado tiene derecho a saber cuándo y dónde le harán el examen psicológico a la víctima?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las partes deben ser notificadas oportunamente; la fecha, hora y lugar no se presumen, para que la defensa pueda ofrecer su perito de parte."
+    },
+    {
+     "query": "Fiscalía quiso usar un examen psicológico de una menor abusada y el tribunal no lo aceptó. ¿Se pudo apelar y qué resolvieron al final?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema declaró infundado el recurso del Ministerio Público y confirmó la exclusión del protocolo de pericia psicológica."
+    },
+    {
+     "query": "Si la evaluación psicológica de mi hijo se hace otro día distinto al programado, ¿se puede hacer igual?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Las guías permiten excepcionalmente hacer la evaluación en otra fecha, pero debe emplazarse debidamente a la defensa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 10 años sufrió abuso sexual. ¿Tiene que contar lo ocurrido otra vez delante del juez en el juicio?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La declaración de niñas, niños y adolescentes agraviados de delitos sexuales se toma como prueba anticipada en cámara Gesell, filmada para evitar revictimización."
+    },
+    {
+     "query": "¿Cómo le toman la declaración a un niño víctima para que no se asuste ni lo hagan repetir todo muchas veces?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La declaración se realiza con psicólogos especializados en cámaras Gesell o salas de entrevista, y se filma y graba para evitar la revictimización."
+    },
+    {
+     "query": "Un testigo clave de mi caso está muy enfermo y podría no llegar al juicio. ¿Se puede tomar su declaración antes?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se puede pedir prueba anticipada del testigo o perito ante enfermedad u otro grave impedimento."
+    },
+    {
+     "query": "Mi agresor le ofreció plata a un testigo para que no hable o mienta. ¿Puedo pedir que declare antes del juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si el testigo o perito fue expuesto a violencia, amenaza u ofertas de dinero para no declarar o declarar falsamente, se puede pedir su declaración anticipada."
+    },
+    {
+     "query": "¿Quién puede pedir que se adelante una prueba urgente durante la investigación y ante quién se pide?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El Fiscal o los demás sujetos procesales pueden solicitarlo al Juez de la Investigación Preparatoria, también en la etapa intermedia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_161_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor dice que va a confesar para que le rebajen la condena. ¿Eso le sirve aunque lo hayan agarrado en el momento?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La rebaja por confesión sincera es inaplicable cuando hay flagrancia, o cuando la confesión es irrelevante por las pruebas ya existentes."
+    },
+    {
+     "query": "Si el acusado admite su culpa, ¿cuánto le pueden bajar la pena como máximo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez puede disminuir la pena prudencialmente hasta en una tercera parte por debajo del mínimo legal."
+    },
+    {
+     "query": "Mi pareja intentó matarme por ser mujer. Si reconoce lo que hizo, ¿igual le rebajan la pena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El beneficio es inaplicable en el delito de feminicidio y en otros delitos contra la libertad, incluidos los sexuales."
+    },
+    {
+     "query": "El hombre que abusó de mi sobrina ya había sido condenado antes. ¿Puede recibir rebaja si confiesa?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "No se aplica el beneficio a reincidentes o habituales, ni en delitos sexuales."
+    },
+    {
+     "query": "¿En qué casos no le sirve a un agresor decir la verdad para recibir menos años de cárcel?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No aplica en flagrancia, confesión irrelevante, reincidencia o habitualidad, feminicidio y delitos contra la libertad personal y sexual."
+    }
+   ]
+  }
+ ]
+}

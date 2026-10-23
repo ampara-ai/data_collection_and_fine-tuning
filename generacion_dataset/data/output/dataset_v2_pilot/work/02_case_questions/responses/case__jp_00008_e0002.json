@@ -1,0 +1,70 @@
+{
+ "questions": [
+  {
+   "query": "Me avisaron el mismo día que cerraban el caso y ese día pedí que me paguen por el daño, pero dijeron que llegué tarde. ¿El plazo cuenta desde que me avisan?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00008_e0002_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que la restricción se activa desde la notificación y no desde la emisión de la disposición; es el único candidato que responde el plazo.",
+   "expected_answer_focus": "Que el plazo para pedir ser parte para cobrar por el daño corre desde que se notifica a la víctima y no desde la fecha de emisión; pedirlo el día de la notificación es oportuno.",
+   "victim_voice_rationale": "Relato de una víctima a quien le rechazaron su pedido por una diferencia de fechas."
+  },
+  {
+   "query": "Si me meto al proceso para cobrar por el daño que me hizo mi pareja, ¿puedo presentar mis propias pruebas y estar en el juicio?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 enumera las facultades de quien se constituye en actor civil.",
+   "expected_answer_focus": "Qué puede hacer quien se constituye como parte civil: ofrecer pruebas, participar en actos, intervenir en juicio, impugnar.",
+   "victim_voice_rationale": "Duda práctica de una víctima sobre su papel en el proceso."
+  },
+  {
+   "query": "¿Quién pide que me paguen por el daño de la agresión, la fiscalía o yo misma? ¿Y si lo pido yo, la fiscalía deja de verlo?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_11_01"
+   ],
+   "positive_selection_reason": "El art. 11 indica quién ejerce la acción civil y qué pasa con el Ministerio Público si el perjudicado se constituye.",
+   "expected_answer_focus": "Que la acción civil corresponde al Ministerio Público y especialmente al perjudicado, y que si este se constituye cesa la legitimación del Ministerio Público.",
+   "victim_voice_rationale": "Pregunta directa de quien no sabe quién reclama el pago."
+  },
+  {
+   "query": "Pasó muchísimo tiempo y el fiscal no termina de averiguar lo que me hizo mi conviviente. ¿Puedo pedirle a alguien que lo obligue a cerrar?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_343_01"
+   ],
+   "positive_selection_reason": "El art. 343 regula la conclusión de la investigación y el control del plazo por el juez a pedido de las partes.",
+   "expected_answer_focus": "Que vencidos los plazos las partes pueden pedir al juez la conclusión, habrá una audiencia y el fiscal debe luego pronunciarse en diez días.",
+   "victim_voice_rationale": "Desconfianza y desesperación de una víctima por la demora."
+  },
+  {
+   "query": "Mi pareja me agarró del cuello y otra mujer me lanzó cuchillos y una lata a la cara. ¿Eso agrava el castigo aunque no me quedaron heridas graves?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El art. 122-B tipifica las agresiones leves y sus agravantes (objetos, participación de varias personas), sin necesidad de fijar cifras.",
+   "expected_answer_focus": "Que las agresiones contra la mujer con lesiones leves son delito y que usar objetos peligrosos o participar varias personas agrava la pena.",
+   "victim_voice_rationale": "Relato breve con duda sobre si agresiones sin lesiones graves son delito."
+  },
+  {
+   "query": "Si mi hijo menor resulta afectado y yo no tengo abogado, ¿quién puede pedir en su nombre que nos paguen por el daño?",
+   "topic": "reparacion_civil",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01"
+   ],
+   "positive_selection_reason": "El art. 98 señala que el defensor público de víctimas o el abogado del CEM representan a menores y pueden pedir ser parte civil.",
+   "expected_answer_focus": "Que para víctimas menores el defensor público de víctimas o el abogado del CEM asumen la representación y pueden presentar la solicitud.",
+   "victim_voice_rationale": "Preocupación de una madre sin recursos para un abogado."
+  }
+ ]
+}

@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Considera el embarazo una circunstancia agravante de las lesiones graves y prevé mayor pena por concurrencia de agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Fija penas de lesiones graves agravadas por vínculo conyugal y uso de objeto que pone en riesgo la vida."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Describe condiciones de suspensión de la pena, pero no fija el rango penal para las lesiones graves relatadas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la pena por lesiones graves familiares no debe ser inferior al mínimo sin atenuantes excepcionales, pero no precisa su duración."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_36_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por lesiones graves causadas por el esposo con un objeto contundente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente la ebriedad superior a 0,25 gramos por litro como agravante de las lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina el efecto agravante o atenuante de la ebriedad en las lesiones graves a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "si",
+      "rationale": "Establece que las mujeres detenidas deben ser protegidas de violencia física, mental, sexual y discriminación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece la protección estatal específica de las mujeres privadas de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la violencia contra las mujeres perpetrada o tolerada por agentes estatales, pero no desarrolla el deber de protección penitenciaria."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece el deber estatal de proteger de golpes y amenazas a las mujeres recluidas en un penal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "si",
+      "rationale": "Impone la protección de las mujeres detenidas frente a daños físicos, mentales, amenazas y coacción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "si",
+      "rationale": "Autoriza excepcionalmente nuevos medios probatorios de oficio tras concluir la recepción de pruebas si resultan indispensables o manifiestamente útiles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce excepcionalmente pruebas de oficio en los casos legales, pero no desarrolla la facultad judicial al terminar la recepción de pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "No regula que el juez disponga nuevas pruebas de oficio una vez concluida su recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_385_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "si",
+      "rationale": "Permite pedir al juez una inspección del lugar si no se realizó antes o resultó manifiestamente insuficiente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

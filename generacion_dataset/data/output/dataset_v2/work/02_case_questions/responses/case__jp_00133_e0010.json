@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "query": "Me da pánico que el hombre que me atacó me vea y escuche mi voz cuando declare en el juicio. ¿Pueden taparme la cara o cambiar mi voz?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00133_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia valida medidas como la distorsión de imagen y voz de la víctima en el juicio.",
+   "expected_answer_focus": "Que se admiten medidas para ocultar identidad, imagen y voz de la víctima al declarar.",
+   "victim_voice_rationale": "Víctima de agresión sexual que teme ser reconocida y enfrentarse a su agresor."
+  },
+  {
+   "query": "Cuando me toque declarar, ¿solo debo contar lo que viví o también puedo decir qué creo que pasó y quién tiene la culpa?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_166_01"
+   ],
+   "positive_selection_reason": "El art. 166 CPP define sobre qué versa la declaración del testigo y excluye opiniones personales.",
+   "expected_answer_focus": "Que el testigo declara sobre lo percibido, sin dar opiniones personales sobre responsabilidades.",
+   "victim_voice_rationale": "Persona que ignora qué se espera de su declaración."
+  },
+  {
+   "query": "Mi prima y mi amiga no vieron lo del reservado, solo lo que yo les conté después. ¿Aun así su palabra puede servir en el caso?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_166_01"
+   ],
+   "positive_selection_reason": "El art. 166 CPP regula al testigo de referencia y la exigencia de indicar de quién conoció los hechos.",
+   "expected_answer_focus": "Que quien sabe los hechos por otros debe indicar cómo y por quién los supo, y se procura citar a esa fuente.",
+   "victim_voice_rationale": "Víctima que duda del valor de quienes no presenciaron el hecho."
+  },
+  {
+   "query": "El abogado del acusado dice que en mi versión hay pequeñeces que no encajan. ¿Por eso ya no me van a creer nada?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00133_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que la declaración se valora en conjunto y que los detalles gestuales no la enturbian.",
+   "expected_answer_focus": "Que la declaración es una unidad y los detalles menores no restan credibilidad al conjunto.",
+   "victim_voice_rationale": "Víctima que teme que desconfíen de ella por detalles menores."
+  },
+  {
+   "query": "Dicen que al taparme el rostro en la audiencia el acusado no podrá defenderse bien. ¿Pueden anular mi declaración por eso?",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00133_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia analiza si la pixelación causa indefensión y concluye que no se acreditó.",
+   "expected_answer_focus": "Que la protección visual de la víctima no genera por sí misma indefensión si la defensa no acredita perjuicio.",
+   "victim_voice_rationale": "Víctima preocupada por que la protección que recibe tumbe su testimonio."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,190 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_84_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi caso está parado esperando que se resuelva otro trámite aparte. ¿Se me puede acabar el tiempo para que castiguen a mi agresor mientras espero?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el proceso penal depende de otro procedimiento, el plazo para perseguir el delito se detiene (queda en suspenso) mientras tanto."
+    },
+    {
+     "query": "¿Cuánto tiempo como máximo puede quedar frenado el plazo para denunciar o juzgar a mi agresor por esperar otro trámite?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La suspensión del plazo nunca puede ser mayor a un año y no excede los plazos de las etapas del proceso."
+    },
+    {
+     "query": "Tengo miedo de que mi denuncia se pierda por tanta demora de otro juicio. ¿El tiempo sigue corriendo a favor del agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Mientras dure la cuestión pendiente en otro procedimiento, el plazo queda suspendido, aunque con un límite de un año."
+    },
+    {
+     "query": "Estoy esperando que un juez de familia decida algo antes de que sigan con lo penal contra mi esposo. ¿Eso detiene el reloj del caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Cuando lo penal depende de lo que se resuelva en otro procedimiento, el plazo se suspende hasta por un máximo de un año."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_484_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citaron a una audiencia por una agresión leve de mi vecino. ¿Cómo es ese juicio y cuánto dura, será un solo día?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La audiencia se hace en una sola sesión, solo puede suspenderse hasta tres días si hace falta una prueba imprescindible."
+    },
+    {
+     "query": "Si el que me agredió no tiene dinero para un abogado, ¿el juicio igual se hace? ¿Le dan alguien que lo defienda?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el acusado no tiene abogado se le nombra uno de oficio, salvo que no haya abogados en el lugar o sean manifiestamente insuficientes."
+    },
+    {
+     "query": "En la audiencia, ¿el juez puede proponerme que me arregle con la persona que me golpeó? ¿Me pueden obligar a aceptar?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si la víctima está presente, el juez intenta una conciliación o acuerdo de reparación, y si se logra se homologa y termina el caso."
+    },
+    {
+     "query": "¿Qué pasa si el acusado dice en la audiencia que sí lo hizo? ¿Igual tengo que seguir presentando pruebas?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si admite su culpa y no hacen falta más pruebas, el juez termina el debate y dicta sentencia de inmediato, incluso de forma verbal."
+    },
+    {
+     "query": "¿En cuántos días sale la decisión del juez después de que todos hablan en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez dicta sentencia en la misma audiencia o dentro del tercer día de terminada."
+    },
+    {
+     "query": "Si no admite los cargos, ¿me van a hacer preguntas a mí en la audiencia y puedo llevar mis pruebas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Si no admite los cargos, se le interroga y luego a la persona ofendida si está presente, y se reciben las pruebas que presenten las partes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_132_01",
+   "skip": true,
+   "skip_reason": "Trámite interno de comunicación y cooperación entre autoridades judiciales, fiscales y policiales; ninguna víctima lo preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_231_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si la policía intervino el teléfono de la persona que me amenaza, ¿quién guarda esas grabaciones y quién puede escucharlas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las grabaciones se entregan al Fiscal, quien dispone su conservación con seguridad y evita que las conozcan personas ajenas al proceso."
+    },
+    {
+     "query": "Me enteré de que mi llamada fue grabada en una investigación. ¿Puedo reclamar y en cuántos días?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El afectado, una vez notificado, puede pedir que un juez revise la medida dentro de tres días."
+    },
+    {
+     "query": "¿Pueden intervenir un teléfono sin esperar al juez si mi vida corre peligro inminente por lo que dicen en una llamada?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En casos excepcionales de peligro inminente a la vida o integridad, el fiscal puede ordenar intervenir un nuevo número por hasta 72 horas y pedir luego convalidación al juez."
+    },
+    {
+     "query": "¿Por qué a veces no avisan a la persona investigada que le grabaron las llamadas? ¿Cuánto tiempo pueden mantenerlo en secreto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se notifica si perjudica la investigación o pone en peligro vidas; el secreto requiere resolución judicial motivada con plazo fijado por el juez."
+    },
+    {
+     "query": "¿Por cuánto tiempo se conservan los audios de las llamadas que sirven de prueba contra mi agresor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "La grabación completa debe conservarse hasta que termine el proceso penal, con acta que resume los segmentos relevantes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Soy trabajadora sexual y me violaron. ¿La ley puede darle menos castigo al agresor por mi trabajo?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Reducir la pena por violencia sexual porque la víctima es trabajadora sexual es un trato desigual injustificado; todas las mujeres tienen igual protección."
+    },
+    {
+     "query": "Me da vergüenza denunciar una violación por cómo me gano la vida. ¿Mi caso vale menos para la justicia?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La Corte afirmó que ninguna mujer es menos merecedora de protección; hacerlo minimiza el delito y revictimiza."
+    },
+    {
+     "query": "Si un país tiene una norma que discrimina a ciertas mujeres víctimas, ¿qué puede ordenarle un tribunal internacional?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado fue declarado responsable y se le ordenaron reparaciones y adecuar su normativa interna."
+    },
+    {
+     "query": "Mi hermana estuvo secuestrada y abusada por meses y las autoridades no hicieron nada. ¿El Estado tiene alguna responsabilidad?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado fue responsable por no prevenir la violencia ni investigar adecuadamente el secuestro y la violación."
+    },
+    {
+     "query": "¿Es cierto que a una mujer se la puede tratar distinto en un juicio por violación según su ocupación?",
+     "topic": "violencia_sexual",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las normas penales discriminatorias violan la igualdad ante la ley y afectan el acceso a la justicia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié yo misma por mi cuenta a un vecino que me golpeó levemente y falté una vez a la audiencia. ¿Pueden archivar mi caso por eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Faltar una vez sin justificación puede generar desistimiento tácito si ninguna de las partes asistió y se notificó con advertencia expresa."
+    },
+    {
+     "query": "Si mi pareja me agredió y no pude ir a una audiencia, ¿se considera que abandoné mi denuncia?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En casos de violencia familiar no se aplica el desistimiento tácito; se rigen por su ley especial."
+    },
+    {
+     "query": "¿En qué condiciones me pueden dar por desistida si no voy a la audiencia por una falta o agresión menor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe ser inasistencia injustificada, que ninguna parte haya asistido, con notificación debida y apercibimiento expreso."
+    },
+    {
+     "query": "No me llegó bien la citación a la audiencia y no fui. ¿Me pueden tomar como que ya no quiero seguir?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El desistimiento tácito exige que la parte esté debidamente notificada y con advertencia expresa."
+    }
+   ]
+  }
+ ]
+}

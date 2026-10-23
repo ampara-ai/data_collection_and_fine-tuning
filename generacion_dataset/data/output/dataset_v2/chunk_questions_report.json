@@ -1,0 +1,13 @@
+{
+ "chunks_train": 630,
+ "chunks_dev": 76,
+ "chunks_test": 164,
+ "chunks_con_preguntas_dev": 59,
+ "chunks_con_preguntas_test": 118,
+ "rechazada_solapamiento_alto": 286,
+ "chunks_con_preguntas_train": 485,
+ "preguntas_train": 1376,
+ "preguntas_dev": 143,
+ "preguntas_test": 212,
+ "chunks_respondidos_en_almacen": 870
+}

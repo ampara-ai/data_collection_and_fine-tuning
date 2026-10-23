@@ -1,0 +1,71 @@
+{
+ "questions": [
+  {
+   "query": "El hombre que abusó de mi hija no quiere decir nada cuando lo juzguen. ¿Por eso se frena todo y el caso queda parado?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_376_01"
+   ],
+   "positive_selection_reason": "El art. 376.1 dispone que, si el acusado se rehúsa a declarar, el juicio continúa y se leen sus declaraciones anteriores ante el Fiscal; responde directamente la duda.",
+   "expected_answer_focus": "Que el juez advierte al acusado que el juicio sigue aunque no declare, y que se leen sus declaraciones previas ante el Fiscal.",
+   "victim_voice_rationale": "Una madre teme que el silencio del acusado paralice el proceso y deje a su hija sin justicia."
+  },
+  {
+   "query": "Su abogado le aconsejó quedarse callado y así lo hizo. ¿Eso debilita mi denuncia o igual pueden condenarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00458_e0004_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que el derecho al silencio es legítimo, que no equivale a una defensa equivocada y que no anula la prueba de cargo, por lo que se confirmó la condena.",
+   "expected_answer_focus": "Que el silencio del acusado, aun recomendado por su abogado, no invalida las pruebas en su contra y no impide la condena.",
+   "victim_voice_rationale": "La víctima teme que una estrategia de la defensa deje impune al agresor."
+  },
+  {
+   "query": "De lo que me hicieron de niña solo tengo mi palabra y un examen médico. ¿Con eso alcanza para que lo condenen?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00458_e0004_01"
+   ],
+   "positive_selection_reason": "La sentencia confirmó la condena basada en la declaración directa y precisa de la víctima, corroborada por la pericia médico legal y la denuncia del padre.",
+   "expected_answer_focus": "Que el relato firme de la víctima, apoyado por el examen médico y la denuncia inmediata, puede bastar como prueba para condenar.",
+   "victim_voice_rationale": "Una sobreviviente duda de que su testimonio, sin testigos, sea creído."
+  },
+  {
+   "query": "El que me agredió se escondió y lo atraparon más de quince años después. ¿El que haya huido tanto tiempo pesa en su contra?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00458_e0004_01"
+   ],
+   "positive_selection_reason": "La sentencia valoró la huida del acusado como indicio de fuga que refuerza la condena, y la condena se dictó pese al paso del tiempo.",
+   "expected_answer_focus": "Que la huida del acusado se toma como indicio en su contra y que la captura tardía no impidió su condena.",
+   "victim_voice_rationale": "Una víctima que esperó años por justicia quiere saber si la fuga del agresor lo perjudica."
+  },
+  {
+   "query": "Si el que denuncié acepta hablar en el juicio, ¿pueden presionarlo o hacerle preguntas con trampa? Quiero saber si todo es parejo.",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_376_01",
+    "chunk_tipo03_cpp_art_88_01"
+   ],
+   "positive_selection_reason": "El art. 376 fija reglas del interrogatorio del acusado en juicio (preguntas claras, sin capciosas ni sugeridas; el juez controla). El art. 88 prohíbe coaccionarlo o inducirlo a declarar contra su voluntad.",
+   "expected_answer_focus": "Qué reglas se aplican cuando el acusado declara: preguntas permitidas y prohibidas, control del juez, prohibición de presionarlo.",
+   "victim_voice_rationale": "La víctima quiere entender si el trámite de la declaración del acusado es justo y regulado."
+  },
+  {
+   "query": "Cuando el denunciado no quiso responder ante el fiscal, ¿queda anotado en algún lado que se negó?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_88_01"
+   ],
+   "positive_selection_reason": "El art. 88.7 establece que, si el imputado se niega a declarar total o parcialmente en la investigación, ello se hace constar en el acta.",
+   "expected_answer_focus": "Que la negativa del imputado a declarar se registra en el acta de la diligencia, y cómo se firma o se consigna el motivo si no firma.",
+   "victim_voice_rationale": "Una persona sin formación jurídica quiere saber cómo se documenta el silencio del denunciado en la investigación."
+  }
+ ]
+}

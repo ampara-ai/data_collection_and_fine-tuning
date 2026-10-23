@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__b63863098739",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_398_01::q01\",\n  \"question\": \"Si el juez dice que mi agresor es inocente, ¿lo sueltan enseguida aunque yo piense apelar?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_398_01\",\n    \"title\": \"Artículo 398. Sentencia absolutoria\",\n    \"text\": \"1. La motivación de la sentencia absolutoria destacará especialmente la existencia o no del hecho imputado, las razones por las cuales el hecho no constituye delito, así como, de ser el caso, la declaración de que el acusado no ha intervenido en su perpetración, que los medios probatorios no son suficientes para establecer su culpabilidad, que subsiste una duda sobre la misma, o que está probada una causal que lo exime de responsabilidad penal.\\n2. La sentencia absolutoria ordenará la libertad del acusado, la cesación de las medidas de coerción, la restitución de los objetos afectados al proceso que no estén sujetos a comiso, las inscripciones necesarias, la anulación de los antecedentes policiales y judiciales que generó el caso, y fijará las costas.\\n3. La libertad del imputado y el alzamiento de las demás medidas de coerción procesal se dispondrán aun cuando la sentencia absolutoria no esté firme. De igual modo, se suspenderán inmediatamente las órdenes de captura impartidas en su contra.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_398_01::q02\",\n  \"question\": \"Después de ser declarado no culpable, ¿le borran lo que figuraba contra él en la policía?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_398_01\",\n    \"title\": \"Artículo 398. Sentencia absolutoria\",\n    \"text\": \"1. La motivación de la sentencia absolutoria destacará especialmente la existencia o no del hecho imputado, las razones por las cuales el hecho no constituye delito, así como, de ser el caso, la declaración de que el acusado no ha intervenido en su perpetración, que los medios probatorios no son suficientes para establecer su culpabilidad, que subsiste una duda sobre la misma, o que está probada una causal que lo exime de responsabilidad penal.\\n2. La sentencia absolutoria ordenará la libertad del acusado, la cesación de las medidas de coerción, la restitución de los objetos afectados al proceso que no estén sujetos a comiso, las inscripciones necesarias, la anulación de los antecedentes policiales y judiciales que generó el caso, y fijará las costas.\\n3. La libertad del imputado y el alzamiento de las demás medidas de coerción procesal se dispondrán aun cuando la sentencia absolutoria no esté firme. De igual modo, se suspenderán inmediatamente las órdenes de captura impartidas en su contra.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo03_cpp_art_398_01::q01",
+     "chunk_tipo03_cpp_art_398_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_398_01::q02",
+     "chunk_tipo03_cpp_art_398_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__b63863098739.json"
+}

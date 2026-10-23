@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0095_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "si",
+      "rationale": "Describe la condena internacional del Estado por tortura sexual de mujeres detenidas durante operativos en protestas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0095_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "si",
+      "rationale": "Indica reparaciones integrales, investigación, sanción y garantías de no repetición ante las violaciones y la investigación deficiente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

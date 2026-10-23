@@ -1,0 +1,731 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 448. Audiencia única de juicio Inmediato» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 217. Solicitud del Fiscal para incautación y registro de personas» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 135. Requerimientos del Fiscal» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 218. Solicitud del Fiscal» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 365. Delito en el juicio» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 360. Continuidad, suspensión e interrupción del juicio» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 334. Calificación» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 374. Poder del Tribunal y Facultad del Fiscal» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 17-A. Flagrancia en casos de riesgo severo» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 30. Reeducación de las personas agresoras» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 359. Concurrencia del Juez y de las partes» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 426. Nulidad del juicio» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 40. Trámite» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 387. Alegato oral del Fiscal» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 244. Trámite de la solicitud» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Indica el plazo mínimo de citación al juicio posterior, pero no el tiempo del control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 45. Inhibición del Juez» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 462. Auto de citación a juicio y audiencia» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 264. Plazo de la detención» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 525. Ámbito e Iniciación» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 363. Dirección del juicio» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 238. Solicitud del Fiscal» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 16. Proceso especial» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 344. Decisión del Ministerio Público» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 345. Control del requerimiento de sobreseimiento y Audiencia de control del sobreseimiento» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 343. Control del Plazo» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 266. Detención judicial en caso de flagrancia» no permite indicar el plazo para que el juez controle la acusación y decida el pase a juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 378. Examen de testigos y peritos» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 369. Instalación de la audiencia» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 85. Reemplazo del abogado defensor» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 279. Cambio de comparecencia por prisión preventiva» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 370. Ubicación de las partes en la audiencia» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 426. Nulidad del juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 355. Auto de citación a juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 365. Delito en el juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 484. Audiencia» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 359. Concurrencia del Juez y de las partes» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 367. Concurrencia del imputado y su defensor» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 371. Apertura del juicio y posición de las partes» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 374. Poder del Tribunal y Facultad del Fiscal» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 458. Transformación al proceso común y advertencia» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 377. Declaración en caso de pluralidad de acusados» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la participación y expresión oral del abogado, pero no explica el contenido de la audiencia preliminar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 448. Audiencia única de juicio Inmediato» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 462. Auto de citación a juicio y audiencia» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 363. Dirección del juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 87. Instrucciones preliminares» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 245. Audiencia de prueba anticipada» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 409.- Falsedad en juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 265. Detención preliminar incomunicada» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 361. Oralidad y registro» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 271. Audiencia y resolución» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 468. Normas de aplicación» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 360. Continuidad, suspensión e interrupción del juicio» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 391. Autodefensa del acusado» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC]» no permite explicar el contenido y la intervención del abogado en la audiencia previa al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151.- Coacción» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 521-C. Audiencia ante la Corte Suprema» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 521-A. Audiencia de control de la detención con fines de extradición» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 265. Detención preliminar incomunicada» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 369. Instalación de la audiencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5]» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 35.- Limitación de días libres» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 371. Apertura del juicio y posición de las partes» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 484. Audiencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 84.- Suspensión de la prescripción» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 448. Audiencia única de juicio Inmediato» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-B.- Acoso sexual» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 391. Autodefensa del acusado» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 9. Derecho a una vida libre de violencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Establece la suspensión de la audiencia por cinco días para corregir la acusación y su posterior reanudación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 271. Audiencia y resolución» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "parcial",
+      "rationale": "Prevé suspender el control de acusación para celebrar una terminación anticipada, sin regular en general sus aplazamientos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 152.- Secuestro» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 360. Continuidad, suspensión e interrupción del juicio» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 71. Derechos del imputado» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 59.- Efectos del incumplimiento» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154.- Violación de la intimidad» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 423. Emplazamiento para la audiencia de apelación» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 359. Concurrencia del Juez y de las partes» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 462. Auto de citación a juicio y audiencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 380. Examen especial del testigo o perito» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 485. Medidas de coerción» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 431. Preparación y Audiencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 30. Reeducación de las personas agresoras» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 367. Concurrencia del imputado y su defensor» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 245. Audiencia de prueba anticipada» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 413.- Evasión mediante violencia o amenaza» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 411. Libertad de los imputados» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_351_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 119-A. Audiencia» no permite regular la suspensión de la audiencia preliminar de control de acusación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

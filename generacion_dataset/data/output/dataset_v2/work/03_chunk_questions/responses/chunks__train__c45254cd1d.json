@@ -1,0 +1,165 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana apareció muerta con golpes y sospechamos que también abusaron de ella. ¿Qué deben revisar los médicos cuando examinan el cuerpo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El examen del cuerpo no debe limitarse a la causa de muerte: debe revisar la zona genital y alrededores en busca de abuso sexual y conservar líquidos y vello corporal."
+    },
+    {
+     "query": "¿Los fiscales pueden investigar por su cuenta si hubo abuso sexual antes de la muerte, aunque la familia no lo pida?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El Estado debe ordenar de oficio los exámenes y pericias para verificar si hubo móvil sexual o violencia sexual."
+    },
+    {
+     "query": "Si al principio recogen mal las pruebas o se pierde evidencia del cuerpo de mi familiar, ¿eso puede arruinar el caso después?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las fallas en las primeras etapas, como autopsias incompletas o pérdida de evidencia, pueden impedir probar después aspectos clave como la violencia sexual."
+    },
+    {
+     "query": "Desconfío de que cuiden bien las pruebas del cuerpo de mi prima asesinada. ¿Qué cuidado debe haber para que nada se altere?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se debe garantizar la cadena de custodia y la preservación de la evidencia corporal."
+    },
+    {
+     "query": "¿Quiénes deben investigar la muerte violenta de una mujer y con qué enfoque deben hacerlo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "La investigación debe hacerla personal capacitado y con enfoque que entienda la violencia contra las mujeres (perspectiva de género)."
+    },
+    {
+     "query": "Mi hija adolescente desapareció y la policía no la buscó bien los primeros días. ¿Eso es una falla del Estado?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El caso muestra que la falta de búsqueda efectiva tras la denuncia de la madre, junto con la investigación deficiente, fue considerada violación de derechos por parte del Estado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_66_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor salió libre con condiciones y volvió a cometer otro delito a propósito. ¿Pierde ese beneficio y puede ir preso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El régimen de prueba puede revocarse si la persona comete un nuevo delito doloso por el que le imponen pena de cárcel superior a tres años."
+    },
+    {
+     "query": "¿Siempre le quitan a una persona la libertad con condiciones si comete otro delito, o eso depende de cuánta pena le toque?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La revocación es facultativa en general, pero es obligatoria cuando la pena prevista para el nuevo delito excede los tres años."
+    },
+    {
+     "query": "Si a mi agresor le cancelan el beneficio que tenía, ¿qué castigo le toca cumplir por el primer delito?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La revocación implica aplicar la pena que correspondía al delito como si no se hubiera concedido el régimen de prueba."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_198_01",
+   "skip": true,
+   "skip_reason": "Delito de administración fraudulenta en personas jurídicas (empresas); no tiene relación con violencia contra mujeres o integrantes del grupo familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me violaron y me citan una y otra vez a contar lo mismo. ¿Es correcto que me hagan declarar tantas veces?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las autoridades deben evitar la revictimización y no basar la investigación en citar repetidamente a la víctima, sino en obtener otras pruebas."
+    },
+    {
+     "query": "Me da miedo revivir lo que me pasó cada vez que tengo que declarar. ¿Qué deben hacer las autoridades para no hacerme sufrir de nuevo?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Deben evitar la reexperimentación del trauma, usar protocolos adecuados y funcionarios sensibles y capacitados."
+    },
+    {
+     "query": "¿Pueden investigar mi violación buscando otras pruebas además de lo que yo cuento?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La investigación debe centrarse en obtener y asegurar otras pruebas, no solo el testimonio de la víctima."
+    },
+    {
+     "query": "Si el agresor es militar, ¿lo juzga un tribunal de militares o la justicia común?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El uso del fuero militar fue considerado indebido y se ordenó el juzgamiento en la justicia ordinaria."
+    },
+    {
+     "query": "Aparte de que castiguen al culpable, ¿qué más puede exigir una víctima de violación al Estado, como atención psicológica?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se ordenaron reparaciones como atención médica y psicológica, disculpa pública, indemnización, investigación efectiva y medidas para que no se repita."
+    },
+    {
+     "query": "Los funcionarios que me atendieron fueron fríos y ni siquiera tenían una guía para tratar estos casos. ¿Eso es una falla grave?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de voluntad, sensibilidad, capacidad, recursos y protocolos adecuados en los servidores públicos fue considerada particularmente grave."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_524_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico de cooperación internacional (paso de un extraditado por el país) que ninguna víctima preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El papá de mi hija no paga la pensión y el fiscal ya presentó acusación. Su abogado dice que el caso ya venció por el tiempo. ¿Es cierto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La acusación directa suspende el plazo de prescripción; en el caso, el plazo extraordinario aún no se había cumplido, por lo que el proceso debía continuar."
+    },
+    {
+     "query": "¿Cuánto tiempo máximo hay para procesar a alguien que no da la pensión de alimentos antes de que ya no pueda ser castigado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Para este delito, con pena máxima de 3 años, el plazo ordinario es de 3 años y el extraordinario de 4 años y medio."
+    },
+    {
+     "query": "Cuando el fiscal presenta la acusación, ¿se detiene el reloj del tiempo para que el caso no se cierre por demora?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La acusación directa suspende el plazo de prescripción, igual que la formalización de la investigación, con un límite del plazo ordinario más la mitad."
+    },
+    {
+     "query": "El juez cerró el caso de pensión impaga diciendo que pasó mucho tiempo y apelé. ¿Puede un tribunal superior revertir esa decisión?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La instancia superior revocó la decisión que declaró fundada la prescripción y la declaró infundada, ordenando continuar el proceso."
+    },
+    {
+     "query": "Ya aprobaron el monto de las pensiones atrasadas que me debe y se lo notificaron, pero sigue sin pagar. ¿Todavía se le puede procesar años después?",
+     "topic": "violencia_economica",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Aunque pasaron varios años desde la sentencia y la liquidación, el proceso penal por no pagar alimentos seguía vigente porque la suspensión por acusación evitó que venciera el plazo."
+    }
+   ]
+  }
+ ]
+}

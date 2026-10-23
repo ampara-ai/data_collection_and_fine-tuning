@@ -1,0 +1,93 @@
+{
+ "questions": [
+  {
+   "query": "Me dijeron que mi reclamo contra la decisión del fiscal llegó tarde por un detalle. Si hay duda, ¿no deberían aceptarlo en vez de rechazarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00514_e0022_01"
+   ],
+   "positive_selection_reason": "La sentencia del TC establece que, ante la duda sobre si un recurso se admite, las normas procesales se interpretan de forma favorable a quien reclama (principio pro actione). Responde directamente a la duda de la víctima.",
+   "expected_answer_focus": "Que en caso de duda sobre la admisión de un recurso, se debe interpretar a favor de quien lo presenta, como parte de su derecho de acceso a los recursos.",
+   "victim_voice_rationale": "Una víctima a quien rechazaron su reclamo por un tecnicismo pregunta si eso es correcto."
+  },
+  {
+   "query": "Era el último día para reclamar, pero la oficina del fiscal estaba cerrada por un paro y no recibían papeles. Fui al día siguiente de que abrieron y me dijeron que ya era tarde.",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00514_e0022_01",
+    "chunk_tipo03_cpp_art_405_01"
+   ],
+   "positive_selection_reason": "La jurisprudencia trata el caso de una huelga durante el plazo para recurrir y el principio pro actione. El art. 405 establece que el recurso debe presentarse por escrito dentro del plazo legal, que es la regla que se discute.",
+   "expected_answer_focus": "Que el recurso debe presentarse dentro del plazo legal, pero que si una huelga impidió presentarlo y hay duda, el TC exige interpretar a favor de quien reclama.",
+   "victim_voice_rationale": "Cuenta con sus palabras el obstáculo material que vivió la denunciante del caso."
+  },
+  {
+   "query": "Soy extranjera y casi no sé de trámites. ¿Qué debe tener el escrito con el que reclamo una decisión que me perjudica para que no me lo rechacen?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_405_01"
+   ],
+   "positive_selection_reason": "El art. 405 enumera los requisitos para admitir un recurso: quién lo presenta, por escrito y dentro del plazo, y con indicación de los puntos que se cuestionan, los fundamentos y lo que se pide.",
+   "expected_answer_focus": "Los requisitos de forma del recurso: legitimación, escrito y plazo, puntos de la decisión cuestionados, fundamentos de hecho y de derecho, y una petición concreta.",
+   "victim_voice_rationale": "Una persona sin conocimiento del sistema local quiere saber cómo presentar bien su reclamo."
+  },
+  {
+   "query": "Ya leyeron la sentencia y no entendí si debía decir ahí mismo que no estoy de acuerdo, o si puedo explicar mis razones después.",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_401_01"
+   ],
+   "positive_selection_reason": "El art. 401 indica que al terminar la lectura de la sentencia el juez pregunta si se apela, que no hay que fundamentar en ese acto y que se puede reservar la decisión.",
+   "expected_answer_focus": "Que al leerse la sentencia se pregunta si se apela, que no es obligatorio explicar los motivos en ese momento y que se puede reservar la decisión.",
+   "victim_voice_rationale": "Es una duda práctica de quien está en la audiencia y no entiende qué debe hacer."
+  },
+  {
+   "query": "Si el caso penal contra mi pareja se detiene o queda en pausa, ¿igual puedo pedir en otro juzgado que me paguen por el daño que me hizo?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_12_01"
+   ],
+   "positive_selection_reason": "El art. 12.2 permite reclamar el daño ante el juzgado civil cuando la persecución penal no puede continuar, por reserva o suspensión del proceso.",
+   "expected_answer_focus": "Que si el proceso penal no puede seguir (reserva o suspensión), la acción por el daño puede ejercerse ante el juzgado civil.",
+   "victim_voice_rationale": "Teme quedarse sin compensación si el proceso penal se paraliza."
+  },
+  {
+   "query": "¿Puedo pedir que me paguen por el daño dentro del juicio penal y además en otro juicio aparte, o tengo que elegir solo uno?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_12_01"
+   ],
+   "positive_selection_reason": "El art. 12.1 dice que el perjudicado puede reclamar en el proceso penal o en la vía civil, pero una vez elegida una no puede usar la otra.",
+   "expected_answer_focus": "Que se puede elegir entre la vía penal y la civil, y que elegida una no se puede reclamar en la otra.",
+   "victim_voice_rationale": "Quiere saber si puede reclamar el daño por dos caminos a la vez."
+  },
+  {
+   "query": "Si yo misma pido que me indemnicen dentro del juicio penal, ¿el fiscal deja de encargarse de esa parte del dinero?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_11_01"
+   ],
+   "positive_selection_reason": "El art. 11 establece que la acción civil corresponde al fiscal y al perjudicado, y que si el perjudicado se constituye en actor civil, el fiscal pierde legitimación sobre ese aspecto civil.",
+   "expected_answer_focus": "Que el perjudicado puede constituirse en actor civil y que entonces el Ministerio Público deja de intervenir en la parte civil del proceso.",
+   "victim_voice_rationale": "Duda si perderá el respaldo del fiscal en la parte económica al reclamar por su cuenta."
+  },
+  {
+   "query": "Quiero llevar mi caso hasta la Corte Suprema pero tengo miedo de que lo rechacen sin ver mi problema. ¿En qué casos no lo aceptan?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_428_01"
+   ],
+   "positive_selection_reason": "El art. 428 lista las causas por las que la Corte Suprema declara inadmisible el recurso de casación, como incumplir requisitos, usar motivos no previstos o carecer manifiestamente de fundamento.",
+   "expected_answer_focus": "Los supuestos de inadmisibilidad del recurso ante la Corte Suprema, para evitar que sea rechazado.",
+   "victim_voice_rationale": "Quiere evitar que le rechacen su último recurso por errores evitables."
+  }
+ ]
+}

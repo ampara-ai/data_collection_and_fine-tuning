@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00496_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica por qué incluir afectación psicológica no acusada no anula la condena si subsisten las lesiones y no hay perjuicio irreparable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00496_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "si",
+      "rationale": "Afirma que la agresión física genera afectación emocional de forma inherente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00496_e0001_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece que no toda infracción de congruencia invalida la sentencia y exige trascendencia y perjuicio irreparable."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

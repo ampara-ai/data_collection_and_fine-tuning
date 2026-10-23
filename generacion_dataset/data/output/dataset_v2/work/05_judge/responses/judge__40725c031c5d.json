@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_152_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "parcial",
+      "rationale": "Fija penas por secuestro, pero no permite determinar si llevarse el hijo por un progenitor constituye ese delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_152_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "si",
+      "rationale": "Prevé cadena perpetua para el secuestro de menores y de personas con discapacidad cuando se aprovecha esa condición."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

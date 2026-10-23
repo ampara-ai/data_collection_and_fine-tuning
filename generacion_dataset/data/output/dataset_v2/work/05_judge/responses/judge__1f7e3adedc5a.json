@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "si",
+      "rationale": "Autoriza revisar equipos en flagrancia por extorsión con permiso fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "si",
+      "rationale": "Exige autorización previa del Ministerio Público y confirmación judicial posterior."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "si",
+      "rationale": "Extiende la revisión a equipos hallados en operativos penitenciarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0054_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a una retractación causada por presión familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

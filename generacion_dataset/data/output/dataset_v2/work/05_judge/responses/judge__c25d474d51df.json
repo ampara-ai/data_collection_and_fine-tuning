@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "si",
+      "rationale": "Equipara a autores a familiares y personas que cooperan abusando de autoridad, encargo o confianza."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_184_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "si",
+      "rationale": "Prevé para hermanos que cooperan en delitos sexuales la pena de los autores en el supuesto indicado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_215_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_215_01",
+      "relevance": "si",
+      "rationale": "Fija vigencia máxima de dos semanas salvo plazo o período expresamente determinado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_215_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_215_01",
+      "relevance": "si",
+      "rationale": "Enumera fiscal autorizado, finalidad, inmueble, duración y apercibimiento exigidos en la orden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "si",
+      "rationale": "Aclara que no se requiere desfloración ni penetración total para configurar acceso carnal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "si",
+      "rationale": "Confirma cadena perpetua por violación paterna, con embarazo y ausencia de ruptura himeneal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

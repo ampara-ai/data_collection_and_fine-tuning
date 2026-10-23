@@ -1,0 +1,104 @@
+{
+ "questions": [
+  {
+   "query": "Después de denunciar a mi esposo por abusar de mí, dije otra cosa por miedo y presión. ¿Igual lo pueden condenar o ya no vale mi denuncia?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0081_01"
+   ],
+   "positive_selection_reason": "La sentencia trata justamente de una víctima que cambió su versión sobre la violación y explica que, sin otras pruebas que respalden la acusación, no se puede condenar y prevalece la presunción de inocencia.",
+   "expected_answer_focus": "Que cuando la víctima se desdice o se contradice y no hay pruebas externas que corroboren, el tribunal no puede condenar por violación sexual; aun así se pueden sancionar las agresiones físicas acreditadas.",
+   "victim_voice_rationale": "Una víctima que se retractó por presión quiere saber qué pasa con su caso."
+  },
+  {
+   "query": "Mi esposo y yo estamos separados pero seguimos casados. Si me obliga a tener relaciones, ¿eso también es un delito?",
+   "topic": "violencia_sexual",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo 170 tipifica la violación sexual con violencia y contempla expresamente como agravante que el agresor sea cónyuge o tenga hijos en común con la víctima.",
+   "expected_answer_focus": "Que forzar el acto sexual con violencia es violación aunque el agresor sea el esposo, y que el vínculo conyugal o los hijos en común agravan la pena.",
+   "victim_voice_rationale": "Muchas mujeres creen que dentro del matrimonio no puede haber violación."
+  },
+  {
+   "query": "Me pegó en la cara con los puños y el médico dijo que fueron lesiones leves. ¿Eso igual es un delito y tiene castigo?",
+   "topic": "violencia_fisica",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El artículo 122-B sanciona las lesiones que requieren poco tiempo de descanso cuando se causan a una mujer por su condición de tal o dentro del grupo familiar.",
+   "expected_answer_focus": "Que las lesiones leves contra una mujer en contexto de violencia familiar son delito y tienen pena de cárcel e inhabilitación.",
+   "victim_voice_rationale": "La víctima duda si golpes calificados como leves merecen una denuncia penal."
+  },
+  {
+   "query": "Ya me habían dado protección del juzgado, pero él llegó a mi casa de madrugada y me golpeó. ¿Eso empeora su situación legal?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El artículo 122-B incluye como agravante contravenir una medida de protección emitida por autoridad competente, además de agresiones frente a menores.",
+   "expected_answer_focus": "Que agredir incumpliendo una medida de protección es una circunstancia agravante que aumenta la pena mínima.",
+   "victim_voice_rationale": "Quiere saber si desobedecer la protección ya dictada tiene consecuencias más graves."
+  },
+  {
+   "query": "Si a mi agresor lo condenan, ¿puede irse a su casa sin pisar la cárcel por cumplir su pena en libertad?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El artículo 57 regula cuándo se puede suspender la pena e indica que no aplica para condenados por agresiones contra mujeres o grupo familiar ni por delitos sexuales.",
+   "expected_answer_focus": "Que la ejecución suspendida de la pena no procede en condenas por agresiones contra la mujer o el grupo familiar ni por violación sexual.",
+   "victim_voice_rationale": "Teme que, aunque lo condenen, el agresor quede libre en la práctica."
+  },
+  {
+   "query": "Si lo condenan, ¿tengo derecho a que me paguen por todo lo que sufrí y quién vigila que de verdad me lo entreguen?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El artículo 92 establece que la reparación civil se fija junto con la pena, es un derecho de la víctima y el juez garantiza su cumplimiento.",
+   "expected_answer_focus": "Que el pago por el daño se decide en la misma sentencia, es un derecho de la víctima y el juez debe asegurar que se cumpla.",
+   "victim_voice_rationale": "Quiere saber si recibirá una compensación económica y cómo se garantiza."
+  },
+  {
+   "query": "Después de una condena, ¿el juez puede ordenarle que no se me acerque ni me llame, y quitarle el derecho sobre nuestros hijos?",
+   "topic": "hijos_y_tenencia",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_36_01"
+   ],
+   "positive_selection_reason": "El artículo 36 enumera los efectos de la inhabilitación, incluida la prohibición de aproximarse o comunicarse con la víctima y la incapacidad para ejercer la patria potestad.",
+   "expected_answer_focus": "Que la sentencia puede imponer al condenado la prohibición de acercarse o comunicarse con la víctima y la pérdida de la patria potestad.",
+   "victim_voice_rationale": "Le preocupa seguir en contacto con el agresor, que además es padre de sus hijos."
+  },
+  {
+   "query": "Me dijeron que si no hay otras pruebas además de lo que yo cuento, no pueden condenarlo por abuso sexual. ¿Eso es cierto? Me da desconfianza.",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0081_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que cuando la declaración de la víctima es contradictoria y no hay corroboraciones periféricas idóneas, no se puede condenar por violación sexual.",
+   "expected_answer_focus": "Que el tribunal exige pruebas adicionales que respalden el relato cuando este presenta contradicciones, y que sin ellas aplica la presunción de inocencia.",
+   "victim_voice_rationale": "Desconfía de que su palabra baste y quiere entender qué exige el sistema."
+  },
+  {
+   "query": "Mientras me forzaba seguía golpeándome y insultándome para humillarme. ¿Eso hace más grave el castigo para él?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_177_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El artículo 177 aumenta la pena de la violación cuando se actúa con crueldad o para degradar a la víctima, y el artículo 170 define el delito base al que se aplica ese aumento.",
+   "expected_answer_focus": "Que la crueldad o la intención de degradar durante una violación incrementa la pena en el mínimo y el máximo.",
+   "victim_voice_rationale": "Quiere saber si la humillación y los golpes durante el ataque pesan en la sanción."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-c_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "si",
+      "rationale": "Fija informes iniciales y periódicos según el nivel de riesgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-c_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "si",
+      "rationale": "Obliga a entidades públicas y privadas a informar incumplimientos al juzgado en veinticuatro horas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata valoración de daños psicológicos, no representación de víctimas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Define explotación sexual de menores, no representación procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_97_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución policial de medidas protectoras, no elección de representante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

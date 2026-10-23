@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Trata reparación civil, no apartamiento del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "parcial",
+      "rationale": "Explica la recusación, pero no identifica el compadrazgo o amistad como causal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "Trata la agravante de violencia intrafamiliar, no imparcialidad judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata condena por agresión a exconviviente, no parentesco del juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "parcial",
+      "rationale": "Explica el procedimiento de recusación sin precisar qué parentescos permiten apartar al juez."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_53_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula los efectos de reservar el fallo condenatorio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

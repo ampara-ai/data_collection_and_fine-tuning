@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Distingue audiencias inaplazables con sustitución inmediata y las reprogramables por ausencia del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Prevé reprogramación por única vez y sustitución del defensor ausente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Prevé defensor público ante inasistencia o falta de reemplazo, pero no regula específicamente la carencia de recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata inasistencia del querellante, no sanciones a su abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "Regula entrega a la Corte Penal Internacional, no faltas del defensor a audiencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección, no conducta del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Regula ausencia del querellante, no sanción al abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "si",
+      "rationale": "Dispone sancionar al defensor que falta o abandona injustificadamente la diligencia y comunicar la sanción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Valora una manifestación policial sin abogado, no la sanción por faltar a audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimientos de un condenado durante suspensión de pena, no faltas de abogados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula audiencias sobre medios de defensa, sin consecuencias por inasistencia del abogado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado, no sanciones al defensor ausente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de faltas y designación de defensor sin sancionar al abogado que falta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza oralización de cámara Gesell, no faltas del abogado a audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra sanción disciplinaria por temeridad y falta de preparación, pero no por faltar o abandonar una audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_85_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimientos del régimen de prueba del agente, no faltas profesionales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__5ab65cf44af8",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_394_01::q01\",\n  \"question\": \"Un policía me pidió dinero para tramitar mi denuncia por violencia, aunque era su trabajo. ¿Eso es delito?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_394_01\",\n    \"title\": \"Artículo 394.- Cohecho pasivo impropio\",\n    \"text\": \"El funcionario o servidor público que acepte o reciba donativo, promesa o cualquier otra ventaja o beneficio indebido para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con ciento ochenta a trescientos sesenta y cinco días-multa.\\nEl funcionario o servidor público que solicita, directa o indirectamente, donativo, promesa o cualquier otra ventaja indebida para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cinco ni mayor de ocho años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con trescientos sesenta y cinco a setecientos treinta días-multa.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_394_01::q02\",\n  \"question\": \"¿Qué castigo tiene un funcionario que acepta un regalo después de atenderme, aunque no haya hecho nada ilegal?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_394_01\",\n    \"title\": \"Artículo 394.- Cohecho pasivo impropio\",\n    \"text\": \"El funcionario o servidor público que acepte o reciba donativo, promesa o cualquier otra ventaja o beneficio indebido para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con ciento ochenta a trescientos sesenta y cinco días-multa.\\nEl funcionario o servidor público que solicita, directa o indirectamente, donativo, promesa o cualquier otra ventaja indebida para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cinco ni mayor de ocho años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con trescientos sesenta y cinco a setecientos treinta días-multa.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo02_cp_art_394_01::q03\",\n  \"question\": \"Un empleado del juzgado insinuó que le diera un 'agradecimiento' por mi trámite contra mi pareja. ¿Puedo denunciarlo?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_394_01\",\n    \"title\": \"Artículo 394.- Cohecho pasivo impropio\",\n    \"text\": \"El funcionario o servidor público que acepte o reciba donativo, promesa o cualquier otra ventaja o beneficio indebido para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con ciento ochenta a trescientos sesenta y cinco días-multa.\\nEl funcionario o servidor público que solicita, directa o indirectamente, donativo, promesa o cualquier otra ventaja indebida para realizar un acto propio de su cargo o empleo, sin faltar a su obligación, o como consecuencia del ya realizado, será reprimido con pena privativa de libertad no menor de cinco ni mayor de ocho años e inhabilitación conforme a los incisos 1 y 2 del artículo 36 del Código Penal y con trescientos sesenta y cinco a setecientos treinta días-multa.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo02_cp_art_394_01::q01",
+     "chunk_tipo02_cp_art_394_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo02_cp_art_394_01::q02",
+     "chunk_tipo02_cp_art_394_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo02_cp_art_394_01::q03",
+     "chunk_tipo02_cp_art_394_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__5ab65cf44af8.json"
+}

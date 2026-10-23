@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "si",
+      "rationale": "Establece que paga las costas quien interpone un recurso sin éxito."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "si",
+      "rationale": "Determina que paga quien se opuso al reclamo favorable y excluye costas sin oposición."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

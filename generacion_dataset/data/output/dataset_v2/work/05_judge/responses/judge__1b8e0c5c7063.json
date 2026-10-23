@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la confrontación entre víctima y agresor durante estos procesos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe expresamente la conciliación entre víctima y agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Ordena reconstruir los hechos sin la víctima salvo solicitud de una mayor de catorce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Permite la presencia en la reconstrucción cuando la víctima mayor de catorce años la solicita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "La excepción para asistir a la reconstrucción solo alcanza a víctimas mayores de catorce años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_25_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la confrontación y protege a la víctima durante la reconstrucción."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

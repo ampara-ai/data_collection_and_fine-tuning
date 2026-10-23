@@ -1,0 +1,809 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la posibilidad de incrementar la reparación según el daño, pero no indica el plazo ni los requisitos del reclamo tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia]», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 15. Denuncia», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Opuz vs. Turquía, f.j. 147», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica el alcance de la reparación integral, sin establecer cuándo y cómo pedir un aumento tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 374. Poder del Tribunal y Facultad del Fiscal», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Admite discutir el monto resarcitorio e incrementarlo según el daño, sin indicar plazo ni documentación del pedido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 00059-2019-0, f.j. 10», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 01386-2020-0», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "parcial",
+      "rationale": "Exige acreditar la reparación pretendida, pero no concreta el plazo ni la presentación del aumento tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo II. Presunción de inocencia», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete]», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 120. Régimen General», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 11. Derechos laborales», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Contradicciones en declaración (Exp. 02162-2021-6)», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 442.- Maltrato», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a reparación y su determinación junto con la pena, sin indicar cómo ni cuándo solicitar el incremento."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la impugnación del extremo civil, pero no regula el aumento de reparación en la etapa posterior a la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 12. Derechos en el campo de la educación», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco)», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Guzmán Albarracín y otras vs. Ecuador, f. j. 119», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "Permite observar el monto de reparación y debatirlo, pero no establece el plazo ni los requisitos del reclamo en etapa intermedia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 13. Desistimiento», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 25. Protección de las víctimas en las actuaciones de investigación», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 40. Trámite», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Identifica quién puede reclamar reparación y cómo se representa a menores, pero no fija plazo ni documentación para aumentarla."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 441.- Lesión dolosa y lesión culposa», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala]», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 461. Investigación preliminar», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 30. Reeducación de las personas agresoras», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Permite al fiscal pedir adecuación de la reparación por nuevas razones surgidas en juicio, sin regular el pedido de la víctima tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 87. Instrucciones preliminares», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 542. Condiciones para el traslado y el cumplimiento de condenas», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 20. Sentencia», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 5. Definición de violencia contra las mujeres», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_518_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 518. Requisitos de la demanda de extradición», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)», sin abordar el plazo y los requisitos para aumentar la reparación tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Permite abstención y sobreseimiento por oportunidad a pedido del imputado bajo condiciones, pero los sitúa antes de formular acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 01386-2020-0», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 52.- Conversión de la pena privativa de libertad», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Regula el archivo decidido por fiscalía al calificar una denuncia, sin explicar el pedido de la defensa tras la acusación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 26. Competencia de la Sala Penal de la Corte Suprema», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 371. Apertura del juicio y posición de las partes», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "parcial",
+      "rationale": "Explica reducciones por confesión sincera y exclusiones, pero no el acuerdo para evitar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 30. Reeducación de las personas agresoras», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 491. Incidentes de modificación de la sentencia», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "parcial",
+      "rationale": "Permite plantear cuestiones del artículo 350 y menciona sobreseimiento, pero no desarrolla sus condiciones ni un acuerdo de pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "Permite acordar la pena y concluir anticipadamente el juicio ya instalado, sin regular la salida previa al juicio preguntada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Regula el retiro fiscal de la acusación durante el juicio, sin explicar un pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reducción por responsabilidad atenuada, pero no regula el mecanismo procesal para evitar el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 462. Auto de citación a juicio y audiencia», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 363. Dirección del juicio», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 85. Reemplazo del abogado defensor», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Falta de afectación psicológica (Exp. 122-2020-65)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «López Soto y otros vs. Venezuela (Corte IDH)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 426. Nulidad del juicio», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 68.- Exención de pena», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 74. Minoría de edad», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 374. Poder del Tribunal y Facultad del Fiscal», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Retractación notarial sin valor (RN 1179-2019, Lima)», sin abordar el pedido de archivo o acuerdo de pena antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 367. Concurrencia del imputado y su defensor», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 356. Principios del Juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 426. Nulidad del juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 360. Continuidad, suspensión e interrupción del juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 71. Derechos del imputado», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 17-A. Flagrancia en casos de riesgo severo», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 264. Plazo de la detención», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «GUÍA MÉDICO LEGAL DE VALORACIÓN INTEGRAL DE LESIONES CORPORALES», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 2451-2022, Cajamarca», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo interrogar a testigos y peritos, pero no cuándo ni cómo ofrecer sus nombres antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Aclara cuándo se requiere presencia del perito, sin explicar cómo ofrecerlo antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Lubricación indica consentimiento (STS 944/2019, España)», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 462. Auto de citación a juicio y audiencia», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 211. Examen corporal del imputado», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_250_01",
+      "relevance": "parcial",
+      "rationale": "Permite proponer pruebas en un supuesto especial vinculado a identidad de protegidos, sin regular el ofrecimiento ordinario."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_167_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 167. Testimonio de Altos Dignatarios», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 247. Personas destinatarias de las medidas de protección», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "parcial",
+      "rationale": "Indica cómo se cita a testigos y peritos, sin establecer la oportunidad para presentar sus nombres."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "parcial",
+      "rationale": "Permite solicitar prueba anticipada identificando intervinientes y objeto, sin regular el ofrecimiento ordinario de pruebas para juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 384. Trámite de la oralización», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Explica la exposición de pruebas ya ofrecidas y admitidas al abrir el juicio, sin indicar cómo ofrecerlas antes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor a certificados y pericias médicas, pero no la presentación de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Regula identificación e interrogatorio de testigos, sin explicar su ofrecimiento previo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 245. Audiencia de prueba anticipada», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 88. Desarrollo de la declaración», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce asistencia jurídica y conservación de evidencia médica, sin explicar cómo ofrecer testigos y médicos para juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "parcial",
+      "rationale": "Prevé ofrecimiento y admisión de pruebas en juicio inmediato, sin desarrollar el trámite ordinario previo planteado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 409.- Falsedad en juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_78_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 78. Informe trimestral del Director del Centro Hospitalario», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 365. Delito en el juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 216. Desarrollo de la diligencia», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa)», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 363. Dirección del juicio», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 484. Audiencia», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige citar testigos admitidos y garantiza el derecho a la prueba, pero no establece cómo ofrecer sus nombres antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 77. Enfermedad del imputado», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Ordena citar a testigos y peritos y colaborar con su localización, sin fijar el trámite previo para ofrecerlos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_350_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 70. Prohibición de informar», sin abordar el ofrecimiento de nombres de testigos y médicos antes del juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

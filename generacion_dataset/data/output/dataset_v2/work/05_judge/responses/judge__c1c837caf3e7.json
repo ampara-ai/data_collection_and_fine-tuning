@@ -1,0 +1,245 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "si",
+      "rationale": "Define la captación y retención mediante engaño o privación de libertad con fines de explotación y su pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Regula extorsión y no el consentimiento de adolescentes trasladados para explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "Define violencia familiar sin regular trata ni consentimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata consentimiento para actividad sexual y no traslado para explotación laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "si",
+      "rationale": "Considera trata el traslado de adolescentes con fines de explotación aunque no medie engaño o coacción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Analiza suficiencia probatoria en tocamientos sexuales contra una niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento en violación sexual, no trata con fines laborales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "Regula inspección y reconstrucción de hechos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "Regula detención e incautación durante allanamientos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "Autoriza operaciones encubiertas, pero no define el efecto del consentimiento en la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Sanciona hacer consumir drogas y no traslado con fines de explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "Regula el contenido de la declaración testifical."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Valora retractación en un delito sexual, no consentimiento para explotación laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "no",
+      "rationale": "Define funciones del Ministerio Público, no el efecto del consentimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula presentación de denuncias, no sanción a financiadores de trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "Analiza tentativa de violación sexual, no facilitación de trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena por edad y no financiamiento de trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de multas y decomisos extranjeros."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula el uso de elementos de colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "Regula devolución de bienes incautados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata lesiones entre exconvivientes y no financiamiento de explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de la pena, no tipificación de facilitar trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias fiscales de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata responsabilidad estatal por violencia contra una mujer trans."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Sanciona colaboración en extorsión, que es un delito distinto de trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "si",
+      "rationale": "Impone la misma pena del autor a quien promueve, financia o facilita la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Regula información de derechos antes de declarar como imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "Regula declaración de testigos y no modalidades de explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "si",
+      "rationale": "Enumera explotación laboral, mendicidad, servidumbre, trabajos forzados y extracción de órganos, entre otras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata violencia por identidad de género, no modalidades de trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registros personales policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata violencia doméstica como tortura, no fines de explotación en la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula reconocimiento de personas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad, no formas de explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz y persecución de personas sindicadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "Define penetración en violación sexual, no formas de explotación de la trata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena por responsabilidad restringida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Regula criterios para medidas de protección, no formas de explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-a_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de tráfico de migrantes, un delito distinto de trata."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

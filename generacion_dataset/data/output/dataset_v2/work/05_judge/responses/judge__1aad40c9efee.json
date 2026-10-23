@@ -1,0 +1,137 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Permite denunciar por correo, mensajería instantánea y otros canales virtuales habilitados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Autoriza a cualquier persona a denunciar en favor de la víctima sin representarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Señala que no se requiere firma de abogado, tasa ni otra formalidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_236_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Permite iniciar investigación por sospecha denunciada, pero no regula los requisitos médicos de recepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que puede acreditarse abuso sin lesiones físicas, pero no establece requisitos para denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce formas de violencia sin lesiones visibles, pero no regula la admisión de la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la recepción de denuncias sin exámenes ni lesiones visibles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Expresamente impide exigir exámenes, pericias o huellas visibles para denunciar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Obliga a profesionales de educación a denunciar la violencia conocida en su actividad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_102_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "si",
+      "rationale": "Dispone que el juez resuelva dentro del tercer día tras recabar información y notificar la solicitud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_102_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "si",
+      "rationale": "Prevé oposición escrita fundamentada dentro del tercer día hábil y remite al trámite del artículo 8."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_102_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "si",
+      "rationale": "Corresponde al juez notificar la solicitud a los sujetos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de testimonios de referencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_158_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica los criterios de confianza de la prueba y su motivación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

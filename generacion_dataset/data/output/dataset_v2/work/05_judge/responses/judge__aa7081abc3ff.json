@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "si",
+      "rationale": "Rechaza que el tono o forma de preguntas aclaratorias demuestre parcialidad y confirma la condena."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula la transformación de un proceso de seguridad, no la parcialidad por el tono del juez."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Examina nulidad por valoración y motivación de una absolución, no por trato áspero del juez."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección y no nulidad por preguntas judiciales."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Define acoso sexual y sus agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula cambios de calificación jurídica y ampliación de acusación."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Regula decisiones de la audiencia preliminar y no nulidad por tono judicial."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento sexual y no parcialidad del juez."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza denegación de careo y no el tono empleado por el juez."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de apelación sin resolver parcialidad por trato áspero."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prueba de oficio en segunda instancia, no nulidad por tono de preguntas."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal, no defectos del interrogatorio judicial."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Establece controles sobre las preguntas a testigos, pero no consecuencias de un tono áspero sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Obliga al juez a moderar las preguntas y evitar presiones indebidas y ofensas a la dignidad."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Permite el auxilio de un familiar o profesional de psicología al testigo menor de dieciséis años."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "si",
+      "rationale": "Dispone expresamente que el juicio continúa aunque el acusado no declare."
+    },
+    {
+      "dataset_id": "case::jp_00456_e0005::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "si",
+      "rationale": "Delimita qué denuncias y actas policiales pueden leerse y excluye los documentos no autorizados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

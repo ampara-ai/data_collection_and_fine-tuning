@@ -1,0 +1,269 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00542_e0003::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Prohíbe cambiar el valor de prueba personal recibida en primera instancia salvo prueba que la cuestione en apelación."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "si",
+      "rationale": "Permite revaloración por error manifiesto o prueba actuada en segunda instancia que la desvirtúe."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "si",
+      "rationale": "Exige que toda actuación probatoria considere el estado físico y emocional de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio de apelación y valoración correcta del testimonio, sin precisar quién lo realizará."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "Regula trámite de admisión de casación y no efectos de anular la absolución."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio de apelación en Sala Superior, sin explicar el destino de lo ya declarado."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra un nuevo juicio ante otro personal judicial, pero no el tratamiento de declaraciones previas."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "si",
+      "rationale": "Ordena nueva audiencia ante otra Sala y explica los límites para revalorar la prueba personal ya recibida."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Regula nulidad y límites de valoración en apelación, sin precisar quién actúa después de una anulación suprema."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nueva apelación por otro colegiado y valoración de pruebas, pero no detalla conservación de declaraciones."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "La Corte Suprema puede decidir o reenviar indicando órgano competente y actos que deben renovarse."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo agravado."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de vigilancia electrónica."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula incoación del proceso inmediato."
+    },
+    {
+      "dataset_id": "case::jp_00542_e0003::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula agravación por parentesco."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona impedida de consentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Explica acción civil en el proceso penal, sin establecer la prohibición de otra demanda ni su excepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación tras poner a la víctima inconsciente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Regula alegato fiscal y retiro de acusación, no opción de vía indemnizatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula abandono de constitución civil por inasistencia, sin aclarar si cabe otra demanda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que la parte civil pretende reparación, pero no resuelve si puede demandar fuera del proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula remisión por minoría de edad del imputado, un supuesto específico distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Examina reparación y legitimación de parte civil, pero no compatibilidad de vías indemnizatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "Analiza daños psicológicos y valoración de testimonio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "si",
+      "rationale": "Prohíbe demanda extrapenal al actor civil y permite otra vía si desiste antes de acusación fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula amparo contra decisiones fiscales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "si",
+      "rationale": "Permite reclamar en otra vía si desiste como actor civil antes de la acusación fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "si",
+      "rationale": "Fija la acusación fiscal como límite para desistir conservando la otra vía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección y asignación de emergencia, no duplicidad indemnizatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Salva derechos civiles al remitir un imputado menor a familia, sin autorizar demandas simultáneas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "si",
+      "rationale": "La constitución en actor civil impide una demanda indemnizatoria extrapenal simultánea."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Trata facultades de la parte civil y reparación, sin resolver duplicidad de demandas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "parcial",
+      "rationale": "Detalla constitución en actor civil, pero no la incompatibilidad con otro juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "Tipifica coacción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Fija oportunidad de constitución en actor civil, sin resolver ejercicio simultáneo en dos vías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión del juicio oral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica legitimación civil y reparación dentro del penal, no ejercicio en dos vías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica libramiento indebido de cheques."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula control constitucional de decisiones fiscales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_106_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00108_e0003::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "si",
+      "rationale": "Establece que las contradicciones secundarias no invalidan el relato infantil y exige considerar edad y trauma."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0003::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Permite declarar de oficio nulidades por lesión del contenido esencial de derechos constitucionales."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "parcial",
+      "rationale": "Enumera defectos de nulidad absoluta, sin explicar el test general de oportunidad y trascendencia."
+    },
+    {
+      "dataset_id": "case::jp_00108_e0003::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "si",
+      "rationale": "Exige oportunidad, taxatividad y trascendencia y aclara que no todo error genera nulidad."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Rechaza exigir la repetición de los maltratos sexuales en cada declaración."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación eficaz y rápida, sin resolver expresamente la falta de reiteración de la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 544. Trámite cuando el Perú solicita el traslado del nacional no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 170.- Violación sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15.- Error de comprensión culturalmente condicionado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 259. Detención Policial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Ordena debida diligencia y actuación inmediata, sin abordar específicamente una denuncia no reiterada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Afirma que investigar no depende de denuncias repetidas y que basta la comunicación inicial."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 523. Detención Preventiva con fines de extradición no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46.- Circunstancias de atenuación y agravación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 479. Condiciones, Obligaciones y Control del beneficiado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Exige evitar la revictimización y la reexperimentación del trauma al declarar."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Requiere espacios amigables y protección de la dignidad, sin regular directamente la reiteración del relato."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé grabar declaraciones infantiles para evitar revictimización, sin cubrir todo supuesto de la pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 322. Dirección de la investigación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121.- Lesiones graves no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 88. Desarrollo de la declaración no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-G.- Gestión de la explotación sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 71. Derechos del imputado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Deber de proteger ante amenaza real e inmediata [Malagić v. Croacia] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Buturugă vs. Rumania, f.j. 60 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-F.- Beneficio p or explotación sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00141_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige interpretar declaraciones de víctimas atendiendo al trauma, sin desarrollar la protección durante declaraciones repetidas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

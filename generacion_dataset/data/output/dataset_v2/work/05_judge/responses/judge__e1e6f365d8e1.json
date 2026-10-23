@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "no",
+      "rationale": "Aprueba una guía psicológica, sin agravantes por objetos contundentes."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones familiares graves por uso de objetos contundentes y acumulación de agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia física, sin indicar agravación de pena por un fierro."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata estereotipos y responsabilidad internacional por feminicidios."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula asignación provisional de alimentos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de otros delitos advertidos en juicio."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prohibición de acuerdos reparatorios, no agravantes de pena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Identifica una guía de valoración de lesiones, sin explicar agravantes por el instrumento empleado."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula demanda de revisión de condena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula controles policiales públicos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravación por objetos contundentes para lesiones leves, sin resolver el supuesto de lesiones graves planteado."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula robo agravado, otro delito."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0011::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye embarazo y ebriedad como agravantes y eleva pena por su concurrencia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Analiza específicamente el testimonio de oídas como corroboración y distingue mayoría y voto disidente."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige pruebas adicionales para condenar basándose en un testigo de referencia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige corroboración adicional de los testimonios de referencia."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava violación por vínculos familiares o convivencia en el mismo hogar."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión de la pena para delitos del capítulo de violación de la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación, no suspensión de condena."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula agravación por parentesco, no cumplimiento suspendido."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula agravación por parentesco, no suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata pena efectiva por lesiones familiares, distinto delito del abuso sexual infantil."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de extradición."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de condenas de la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Confirma prisión por violación infantil y rechaza atenuación emocional, sin regular suspensión de penas cortas."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula traslado de condenas condicionales de extranjeros."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata violencia y amenaza en actos contra el pudor, sin resolver suspensión."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata valoración del consentimiento, no ejecución suspendida de pena."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0072::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Distingue la objeción del disidente a la corroboración de oídas de la condena confirmada en mayoría."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves, no la finalidad de investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "parcial",
+      "rationale": "Ordena remitir al fiscal para investigar, pero no explica la finalidad de esa etapa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata congruencia entre acusación y sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Define la finalidad de reunir elementos para decidir acusación y esclarecer hechos y daños."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula tramitación judicial de medios de defensa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata impugnación de absoluciones y aumento de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "Tipifica desobediencia a la autoridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobreseimiento en etapa intermedia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Describe decisiones y actos fiscales, sin explicar la finalidad central de la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata afectación psicológica y suficiencia para enjuiciamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "no",
+      "rationale": "Regula auto de enjuiciamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Explica conducción y diligencias de investigación para esclarecer hechos, sin desarrollar su finalidad decisoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "parcial",
+      "rationale": "Describe una técnica para obtener datos, sin explicar la finalidad general de la etapa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia técnica de investigados, no deber general de apoyo pericial y policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Obliga a policía, Medicina Legal y organismos técnicos estatales a apoyar al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata competencia para control de identidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "Regula examen de peritos impedidos de acudir al juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona al policía que niega auxilio legal, sin abordar apoyo de los peritos estatales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "Regula protección de intervinientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "Trata validez de retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Prevé informes sanitarios solicitados por la fiscalía, sin el deber general de apoyo policial y pericial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata independencia de una investigación policial alemana."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula agentes encubiertos en investigaciones especiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de intimidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "Aprueba guía de valoración psíquica, sin regular deber de cooperación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "parcial",
+      "rationale": "Establece cooperación policial y fiscal, pero no aborda organismos periciales del Estado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_321_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Autoriza informes universitarios y asesoría de expertos públicos o privados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige implementación inmediata y constante de las medidas, condenando demoras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Atribuye a las autoridades judiciales coordinar y verificar la ejecución efectiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Declara que la falta de recursos no excusa la inacción protectora."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0009_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal por interrupción de la protección y ataque a un familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

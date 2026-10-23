@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_185_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00208_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

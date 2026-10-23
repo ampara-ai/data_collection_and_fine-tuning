@@ -1,0 +1,131 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_392_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Terminaron las audiencias contra quien me pegó y nadie me dice nada. ¿En cuánto tiempo deben anunciar su veredicto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los jueces deben deliberar sin interrupción y no más de dos días, con ampliaciones limitadas."
+    },
+    {
+     "query": "¿Qué pasa si los jueces se pasan del tiempo y nunca dictan sentencia? ¿Tengo que volver a vivir todo el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Vencido el plazo sin fallo, el juicio se repite ante otro juzgado."
+    },
+    {
+     "query": "¿Para encerrar de por vida a un asesino basta que la mayoría esté de acuerdo o todos deben coincidir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las decisiones son por mayoría; la cadena perpetua exige unanimidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_35_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A quien me maltrató solo le impusieron presentarse los fines de semana a un programa. ¿Cuánto rato por semana y hasta cuándo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Pena de días libres: sábados, domingos y feriados, máximo diez horas semanales, de 10 a 156 jornadas."
+    },
+    {
+     "query": "¿En qué consiste ese castigo donde el agresor va a talleres y charlas en vez de ir preso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Consiste en permanecer en una institución pública o privada en actividades educativas, psicológicas o laborales para su rehabilitación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_138_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un vecino me insultó y dijo cosas falsas de mí delante de todos. ¿Es la fiscalía quien lo acusa o tengo que hacerlo yo?",
+     "topic": "identificacion_delito",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Estos delitos contra el honor se persiguen solo por acción privada, es decir, la persona afectada."
+    },
+    {
+     "query": "Hablaron mal de mi mamá ya fallecida y me duele mucho. ¿Alguien de la familia puede denunciar por ella?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Cónyuge, hijos, padres o hermanos pueden promover o continuar la acción por ofensas a la memoria de un difunto."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_178_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quedé embarazada por una violación y no tengo cómo mantener al bebé. ¿El juez penal puede ordenar que el culpable me dé dinero?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "El juez penal debe resolver sobre la obligación alimentaria a la prole, incluyendo gastos del embarazo."
+    },
+    {
+     "query": "¿Puedo recibir dinero para la comida de mi hijo mientras todavía investigan al acusado, sin esperar la condena?",
+     "topic": "hijos_y_tenencia",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se puede asignar alimentos anticipados durante la investigación y antes de la sentencia."
+    },
+    {
+     "query": "¿Qué gastos cubre la ayuda para un niño fruto de un abuso? ¿Solo comida o también el colegio y la salud?",
+     "topic": "hijos_y_tenencia",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Cubre sustento, habitación, vestido, educación, atención médica y psicológica, recreación y gastos del embarazo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_80_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "No tengo plata para pagar un abogado en el juicio de mi caso. ¿Me dan uno gratis?",
+     "topic": "procedimiento_penal",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "El Estado provee defensa gratuita por medio de la defensa de oficio a quien no puede pagar abogado."
+    },
+    {
+     "query": "¿Quién me consigue defensor si mi situación económica es muy mala y no sé a dónde ir?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El Servicio Nacional de la Defensa de Oficio del Ministerio de Justicia asigna abogado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_137_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja y yo nos gritamos groserías en una pelea fuerte. Si me denuncia por eso, ¿me pueden castigar?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En injurias recíprocas en el calor de una discusión el juez puede declarar exentas de pena a las partes."
+    },
+    {
+     "query": "Me dijo cosas hirientes y yo le contesté mal porque él me provocó primero. ¿Eso se castiga igual?",
+     "topic": "identificacion_delito",
+     "barrier": "verguenza",
+     "expected_answer_focus": "No es punible la injuria verbal provocada por ofensas personales."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

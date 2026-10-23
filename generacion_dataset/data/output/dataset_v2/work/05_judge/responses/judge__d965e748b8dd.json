@@ -1,0 +1,143 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00390_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece que una sola denuncia activa el deber de investigar sin exigir reiteraciones."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza exigir que la víctima repita los maltratos en cada declaración."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce actuación fiscal de oficio en delitos públicos, pero no precisa el deber policial."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Ordena a la policía iniciar de oficio al conocer un delito de persecución pública."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Dispone inicio de actos de investigación y comunicación inmediata al fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción de acción penal."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Analiza suspensión de prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "Regula documentación de actuaciones en actas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Regula investigación preliminar por querella privada y no denuncia por terceros."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Permite que cualquier persona inste la acción penal pública."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Permite investigación policial de propia iniciativa o a solicitud de parte sin precisar la legitimación del familiar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza agente provocador y actuación policial urgente, no denuncia de un familiar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce denuncia por profesionales sanitarios, pero no resuelve la facultad del familiar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud y servidumbre."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza suspensión de prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "si",
+      "rationale": "Faculta a cualquier persona a denunciar delitos de persecución pública."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuación inmediata sin formalismos, sin precisar quién puede denunciar por la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula elección de vía para acción civil."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Ordena iniciar investigación al conocer el delito público sin exigir reiteraciones de la denuncia."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza expresamente que declarar una sola vez justifique no investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_66_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "si",
+      "rationale": "Permite conducción compulsiva policial por inasistencia a citación notificada bajo apercibimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_66_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "si",
+      "rationale": "Exige levantar la conducción al culminar la diligencia o antes de veinticuatro horas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_66_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "si",
+      "rationale": "Fija el levantamiento de la medida al realizarse la diligencia y un límite de veinticuatro horas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

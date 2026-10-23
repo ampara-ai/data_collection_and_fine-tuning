@@ -1,0 +1,83 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección ante amenazas a intervinientes sin exigir revisión periódica de órdenes de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Las causas de exención de responsabilidad penal no regulan revisión de medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección adecuada al riesgo conocido sin establecer la evaluación periódica de la orden retirada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "La valoración de sugilaciones en una violación no regula revisión de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige diligencia y proporcionalidad según circunstancias pero no revisión periódica del riesgo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de prevenir violencia doméstica conocida sin desarrollar revisiones periódicas de medidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "La interrupción de prescripción no regula órdenes de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "La intervención de comunicaciones es una medida investigativa distinta de la protección consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "La interceptación de correspondencia no regula revisión de órdenes de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar periódicamente el riesgo de violencia doméstica antes de poner fin a la protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "La inhabilitación accesoria no regula órdenes de alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El reexamen de intervención de comunicaciones corresponde a otro procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "no",
+      "rationale": "La variación de incautación de bienes no regula revisión de órdenes de alejamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

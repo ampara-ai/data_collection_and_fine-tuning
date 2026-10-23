@@ -1,0 +1,785 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 204. Impugnación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No todo defecto al «derecho a la debida motivación» amerita su nulidad [Casación 975-2016, Lambayeque]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 424. Audiencia de apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 352. Decisiones adoptadas en la audiencia preliminar», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 13. Desistimiento», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 484. Audiencia», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la gratuidad penal con excepción de las costas, pero no determina quién las paga al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Establece que las costas recaen en el vencido y que el juez puede eximirlo por razones serias y fundadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 478. Colaboración durante las otras etapas del proceso contradictorio», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 359. Concurrencia del Juez y de las partes», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 92.- La reparación civil: Oportunidad de su determinación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Proceso de amparo es vía idónea para el control de actuaciones o decisiones fiscales [Exp. 05121-2015 -PA/TC]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 458. Transformación al proceso común y advertencia», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_9_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 9. Recurso de Apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_453_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 453. Reglas del proceso», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 434. Efectos de la anulación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_103_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 103. Recurso de apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 480. Revocación de los beneficios», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 64.- Reglas de conducta», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 401. Recurso de apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Apelación 324-2023 Puno», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 416. Resoluciones apelables y exigencia formal», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 420. Trámite», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 414. Plazos», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Apelación 312-2023, Lima», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 423. Emplazamiento para la audiencia de apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 16-C. Apelación de la medida de protección o cautelar», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 178.- Responsabilidad especial», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 522. Decisión y ejecución de la extradición», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 404. Facultad de recurrir», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 278. Apelación», sin abordar la obligación de pagar costas al perder una apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 387. Alegato oral del Fiscal», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 483. Iniciación», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Exp. 00059-2019-0, f.j. 10», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_9_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 9. Recurso de Apelación», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 443. Trámite», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 3. Comunicación al Juez de la continuación de la investigación», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 547. Pena de multa y el decomiso», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 480. Revocación de los beneficios», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 551. Entrega vigilada y protección de la jurisdicción nacional», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 92.- La reparación civil: Oportunidad de su determinación», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 415. Ámbito», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 458. Transformación al proceso común y advertencia», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 314. Pensión anticipada de alimentos», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Menciona que existen costas pese a la gratuidad penal, sin asignarlas según el resultado del reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 178.- Responsabilidad especial», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 484. Audiencia», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 40. Trámite», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Asigna las costas al vencido, con posibles exenciones, y permite identificar la regla general cuando la otra parte gana."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es necesario actuar la prueba de ADN si guarda relación directa con el hecho principal (doctrina jurisprudencial vinculante) [Casación 292-2014, Ancash]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 359. Concurrencia del Juez y de las partes», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 404. Facultad de recurrir», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 323. Función del Juez de la Investigación Preparatoria», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 462. Auto de citación a juicio y audiencia», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "parcial",
+      "rationale": "Identifica sujetos exentos y supuestos especiales de costas, pero no resuelve su distribución al ganar un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_408_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 408. Extensión del recurso», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 45. Inhibición del Juez», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 355. Auto de citación a juicio», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 401. Recurso de apelación», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 13. Desistimiento», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 110. Desistimiento del querellante particular», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 223. Remate o subasta del bien incautado», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 352. Decisiones adoptadas en la audiencia preliminar», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_504_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 522. Decisión y ejecución de la extradición», sin abordar quién soporta las costas cuando se gana un reclamo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 2528-2010, Junín, f. j. 6», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Impone a la Policía valorar el riesgo, adoptar actuaciones y remitir lo actuado dentro de veinticuatro horas desde que conoce la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 70. Prohibición de informar», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 217. Solicitud del Fiscal para incautación y registro de personas», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 387. Alegato oral del Fiscal», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Enumera las actuaciones policiales de investigación y auxilio a las víctimas desde la recepción de una denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 334. Calificación», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "parcial",
+      "rationale": "Permite pesquisas y retenciones por iniciativa policial, sin explicar la respuesta general a una denuncia de violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_69_01",
+      "relevance": "parcial",
+      "rationale": "Describe la coordinación entre fiscalía y Policía, pero no concreta la actuación inmediata ante la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza actuaciones policiales sin permiso fiscal en flagrancia o peligro inminente, pero no regula toda denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 16-D. Investigación del delito», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Explica la dirección fiscal de diligencias policiales, sin aclarar qué debe hacer inicialmente la comisaría."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 134. Contenido del Expediente Fiscal», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 483. Iniciación», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 2013-2017, Lima Este, f. j. 3.10-3.12», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 263. Deberes de la autoridad policial», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 461. Investigación preliminar», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 126. Poder coercitivo», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 211. Examen corporal del imputado», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a elevar el informe policial con las diligencias realizadas, sin definir la iniciativa al recibir la denuncia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar inmediatamente el delito al fiscal y continuar las investigaciones policiales ya iniciadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 178-2024, Tumbes, f. j. 12», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Tentativa de violación (RN 316-2021, Lima Este)», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 135. Requerimientos del Fiscal», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 17-A. Flagrancia en casos de riesgo severo», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 71. Derechos del imputado», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Guzmán Albarracín y otras vs. Ecuador, f. j. 119», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "parcial",
+      "rationale": "Permite ejecutar un operativo sin presencia fiscal cuando se amenaza la vida o integridad, supuesto más limitado que la denuncia planteada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "parcial",
+      "rationale": "Regula la coordinación institucional entre Policía y fiscalía sin precisar la respuesta inmediata al caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 232. Aseguramiento de documentos privados», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Casación 2284-2022, Selva Central, f. j. 15», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 129. Citaciones», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 210. Registro de personas», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Directiva 001-2014-CE-PJ», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 89. Tratamiento y pluralidad de imputados», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «RN 508-2019, Lima, ff. jj. 5, 8», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_67_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "Trata sobre «Artículo 234. Aseguramiento e incautación de documentos contables y administrativos», sin abordar la actuación policial inicial ante una denuncia de violencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

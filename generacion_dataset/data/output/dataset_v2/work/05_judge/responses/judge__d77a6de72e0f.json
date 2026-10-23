@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_252_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_252_01",
+      "relevance": "si",
+      "rationale": "Prevé un programa de protección para agraviados y testigos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

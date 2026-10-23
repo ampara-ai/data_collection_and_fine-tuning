@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0019::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Sanciona el maltrato cometido por el agresor, sin regular deberes policiales de prevención y protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

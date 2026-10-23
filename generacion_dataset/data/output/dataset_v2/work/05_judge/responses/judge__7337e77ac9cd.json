@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad penal, civil y administrativa por omitir, rehusar o retrasar atención en casos de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "si",
+      "rationale": "Sanciona la omisión de funciones en procesos por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "si",
+      "rationale": "Permite eximir de pena las injurias recíprocas durante un altercado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "si",
+      "rationale": "Declara no punible la injuria verbal provocada por ofensas personales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

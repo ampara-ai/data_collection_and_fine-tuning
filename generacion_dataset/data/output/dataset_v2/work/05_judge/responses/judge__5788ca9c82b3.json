@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_109_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce participación y prueba del querellante particular, pero no las facultades de la víctima en un proceso fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_109_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "parcial",
+      "rationale": "Permite representación del querellante particular, sin regular la representación general de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "si",
+      "rationale": "Distribuye la investigación policial y la conducción jurídica del Ministerio Público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "si",
+      "rationale": "Establece conducción fiscal y objetividad de la investigación policial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

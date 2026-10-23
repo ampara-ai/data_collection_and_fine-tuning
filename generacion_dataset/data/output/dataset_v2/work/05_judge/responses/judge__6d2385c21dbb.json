@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00252_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios por colaboración y no careo con menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_287_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibir comunicación y aproximación a la víctima en comparecencia restrictiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_287_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Prevé revocación de la comparecencia y prisión preventiva ante incumplimiento, previo requerimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_287_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Permite combinar restricciones para evitar razonablemente el peligro procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_287_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibición de comunicación como restricción sin encarcelamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,12 +1,13 @@
 {
-  "chunks_total": 664,
+  "chunks_total": 893,
+  "chunks_antes_de_limpiar": 899,
   "per_type": {
     "tipo_01_ley_30364": 73,
-    "tipo_02_codigo_penal": 56,
-    "tipo_03_codigo_procesal_penal": 283,
+    "tipo_02_codigo_penal": 132,
+    "tipo_03_codigo_procesal_penal": 437,
     "tipo_04_jurisprudencia": 248,
-    "tipo_05_documentos_institucionales": 4
+    "tipo_05_documentos_institucionales": 3
   },
   "missing_or_empty": [],
-  "output_path": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/recoleccion/data/processed/document_chunks_all.jsonl"
+  "output_path": "/Users/renato/universidad/tp/peru-legal-rag-data/recoleccion/data/processed/document_chunks_all.jsonl"
 }

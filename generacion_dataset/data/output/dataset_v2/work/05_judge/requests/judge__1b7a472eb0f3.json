@@ -1,0 +1,59 @@
+{
+ "task_id": "judge__1b7a472eb0f3",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00462_e0003::q01\",\n  \"question\": \"La mamá del niño no se presentó a declarar en el juicio aunque la citaron. ¿El juez puede hacer que la traigan?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_379_01\",\n    \"title\": \"Artículo 379. Inconcurrencia del testigo o perito\",\n    \"text\": \"1. Cuando el testigo o perito, oportunamente citado, no haya comparecido, el Juez ordenará que sea conducido compulsivamente y ordenará a quien lo propuso colabore con la diligencia.\\n2. Si el testigo o perito no puede ser localizado para su conducción compulsiva, el juicio continuará con prescindencia de esa prueba.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00462_e0003::q02\",\n  \"question\": \"Mi sobrino de 10 años dice que un familiar le tocó sus partes íntimas. ¿Eso es delito aunque no lo hayan violado y qué castigo tiene?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_176-a_01\",\n    \"title\": \"Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores\",\n    \"text\": \"El que sin propósito de tener acceso carnal regulado en el artículo 170, realiza sobre un menor de catorce años u obliga a este a efectuar sobre sí mismo, sobre el agente o tercero, tocamientos indebidos en sus partes íntimas, actos de connotación sexual en cualquier parte de su cuerpo o actos libidinosos, será reprimido con pena privativa de libertad no menor de nueve ni mayor de quince años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00462_e0003::q03\",\n  \"question\": \"Una familiar vio algo pero no quiere ir a declarar por miedo a problemas. ¿Le pueden hacer algo si no va?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_371_01\",\n    \"title\": \"Artículo 371.- Negativa a colaborar con la administración de justicia\",\n    \"text\": \"El testigo, perito, traductor o intérprete que, siendo legalmente requerido, se abstiene de comparecer o prestar la declaración, informe o servicio respectivo, será reprimido con pena privativa de libertad no mayor de dos años o con prestación de servicio comunitario de veinte a treinta jornadas.\\nEl perito, traductor o intérprete será sancionado, además, con inhabilitación de seis meses a dos años conforme al artículo 36, incisos 1, 2 y 4.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_379_01\",\n    \"title\": \"Artículo 379. Inconcurrencia del testigo o perito\",\n    \"text\": \"1. Cuando el testigo o perito, oportunamente citado, no haya comparecido, el Juez ordenará que sea conducido compulsivamente y ordenará a quien lo propuso colabore con la diligencia.\\n2. Si el testigo o perito no puede ser localizado para su conducción compulsiva, el juicio continuará con prescindencia de esa prueba.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00462_e0003::q04\",\n  \"question\": \"Voy a ir al juicio por lo que le pasó a mi sobrino. ¿Cómo empieza la audiencia y quién habla primero?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_371_01\",\n    \"title\": \"Artículo 371. Apertura del juicio y posición de las partes\",\n    \"text\": \"1. Instalada la audiencia, el Juez enunciará el número del proceso, la finalidad específica del juicio, el nombre y los demás datos completos de identidad personal del acusado, su situación jurídica, el delito objeto de acusación y el nombre del agraviado.\\n2. Acto seguido, el Fiscal expondrá resumidamente los hechos objeto de la acusación, la calificación jurídica y las pruebas que ofreció y fueron admitidas. Posteriormente, en su orden, los abogados del actor civil y del tercero civil expondrán concisamente sus pretensiones y las pruebas ofrecidas y admitidas. Finalmente, el defensor del acusado expondrá brevemente sus argumentos de defensa y las pruebas de descargo ofrecidas y admitidas.\\n3. Culminados los alegatos preliminares, el Juez informará al acusado de sus derechos y le indicará que es libre de manifestarse sobre la acusación o de no declarar sobre los hechos. El acusado en cualquier estado del juicio podrá solicitar ser oído, con el fin de ampliar, aclarar o complementar sus afirmaciones o declarar si anteriormente se hubiera abstenido. Asimismo, el acusado en todo momento podrá comunicarse con su defensor, sin que por ello se paralice la audiencia, derecho que no podrá ejercer durante su declaración o antes de responder a las preguntas que se le formulen.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00462_e0003::q05\",\n  \"question\": \"Absolvieron a quien abusó de mi sobrino diciendo que faltaban pruebas, pero no insistieron en traer a una testigo clave. ¿Se puede repetir el juicio?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo04_jp_00462_e0003_01\",\n    \"title\": \"Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]\",\n    \"text\": \"Título: Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]\\nTipo de resolución: Recurso de Nulidad\\nHechos relevantes: Se imputa a Wilmer Yossy Chullunquia de la Cruz que, en 2013, llevó a su sobrino menor de edad (J. A. A. A.) al dormitorio de un tío, se bajó los pantalones, lo hizo sentar en sus piernas y lo sujetó mientras le decía que se callara. En 2014, en una fiesta familiar, mientras el menor dormía, el imputado lo penetró y manoseó sus genitales.\\nProblema jurídico: Determinar si la Sala superior incurrió en una incorrecta valoración de la prueba al no insistir en la conducción compulsiva de la testigo denunciante, cuya declaración era esencial para el esclarecimiento de los hechos.\\nCriterio principal: Se declaró nula la sentencia absolutoria y se ordenó un nuevo juicio oral, al considerar que la Sala superior no agotó los mecanismos de conducción compulsiva de la testigo denunciante (de vital importancia) antes de prescindir de su declaración.\\nFundamentación resumida: La Corte Suprema consideró que, si bien se dispuso el uso de la fuerza pública en dos ocasiones para la comparecencia de la testigo denunciante, estos intentos fallidos no justificaban prescindir de su declaración, dado que su testimonio era de vital importancia para individualizar a una tercera persona en un audio y esclarecer los hechos. Por tanto, la sala superior incumplió su deber de esclarecimiento.\\nDecisión o resultado: Se declaró nula la sentencia absolutoria y se ordenó la realización de un nuevo juicio oral con diligencias.\\nRelevancia para violencia familiar: Delito de violación sexual de menor de edad y actos contra el pudor en menor.\\nRelevancia procesal: Anulación de sentencia absolutoria por falta de agotamiento de la conducción compulsiva de testigo de vital importancia; nuevo juicio oral.\\nContexto práctico: La Corte Suprema establece que, cuando la declaración de un testigo es de vital importancia para el esclarecimiento de los hechos, los jueces deben insistir en su conducción compulsiva aun cuando los primeros intentos hayan sido fallidos. No basta con dos intentos; se debe reiterar el requerimiento.\\nNormas aplicables: Codigo Penal art(s). 176-A.3, 173.2; Codigo Procesal Penal (NCPP/CPP de 2004) art(s). 379\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo04_jp_00138_e0022_01::q02\",\n  \"question\": \"Dejaron libre al que violó a mi niña porque dijeron que se contradijo al contar. ¿Hay forma de que revisen otra vez?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_432_01\",\n    \"title\": \"Artículo 432. Competencia\",\n    \"text\": \"1. El recurso atribuye a la Sala Penal de la Corte Suprema el conocimiento del proceso sólo en cuanto a las causales de casación expresamente invocadas por el recurrente, sin perjuicio de las cuestiones que sean declarables de oficio en cualquier estado y grado del proceso.\\n2. La competencia de la Sala Penal de la Corte Suprema se ejerce sobre los errores jurídicos que contenga la resolución recurrida. Está sujeta de manera absoluta a los hechos legalmente comprobados y establecidos en la sentencia o auto recurridos.\\n3. Los errores jurídicos de la sentencia recurrida que no influyeren en su parte dispositiva no causan nulidad. La Sala deberá corregirlos en la sentencia casatoria.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00462_e0003::q01",
+     "chunk_tipo03_cpp_art_379_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "case::jp_00462_e0003::q02",
+     "chunk_tipo02_cp_art_176-a_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "case::jp_00462_e0003::q03",
+     "chunk_tipo02_cp_art_371_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "case::jp_00462_e0003::q03",
+     "chunk_tipo03_cpp_art_379_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "case::jp_00462_e0003::q04",
+     "chunk_tipo03_cpp_art_371_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "case::jp_00462_e0003::q05",
+     "chunk_tipo04_jp_00462_e0003_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo04_jp_00138_e0022_01::q02",
+     "chunk_tipo03_cpp_art_432_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__1b7a472eb0f3.json"
+}

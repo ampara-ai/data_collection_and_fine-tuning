@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula plazos y ejecución de medidas por el juzgado de familia, pero no la actuación fiscal ante flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "si",
+      "rationale": "Ordena al fiscal activar el programa de asistencia y pedir medidas de protección ante flagrancia con riesgo severo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_252_01",
+      "relevance": "parcial",
+      "rationale": "Prevé un programa de protección, sin especificar qué debe hacer el fiscal en esta situación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber general de proteger frente a amenazas, sin precisar la actuación fiscal en flagrancia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica evaluación del riesgo doméstico, sin detallar la intervención fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite medidas urgentes sin audiencia previa, sin regular el deber del fiscal ante flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Fija penas por un delito vinculado a migrantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Describe medidas complementarias para personas protegidas, sin indicar la actuación inicial ante flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección ante peligro doméstico, pero no describe las funciones del fiscal peruano."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Enumera medidas de protección adoptables por fiscal o juez, pero no el trámite específico ante flagrancia y riesgo severo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves y sus penas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Ubica la decisión en la audiencia del proceso inmediato, pero las veinticuatro horas corresponden a remitir copias y no fija el plazo para decidir el alejamiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata transferencia de competencia, no revisión de medidas por otro despacho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "si",
+      "rationale": "Prevé que el juzgado de familia ratifique, amplíe o varíe las medidas dictadas por el juzgado penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Sanciona el beneficio derivado de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige reevaluación de medidas y recursos frente a su levantamiento, sin precisar el despacho peruano competente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula agentes encubiertos y técnicas de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos funcionales de magistrados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_38_01",
+      "relevance": "no",
+      "rationale": "Fija duración de inhabilitación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza el inicio de persecución penal para encubrimiento personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "Regula arresto ciudadano."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "parcial",
+      "rationale": "Prevé revisión en apelación ante sala de familia, pero no la ratificación de medidas penales por otro juzgado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula robo agravado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula remisión del imputado menor de edad al fiscal de familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_17-a_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Admite impugnar medidas dictadas sin audiencia previa, sin regular su remisión entre juzgados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de apelación del actor civil, no desistimiento de reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin lesión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias del juez de investigación, sin plazo de desistimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata motivación de sentencias sobre daño psicológico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula el plazo para constituirse actor civil, no para desistirse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "Regula extinción de acción penal privada, no desistimiento de pretensión civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula medios de defensa procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "parcial",
+      "rationale": "Permite desistir antes de la acusación para acudir a otra vía, sin fijar el límite del inicio de la etapa intermedia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "Regula determinación del daño psíquico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "no",
+      "rationale": "Regula valor de actuaciones de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "Define violencia contra las mujeres."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "si",
+      "rationale": "Fija el desistimiento de reparación civil hasta antes del inicio de la etapa intermedia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección por reacción ansiosa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento de recursos, no de pretensiones indemnizatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Reserva la vía civil al derivar un imputado menor de edad, sin tratar desistimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "Regula extinción de la acción penal, no del reclamo civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Prevé abandono de la constitución en actor civil por inasistencia, sin aclarar el derecho a cobrar en otra vía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento tácito de querella por faltas, un supuesto distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento de una excepción de competencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento del agresor en delitos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza legitimación para impugnar y reparación, sin efectos del desistimiento civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a reparación, sin explicar los efectos de retirarse del proceso penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "Regula costas procesales, sin resolver la subsistencia del derecho indemnizatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "si",
+      "rationale": "Aclara que desistirse de la reparación en sede penal no perjudica reclamar en la vía civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_13_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "si",
+      "rationale": "Dispone que el desistimiento genera la obligación de pagar costas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

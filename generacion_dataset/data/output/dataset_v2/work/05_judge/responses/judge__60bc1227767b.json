@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "si",
+      "rationale": "Atribuye al juzgado de familia la supervisión del cumplimiento en coordinación con otras entidades."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "si",
+      "rationale": "Ordena visitas periódicas e inopinadas cuando la víctima es una persona adulta mayor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-b_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "si",
+      "rationale": "Enumera entidades que pueden supervisar donde no existe equipo multidisciplinario judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_23-b_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "si",
+      "rationale": "Prevé supervisión mediante visitas periódicas e inopinadas para mujeres gestantes con medidas de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

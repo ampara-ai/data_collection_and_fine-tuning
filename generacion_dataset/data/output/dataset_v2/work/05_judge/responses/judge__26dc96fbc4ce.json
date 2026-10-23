@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "parcial",
+      "rationale": "Regula la revocación de una pena ya suspendida sin explicar si el abuso permite suspenderla inicialmente."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Tipifica esclavitud y servidumbre excluyendo explotación sexual sin regular suspensión de pena."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "La reducción por responsabilidad restringida no determina si se puede suspender la prisión."
+    },
+    {
+      "dataset_id": "case::jp_00149_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de audiencias y no de la ejecución de una condena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

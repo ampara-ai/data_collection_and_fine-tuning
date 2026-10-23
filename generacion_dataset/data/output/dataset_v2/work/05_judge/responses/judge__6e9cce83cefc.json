@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00672_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "parcial",
+      "rationale": "Solo especifica la facultad del actor civil de recurrir medidas patrimoniales que afecten su reparación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

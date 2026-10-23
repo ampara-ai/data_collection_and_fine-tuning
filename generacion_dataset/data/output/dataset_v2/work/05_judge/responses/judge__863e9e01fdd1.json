@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "si",
+      "rationale": "Declara válido el reemplazo de una jueza durante los alegatos finales si la sustituta interviene hasta culminar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo el reemplazo de magistrada no vulnera la inmediación ni justifica anular la condena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

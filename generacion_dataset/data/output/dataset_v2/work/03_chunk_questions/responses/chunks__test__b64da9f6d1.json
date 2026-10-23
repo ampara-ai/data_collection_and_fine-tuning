@@ -1,0 +1,106 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Soy víctima de violencia y pedí fotocopias oficiales de mi queja contra un funcionario, pero me piden pagar. ¿Me las tienen que dar gratis?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La gratuidad prevista para víctimas no cubre copias certificadas de expedientes disciplinarios; el cobro por reproducirlas es válido."
+    },
+    {
+     "query": "Dije que sufro maltrato, pero no tengo ninguna resolución de un juez que lo confirme. ¿Eso me perjudica para pedir cosas gratis?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Tribunal consideró que la demandante no acreditó su condición de víctima con una resolución judicial, lo que pesó en el rechazo de su pedido."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_417_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si no estoy de acuerdo con lo que decidió el juez que vio el caso de mi agresor, ¿a qué tribunal más alto puedo ir para que lo revisen?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Las decisiones del juez de investigación y del juzgado penal se revisan en la Sala Penal Superior."
+    },
+    {
+     "query": "El juzgado de paz letrado absolvió a mi agresor y quiero apelar. ¿Quién revisa esa sentencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las sentencias del Juzgado de Paz Letrado son revisadas por el Juzgado Penal unipersonal."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_195_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana apareció muerta y sospechamos que su pareja le hizo daño. ¿Quién va al lugar a recoger el cuerpo y quién debe estar presente?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal realiza el levantamiento del cadáver, con médico legista y policía especializada si es posible, y se deja constancia en acta."
+    },
+    {
+     "query": "Después de que examinan el cuerpo de un familiar fallecido, ¿cómo comprueban que de verdad es esa persona?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La identificación se hace por descripción externa, documentos, huellas dactilares o palmares u otro medio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_474_01",
+   "skip": true,
+   "skip_reason": "Trata de la colaboración eficaz en criminalidad organizada y corrupción; no corresponde a una duda natural de víctimas de violencia familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me atacaron varios hombres y solo uno abusó de mí, pero los otros estaban ahí intimidándome. ¿También son responsables los que no me tocaron?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien actúa en un plan conjunto y con su presencia intimida a la víctima es cooperador necesario de la violación, aunque no la ejecute personalmente."
+    },
+    {
+     "query": "Mi prima con discapacidad fue llevada a la fuerza por un grupo y agredida. ¿Todos los del grupo pueden ser castigados, aunque no la hayan sujetado?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No hace falta sujetar físicamente a la víctima; basta contribuir al plan conjunto y crear un ambiente intimidatorio para responder penalmente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_84_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citaron a la comisaría por una denuncia en mi contra. ¿Mi abogado puede acompañarme desde ese momento y hablar conmigo si me detienen?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El abogado puede asesorar desde que su cliente es citado o detenido por la policía y entrar a dependencias policiales y penales para entrevistarlo."
+    },
+    {
+     "query": "¿Un abogado puede revisar el expediente completo y sacar copias del caso en cualquier momento, o hay algo que no le permiten?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El abogado tiene acceso a documentos policiales y expedientes fiscales y judiciales, y a copia simple en cualquier etapa, salvo limitaciones legales."
+    }
+   ]
+  }
+ ]
+}

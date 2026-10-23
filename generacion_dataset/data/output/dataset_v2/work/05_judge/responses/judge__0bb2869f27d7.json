@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00150_e0012::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acercamiento sexual sin consentimiento y agrava por edad y domicilio común."
+    },
+    {
+      "dataset_id": "case::jp_00150_e0012::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Define el acoso sexual presencial y por redes y establece sus penas."
+    },
+    {
+      "dataset_id": "case::jp_00150_e0012::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "La dependencia o subordinación de la víctima agrava expresamente el acoso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "parcial",
+      "rationale": "La privación de libertad permite examinar el encierro, pero no la explotación laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "si",
+      "rationale": "Tipifica esclavitud o servidumbre laboral y agrava por parentesco."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No tipifica ni explica la explotación laboral descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "si",
+      "rationale": "Establece agravantes de esclavitud por parentesco, enfermedad y discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "si",
+      "rationale": "El consentimiento de adolescentes carece de efectos y su edad agrava la explotación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "si",
+      "rationale": "Resuelve una riña patrimonial entre hermanastros y exige contexto y relación asimétrica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "si",
+      "rationale": "Explica que el parentesco solo no configura agresiones contra el grupo familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Regula explotación sexual y no la validez de un operativo policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No regula la intervención policial en flagrancia ni la autorización fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la intervención policial en flagrancia ni la autorización fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "No regula la intervención policial en flagrancia ni la autorización fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Explica la determinación conjunta de reparación y pena, sin las cantidades del caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Regula cheques y no la condena por abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento civil, sin indicar la condena ni el pago del caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

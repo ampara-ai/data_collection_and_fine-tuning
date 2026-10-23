@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "si",
+      "rationale": "Fija un máximo de setenta y dos horas desde la recepción del auto y declara inaplazable la audiencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "si",
+      "rationale": "Responsabiliza a las partes de preparar y convocar a sus órganos de prueba y garantizar su presencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "si",
+      "rationale": "Ordena sesiones continuas e ininterrumpidas hasta concluir el juicio inmediato."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

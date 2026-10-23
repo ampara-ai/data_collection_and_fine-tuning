@@ -1,0 +1,161 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "parcial",
+      "rationale": "Contempla identificar al tercero civil responsable en la solicitud, sin regular su incorporación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "si",
+      "rationale": "Permite incorporar al tercero civilmente responsable e indica nombre, domicilio y vínculo jurídico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién ejerce la acción civil, pero no la responsabilidad de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_349_01",
+      "relevance": "parcial",
+      "rationale": "Menciona al tercero civil en la acusación, pero no los datos para solicitar su incorporación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "si",
+      "rationale": "Permite incorporar al tercero civilmente responsable e indica nombre, domicilio y vínculo jurídico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No regula la incorporación ni la responsabilidad civil del tercero al que se quiere reclamar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_111_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Describe la apertura del juicio con el tercero civil ya presente, no los requisitos para incorporarlo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,203 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00152_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil y exige cumplimiento durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Las costas corresponden al vencido, con posible exención motivada."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Señala gratuidad con excepción de costas, sin determinar quién las paga."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina quién paga las costas cuando el condenado pierde el recurso."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Explica condiciones y exclusiones de la suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Exige ausencia de libre consentimiento, sin regular específicamente incapacidad mental."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso sexual con conocimiento de incapacidad mental para consentir."
+    },
+    {
+      "dataset_id": "case::jp_00152_e0009::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "si",
+      "rationale": "Rechaza error sobre la agravante porque el vecino conocía la condición de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "si",
+      "rationale": "Tipifica provecho ilícito mediante engaño que causa perjuicio económico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "No define el delito de obtener dinero mediante un negocio ficticio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "si",
+      "rationale": "Fija de uno a seis años de prisión por estafa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_196_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "si",
+      "rationale": "Define engaño, error, provecho ilícito y perjuicio como elementos de estafa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Declara inefectivas las medidas tardías o discontinuas y sustenta responsabilidad estatal por desprotección."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera reserva de datos, protección policial y cambio de residencia según el riesgo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Fija plazos de prisión preventiva según proceso común, complejo u organizado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Autoriza detención judicial sin flagrancia o ante fuga y regula la comunicación policial."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "si",
+      "rationale": "Exige motivación especial y fundamentos concretos para las medidas judiciales coercitivas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0009::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Permite facilitar salida al extranjero ante riesgo grave e inminente no salvaguardable de otro modo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

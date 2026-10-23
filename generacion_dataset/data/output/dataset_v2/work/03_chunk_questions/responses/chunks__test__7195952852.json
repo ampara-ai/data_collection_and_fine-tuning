@@ -1,0 +1,111 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Trabajo en una casa y mi patrón me ha forzado varias veces. Si lo denuncio, ¿su abogado puede pedir que se hagan más pruebas para defenderse?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El chunk explica que el acusado de violación a su empleada doméstica reclamó su derecho a presentar pruebas y que negarle la mayoría de ellas vulneró su derecho de defensa."
+    },
+    {
+     "query": "¿Cuenta como violación si quien me obliga es mi jefe y yo dependo de él para vivir y trabajar en su casa?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El chunk describe un caso de violación sexual contra una empleada doméstica dependiente de su empleador, con penetraciones forzadas, golpes y daño psicológico (estrés postraumático)."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija fue abusada por su papá varios días y ahora no recuerda cuántas veces fue. ¿Eso hace que no le crean?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El tribunal consideró irrelevante la variación en el número de veces cuando la violación fue reiterada, pues la declaración de la víctima estaba respaldada por otras pruebas."
+    },
+    {
+     "query": "Mi hija se retractó por presión de la familia, pero antes contó todo. ¿Aún se puede condenar al agresor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La retractación fue desvirtuada porque la menor explicó que la presionaron; la condena se mantuvo con base en la declaración de la madre y las pericias psicológica y médica."
+    },
+    {
+     "query": "¿Qué castigo recibe un padre que abusa sexualmente de su hija de once años y cuánto tiene que pagar por el daño?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó cadena perpetua, tratamiento terapéutico y veinte mil soles de reparación civil para el padre que violó a su hija menor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿A quiénes protege la ley contra la violencia en el hogar? Mi abuelita y mi hermano con discapacidad también sufren maltratos.",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La ley protege a mujeres y a integrantes del grupo familiar, especialmente a niños, adolescentes, adultos mayores y personas con discapacidad."
+    },
+    {
+     "query": "¿Esta ley solo castiga al agresor o también ayuda a la víctima a recuperarse?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La ley establece prevención, atención, protección y reparación del daño a las víctimas, además de sanción y reeducación de agresores."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_542_01",
+   "skip": true,
+   "skip_reason": "Trata de condiciones técnicas para trasladar condenados a cumplir su pena en otro país; es un trámite de cooperación internacional que una víctima no preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me amenaza de muerte y me persigue. Si me llegara a matar, ¿cuántos años de cárcel le tocarían?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El asesinato de una mujer por su condición de tal se castiga con no menos de veinte años, aunque ya no haya relación de pareja."
+    },
+    {
+     "query": "¿En qué casos le dan al asesino de una mujer una pena todavía más grave, como cárcel de por vida?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena sube a no menos de treinta años con agravantes (embarazo, menor, discapacidad, hijos presentes, borrachera, etc.) y a cadena perpetua si concurren dos o más."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi nieta de once años fue tocada por su abuelo desde pequeña. ¿Esto es delito aunque sea de la familia y haya pasado durante años?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El caso describe abusos sexuales continuados de un abuelo contra su nieta desde los 5 hasta los 11 años, con secuelas psicológicas, y terminó en condena."
+    },
+    {
+     "query": "El agresor de mi hija apeló y dice que los jueces que revisan el caso ya estaban en contra de él. ¿Puede anularse la condena por eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se pierde la imparcialidad si el tribunal solo revisa la legalidad de decisiones previas sin juzgar la culpabilidad; el recurso fue rechazado y la condena confirmada."
+    }
+   ]
+  }
+ ]
+}

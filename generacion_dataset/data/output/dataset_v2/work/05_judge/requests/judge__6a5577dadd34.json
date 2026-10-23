@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__6a5577dadd34",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo01_ley30364_art_121-a_01::q01\",\n  \"question\": \"Mi mamá de 70 años quedó muy herida tras los golpes de mi hermano, que se aprovecha de que ella no se puede defender. ¿Qué pena le tocaría?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo01_ley30364_art_121-a_01\",\n    \"title\": \"Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad\",\n    \"text\": \"Artículo 121-A . Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad\\nEn los casos previstos en la primera parte del artículo 121, cuando la víctima sea menor de edad, mayor de sesenta y cinco años o sufre discapacidad física o mental y el agente se aprovecha de dicha condición se aplica pena privativa de libertad no menor de seis ni mayor de doce años.\\nCuando la víctima muere a consecuencia de la lesión y el agente pudo prever ese resultado, la pena será no menor de doce ni mayor de quince años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo02_cp_art_321_01::q01\",\n  \"question\": \"Un policía golpeó y maltrató a mi hermana embarazada para hacerla hablar mientras estaba detenida. ¿Qué castigo puede recibir?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_321_01\",\n    \"title\": \"Artículo 321.- Tortura\",\n    \"text\": \"El funcionario o servidor público, o cualquier persona con el consentimiento o aquiescencia de aquel, que inflige dolores o sufrimientos graves, sean físicos o mentales, a otra persona o la somete a cualquier método tendente a menoscabar su personalidad o disminuir su capacidad mental o física, es reprimido con pena privativa de libertad no menor de ocho ni mayor de catorce años.\\nLa pena privativa de libertad es no menor de quince ni mayor de veinte años, cuando la víctima:\\na. Resulte con lesión grave.\\nb. Tiene menos de dieciocho años o es mayor de sesenta años de edad.\\nc. Padece de cualquier tipo de discapacidad.\\nd. Se encuentra en estado de gestación.\\ne. Se encuentra detenida o recluida, y el agente abusa de su condición de autoridad para cometer el delito.\\nSi se produce la muerte de la víctima y el agente pudo prever ese resultado, la pena privativa de libertad es no menor de veinte ni mayor de veinticinco años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_218_01::q01\",\n  \"question\": \"Mi pareja guarda en su casa lo que usó para golpearme y no lo quiere entregar, ¿la policía puede llevárselo sin esperar permiso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_218_01\",\n    \"title\": \"Artículo 218. Solicitud del Fiscal\",\n    \"text\": \"1. Cuando el propietario, poseedor, administrador, tenedor u otro requerido por el Fiscal para que entregue o exhiba un bien que constituye cuerpo del delito y de las cosas que se relacionen con él o que sean necesarias para el esclarecimiento de los hechos investigados, se negare a hacerlo o cuando la Ley así lo prescribiera, el Fiscal, solicitará al Juez de la Investigación Preparatoria ordene su incautación o exhibición forzosa. La petición será fundamentada y contendrá las especificaciones necesarias.\\n2. La Policía no necesitará autorización del Fiscal ni orden judicial cuando se trata de una intervención en flagrante delito o peligro inminente de su perpetración, de cuya ejecución dará cuenta inmediata al Fiscal. Cuando existe peligro por la demora, la exhibición o la incautación debe disponerla el Fiscal. En todos estos casos, el Fiscal una vez que tomó conocimiento de la medida o dispuso su ejecución, requerirá al Juez de la Investigación Preparatoria la correspondiente resolución confirmatoria.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+     "chunk_tipo01_ley30364_art_121-a_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo02_cp_art_321_01::q01",
+     "chunk_tipo02_cp_art_321_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_218_01::q01",
+     "chunk_tipo03_cpp_art_218_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__6a5577dadd34.json"
+}

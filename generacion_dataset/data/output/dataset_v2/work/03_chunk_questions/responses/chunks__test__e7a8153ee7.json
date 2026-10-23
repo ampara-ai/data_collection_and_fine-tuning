@@ -1,0 +1,87 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_450_01",
+   "skip": true,
+   "skip_reason": "Regula el procedimiento especial contra altos funcionarios acusados por el Congreso; es un trámite institucional que una víctima de violencia familiar no preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_469_01",
+   "skip": true,
+   "skip_reason": "Trata un trámite técnico de acuerdos de terminación anticipada con varios imputados y hechos; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un hombre mayor sigue a mi hija de 12 años a la salida del colegio y le escribe por redes buscando acercarse a ella con malas intenciones. ¿Eso es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Perseguir, hostigar o buscar contacto con un menor de hasta 14 años con fines sexuales, incluso por medios tecnológicos, es delito."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le pueden dar a alguien que persigue a una niña para propósitos sexuales?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena es de seis a nueve años de prisión, más inhabilitación, y es igual si se usa internet o medios tecnológicos."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 4 años fue tocada por un adulto y me da miedo que tenga que contar todo otra vez delante del acusado en el juicio. ¿La obligan a declarar de nuevo?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La declaración previa del menor debe incorporarse antes del juicio (audio, video o acta) y solo excepcionalmente el menor declara en juicio, para evitar revictimización."
+    },
+    {
+     "query": "¿Cómo deben entrevistar a un niño víctima de abuso para que no lo confundan con preguntas ni lo hagan sufrir?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se exige la presencia de un psicólogo, preguntas no sugestivas, adaptación a la edad del niño y uso de Cámara Gesell."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_103_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El juez no me aceptó como parte para reclamar dinero por el daño que sufrí en el proceso penal. ¿Puedo pedir que otro tribunal revise esa decisión?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La decisión sobre la constitución en actor civil puede apelarse y la resuelve la Sala Penal Superior."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_339_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si el fiscal ya anunció oficialmente que va a investigar formalmente a mi agresor, ¿el tiempo para que el caso se pierda por antigüedad sigue corriendo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La formalización de la investigación suspende el curso de la prescripción de la acción penal."
+    },
+    {
+     "query": "¿Puede el fiscal cerrar mi denuncia por su cuenta después de haber empezado la investigación formal contra mi pareja?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Tras la formalización, el fiscal pierde la facultad de archivar la investigación sin intervención de un juez."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

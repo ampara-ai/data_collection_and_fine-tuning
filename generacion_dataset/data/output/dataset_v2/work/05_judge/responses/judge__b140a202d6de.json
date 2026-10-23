@@ -1,0 +1,377 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00392_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Dispone diligencias urgentes y permite actuación inmediata de la policía en el lugar."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "parcial",
+      "rationale": "Exige al fiscal disponer inmediatamente diligencias, pero no precisa la iniciativa policial autónoma."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Distingue la estrategia jurídica fiscal de la estrategia operativa policial y su coordinación."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige valorar otras pruebas y la dependencia económica que explique la ausencia de incriminación."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Permite acreditar violencia sexual con testigos de referencia e informes periciales aun sin incriminación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige obtener otras pruebas y evitar testimonios repetidos, sin detallar su suficiencia probatoria."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No resuelve cómo acreditar el abuso sin la declaración de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Autoriza proteger y aislar indicios para evitar su desaparición o destrucción."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Permite acudir inmediatamente al lugar y asegurar evidencias y evitar alteraciones."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "case::jp_00392_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "No regula el examen inmediato de la escena ni el aseguramiento de sus evidencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "si",
+      "rationale": "Sanciona el beneficio económico de la explotación sexual aunque no se participe en sus actos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No tipifica recibir beneficios derivados de explotación sexual ajena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "si",
+      "rationale": "Agrava el beneficio de explotación sexual cuando el agente es cónyuge o pariente de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No establece las agravantes por parentesco del beneficiario de explotación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_129-f_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "si",
+      "rationale": "Agrava por pertenencia indígena de la víctima y extrema necesidad económica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_116_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "si",
+      "rationale": "Autoriza al fiscal o juez constituirse donde existan elementos decisivos de convicción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No identifica la vía para exigir el cumplimiento de una indemnización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "No identifica la vía para exigir el cumplimiento de una indemnización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "No identifica la vía para exigir el cumplimiento de una indemnización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Señala que el juez garantiza el cumplimiento de la reparación, sin desarrollar el trámite de reclamo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

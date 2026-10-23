@@ -1,0 +1,107 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "A mi ex lo absolvieron en el juicio, pero a mí me golpearon y casi me matan. ¿Todavía puedo cobrar una indemnización por el daño?",
+   "topic": "reparacion_civil",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_12_01",
+    "chunk_tipo04_jp_00518_e0001_01"
+   ],
+   "positive_selection_reason": "El art. 12.3 CPP dice que la absolución no impide que el juez decida sobre la reparación civil. La sentencia confirma una reparación de cinco mil soles aunque la absolución quedó firme.",
+   "expected_answer_focus": "Que aunque haya absolución penal, el juez puede resolver y conceder la reparación civil si fue reclamada válidamente, como ocurrió en el caso.",
+   "victim_voice_rationale": "La víctima teme quedarse sin nada si el agresor es absuelto."
+  },
+  {
+   "query": "Me dijeron que yo solo puedo reclamar plata por el daño y que no puedo pedir castigo para él. ¿Es cierto?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_105_01",
+    "chunk_tipo04_jp_00518_e0001_01"
+   ],
+   "positive_selection_reason": "El art. 105 CPP dice que el actor civil no puede pedir sanción. La sentencia explica que su intervención se limita al objeto civil y que lo penal depende del Ministerio Público.",
+   "expected_answer_focus": "Que quien reclama la reparación civil no puede pedir sanción penal, y que lo penal corresponde al Ministerio Público.",
+   "victim_voice_rationale": "Es una duda común de quien reclama el pago por el daño y no entiende su papel en el juicio."
+  },
+  {
+   "query": "El fiscal no apeló la absolución de mi agresor y solo apelé yo por el dinero. ¿Un tribunal superior igual puede condenarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00518_e0001_01",
+    "chunk_tipo03_cpp_art_105_01"
+   ],
+   "positive_selection_reason": "La sentencia establece que si solo apela el actor civil, la absolución penal queda firme y no se puede condenar en segunda instancia. El art. 105 respalda el límite de su rol.",
+   "expected_answer_focus": "Que, sin apelación del fiscal, no se puede revocar la absolución por el recurso del actor civil. La condena así dictada es nula, pero la reparación civil se mantiene.",
+   "victim_voice_rationale": "Refleja la confusión de una víctima cuando el fiscal no impugna la absolución."
+  },
+  {
+   "query": "Me preocupa que anulen todo por un error del juez, aunque nadie lo pida. ¿Eso puede pasar en un juicio?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_150_01"
+   ],
+   "positive_selection_reason": "El art. 150 CPP permite declarar de oficio la nulidad por defectos graves, como la inobservancia de garantías constitucionales.",
+   "expected_answer_focus": "Que ciertos defectos graves, como violar garantías constitucionales, pueden declararse nulos de oficio sin que nadie lo pida.",
+   "victim_voice_rationale": "La víctima teme que errores técnicos echen abajo el proceso."
+  },
+  {
+   "query": "Si reclamo que me paguen por el daño en el juicio, ¿puedo presentar mis propias pruebas y apelar si no estoy de acuerdo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_104_01"
+   ],
+   "positive_selection_reason": "El art. 104 CPP enumera las facultades del actor civil: ofrecer pruebas, participar en juicio, apelar y hacer solicitudes.",
+   "expected_answer_focus": "Que quien reclama la reparación civil puede ofrecer pruebas, intervenir en el juicio e interponer recursos.",
+   "victim_voice_rationale": "La víctima quiere saber qué puede hacer por sí misma en el proceso."
+  },
+  {
+   "query": "Viví cinco años con él y me golpeaba. ¿Quién puede reclamar en el juicio penal que me paguen por lo que sufrí?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_98_01"
+   ],
+   "positive_selection_reason": "El art. 98 CPP dice que solo el perjudicado por el delito puede ejercer la acción reparatoria en el proceso penal.",
+   "expected_answer_focus": "Que quien resulta perjudicado por el delito es quien puede reclamar la reparación dentro del proceso penal.",
+   "victim_voice_rationale": "Pregunta con lenguaje cotidiano quién puede pedir compensación."
+  },
+  {
+   "query": "Si después me arrepiento de reclamar dinero en el juicio, ¿hasta cuándo puedo retirarlo y todavía cobrar por otro lado?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_13_01"
+   ],
+   "positive_selection_reason": "El art. 13 CPP fija hasta cuándo se puede desistir de la reparación civil, que queda abierta la vía civil y que el desistimiento implica costas.",
+   "expected_answer_focus": "Que el desistimiento es posible hasta antes de la etapa intermedia, no impide reclamar en la vía civil y genera pago de costas.",
+   "victim_voice_rationale": "La víctima quiere conocer el plazo y las consecuencias de retirar su reclamo."
+  },
+  {
+   "query": "Ya pedí que me paguen por mis golpes dentro del juicio penal. ¿Puedo demandar lo mismo después en otro juzgado si no sale bien?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_12_01"
+   ],
+   "positive_selection_reason": "El art. 12.1 CPP dice que, elegida una vía (penal o civil), no se puede reclamar lo mismo en la otra.",
+   "expected_answer_focus": "Que elegida la vía penal o la civil no se puede reclamar en la otra, salvo cuando el proceso penal no pueda continuar.",
+   "victim_voice_rationale": "La víctima duda si puede volver a reclamar en otro juzgado."
+  },
+  {
+   "query": "Cuando detengan a mi ex por dispararme, ¿qué derechos tiene él? No quiero que lo suelten por algún error en el trámite.",
+   "topic": "procedimiento_penal",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_71_01"
+   ],
+   "positive_selection_reason": "El art. 71 CPP detalla los derechos del imputado que deben respetarse, como abogado, conocer los cargos y no ser coaccionado.",
+   "expected_answer_focus": "Qué derechos debe respetar la autoridad al detenido o investigado, y que su cumplimiento debe constar en acta.",
+   "victim_voice_rationale": "El temor a que un error de procedimiento libere al agresor."
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "Regula archivo fiscal y no independencia de policías investigadores."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "Regula entrega vigilada y no investigación de violencia policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "parcial",
+      "rationale": "Niega presumir consentimiento en pareja pero no trata inconsciencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso carnal con persona incapaz de consentir por alteración de conciencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "Regula medios de prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Tipifica abuso de dependencia en instituciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula transformación de proceso de seguridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Trata modalidades de penetración a menor y no inconsciencia de pareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar contexto de amenazas sin tratar inconsciencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "Regula detención domiciliaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Define violencia sexual sin consentimiento y la aplica a integrantes del grupo familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento de tentativa en menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "Regula legitimados para revisión de sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso carnal aprovechando alteración de conciencia o incapacidad de resistir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "si",
+      "rationale": "Incluye introducción de objetos cuando no puede prestar consentimiento libre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_172_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "si",
+      "rationale": "Fija pena de veinte a veintiséis años para acceso carnal en incapacidad de consentir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_345_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "si",
+      "rationale": "Prevé oposición fundamentada en diez días al requerimiento de sobreseimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_345_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "si",
+      "rationale": "Prevé traslado y audiencia para escuchar a las partes antes de resolver."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_345_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "si",
+      "rationale": "Fija máximo de treinta días o sesenta en casos complejos y criminalidad organizada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_345_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "si",
+      "rationale": "Permite pedir actos adicionales indicando objeto y medios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_345_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "si",
+      "rationale": "Declara la audiencia inaplazable y prevé instalación con los asistentes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

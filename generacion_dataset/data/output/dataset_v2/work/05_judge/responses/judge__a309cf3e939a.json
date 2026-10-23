@@ -1,0 +1,161 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 515-2020, Cajamarca no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "si",
+      "rationale": "Dispone presentar querella ante el Juzgado Penal Unipersonal y señala sus requisitos básicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 80.- Plazos de prescripción de la acción penal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333.- Provocación pública a la desobediencia militar no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 77. Enfermedad del imputado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 332. Informe policial no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16. Proceso especial no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 1381-2022, Moquegua no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 440. Legitimación no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 78.- Causales de extinción no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108. Requisitos para constituirse en querellante particular no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 63.- Efectos de la Reserva de Fallo Condenatorio no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 366. Auxiliar Jurisdiccional no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "si",
+      "rationale": "Exige acompañar una copia del escrito de querella para cada querellado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios] no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 138. Obtención de copias no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_459_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no resuelve lo consultado en esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

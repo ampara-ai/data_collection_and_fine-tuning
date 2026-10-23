@@ -1,0 +1,17 @@
+{
+ "pares_necesarios": 9011,
+ "pares_juzgados": 9011,
+ "pares_faltantes": 0,
+ "por_rol_y_veredicto": {
+  "negative:no": 5254,
+  "negative:parcial": 1027,
+  "negative:si": 151,
+  "origin:no": 6,
+  "origin:parcial": 21,
+  "origin:si": 328,
+  "positive:no": 24,
+  "positive:parcial": 177,
+  "positive:si": 2023
+ },
+ "tareas_pendientes": 0
+}

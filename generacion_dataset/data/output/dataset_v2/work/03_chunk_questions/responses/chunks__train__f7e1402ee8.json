@@ -1,0 +1,143 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pequeña de siete años no volvió a contar al magistrado lo que su papá le hizo y el doctor no halló nada. ¿Él sale libre?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se confirmó la absolución porque la niña no ratificó, el certificado no fue concluyente y faltaba prueba inequívoca."
+    },
+    {
+     "query": "Mi ex y yo tenemos muchas denuncias cruzadas. ¿Eso hace que duden de lo que yo diga sobre lo que le hizo a la niña?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los múltiples procesos entre los padres llevan a ponderar con cuidado las declaraciones de la madre."
+    },
+    {
+     "query": "Si el psicólogo dice que hubo abuso, ¿eso basta para condenar al padre de mi niña?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El informe psicológico no debe prejuzgar el delito y por sí solo no alcanza para dar certeza de condena."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a mi pareja por maltrato. ¿En cuántas horas debe el juzgado decidir si me protege?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juzgado de familia resuelve las medidas en 24 horas, o 48 si no puede determinarse el riesgo, y nunca más de 48 desde la denuncia."
+    },
+    {
+     "query": "Temo que me mate y mi situación es gravísima. ¿Debo esperar una reunión con el juez para que me cuiden?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En riesgo severo el juez puede prescindir de la audiencia y dictar las medidas."
+    },
+    {
+     "query": "Cuando el juez ordena que mi agresor se aleje, ¿quién avisa a la policía y cuándo empieza a cumplirse?",
+     "topic": "medidas_proteccion",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juzgado comunica el mismo día por el medio más rápido a las entidades ejecutoras y las medidas se cumplen de inmediato."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo, de quien estoy separada, me golpeó y me forzó. Si cambio detalles al contar lo ocurrido, ¿pueden dejarlo libre por el abuso sexual?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si la declaración es contradictoria y sin pruebas que la respalden, prevalece la presunción de inocencia por violación."
+    },
+    {
+     "query": "Me agredió y me abusó, pero fui a atenderme y me hicieron exámenes. ¿Eso ayuda a que le crean a mi versión?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La corroboración con otros medios de prueba es necesaria para superar la duda razonable cuando la víctima es la única prueba."
+    },
+    {
+     "query": "El hombre fue condenado por pegarme pero no por violarme. ¿Cómo puede ser?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se revocó la condena por violación pero se mantuvo la condena por agresiones contra la mujer."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_110_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Estoy llevando mi propio caso y me enfermé el día de la audiencia. ¿Pierdo mi denuncia por no ir?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "No ir sin justa causa a las audiencias, a declarar o no presentar conclusiones se considera abandono; la justa causa debe probarse."
+    },
+    {
+     "query": "Si me arrepiento de mi denuncia privada, ¿puedo retirarla y debo pagar algo?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Se puede desistir en cualquier etapa, sin perjuicio del pago de costas."
+    },
+    {
+     "query": "¿En cuánto tiempo debo justificar que no pude asistir a la audiencia de mi denuncia?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La justificación se acredita antes de la diligencia o dentro de las 48 horas siguientes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_63_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Al hombre que me maltrató le dieron una advertencia sin sentencia firme. ¿Igual tiene que pagarme por el daño?",
+     "topic": "reparacion_civil",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Aunque el juez no dicte la condena, igual fija las responsabilidades civiles que procedan."
+    },
+    {
+     "query": "¿Quedan registrados los antecedentes de quien tuvo esa advertencia, y quién puede saberlo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se anota en un registro confidencial al que solo acceden jueces y se cancela al terminar el período de prueba."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mandaron de vuelta el pedido de juicio por mis golpes porque dicen que nos pegamos los dos. ¿Qué reclamo puede hacer el fiscal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si la decisión se dictó en audiencia solo cabe pedir reposición, no apelación, y la queja fue infundada."
+    },
+    {
+     "query": "Dicen que ambos nos agredimos y el fiscal no podría acusar de forma rápida. ¿Mi caso por lesiones se puede demorar así?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juzgado devolvió la acusación directa para subsanación por mutua agresión y el fiscal no logró revertirlo."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "parcial",
+      "rationale": "Fija pena para violación bajo autoridad o vigilancia en establecimientos o detención, sin precisar agravación por ser uniformado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "parcial",
+      "rationale": "Añade inhabilitación por abuso de función pública, pero no determina el aumento de prisión por violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "Regula medios de prueba, no modalidades de violación sin golpes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Define tipos de penetración constitutivos de violación, sin abordar amenazas ni entornos de coacción."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones de responsabilidad, no elementos de la violación por amenaza."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "Regula eximentes incompletas y no beneficios por juventud y falta de antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento de suspensión ya concedida, no requisitos para obtenerla."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "Regula inadmisibilidad de casación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "Regula revocación por nuevo delito, no concesión por juventud y falta de antecedentes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0088::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve acceso a casación y validez de pericias, no ejecución de la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Fija inicio de prescripción penal, no plazo para constituirse en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro y sus agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia del proceso inmediato sin resolver el cómputo para constituirse en actor civil en general."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "parcial",
+      "rationale": "Da reglas generales de cómputo desde notificación, sin identificar el acto que limita la constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce derecho a reparación y momento de determinarla, sin fijar cuándo solicitar constitución en actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00008_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "Calcula plazo de casación del condenado, otro trámite."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

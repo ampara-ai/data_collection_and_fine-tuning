@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_5_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "Regula protección procesal de identidad, sin definir violencia de expareja."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

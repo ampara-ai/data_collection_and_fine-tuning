@@ -1,0 +1,725 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "parcial",
+      "rationale": "Regula los plazos de incoación del proceso inmediato, pero no el plazo general del juicio por flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "parcial",
+      "rationale": "Explica continuidad y suspensiones del juicio, sin precisar las horas para celebrar el juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Declara inaplazable la instalación del juicio, pero fija reglas generales sin el plazo del juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Establece continuidad del juicio y sesiones sucesivas, sin el plazo para el juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve el plazo de celebración ni el carácter inaplazable del juicio inmediato consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "parcial",
+      "rationale": "Regula la conducción de testigos ausentes y la colaboración del proponente, sin la regla especial del juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Identifica deberes generales de citación y localización de testigos, sin la regla especial de presentación al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Prevé traslados para testigos protegidos, sin establecer quién presenta a todos los citados al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber del testigo de concurrir, sin identificar al responsable de presentarlo al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "parcial",
+      "rationale": "Regula citación y conducción por la fuerza pública, sin precisar la obligación especial en juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica la conducción compulsiva de testigos esenciales, sin determinar quién presenta a los citados al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica la conducción compulsiva ordenada por el tribunal, sin indicar quién presenta a los citados al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_167_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las autoridades que pueden citar a víctimas y testigos, sin regular su presentación al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye al auxiliar judicial gestiones para la concurrencia, sin la obligación especial de las partes en juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No identifica al responsable de presentar a la víctima y a los testigos al juicio inmediato."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Exige presencia ininterrumpida y prevé reemplazos, sin fijar la continuidad temporal de las sesiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "si",
+      "rationale": "Establece sesiones continuas y limita las suspensiones del juicio oral."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_392_01",
+      "relevance": "parcial",
+      "rationale": "Regula la continuidad y plazos de la deliberación posterior al debate, no de las audiencias."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_215_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "parcial",
+      "rationale": "Prevé suspensiones de hasta cinco días por cambios en la acusación, sin establecer la regla general de continuidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_448_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula la continuidad temporal de las audiencias de juicio consultadas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,61 @@
+{
+ "questions": [
+  {
+   "query": "Mi esposo me pegó delante de nuestro hijito y el niño quedó muy afectado de los nervios. ¿Eso hace que le caiga más castigo?",
+   "topic": "violencia_psicologica",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El art. 121-B agrava la pena cuando el daño psicológico recae en un niño en contexto de violencia familiar.",
+   "expected_answer_focus": "Que el daño psicológico a un menor presente en la violencia familiar es una agravante con pena mayor.",
+   "victim_voice_rationale": "Madre preocupada por el impacto en su hijo que presenció la agresión."
+  },
+  {
+   "query": "Me agredieron mi marido y sus hermanos entre varios dentro de mi casa. ¿Que sea mi esposo pesa para que le den más cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El art. 121-B agrava las lesiones graves cuando la víctima es cónyuge o conviviente y en contextos de violencia contra la mujer.",
+   "expected_answer_focus": "Que ser cónyuge, conviviente o pariente de la víctima y el contexto de violencia contra la mujer agravan la pena de lesiones graves.",
+   "victim_voice_rationale": "Mujer agredida en su hogar que duda si el vínculo conyugal cambia la sanción."
+  },
+  {
+   "query": "Me dijeron que, para que lo castiguen más fuerte, yo tendría que demostrar que me maltrata solo por ser mujer. ¿Eso es verdad?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0020_01"
+   ],
+   "positive_selection_reason": "La sentencia expone el criterio de que no es indispensable acreditar un contexto de subyugación de género para la agravante.",
+   "expected_answer_focus": "Que no se debería exigir a la víctima probar un contexto de discriminación; basta la afectación de los bienes protegidos.",
+   "victim_voice_rationale": "Víctima que teme una carga de prueba excesiva sobre sus motivos."
+  },
+  {
+   "query": "Pasaron años hasta que acusaron a mi agresor y ahora dicen que fue un pleito aislado. ¿Cómo hago para que vean que sí fue maltrato?",
+   "topic": "desconfianza_en_justicia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0020_01"
+   ],
+   "positive_selection_reason": "La sentencia discute la carga probatoria y la calificación de la violencia como hecho aislado frente a la agravante.",
+   "expected_answer_focus": "Cómo se discute la carga probatoria y por qué una exigencia contextual excesiva debilita la protección.",
+   "victim_voice_rationale": "Víctima desconfiada porque minimizan lo ocurrido como algo aislado."
+  },
+  {
+   "query": "Soy mujer y me golpearon en mi propia casa los de mi familia política. ¿Me corresponde que la ley tome eso como más grave?",
+   "topic": "violencia_fisica",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01",
+    "chunk_tipo04_jp_00051_e0020_01"
+   ],
+   "positive_selection_reason": "El art. 121-B y la jurisprudencia tratan la agravante por violencia contra la mujer en el ámbito familiar.",
+   "expected_answer_focus": "Cuándo la violencia contra una mujer en contexto familiar se considera agravada y cómo se interpreta esa agravante.",
+   "victim_voice_rationale": "Mujer que no sabe si lo vivido es un delito más grave."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

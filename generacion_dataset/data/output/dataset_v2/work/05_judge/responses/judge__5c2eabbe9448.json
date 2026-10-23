@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Garantiza a la agraviada los derechos de información y participación procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "no",
+      "rationale": "Examina medidas de protección ante un riesgo para la vida, no información o participación procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula técnicas especiales de investigación mediante agentes e informantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_132_01",
+      "relevance": "no",
+      "rationale": "Regula comunicaciones entre autoridades, no el acceso de la víctima a su caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata el tiempo de preparación de la defensa del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata la protección estatal contra la violencia doméstica, no derechos de información procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe el trámite de la denuncia y la derivación para asistencia, sin reconocer información ni intervención procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Interpreta el peligro inmediato para adoptar medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula la caución del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula la abstención de declarar, no el derecho a conocer o intervenir en el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica el maltrato y sus agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Describe la participación del actor civil en una audiencia específica, sin desarrollar el derecho general consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Obliga al fiscal a remitir gratuitamente por correo electrónico las copias solicitadas de la carpeta fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_ix_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Prohíbe obligar a declarar contra familiares dentro de los grados de parentesco previstos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

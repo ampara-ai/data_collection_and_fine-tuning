@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_219_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "si",
+      "rationale": "Enumera los datos que debe contener la resolución que autoriza incautar o exhibir un bien."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_219_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "si",
+      "rationale": "Permite que la resolución autorice fotografías, filmaciones o grabaciones e indique el lugar de la diligencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

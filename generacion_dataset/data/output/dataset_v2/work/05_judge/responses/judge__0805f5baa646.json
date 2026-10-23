@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_156_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "parcial",
+      "rationale": "Describe la revelación de intimidad conocida por trabajo, pero no establece que el empleador que conoce datos por su empleada encaje en ese supuesto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_156_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "si",
+      "rationale": "Fija una pena privativa de libertad no mayor de un año para revelar intimidad conocida por el trabajo prestado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_103_01",
+      "relevance": "si",
+      "rationale": "Establece apelación ante la Sala Penal Superior contra la decisión sobre constitución en actor civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

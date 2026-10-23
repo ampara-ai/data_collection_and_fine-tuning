@@ -1,0 +1,118 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_428_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno de admisibilidad del recurso de casación ante la Corte Suprema.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Sufrí un abuso sexual pero no sé explicarlo con palabras exactas. ¿Si digo 'me manosearon', creerán mi declaración?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Las declaraciones de víctimas de violencia sexual no deben desestimarse por usar términos no técnicos o imprecisos."
+    },
+    {
+     "query": "Policías me hicieron daño estando detenida y jamás lo denuncié. ¿Las autoridades igual deben averiguar lo ocurrido?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe investigar de oficio, sin denuncia formal, ante indicios de tortura y violencia sexual."
+    },
+    {
+     "query": "Me cuesta hablar de lo que me hicieron por el trauma. ¿Eso hace que no me tomen en serio?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La declaración debe interpretarse en el contexto de la experiencia traumática y las dificultades para describirla."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a denunciar a la fiscalía el maltrato de mi pareja. ¿En cuánto tiempo pasan mi caso al juez para que me proteja?",
+     "topic": "medidas_proteccion",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La fiscalía remite lo actuado al juzgado de familia en 24 horas pidiendo medidas de protección."
+    },
+    {
+     "query": "Presenté mi caso ante el fiscal. ¿Qué evaluaciones me harán y qué más debe hacer él de inmediato?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La fiscalía aplica la ficha de valoración de riesgo, dispone exámenes y diligencias, y sigue el trámite penal en paralelo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi ex ya no duerme en mi casa, pero tenemos niños y me golpeó cuando vino a verlos. ¿Se considera maltrato dentro de la familia?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En Colombia la Corte exige convivencia actual para ese delito; exparejas sin convivencia no encajan aunque tengan hijos."
+    },
+    {
+     "query": "Llevamos medio año sin compartir casa y me agredió a puñetazos por los pequeños. ¿Un juez colombiano lo declararía culpable?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Sin convivencia desde hace años no se configura el delito de violencia intrafamiliar y se absolvió al acusado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El padre de mi hijo no paga la pensión. ¿Puedo obligar al fiscal a dejarlo libre si paga o es decisión de él?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal decide discrecionalmente aplicar el principio de oportunidad; no se le puede imponer."
+    },
+    {
+     "query": "Existe una guía de varias entidades para casos de padres que no pasan mantenimiento. ¿Esa guía vale más que lo que dice el código?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un protocolo interinstitucional no puede ir contra la ley ni imponer al fiscal una actuación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi ex subió a internet unas fotos íntimas mías sin permiso. ¿Cuántos años de cárcel puede recibir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La pena es de 2 a 5 años, y de 3 a 6 si fue pareja o convivió con la víctima o usó redes sociales."
+    },
+    {
+     "query": "Hicieron un video falso con mi cara en una escena sexual hecho con computadora. ¿Eso también es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Incluye material elaborado o modificado por medios digitales o tecnológicos."
+    },
+    {
+     "query": "Alguien repartió fotos sin ropa de mi hija adolescente de quince. ¿Le darán más años al culpable por ser ella tan joven?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si la víctima es menor de 18 años la pena es de 6 a 10 años, y de 10 a 15 si es menor de 14."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

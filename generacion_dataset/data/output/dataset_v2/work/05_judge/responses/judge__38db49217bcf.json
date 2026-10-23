@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0021_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la entrevista única y su finalidad, pero no explica cómo se realiza ni sus garantías concretas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "si",
+      "rationale": "Sitúa las entrevistas en cámaras Gesell y salas de entrevista del Ministerio Público y sus sedes médico-legales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00423_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "si",
+      "rationale": "Precisa que el fiscal debe interponer reposición contra la devolución dictada en audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00423_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Describe una devolución por supuesta agresión mutua, pero no resuelve su procedencia general ni la demora del proceso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

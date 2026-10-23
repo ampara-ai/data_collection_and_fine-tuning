@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica las lesiones de menos de diez días en contexto familiar y fija pena de uno a tres años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar, no agravantes de la agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata evaluación del riesgo en violencia doméstica, no aumento de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza tipicidad en riña entre hermanastros, no agravantes por hijos presentes o incumplimiento de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata inaplicabilidad de acuerdos reparatorios, no aumento de pena por esas circunstancias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Incluye como agravantes infringir medidas de protección y agredir ante menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe suspender la pena en estas agresiones, pero no establece las agravantes consultadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "Regula articulación de servicios mediante protocolo, no agravantes penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimento de salida, no agravantes por incumplir protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusa absolutoria en delitos patrimoniales, no agravantes de agresiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales de testigos, no agravantes penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves y otras agravantes, sin responder las dos circunstancias consultadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Analiza violencia intrafamiliar colombiana y convivencia, no las agravantes peruanas consultadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_122-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado, no agravantes del castigo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

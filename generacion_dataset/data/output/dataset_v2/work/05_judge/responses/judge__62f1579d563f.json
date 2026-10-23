@@ -1,0 +1,77 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00133_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "si",
+      "rationale": "El precedente admite pixelación y distorsión de voz como protección y evalúa si causan indefensión."
+    },
+    {
+      "dataset_id": "case::jp_00133_e0010::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "si",
+      "rationale": "Limita el testimonio a hechos percibidos y excluye opiniones sobre hechos y responsabilidades salvo testigo técnico."
+    },
+    {
+      "dataset_id": "case::jp_00133_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "si",
+      "rationale": "Admite conocimiento indirecto e impone identificar cómo y de quién se obtuvo la información."
+    },
+    {
+      "dataset_id": "case::jp_00133_e0010::q04",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata de detalles gestuales y ocultación de identidad, sin resolver directamente pequeñas inconsistencias del relato."
+    },
+    {
+      "dataset_id": "case::jp_00133_e0010::q05",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "si",
+      "rationale": "Rechaza la nulidad basada en pixelación cuando no se acredita indefensión material."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_30_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "si",
+      "rationale": "Prevé servicios estatales de tratamiento para reeducar al agresor y detener la violencia, sin prometer evitar una pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_30_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "si",
+      "rationale": "Establece como política estatal crear servicios de tratamiento y reeducación de agresores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_461_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "si",
+      "rationale": "Permite solicitar investigación preliminar judicial para identificar al querellado o localizar su domicilio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_461_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "si",
+      "rationale": "Exige completar la querella dentro del quinto día de notificado el informe policial para evitar caducidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00152_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce agravación por discapacidad intelectual y exige valorar la eficacia de violencia o amenaza."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00152_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "si",
+      "rationale": "Rechaza el error sobre la agravante cuando se acredita que el agresor conocía la discapacidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00152_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "si",
+      "rationale": "Ordena valorar la amenaza según la vulnerabilidad de la víctima y la diferencia física y de edad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

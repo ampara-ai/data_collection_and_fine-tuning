@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Confirma la condena pese a la retractación al considerarla carente de credibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 16. Proceso especial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 425. Sentencia de segunda instancia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Expone criterios de credibilidad del testimonio, sin desarrollar cómo evaluar una retractación o presiones familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Enumera los cinco criterios para valorar la retractación y la posible manipulación familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 215.- Modalidades de libramientos indebidos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 163. Obligaciones del testigo» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 63.- Efectos de la Reserva de Fallo Condenatorio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 386. Desarrollo de la discusión final» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 46.- Circunstancias de atenuación y agravación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Expone requisitos de credibilidad de una menor que ratificó su relato, sin resolver la retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 212. Examen corporal de otras personas» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar dependencia familiar y prueba periférica ante falta de declaración, pero no desarrolla los criterios de retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Exp. 00199-2018-0» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "La retractación escrita no basta para liberar al agresor cuando la prueba corroborativa sostiene la acusación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 434. Efectos de la anulación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 26. Certificados e informes médicos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 335. Prohibición de nueva denuncia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Analiza los efectos de una retractación y la insuficiencia probatoria, sin tratar la huida ni el reconocimiento parcial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Valora el reconocimiento parcial como corroboración, sin analizar huida ni cambio de versión de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 189.- Robo agravado» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 185.- Hurto simple» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Valora expresamente la huida y el reconocimiento parcial junto con las pruebas que desvirtúan la retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 383. Lectura de la prueba documental» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Detalla la valoración de retractaciones, pero no el peso de la huida o del reconocimiento parcial del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 206.- Formas agravadas» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0047_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 386. Desarrollo de la discusión final» no aporta la información necesaria para resolver esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

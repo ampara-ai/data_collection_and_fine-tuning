@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_76_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "si",
+      "rationale": "Exige peritaje y audiencia antes de suspender el proceso por anomalía psíquica grave que impida continuarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_76_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "si",
+      "rationale": "Prevé suspensión temporal e internamiento si resulta necesario, permitiendo continuar la investigación del hecho."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_76_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "si",
+      "rationale": "Dispone que un perito especializado examine al imputado y que el órgano judicial evalúe el dictamen en audiencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

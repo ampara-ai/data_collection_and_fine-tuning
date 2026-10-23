@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Establece el aumento de pena por aprovechar el vínculo conyugal o convivencial y su excepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Establece el aumento de pena por aprovechar el vínculo conyugal o convivencial y su excepción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Fija el límite de treinta y cinco años y la excepción de pena indeterminada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Fija el límite de treinta y cinco años y la excepción de pena indeterminada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 383. Lectura de la prueba documental y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 428. Desestimación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 189.- Robo agravado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 603-2019, Piura, ff. jj. 2-3 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente el parentesco por adopción en el ámbito que regula."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 441.- Lesión dolosa y lesión culposa y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 53. Inhibición y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 208.- Excusa absolutoria. Exención de Pena y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente el parentesco por adopción en el ámbito que regula."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto aborda RN 1865-2015, Huancavelica y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 374. Poder del Tribunal y Facultad del Fiscal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 603-2019, Piura y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente el parentesco por adopción en el ámbito que regula."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Excluye el aumento cuando el parentesco ya está previsto como agravante en la ley penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_46-e_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Excluye el aumento cuando el parentesco ya está previsto como agravante en la ley penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_235_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 207. Presupuestos y Ejecución y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

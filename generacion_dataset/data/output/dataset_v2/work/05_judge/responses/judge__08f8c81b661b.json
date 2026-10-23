@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 21.- Responsabilidad restringida» y no aporta información para resolver el plazo de remisión policial del expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_15-a_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 46.- Circunstancias de atenuación y agravación» y no aporta información para resolver el plazo de remisión policial del expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 394.- Cohecho pasivo impropio» y no aporta información para resolver el plazo para pedir revisión superior del archivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 404.- Encubrimiento personal» y no aporta información para resolver el plazo para pedir revisión superior del archivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_334_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Exp. 01386-2020-0» y no aporta información para resolver el plazo para pedir revisión superior del archivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 378.- Denegación o deficiente apoyo policial» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "El fallo permite medidas urgentes sin oír antes al denunciado, basadas en riesgo y pruebas objetivas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 425. Sentencia de segunda instancia» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 325. Carácter de las actuaciones de la investigación» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo evaluar el riesgo doméstico, pero no si puede prescindirse de escuchar al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Describe el deber de protección proporcional al riesgo, sin resolver la audiencia previa del denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo II. Presunción de inocencia» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 442.- Maltrato» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 371. Apertura del juicio y posición de las partes» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 24. Incumplimiento de medidas de protección» y no aporta información para resolver la protección sin oír previamente al denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica el peligro inmediato en violencia doméstica, pero no la posibilidad de protección sin audiencia previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Sustenta el deber de adoptar protección ante riesgo real, pero no aborda la audiencia previa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "El fallo considera constitucional la protección sin audiencia previa y permite al denunciado impugnar después."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que el riesgo severo justifica medidas urgentes sin escuchar previamente al denunciado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

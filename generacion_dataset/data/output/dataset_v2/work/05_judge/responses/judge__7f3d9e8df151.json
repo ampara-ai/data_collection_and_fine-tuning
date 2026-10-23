@@ -1,0 +1,431 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorios de testigos y peritos, no condenas de absueltos en revisión."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de protección sin regular condenas en instancias superiores."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "Regula el juicio por faltas, no revisión de absoluciones por robo."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula error cultural, no facultades de tribunales superiores."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "Analiza suficiencia probatoria de un relato contradictorio, no condena sin nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de revaloración en apelación, pero ordena nueva audiencia y no resuelve la condena sin reenvío."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Permite corregir una absolución defectuosa, pero mediante nuevo juicio de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "si",
+      "rationale": "Permite resolver el fondo en casación sin reenvío cuando no es necesario un nuevo debate."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la revisión casatoria a errores jurídicos y hechos fijados, pero no establece la condena sin nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de la reserva de fallo, no revisión de absoluciones."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de reserva de fallo, no condenas en revisión."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Trata la anulación de absoluciones defectuosas, pero no la condena directa sin nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica expresamente la condena casatoria de un absuelto sin nuevo debate cuando los hechos están fijados."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "si",
+      "rationale": "Incluye agravantes por arma, lugar desolado y sustracción de celular, con sus penas."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "si",
+      "rationale": "Define robo como sustracción mediante violencia o amenaza y establece su pena básica."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "Permite prohibir al condenado aproximarse o comunicarse con la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Autoriza a la sala a revocar una absolución y dictar condena dentro de los límites del recurso."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva de fallo, no límites de pena en un juicio repetido."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza nulidad por falta de declaración, no prohibición de agravar la pena."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "Regula admisión de casación, no pena del nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de protección sin regular la pena tras impugnar."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Analiza evaluación psicológica insuficiente, no límites de pena tras recurso del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de pena suspendida por nuevo delito."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Describe facultades de la segunda instancia para modificar sanciones, pero no el límite en un nuevo juicio."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz, no el nuevo juicio por apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución, no agravamiento de pena tras apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Ordena nuevo juicio por defectos probatorios sin tratar el límite de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "si",
+      "rationale": "Prohíbe una pena superior en nuevo juicio dispuesto por recurso favorable al imputado."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "Regula revocación del régimen de prueba por nuevo delito."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q05",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de apelación del actor civil, no pena tras recurso del acusado."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula audiencias de revocación de colaboración eficaz, no audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos de función de magistrados."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de intimidad, no audiencias de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelaciones de medidas de protección, no audiencia de apelación de sentencia penal."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica admisión de testimonios en apelación, sin describir toda la audiencia ni la última palabra."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "parcial",
+      "rationale": "Explica oralidad y registro de audiencias, sin regular el orden de la apelación ni la última palabra."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de prescripción, no audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de prescripción, no audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata improcedencia de apelar devolución de acusación, no desarrollo de la audiencia de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve límites de apelación del actor civil, no orden de intervenciones en audiencia."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "si",
+      "rationale": "Describe las etapas de la audiencia de apelación y reconoce la última palabra al imputado."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de prueba anticipada, no de apelación."
+    },
+    {
+      "dataset_id": "case::jp_00561_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "Trata motivación con enfoque de género, no orden de la audiencia de apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "Analiza prueba de tentativa de violación sexual, no reparación por agresión psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Analiza pena por violación de menor, no alternativas ante agresión psicológica de un hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Regula criterios de protección, no acuerdos de compensación y terapia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se acredita la afectación psicológica, pero no la alternativa de compensación y terapia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica, no acuerdo de reparación y terapia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica tipicidad y prueba de insultos con afectación psicológica, pero no la salida solicitada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Regula alegato final del fiscal, no acuerdo reparatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "si",
+      "rationale": "Describe un acuerdo entre madre e hijo con reparación y terapia que permite abstenerse de perseguir penalmente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Establece el delito y pena por afectación psicológica familiar, pero no la alternativa solicitada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz, no acuerdos reparatorios por agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_550_01",
+      "relevance": "no",
+      "rationale": "Regula entrega vigilada internacional, no reparación y terapia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Admite salidas alternativas para lesiones leves de género, pero no aborda la agresión psicológica del hijo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Regula derecho de defensa, no acuerdos de reparación y terapia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "si",
+      "rationale": "Distingue acuerdo reparatorio y conciliación prohibida y condiciona la abstención fiscal al cumplimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad, no acuerdos reparatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Analiza retractación de una víctima sexual, no reparación económica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Regula derecho de defensa, no cierre por acuerdo económico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "Resuelve falta de tipicidad en riña de hermanastros, no acuerdos reparatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Regula criterios para medidas de protección, no salidas alternativas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza tipicidad de insultos, no efectos de un acuerdo económico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimento de salida, no acuerdos reparatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "Regula información de colaboradores eficaces, no reparación por agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Define agresiones y sus penas, pero no aclara efectos de un arreglo económico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica extorsión, no reparación voluntaria de una agresión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento sexual y valoración de prueba, no acuerdos económicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación de colaboración eficaz en otros procesos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0022_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "si",
+      "rationale": "Explica condiciones y límites del acuerdo solicitado por la víctima y la abstención fiscal si se cumple."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,82 @@
+{
+ "questions": [
+  {
+   "query": "Mi expareja me golpeó y me rompió la nariz. ¿Puede el juez dejarlo libre sin cárcel real si nunca antes lo condenaron?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_57_01"
+   ],
+   "positive_selection_reason": "El art. 57 establece que la suspensión de la pena no se aplica a condenados por agresiones contra mujeres o integrantes del grupo familiar.",
+   "expected_answer_focus": "Que en agresiones contra la mujer o el grupo familiar no procede dejar la pena en suspenso.",
+   "victim_voice_rationale": "Duda concreta de una víctima que teme que el agresor quede sin castigo real."
+  },
+  {
+   "query": "¿Los jueces tienen en cuenta que estas agresiones se repiten y cada vez son peores cuando deciden si el agresor va preso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0005_01"
+   ],
+   "positive_selection_reason": "La sentencia afirma que en estos delitos la reiteración y progresión de la agresión justifica la pena efectiva.",
+   "expected_answer_focus": "El criterio de que la repetición y escalada de la violencia justifica prisión efectiva y no pena suspendida.",
+   "victim_voice_rationale": "Pregunta corta de quien desconfía de que la justicia entienda el ciclo de violencia."
+  },
+  {
+   "query": "Mi agresor ya fue condenado y está preso. ¿Tendrá que hacer alguna terapia o curso antes de que le den permisos para salir?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo01_ley30364_art_31_01"
+   ],
+   "positive_selection_reason": "El art. 31 de la Ley 30364 exige tratamiento de reeducación para condenados a pena efectiva y lo condiciona a beneficios penitenciarios.",
+   "expected_answer_focus": "Que el condenado debe seguir un tratamiento de reeducación obligatorio para acceder a beneficios.",
+   "victim_voice_rationale": "Duda de una víctima sobre qué pasa con el agresor dentro de la cárcel."
+  },
+  {
+   "query": "Después de la condena, ¿el juez puede prohibirle a mi ex que se me acerque o me escriba, y quitarle los derechos sobre nuestros hijos?",
+   "topic": "medidas_proteccion",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_36_01"
+   ],
+   "positive_selection_reason": "El art. 36 enumera las inhabilitaciones: incapacidad para la patria potestad y prohibición de aproximarse o comunicarse con la víctima.",
+   "expected_answer_focus": "Que la inhabilitación puede incluir prohibir acercarse o comunicarse y privar de la patria potestad.",
+   "victim_voice_rationale": "Relato de una madre que teme seguir en contacto con el agresor y por sus hijos."
+  },
+  {
+   "query": "Mi pareja me pegó pero las heridas sanan rápido, casi no me dieron días de recuperación. ¿Igual es delito y qué le puede tocar?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_122-b_01"
+   ],
+   "positive_selection_reason": "El art. 122-B tipifica las lesiones leves contra mujeres e integrantes del grupo familiar y fija su sanción.",
+   "expected_answer_focus": "Que las lesiones leves en contexto familiar también son delito y tienen pena y agravantes.",
+   "victim_voice_rationale": "Duda típica de quien minimiza sus heridas y no sabe si puede denunciar."
+  },
+  {
+   "query": "Mi pareja estaba borracho cuando me golpeó y me dejó la nariz rota. ¿Haber tomado le sirve de excusa o le suben el castigo?",
+   "topic": "violencia_fisica",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El art. 121-B agrava las lesiones graves cuando el agresor actúa con alcohol en la sangre sobre el límite.",
+   "expected_answer_focus": "Que actuar bajo efecto del alcohol es una agravante en lesiones graves contra la mujer o el grupo familiar.",
+   "victim_voice_rationale": "Relato de una víctima que duda si la ebriedad del agresor lo favorece."
+  },
+  {
+   "query": "Ya no vivimos juntos hace tiempo, pero me agredió. ¿Cuenta como violencia familiar aunque ya no sea mi pareja?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0005_01",
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "La sentencia afirma que se incluye a ex convivientes y el art. 121-B menciona expresamente a la exconviviente como víctima.",
+   "expected_answer_focus": "Que la violencia contra la expareja o exconviviente también se trata como violencia familiar.",
+   "victim_voice_rationale": "Pregunta directa de una mujer separada que duda si puede denunciar."
+  }
+ ]
+}

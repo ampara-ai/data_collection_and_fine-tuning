@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_271_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "si",
+      "rationale": "Fija la audiencia de prisión preventiva dentro de las cuarenta y ocho horas del requerimiento fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_271_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "si",
+      "rationale": "Establece comparecencia restrictiva o simple cuando no se funda la prisión preventiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

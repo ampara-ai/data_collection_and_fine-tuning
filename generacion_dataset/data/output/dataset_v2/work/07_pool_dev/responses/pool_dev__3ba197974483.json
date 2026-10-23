@@ -1,0 +1,761 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 562. Asistencia Judicial» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica la valoración integral del relato infantil y su corroboración, pero no resuelve una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que añadir detalles no invalida el relato, pero no analiza una retractación completa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona falta de persistencia y corroboración con la duda razonable, sin explicar cómo comparar ambas versiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 813-2022, Madre de Dios» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 209. Retenciones» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 178-2024, Tumbes, f. j. 12» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Explica los criterios para aceptar una retractación, sin descartar automáticamente la incriminación inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No desistimiento por llanto de víctima (RN 1178-2018, Lima)» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige analizar la retractación de la menor considerando presiones familiares y dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Mantiene la valoración de la declaración inicial pese a la retractación posterior de la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo rechazar la retractación y conservar la incriminación corroborada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma la condena basada en la versión inicial al desvirtuar una retractación por presiones familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige analizar la influencia familiar antes de dar plena validez a la retractación de la niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 295-2019, Cusco» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece criterios generales de valoración del testimonio infantil, sin tratar una retractación por rencor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Describe el valor probatorio de la declaración de la víctima, sin abordar el cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Distingue contradicciones sustanciales y circunstanciales, pero no resuelve la retractación consultada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco)» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Explica variaciones menores y progresividad del relato, sin abordar la negación de la acusación inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Enfoque de género obligatorio (Exp. 00134-2023-31)» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Permite confrontar declaraciones contradictorias, pero no establece cuál versión merece credibilidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Advierte sobre falta de persistencia y corroboración, sin desarrollar el tratamiento de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no permite explicar el valor de la primera incriminación después de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Aclara la validez formal de una declaración previa en cámara Gesell, sin resolver su credibilidad tras retractarse."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Prevé un nuevo examen excepcional de la víctima que se retracta, pero no decide qué versión creer."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "si",
+      "rationale": "Señala expresamente que retractarse en juicio no invalida la declaración inicial corroborada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Procede principio de oportunidad en el delito de lesiones leves por violencia de género» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 253. Principios y finalidad» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Confirma el uso de la declaración inicial pese a la retractación posterior de la menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 2. Principios rectores» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principios en investigación violencia sexual (J. vs. Perú)» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "si",
+      "rationale": "Explica las garantías exigibles a una retractación y por qué una manifestación pericial no sustituye la declaración procesal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 409. Competencia del Tribunal Revisor» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Conserva la incriminación inicial corroborada al comprobar que la retractación obedeció a presiones."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Explica la progresividad del relato y las variaciones menores, sin resolver una retractación completa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que el imputado sea padre de familia no conlleva la aplicación inmediata del principio de interés superior del niño [Casación 1421-2023, Loreto]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad y contexto familiar de un testimonio tardío, sin tratar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza dar plena validez a la retractación judicial sin examinar posibles influencias familiares."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Explica la valoración de contradicciones circunstanciales, sin abordar la negación íntegra del relato inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Establece criterios de validez de la retractación y confirma la condena basada en la versión inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso Angulo Losada vs. Bolivia» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Aborda falta de persistencia y corroboración, sin desarrollar cómo valorar una retractación judicial de una niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Aplicar principio de oportunidad es una facultad exclusiva del Ministerio Público [Casación 833-2019, Lambayeque]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Justifica valorar pruebas previas sin repetir la declaración de las menores, pero no analiza una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aclara cuándo puede incorporarse una declaración previa en cámara Gesell, sin evaluar el cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Medidas de protección deben extremarse en casos de violación sexual de menor [VRP, VPC. y otros vs. Nicaragua]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este)» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo la dependencia puede influir en la falta de incriminación, pero no compara declaración inicial y retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece criterios generales de credibilidad del testimonio, sin tratar la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige analizar las presiones y el contexto de la retractación antes de descartar la acusación inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el valor del testimonio de la víctima corroborado, sin resolver el cambio de versión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Protege la entrevista inicial frente a repeticiones injustificadas, pero no explica qué versión creer."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La ratio de la confesión sincera es el esclarecimiento de los hechos [RN 1577-2014, Lima]» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Explica que retractarse requiere voluntariedad, razones solventes y actuación judicial, manteniendo la declaración inicial corroborada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Detalla los elementos para contrastar la incriminación inicial con la retractación de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Describe la suficiencia del testimonio corroborado, pero no una retractación de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 2. Principio de oportunidad» no permite resolver la valoración de la versión inicial frente a una retractación judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "si",
+      "rationale": "Explica que el embarazo contribuye a confirmar la consumación de la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «STS 3147/2022» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "parcial",
+      "rationale": "Regula exámenes para detectar secuelas y descendencia, sin precisar su alcance probatorio en el caso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Menciona exámenes que acreditan lesiones y signos sexuales, pero se centra en contradicciones del testimonio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 380. Examen especial del testigo o perito» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Declaración víctima prueba directa (Apelación 41-2023)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 378. Examen de testigos y peritos» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No desistimiento por llanto de víctima (RN 1178-2018, Lima)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 242. Supuestos de prueba anticipada.-» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "parcial",
+      "rationale": "Permite pruebas genéticas y corporales del imputado, pero no explica el valor del examen de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 603-2019, Piura, ff. jj. 2-3» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Menciona el certificado médico como corroboración del relato, pero se centra en la validez de la entrevista."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Explica el carácter complementario de la pericia psicológica, sin precisar la prueba médica del embarazo y su autor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 294. Internamiento previo para observación y examen» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Signos de agresión no consumada (RN 143-2009, Ica)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "parcial",
+      "rationale": "Aborda la autenticación y contraste de certificados médicos, sin tratar el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "si",
+      "rationale": "Explica el valor del embarazo y del ADN para acreditar acceso carnal y paternidad incluso con himen íntegro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 178-A.- Tratamiento terapéutico» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Identifica una guía de valoración médico legal de lesiones, sin explicar qué permite probar el examen."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Lubricación indica consentimiento (STS 944/2019, España)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la identificación del agresor mediante ADN, sin tratar el examen médico de una niña embarazada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Prueba de comportamiento previo inadmisible (Exp. 6265-2020)» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Muestra que el certificado médico puede corroborar la agresión sexual de una menor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_213_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 213. Examen corporal para prueba de alcoholemia» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 01386-2020-0» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 178-2024, Tumbes, f. j. 12» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 150.- Abandono de mujer gestante y en situación crítica» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "si",
+      "rationale": "Explica los límites del desgarro himeneal como prueba de acceso carnal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Reconoce el valor probatorio de los certificados médicos sobre la salud y los hechos de violencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo aclarar y contrastar dictámenes periciales, sin precisar qué acredita el examen consultado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_78_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 78. Informe trimestral del Director del Centro Hospitalario» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 508-2019, Lima, ff. jj. 5, 8» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no permite explicar el valor del examen médico para acreditar el abuso y el embarazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la ausencia de lesiones no descarta una tentativa, aportando solo contexto sobre los límites del examen."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

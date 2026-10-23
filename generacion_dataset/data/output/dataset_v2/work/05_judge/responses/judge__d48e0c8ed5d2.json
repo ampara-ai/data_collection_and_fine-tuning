@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00686_e0027::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 427. Procedencia y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

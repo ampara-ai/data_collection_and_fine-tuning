@@ -25,21 +25,13 @@ Este subárbol ya no debe leerse solo como una recolección plana de URLs. La di
 4. resolver y descargar sus PDFs,
 5. recién después enriquecer esos PDFs con `ResumeAI-Legal`.
 
-## Prueba actual prioritaria
+## Estado actual
 
-El hito inmediato no es procesar todo el corpus, sino una prueba controlada con **10 índices jurisprudenciales**.
+La prueba inicial de 10 índices se conserva como mecanismo de desarrollo, pero el repositorio ya contiene el pipeline ampliado: construcción de semillas desde CP/CPP, descarga de páginas índice, parseo de entradas, resolución de contenido/PDF, resumen y construcción de unidades contextuales.
 
-La prueba debe llegar hasta:
-- parseo LLM de categorías + entries,
-- aplanado de entradas,
-- clasificación de relevancia,
-- resolución de PDF,
-- descarga local de PDFs relevantes.
+El artefacto clave para fases posteriores es `data/processed/jurisprudence_context_units.json`, donde cada `entry_id` conserva sus URLs, artículos de procedencia y contexto jurídico estructurado.
 
-Schema de entrada/salida de esta prueba:
-- `docs/subpipeline-10-indices-schema.md`
-
-## Ejecución local recomendada
+## Prueba local reducida
 
 Desde esta misma carpeta puede correrse la prueba completa de 10 índices con un único runner:
 
@@ -48,7 +40,7 @@ cd recoleccion/data_types/tipo_04_jurisprudencia
 uv run python run_sample_10_pipeline.py
 ```
 
-Esto ejecuta:
+Esto ejecuta una muestra, no el corpus completo:
 - sample de 10 índices,
 - parseo LLM-first,
 - clasificación de entries,
@@ -65,6 +57,12 @@ Se consideran parte del flujo principal o reutilizable:
 - `show_jurisprudence_stats.py`
 - `show_parsed_jurisprudence_stats.py`
 - `enrich_case_with_resumeai_api_sample.py`
+- `build_seed_urls_from_tipo_02_03.py`
+- `fetch_all_index_pages.py`
+- `llm_parse_index_entries.py`
+- `resolve_entry_content.py`
+- `llm_summarize_jurisprudence.py`
+- `build_contextual_chunks.py`
 
 ### Scripts experimentales
 Los scripts de pruebas LLM o samples ad hoc fueron movidos a:

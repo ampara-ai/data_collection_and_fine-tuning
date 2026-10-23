@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00187_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Excluye la concurrencia obligatoria de menores agraviados o víctimas que puedan resultar afectadas psicológicamente en delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Identifica al juez o fiscal como quienes ordenan la reconstrucción y define su finalidad de verificar cómo pudo ocurrir el hecho."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe obligar a autoincriminarse, pero no regula específicamente la participación del imputado en una reconstrucción."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula la obligación del imputado de participar en una reconstrucción del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que no se obligará al imputado a intervenir en la reconstrucción."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "parcial",
+      "rationale": "Describe participantes y registro mediante planos, fotos o grabaciones, sin precisar el alcance de la búsqueda material."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "si",
+      "rationale": "Exige una inspección minuciosa de la escena y de todo lo que pueda ser prueba material del delito."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "parcial",
+      "rationale": "Permite examinar inmediatamente el lugar y preservar la escena y los elementos materiales, sin detallar la inspección minuciosa."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_36_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "No explica cómo se inspecciona la escena del delito ni qué evidencia material se busca."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Prevé participación preferente de testigos y peritos y el levantamiento de planos, fotografías y grabaciones."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

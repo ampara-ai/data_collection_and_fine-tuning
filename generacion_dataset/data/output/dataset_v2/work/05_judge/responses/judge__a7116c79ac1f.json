@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00415_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Permite anular una absolución por defectos de motivación o derechos fundamentales pese a la conformidad fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00415_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que cualquier persona puede instar la acción pública, pero no cómo impugnar la negativa fiscal a investigar."
+    },
+    {
+      "dataset_id": "case::jp_00415_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "si",
+      "rationale": "Indica que la resolución de admisión de medios probatorios no es recurrible."
+    },
+    {
+      "dataset_id": "case::jp_00415_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Describe la apelación del actor civil y la posibilidad de anulación aun con conformidad del fiscal superior."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

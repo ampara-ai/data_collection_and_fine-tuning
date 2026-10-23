@@ -1,0 +1,257 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "Regula admisión y trámite de casación sin establecer si la paternidad justifica la libertad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección a la víctima, no fundamentos para sustituir prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución y capacidad económica, no liberación fundada solo en paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula pesquisas policiales, no decisiones sobre prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza que la sola condición de padre permita sustituir prisión preventiva y exige ponderación concreta."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula una pena de vigilancia electrónica para condenados, no sustitución de prisión preventiva por paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad y valoración del testimonio infantil, no libertad por ser padre."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado sin regular la paternidad como fundamento de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "Regula determinación de penas en condenas, no prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "Valida una entrevista en cámara Gesell, no libertad del padre acusado."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula actos del Ministerio Público, no el fundamento de una decisión judicial de libertad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata citación para cámara Gesell, no sustitución de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "Examina prueba indiciaria para condenar, no libertad por interés del hijo."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar concretamente el impacto de la decisión en el niño y ponderarlo con la necesidad de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona la detención ilegal o la negativa indebida de libertad, sin describir el régimen durante el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Menciona comparecencia restringida como alternativa, pero analiza su improcedencia por una justificación automática de paternidad."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo es legítima la prisión preventiva, sin describir la medida alternativa aplicable."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobreseimiento definitivo, distinto de continuar el proceso sin prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra comparecencia con control y caución, sin establecer la regla general ante falta de presupuestos de prisión."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento del régimen de prueba de un condenado, no coerción durante el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de protección frente a violencia sin definir la situación del acusado sin prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "Regula internación psiquiátrica preventiva bajo presupuestos especiales ajenos a la pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "si",
+      "rationale": "Ordena comparecencia simple cuando no se solicita prisión preventiva o faltan sus presupuestos materiales."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Establece comparecencia con restricciones para evitar razonablemente fuga u obstaculización y permite prohibir contacto con la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Regula retiro de acusación y sobreseimiento, distinto de mantener el proceso abierto sin prisión."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula incoación de proceso inmediato, sin establecer la alternativa ante falta de razones de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q03",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "Tipifica daños materiales, sin regular medidas procesales de coerción."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Fija veinte días para decidir si el recurso está bien concedido y procede conocer su fondo."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Exige nuevo domicilio procesal al comparecer ante la Corte Suprema cuando la causa proviene de otro distrito judicial."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "parcial",
+      "rationale": "Explica la apelación y nueva resolución tras anulación por la Sala, pero no revisión por una instancia superior a esa Sala."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "Revisa una condena por prueba indiciaria, no anulación de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Enumera principios de protección sin establecer revisión superior de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "Regula contumacia y conducción compulsiva, no revisión de la anulación de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "Examina casación contra absolución por pruebas, no revisión de una medida de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención ilegal o negativa de libertad, sin establecer recursos contra la anulación de prisión."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "no",
+      "rationale": "Fija duración máxima de prisión preventiva, no mecanismos de revisión."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "Regula detención domiciliaria y cambios por motivos de salud, no revisión superior del auto anulado."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones familiares, sin establecer recursos procesales de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Anula sentencias sobre responsabilidad penal y ordena nuevo juicio, no revisa prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Describe casación que anuló la decisión superior de comparecencia y confirmó la prisión preventiva inicial."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "Regula caución económica, no revisión superior de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00285_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve validez de cámara Gesell y confirma condena, no anulación de prisión preventiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

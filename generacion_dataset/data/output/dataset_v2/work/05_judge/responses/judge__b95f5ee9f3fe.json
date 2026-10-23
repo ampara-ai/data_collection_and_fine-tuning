@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "si",
+      "rationale": "Mantiene condena con otras pruebas válidas pese a inasistencia de las menores al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "si",
+      "rationale": "Aclara que la falta de emplazamiento invalida declaraciones, pero no toda la prueba ni el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Prioriza incorporar la declaración previa y reserva la declaración en juicio para supuestos excepcionales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige psicólogo, consideración de la edad y evitar preguntas sugestivas para proteger al menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

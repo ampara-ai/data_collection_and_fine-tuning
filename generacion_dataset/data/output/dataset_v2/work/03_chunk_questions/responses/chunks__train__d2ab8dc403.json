@@ -1,0 +1,137 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un adulto manoseó a mi niña de 10 años, aunque no llegó a abusarla del todo. ¿Es delito y cuántos años le dan?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Los tocamientos o actos libidinosos sobre menores de catorce años se castigan con 9 a 15 años."
+    },
+    {
+     "query": "Obligaron a mi hijo pequeño a tocar a otra persona. ¿También se castiga al que se lo exigió?",
+     "topic": "identificacion_delito",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "También es delito obligar al menor a realizar tocamientos sobre sí mismo, el agente o un tercero."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_154_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me graba a escondidas dentro de la casa y me espía con una cámara. ¿Eso es un delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Observar o registrar la vida personal o familiar con instrumentos técnicos es delito, hasta dos años de pena."
+    },
+    {
+     "query": "Mi ex contó a todos nuestras cosas privadas que había grabado. ¿Se castiga más duro si lo cuenta?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Revelar la intimidad conocida sube la pena a 1-3 años y más aún si usa medios de comunicación social."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Pedí auxilio contra mi marido que me humilla y me grita. ¿Me pueden amparar aunque la autoridad no lo haya oído todavía?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Es constitucional dictar medidas de protección sin oír antes al denunciado, basándose en la ficha de riesgo y pruebas objetivas."
+    },
+    {
+     "query": "Mi agresor reclama que no lo dejaron defenderse antes de ordenar que se aleje de mí. ¿Tiene razón?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se vulnera su defensa porque puede impugnar las medidas después; el amparo fue declarado infundado."
+    },
+    {
+     "query": "¿Por qué mandaron a mi pareja lejos de mí tan rápido sin citarlo antes a explicar su versión?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Ante riesgo severo se puede prescindir de la audiencia previa para agilizar la protección de la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 14 años fue violada y lo denunciamos meses después. ¿Aún así pueden condenar al agresor?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "Se confirmó una condena de 20 años por violación a menor de 14 años denunciada meses después de los hechos."
+    },
+    {
+     "query": "El doctor que evaluó a mi hija nunca se presentó a declarar. ¿Su informe queda sin validez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No es obligatoria la presencia del perito si no se cuestiona el mérito científico; basta leer el certificado en juicio."
+    },
+    {
+     "query": "Soltaron al agresor de mi hija en el primer fallo. ¿Un tribunal superior puede cambiar eso y encarcelarlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sentencia de vista revocó la absolución y condenó al imputado, confirmada tras la apelación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_165_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citan a declarar contra mi esposo que maltrata a mi hijo. ¿Estoy obligada a hacerlo o puedo negarme?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Cónyuges, parientes cercanos y convivientes pueden abstenerse de testificar y serán advertidos de ese derecho."
+    },
+    {
+     "query": "Ya no vivo con mi expareja pero me llaman como testigo en su caso. ¿Igual puedo callarme?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La facultad se extiende a quienes ya cesó el vínculo conyugal o convivencial."
+    },
+    {
+     "query": "Le conté mi situación a mi doctor y a mi abogado. ¿Los pueden obligar a repetirlo en el juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Quienes guardan secreto profesional no pueden ser obligados a declarar, salvo que el interesado los libere."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja sigue buscándome aunque el juez le prohibió acercarse. ¿Eso es un delito?",
+     "topic": "medidas_proteccion",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Incumplir una medida de protección es delito de resistencia o desobediencia a la autoridad."
+    },
+    {
+     "query": "¿A dónde acudo si el agresor ignora la orden que me dieron para estar tranquila?",
+     "topic": "medidas_proteccion",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Desobedecer la medida de protección constituye delito que se puede denunciar penalmente."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

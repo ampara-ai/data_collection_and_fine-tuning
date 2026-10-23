@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Identifica la investigación material inicial a cargo de la Policía, la conducción fiscal y la protección de indicios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Resuelve la exigencia de denuncias reiteradas en violencia sexual, no quién realiza las primeras actuaciones por golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, sin regular el inicio de la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Explica la recepción de la denuncia y sus pruebas, pero no las actuaciones de investigación posteriores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Describe diligencias y pruebas recogidas en el informe preliminar, sin precisar cómo se inicia la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata la conducción de una testigo durante el juicio, no los primeros actos de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Identifica la subetapa preliminar policial bajo conducción fiscal y los objetivos de esclarecimiento y recolección de elementos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "Desarrolla estándares de investigación de violencia sexual sin identificar el inicio ni las primeras diligencias por golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Identifica al responsable de la investigación preliminar y detalla sus actuaciones urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "Sanciona la omisión funcional, sin explicar quién inicia ni qué diligencias realiza."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Describe diligencias dirigidas por el fiscal y realizadas por la Policía, pero no concreta el inicio ni sus actos urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación inmediata y valoración amplia de pruebas, pero no identifica quién inicia ni las primeras actuaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Identifica a la Policía como iniciadora y la comunicación inmediata al fiscal, sin detallar las diligencias iniciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Autoriza la presencia inmediata del fiscal o la Policía en el lugar para impedir consecuencias ulteriores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_330_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Indica que el fiscal decide sobre la formalización tras recibir el informe policial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

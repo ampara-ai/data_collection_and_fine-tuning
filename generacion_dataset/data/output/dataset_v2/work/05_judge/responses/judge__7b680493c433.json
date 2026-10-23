@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona negativa de testigos y peritos sin establecer el deber de investigar denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "Regula omisión de autoridades en delitos de otro capítulo sin referirse a investigar violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula prescripción penal y no denuncia por terceras personas."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "Regula costas procesales y no quién puede denunciar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

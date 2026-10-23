@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_80_01",
+      "relevance": "si",
+      "rationale": "Reconoce defensa gratuita en el proceso penal por insuficiencia de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_80_01",
+      "relevance": "si",
+      "rationale": "Identifica al Servicio Nacional de Defensa de Oficio del Ministerio de Justicia como proveedor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

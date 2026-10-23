@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Tipifica la coacción al consumo de drogas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "si",
+      "rationale": "Sanciona la desobediencia de medidas de protección con cinco a ocho años de prisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Examina prisión preventiva de un progenitor por tentativa de feminicidio, no desobediencia de medidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas generales de suspensión de penas, pero no tipifica ni sanciona el incumplimiento consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "Regula la resolución para clausura o inmovilización de bienes, no las medidas de protección personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula la corroboración en colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "Regula la apelación de prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula la detención con fines de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de detención, no las consecuencias penales de incumplir una medida de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata la ausencia de daño emocional y la pena por violación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata la reducción de pena por violación sexual en circunstancias distintas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata el consentimiento y la valoración probatoria en violación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Exige ejecutar inmediatamente las medidas de protección, pero no establece la sanción por incumplirlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "si",
+      "rationale": "Tipifica expresamente la desobediencia o resistencia a una medida de protección por violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_368_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "si",
+      "rationale": "Establece una pena de cinco a ocho años por desobedecer una medida de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00065_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "si",
+      "rationale": "Ordena citar de grado o fuerza a la agraviada ausente en un juicio por tentativa de feminicidio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00065_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "si",
+      "rationale": "Anula la condena porque no se agotó la conducción compulsiva de la agraviada y el testigo esenciales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00065_e0004_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "si",
+      "rationale": "Dispone un nuevo juicio ante otro colegiado y una nueva citación de la agraviada y del testigo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

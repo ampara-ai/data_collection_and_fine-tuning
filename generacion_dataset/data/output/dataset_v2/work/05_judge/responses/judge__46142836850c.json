@@ -1,0 +1,53 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "si",
+      "rationale": "Incluye el abuso del cargo, poder y posición económica entre los factores para determinar la pena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Señala que cultura y costumbres se consideran al fijar la pena, pero no establece cuándo permiten reducirla."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_45_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "si",
+      "rationale": "Ordena considerar intereses de la víctima, sus dependientes y su especial vulnerabilidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "si",
+      "rationale": "Dispone notificar por edicto cuando se desconoce el paradero."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "si",
+      "rationale": "Indica publicación en el diario oficial de la sede judicial o portal institucional."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_128_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "si",
+      "rationale": "Permite publicar en el diario oficial listas de personas requeridas por la justicia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "si",
+      "rationale": "Define la esclavitud sexual mediante control de propiedad y anulación de autonomía sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Menciona responsabilidad estatal y reparaciones por esclavitud sexual, sin explicar los presupuestos del reclamo por falta de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

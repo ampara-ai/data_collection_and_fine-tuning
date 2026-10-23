@@ -1,0 +1,299 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 20.- Inimputabilidad» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo II. Presunción de inocencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 22-A. Criterios para dictar medidas de protección» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 470. Declaración inexistente» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Define expresamente los insultos y humillaciones como violencia psicológica."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 290. Detención domiciliaria» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 120. Régimen General» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce una agresión psicológica como antecedente de un acuerdo, pero no define cuándo los insultos constituyen violencia."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Admite enjuiciar por un solo acto con entidad suficiente para causar afectación psicológica."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Establece pena de uno a tres años e inhabilitación para afectación psicológica en violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "si",
+      "rationale": "Reconoce expresamente valor probatorio a los informes psicológicos de los Centros Emergencia Mujer."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "si",
+      "rationale": "Distingue la afectación psicológica del daño psíquico y admite su acreditación pericial sin exigir gravedad."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye expresamente a convivientes entre los sujetos protegidos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 189. Reconocimientos de personas» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-F.- Beneficio p or explotación sexual» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 525. Ámbito e Iniciación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "si",
+      "rationale": "La inhabilitación puede prohibir aproximarse o comunicarse con la víctima después de la sentencia."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 70. Prohibición de informar» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 478. Colaboración durante las otras etapas del proceso contradictorio» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 287. Comparecencia restrictiva» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Violencia sexual: líneas de investigación deben estar orientadas a evitar la revictimización [Fernández Ortega y otros vs. México]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0008::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 8. Tipos de violencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 88. Desarrollo de la declaración» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «El derecho a la verdad constituye un medio de reparación para las víctimas y sus familiares [Bámaca Velásquez vs. Guatemala]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 555. Trámite inicial de las solicitudes de Cooperación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 53. Inhibición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 121.- Lesiones graves» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 179.- Favorecimiento a la prostitución» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 76. Anomalía psíquica sobrevenida» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Presume el daño psíquico y moral de familiares directos salvo prueba en contrario."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 227. Ejecución» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Permite reconocer a familiares no directos según el vínculo estrecho, la búsqueda de justicia o su sufrimiento."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Asigna responsabilidades para preservar los indicios y evitar alteraciones de la escena del delito."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Asigna responsabilidades para preservar los indicios y evitar alteraciones de la escena del delito."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Exige autorización legal, proporcionalidad, elementos suficientes e indispensabilidad para restringir derechos."
+    },
+    {
+      "dataset_id": "case::jp_00670_e0010::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "si",
+      "rationale": "Aplica el orden sucesorio y la representación común para herederos del mismo orden."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

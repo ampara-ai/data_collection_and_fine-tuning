@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 83.- Interrupción de la prescripción de la acción penal» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Exige intervención defensiva y citación en prueba anticipada, sin explicar cuándo una citación tardía causa indefensión concreta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Establece salvaguardas ante ausencia del defensor, sin resolver la falta de tiempo por notificación del mismo día."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la nulidad a vulneraciones constitucionales, sin analizar el tiempo de preparación tras una citación inmediata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 414. Plazos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Exige afectación efectiva para la tutela de derechos, sin resolver el perjuicio por falta de anticipación de la citación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 401. Recurso de apelación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Exige demostrar indefensión concreta y explica que la citación urgente no invalida por sí sola la entrevista."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11]» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 215.- Modalidades de libramientos indebidos» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 291. Comparecencia simple» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica garantías de intervención defensiva en entrevistas, sin evaluar la citación recibida el mismo día."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 19. Declaración de la víctima y entrevista única» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Anula la absolución basada en la citación del mismo día y ordena valorar la entrevista."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00073_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Reconoce eficacia a la comunicación recibida por la esposa cuando se acredita conocimiento efectivo del imputado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,45 @@
+{
+ "task_id": "judge__890ecb27d1ee",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_118_01::q01\",\n  \"question\": \"Me citaron a declarar y no sigo ninguna religión, ¿me pueden obligar a jurar ante alguien?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_118_01\",\n    \"title\": \"Artículo 118. Juramento\",\n    \"text\": \"1. Cuando se requiera juramento, se recibirá según las creencias de quien lo hace, después de instruirlo sobre la sanción que se haría acreedor por la comisión del delito contra la Administración de Justicia. El declarante prometerá decir la verdad en todo cuanto sepa y se le pregunte.\\n2. Si el declarante se niega a prestar juramento en virtud de creencias religiosas o ideológicas, se le exigirá promesa de decir la verdad, con las mismas advertencias del párrafo anterior.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_14_01::q01\",\n  \"question\": \"Mi expareja me ofreció pagarme por lo que me hizo para que no siga el caso. Si acepto, ¿el fiscal todavía puede pedir plata para mí?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_14_01\",\n    \"title\": \"Artículo 14. Transacción\",\n    \"text\": \"1. La acción civil derivada del hecho punible podrá ser objeto de transacción.\\n2. Una vez que la transacción se formalice ante el Juez de la Investigación Preparatoria, respecto de la cual no se permite oposición del Ministerio Público, el Fiscal se abstendrá de solicitar reparación civil en su acusación.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_14_01::q02\",\n  \"question\": \"¿Puedo ponerme de acuerdo con quien me agredió sobre cuánto me paga por el daño, sin esperar la sentencia?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_14_01\",\n    \"title\": \"Artículo 14. Transacción\",\n    \"text\": \"1. La acción civil derivada del hecho punible podrá ser objeto de transacción.\\n2. Una vez que la transacción se formalice ante el Juez de la Investigación Preparatoria, respecto de la cual no se permite oposición del Ministerio Público, el Fiscal se abstendrá de solicitar reparación civil en su acusación.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_391_01::q01\",\n  \"question\": \"En el juicio contra mi agresor, ¿él puede hablar al final? Temo que se ponga a gritar y arruine todo.\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_391_01\",\n    \"title\": \"Artículo 391. Autodefensa del acusado\",\n    \"text\": \"1. Concluidos los alegatos orales, se concederá la palabra al acusado para que exponga lo que estime conveniente a su defensa. Limitará su exposición al tiempo que se le ha fijado y a lo que es materia del juicio. Si no cumple con la limitación precedente se le podrá llamar la atención y requerirlo para que concrete su exposición.\\n2. Si el acusado incumple con la limitación impuesta, se dará por terminada su exposición y, en caso grave, se dispondrá se le desaloje de la Sala de Audiencias. En este último supuesto, la sentencia podrá leerse no estando presente el acusado pero estando su defensor o el nombrado de oficio, sin perjuicio de notificársela con arreglo a Ley.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_391_01::q02\",\n  \"question\": \"Si el hombre que me agredió arma escándalo y lo echan, ¿igual me dicen la decisión final sin él?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_391_01\",\n    \"title\": \"Artículo 391. Autodefensa del acusado\",\n    \"text\": \"1. Concluidos los alegatos orales, se concederá la palabra al acusado para que exponga lo que estime conveniente a su defensa. Limitará su exposición al tiempo que se le ha fijado y a lo que es materia del juicio. Si no cumple con la limitación precedente se le podrá llamar la atención y requerirlo para que concrete su exposición.\\n2. Si el acusado incumple con la limitación impuesta, se dará por terminada su exposición y, en caso grave, se dispondrá se le desaloje de la Sala de Audiencias. En este último supuesto, la sentencia podrá leerse no estando presente el acusado pero estando su defensor o el nombrado de oficio, sin perjuicio de notificársela con arreglo a Ley.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "test::chunk_tipo03_cpp_art_118_01::q01",
+     "chunk_tipo03_cpp_art_118_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_14_01::q01",
+     "chunk_tipo03_cpp_art_14_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_14_01::q02",
+     "chunk_tipo03_cpp_art_14_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_391_01::q01",
+     "chunk_tipo03_cpp_art_391_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_391_01::q02",
+     "chunk_tipo03_cpp_art_391_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__890ecb27d1ee.json"
+}

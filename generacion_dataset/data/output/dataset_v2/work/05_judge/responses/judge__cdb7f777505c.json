@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0018::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "si",
+      "rationale": "Examina expresamente el uso de la cita nocturna para valorar la credibilidad y confirma ese razonamiento en el caso."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0018::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prevé agravante específica para pastor o líder religioso con ascendencia sobre la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0018::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Regula la absolución en segunda instancia y los límites de revaloración de prueba personal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0018::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Exige corroboración de testigos de referencia, pero no desarrolla la suficiencia de la declaración directa de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0018::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil fijada con la pena y encomienda al juez garantizar su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0018::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión para delitos contra la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "si",
+      "rationale": "Establece que ausencia de afectación emocional no disminuye la pena por violación de menor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso sexual mediante amenaza y agrava cuando el agresor habita en el mismo hogar."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravantes por convivencia y embarazo previo, pero no resuelve el embarazo causado por la violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Regula agravación por aprovechar la condición de padrastro, sin abordar el embarazo resultante."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves y embarazo previo, no consecuencias de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves familiares, no agravación por embarazo resultante de violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Regula internamiento para pericia psiquiátrica del imputado, no agravantes sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Limita la pena a los hechos acusados y petición fiscal, sin identificar el embarazo como agravante."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata revictimización en reconstrucción, no agravación de pena por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata obligación de investigar sin denuncias reiteradas, no agravación por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata agravantes de tocamientos por discapacidad, no embarazo causado por violación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "Define penetración constitutiva de violación, sin tratar agravación por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravación por abuso de parentesco del padrastro, pero no por embarazo resultante."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula casación, no agravación por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada, no determinación de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación civil y encarga al juez garantizar su cumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q05",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "si",
+      "rationale": "Distingue cadena perpetua de pena temporal y fija máximo de treinta y cinco años para esta última."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye suspensión de la ejecución para delitos contra la libertad sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Permite al fiscal pedir variación de pena por nuevas razones, sin tipificar crueldad o degradación como agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia sexual y psicológica, sin precisar su efecto agravante en la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "Agrava daños a bienes, no delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas, no agravación de abuso sexual por crueldad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata violencia estatal en prisión, no agravantes del abuso sexual de la hija."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "parcial",
+      "rationale": "Regula inhabilitación por abuso de poder, sin establecer agravación por crueldad o humillación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de penas de la Corte Penal Internacional, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata acuerdos reparatorios en lesiones leves, no agravación de delitos sexuales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata evaluación de riesgo doméstico, no cuantificación de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa cinco años los extremos de pena por crueldad o finalidad de degradar en los delitos sexuales enumerados."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "Regula inicio de investigación, no agravación de penas."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Trata dosificación de pena por ausencia de daño emocional, sin explicar agravantes por crueldad o humillación."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0039::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones, no agravación de abuso sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "si",
+      "rationale": "Reconoce al cónyuge el derecho a abstenerse de testificar y exige advertírselo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce no declarar para evitar incriminación de allegados, pero remite a otro artículo para identificar a los protegidos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Reconoce silencio del imputado, no abstención de una testigo por vínculo conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata deber de protección ante violencia doméstica, no derecho a abstenerse de testificar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad y valoración del relato de un menor, no abstención de la cónyuge."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de imágenes sexuales, no testimonio de familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Regula silencio del acusado en apelación, no abstención de su cónyuge testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata condena por agresión de expareja, no derecho de abstención del testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Dispensa del juramento a los sujetos del artículo 165, pero no explica su derecho a negarse a declarar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "Regula rendición de cuentas regionales, no testimonio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual, no abstención testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusa de pena en delitos patrimoniales familiares, no abstención de testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección por riesgo doméstico, no derecho a abstenerse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "si",
+      "rationale": "Extiende el derecho de abstención a excónyuges y exconvivientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_165_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "si",
+      "rationale": "Protege el secreto profesional médico y del abogado, indicando excepciones y liberación por el interesado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

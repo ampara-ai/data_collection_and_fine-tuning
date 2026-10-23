@@ -1,0 +1,137 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Detuvieron en el acto al que me pedía dinero bajo amenazas. ¿La policía puede mirar lo que tiene en su celular?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En detención en el acto por extorsión, sicariato o secuestro, la policía puede revisar los equipos informáticos del detenido con autorización previa del fiscal."
+    },
+    {
+     "query": "¿Quién tiene que dar permiso para revisar el celular o la laptop de quien secuestró a mi familiar?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal autoriza previamente la revisión, y luego pide al juez que la confirme."
+    },
+    {
+     "query": "Si encuentran un celular escondido en la cárcel, ¿pueden revisarlo para investigar a un extorsionador?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "La revisión también puede hacerse dentro del penal cuando en operativos sorpresa se hallan equipos, si es indispensable para esclarecer el hecho."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_351_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El fiscal ya pidió que mi agresor vaya a juicio. ¿Cuánto tiempo pasa hasta que el juez decide si el caso sigue?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La audiencia se fija entre 5 y 20 días, y entre el pedido del fiscal y la decisión del juez no pueden pasar más de 40 días (90 en casos complejos)."
+    },
+    {
+     "query": "Me avisaron de una reunión ante el juez antes del juicio. ¿Qué se hace ahí y puede mi abogado hablar?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Es una audiencia dirigida por el juez donde el fiscal y las defensas, incluida la de la parte civil, debaten brevemente las cuestiones planteadas y las pruebas."
+    },
+    {
+     "query": "¿Y si suspenden esa audiencia? Tengo miedo de que se alargue todo y mi agresor quede libre sin que pase nada.",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si se suspende, la siguiente sesión debe hacerse en máximo 8 días hábiles, y la audiencia es inaplazable."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me obliga con amenazas a estar con otros hombres para quedarse con la plata. ¿Qué castigo le toca?",
+     "topic": "violencia_sexual",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Obligar a alguien con violencia o amenaza a actos sexuales para lucrar tiene pena de 10 a 15 años, y de 20 a 25 si es expareja, conviviente o cónyuge."
+    },
+    {
+     "query": "No me amenazó, pero me engañó y manipuló para que me prostituya y cobra lo que gano. ¿Eso también es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "También es delito si se comete mediante engaño, manipulación u otro condicionamiento, con la misma pena de 10 a 15 años."
+    },
+    {
+     "query": "¿La pena es mayor si la persona que me hace esto es mi pariente o vive en mi casa?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La pena sube a 20-25 años si el agente es familiar, pareja o expareja, o vive con la víctima; hay más agravantes y, si la víctima muere, 25 a 30 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me tiene encerrada y amenaza con matarme. ¿La policía puede intervenir sin esperar al fiscal?",
+     "topic": "canales_denuncia",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si la vida, integridad o libertad de la víctima está amenazada y el fiscal no puede llegar, la policía puede ejecutar el operativo sin él; el fiscal debe llegar luego a convalidarlo."
+    },
+    {
+     "query": "¿Se puede organizar que agarren al agresor cuando está a punto de cometer el delito o mientras lo comete?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal, junto con la policía, puede disponer un operativo ante un delito inminente o en curso para identificar y detener a los autores, registrándolo con un medio idóneo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_140_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me dijeron que se perdió el expediente de mi denuncia por violencia. ¿Mi caso se cae o se puede recuperar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el expediente o documentos originales se pierden, la copia certificada tiene el valor del original y se repone; también pueden usarse archivos informáticos."
+    },
+    {
+     "query": "Tengo copia sellada de una resolución de mi caso y el original desapareció. ¿Me piden que la entregue y tengo derecho a otra copia?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal o juez puede ordenar entregar la copia a la secretaría, sin perjuicio del derecho a obtener gratis otra copia certificada."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_5_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja me amenaza por mensajes desde otra ciudad. ¿Se considera que el delito ocurrió donde él está o donde yo vivo?",
+     "topic": "identificacion_delito",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El delito se considera cometido tanto donde el autor actuó u omitió como donde se producen sus efectos."
+    },
+    {
+     "query": "Pasó parte de la agresión en un lugar y sus consecuencias las sufrí en otro. ¿Dónde puedo denunciar?",
+     "topic": "canales_denuncia",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El lugar del delito es donde el autor actuó o debió actuar, o donde se producen sus efectos."
+    }
+   ]
+  }
+ ]
+}

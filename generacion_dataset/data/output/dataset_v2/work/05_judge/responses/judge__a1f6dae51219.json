@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "No regula la devolución de la caución cuando el acusado es absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "No regula la devolución de la caución cuando el acusado es absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "No regula la devolución de la caución cuando el acusado es absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "No regula la devolución de la caución cuando el acusado es absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_289_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "No regula la devolución de la caución cuando el acusado es absuelto."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

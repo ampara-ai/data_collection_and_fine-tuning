@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_264_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "si",
+      "rationale": "Señala el plazo de cuarenta y ocho horas para la detención policial y sus excepciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_264_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho del detenido a ser examinado por un médico particular."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_264_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "si",
+      "rationale": "Establece que el fiscal decide entre libertad y solicitud de prisión preventiva u otra medida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Permite al fiscal incorporar hechos nuevos mediante acusación complementaria durante el juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Regula la apertura del juicio, no la suspensión por ampliación de cargos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "parcial",
+      "rationale": "Expone las reglas generales de suspensión, pero no el plazo específico por acusación complementaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "si",
+      "rationale": "Reconoce la suspensión para preparar defensa ante hechos nuevos y fija un máximo de cinco días."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica difusión de contenido sexual, no suspensión de audiencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Regula exenciones de responsabilidad penal, no ampliación de cargos en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la falta de declaración por negligencia defensiva, no suspensión por hechos nuevos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata la excepcionalidad del careo en España, no suspensión por ampliación de acusación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula una audiencia de prueba anticipada, distinta del juicio con cargos nuevos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "Tipifica el cohecho pasivo, no suspensión de juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Analiza demoras para juzgar a un detenido, no tiempo de defensa ante acusación complementaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "Regula la audiencia de extradición, no ampliación de cargos en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata la citación de testigos de descargo, no suspensión por hechos nuevos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_374_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelaciones de medidas de protección, no la pausa del juicio por nuevos cargos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

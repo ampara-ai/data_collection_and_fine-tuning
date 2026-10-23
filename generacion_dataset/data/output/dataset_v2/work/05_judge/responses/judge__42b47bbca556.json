@@ -1,0 +1,149 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula examen de testigos y peritos, no denegación de auxilio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona con prisión la negativa injustificada de auxilio policial en peligro o violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Tipifica y sanciona la denegación de auxilio policial en violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Fija de dos a cuatro años por denegar auxilio a un particular en peligro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorios de testigos y peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Fija de dos a cuatro años por denegar auxilio a un particular en peligro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones en juicio, no negativa policial de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Penaliza rehusar, omitir o retardar injustificadamente el auxilio a personas en peligro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Penaliza la negativa o demora injustificada de auxilio a personas en peligro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones culposas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "Analiza pena por lesiones cometidas por una expareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión del proceso por anomalía psíquica del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza discriminación por investigación deficiente, no tipificación de la demora en auxilio policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula declaración en juicio de víctimas menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Tipifica el retardo injustificado de auxilio policial y establece prisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Regula observación psiquiátrica del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula examen corporal del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_524_01",
+      "relevance": "no",
+      "rationale": "Regula tránsito de extraditados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza impugnaciones y penas por lesiones, no demora policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de intimidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula examen de testigos y peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "parcial",
+      "rationale": "Establece atención policial prioritaria, pero no determina la sanción por demorarla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_378_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Establece prisión por retardo injustificado de auxilio policial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

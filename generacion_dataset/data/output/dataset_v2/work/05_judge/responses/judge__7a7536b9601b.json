@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "si",
+      "rationale": "El sobreseimiento parcial permite continuar el proceso contra los demás imputados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "si",
+      "rationale": "Ordena resolver primero el sobreseimiento y luego tramitar la acusación restante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "parcial",
+      "rationale": "Explica la decisión judicial sobre el sobreseimiento, pero no su coexistencia con otros cargos acusados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00410_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Da contexto sobre los presupuestos del sobreseimiento sin abordar un requerimiento mixto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Regula el sobreseimiento en el control de acusación, sin explicar el orden del requerimiento mixto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_348_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica el trámite de un requerimiento que pide acusación y sobreseimiento por cargos diferentes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

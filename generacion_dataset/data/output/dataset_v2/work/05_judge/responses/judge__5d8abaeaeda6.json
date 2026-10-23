@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0021_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "si",
+      "rationale": "Describe una reducción de pena por responsabilidad restringida de un agresor de veinte años que embarazó a una menor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0021_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Distingue la reducción por edad y la falta de razones familiares para suspender la pena sin desarrollar el efecto general del nacimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

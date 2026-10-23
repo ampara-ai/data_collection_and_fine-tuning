@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_356_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "si",
+      "rationale": "Permite sesiones sucesivas hasta concluir el juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_356_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "si",
+      "rationale": "Reconoce publicidad y presencia obligatoria del imputado y su defensor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

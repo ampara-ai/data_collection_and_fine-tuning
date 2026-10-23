@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_107_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "si",
+      "rationale": "Permite al directamente ofendido solicitar conjuntamente sanción y reparación en delitos de acción privada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

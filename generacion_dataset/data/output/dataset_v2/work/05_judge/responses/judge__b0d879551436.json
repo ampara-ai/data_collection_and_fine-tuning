@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Describe fines de las penas sin medidas de reserva de datos o reubicación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Interpreta el peligro inmediato, pero no regula ocultamiento de datos ni traslado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "La confidencialidad corresponde al registro de fallos reservados, no al domicilio de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo, no captura del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q03",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención ilegal sin indicar cuándo puede ordenarse la captura consultada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0016::q05",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera exenciones penales, no deberes estatales de investigar y supervisar protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige protección estatal de testigos y familiares frente a amenazas que entorpecen la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz de imputados, no protección de personas que apoyan la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Exige diligencia y protección inmediata de víctimas, pero no desarrolla protección de testigos y allegados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber general de prevenir malos tratos e investigar, sin abordar protección de quienes apoyan la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata estereotipos de género y responsabilidad estatal sin protección de testigos amenazados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "Determina condición de víctima de familiares para reparación, no medidas de resguardo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "Regula reevaluación del riesgo de la víctima, no protección de colaboradores y testigos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "Regula dispensa de testimonio, no protección frente a amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera causas de exención de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "Regula interrupción de la prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "Enumera circunstancias de determinación de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "Regula investigación y protección de indicios materiales, no resguardo de personas amenazadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "si",
+      "rationale": "Establece deber estatal de proteger a quienes colaboran con la justicia y a familiares amenazados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "si",
+      "rationale": "Explica que la intimidación sin protección obstaculiza el esclarecimiento y genera impunidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,94 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "questions": [
+  {
+   "query": "Absolvieron al hombre que atacó a mi hija porque dudaron de las pruebas. ¿No debían revisar si al menos era otro delito más leve?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00496_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia sostiene que, si la absolución se basa en la duda, el tribunal no está obligado a analizar otro tipo penal alternativo.",
+   "expected_answer_focus": "Debe explicar que, cuando se absuelve por duda sobre las pruebas, el tribunal no tiene que evaluar otros delitos alternativos.",
+   "victim_voice_rationale": "Una madre no entiende por qué, tras la absolución, nadie consideró otro delito."
+  },
+  {
+   "query": "En la apelación usaron un examen de laboratorio que nadie había discutido para dudar de lo que dijo mi hija. ¿Los jueces pueden hacer eso?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00496_e0010_01"
+   ],
+   "positive_selection_reason": "La sentencia indica que el tribunal superior puede analizar una pericia no cuestionada si sirve para contrastar la versión de la víctima, y que ello no es incongruencia.",
+   "expected_answer_focus": "Debe indicar que el tribunal puede valorar pruebas periciales no impugnadas cuando son relevantes para verificar la versión de la víctima.",
+   "victim_voice_rationale": "La familia siente que usaron una prueba contra la víctima sin que nadie la hubiera cuestionado."
+  },
+  {
+   "query": "Mi hija declaró ante los primeros jueces y le creyeron. ¿Los jueces que revisan el caso pueden darle otro valor a lo que ella dijo?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_425_01"
+   ],
+   "positive_selection_reason": "El art. 425.2 limita a la Sala a dar distinto valor a la prueba personal valorada con inmediación por el juez de primera instancia.",
+   "expected_answer_focus": "Debe explicar que la Sala de apelaciones no puede valorar de otra manera la prueba personal vista por el primer juez, salvo excepciones.",
+   "victim_voice_rationale": "Teme que el testimonio de su hija sea desvalorizado por otros jueces."
+  },
+  {
+   "query": "Condenaron a cinco años al agresor de mi hija, pero en la apelación lo dejaron libre. ¿Los jueces superiores pueden cambiar así la decisión?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_425_01"
+   ],
+   "positive_selection_reason": "El art. 425.3.b permite que la Sala confirme o revoque la sentencia condenatoria y dicte absolución; el art. 425.1 exige mayoría de votos.",
+   "expected_answer_focus": "Debe señalar que la Sala de segunda instancia puede revocar una condena y absolver, dentro de los límites del recurso.",
+   "victim_voice_rationale": "Una familia se queda sorprendida porque se revirtió la condena."
+  },
+  {
+   "query": "La sala de apelaciones dejó libre al agresor. ¿Todavía se puede reclamar algo o ya se acabó todo?",
+   "topic": "procedimiento_penal",
+   "barrier": "no_sabe_como_denunciar",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_425_01"
+   ],
+   "positive_selection_reason": "El art. 425.5 establece que contra la sentencia de segunda instancia solo procede pedir aclaración o corrección y el recurso de casación.",
+   "expected_answer_focus": "Debe indicar que, contra la sentencia de apelación, solo cabe pedir aclaración o corrección y presentar casación si se cumplen sus requisitos.",
+   "victim_voice_rationale": "Quiere saber qué opciones quedan tras una absolución en segunda instancia."
+  },
+  {
+   "query": "El fiscal acusó por un delito, pero el juez cree que lo que le hicieron a mi hija encaja en otro. ¿Puede condenarlo por ese otro?",
+   "topic": "procedimiento_penal",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_374_01",
+    "chunk_tipo03_cpp_art_397_01"
+   ],
+   "positive_selection_reason": "El art. 397.2 prohíbe cambiar la calificación al condenar salvo que se haya seguido el art. 374.1, que obliga a advertir a las partes y permite que se pronuncien.",
+   "expected_answer_focus": "Debe explicar que el juez solo puede condenar por otra calificación si antes advirtió a fiscal y acusado y les dio oportunidad de pronunciarse.",
+   "victim_voice_rationale": "Duda si el juez puede cambiar el delito por el que se acusó."
+  },
+  {
+   "query": "¿El juez puede ponerle al agresor más años de cárcel de los que pidió el fiscal?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_397_01"
+   ],
+   "positive_selection_reason": "El art. 397.3 dice que el juez no puede imponer una pena más grave que la requerida por el fiscal, con una excepción.",
+   "expected_answer_focus": "Debe señalar que la pena no puede exceder lo solicitado por el fiscal, salvo cuando se pidió una por debajo del mínimo legal sin causa justificada.",
+   "victim_voice_rationale": "Quiere saber qué tanto puede el juez aumentar la sanción por la gravedad del ataque."
+  },
+  {
+   "query": "En pleno juicio salió un detalle nuevo de cómo atacaron a mi hija. ¿El fiscal puede agregarlo y qué pasa con el abogado del agresor?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_374_01"
+   ],
+   "positive_selection_reason": "El art. 374.2 y 374.3 permiten al fiscal ampliar la acusación con un hecho nuevo y dan al imputado nueva declaración y suspensión del juicio para preparar su defensa.",
+   "expected_answer_focus": "Debe explicar que el fiscal puede presentar una acusación complementaria con hechos nuevos, y que la defensa puede pedir suspender el juicio hasta cinco días.",
+   "victim_voice_rationale": "Teme que un hecho nuevo en el juicio se pierda o complique el caso."
+  }
+ ]
+}

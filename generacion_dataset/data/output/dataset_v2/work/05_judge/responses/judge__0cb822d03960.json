@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_426_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "si",
+      "rationale": "Indica que no puede aumentarse la pena si el nuevo juicio deriva de un recurso a favor del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_426_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "si",
+      "rationale": "Excluye a los jueces que intervinieron en el juicio anulado en el supuesto indicado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

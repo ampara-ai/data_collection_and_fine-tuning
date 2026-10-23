@@ -1,0 +1,24 @@
+{
+ "task_id": "judge__a20f6d5223af",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_485_01::q01\",\n  \"question\": \"Si la persona acusada no se presenta a la audiencia porque no quiere, ¿pueden traerla con la policía?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_485_01\",\n    \"title\": \"Artículo 485. Medidas de coerción\",\n    \"text\": \"1. El Juez sólo podrá dictar mandato de comparecencia sin restricciones contra el imputado.\\n2. Cuando el imputado no se presente voluntariamente a la audiencia, podrá hacérsele comparecer por medio de la fuerza pública, y si fuera necesario se ordenará la prisión preventiva hasta que se realice y culmine la audiencia, la cual se celebrará inmediatamente.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"train::chunk_tipo03_cpp_art_485_01::q02\",\n  \"question\": \"Si el acusado se niega a venir a la audiencia, ¿lo pueden dejar preso hasta que termine?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_485_01\",\n    \"title\": \"Artículo 485. Medidas de coerción\",\n    \"text\": \"1. El Juez sólo podrá dictar mandato de comparecencia sin restricciones contra el imputado.\\n2. Cuando el imputado no se presente voluntariamente a la audiencia, podrá hacérsele comparecer por medio de la fuerza pública, y si fuera necesario se ordenará la prisión preventiva hasta que se realice y culmine la audiencia, la cual se celebrará inmediatamente.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "train::chunk_tipo03_cpp_art_485_01::q01",
+     "chunk_tipo03_cpp_art_485_01"
+    ],
+    "positive"
+   ],
+   [
+    [
+     "train::chunk_tipo03_cpp_art_485_01::q02",
+     "chunk_tipo03_cpp_art_485_01"
+    ],
+    "positive"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__a20f6d5223af.json"
+}

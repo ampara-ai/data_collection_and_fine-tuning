@@ -1,0 +1,31 @@
+{
+ "task_id": "judge__08e85e773de8",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_67_01::q01\",\n  \"question\": \"Fui a la comisaría a avisar que mi esposo me golpea. ¿Los policías tienen que hacer algo o esperar a que el fiscal les diga?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_67_01\",\n    \"title\": \"Artículo 67. Función de investigación de la Policía Nacional\",\n    \"text\": \"1. La Policía Nacional del Perú en cumplimiento de sus funciones debe, inclusive por propia iniciativa, tomar conocimiento de los delitos y comunicar inmediatamente al Fiscal, debiendo realizar, las diligencias de investigación urgentes o inaplazables, que formarán parte de las diligencias preliminares y de la carpeta fiscal, para impedir sus consecuencias, individualizar a sus autores y partícipes, así como reunir y asegurar los elementos de prueba que puedan servir para la aplicación de la ley penal.\\nSimilar función desarrollará tratándose de delitos dependientes de instancia privada o sujetas a ejercicio privado de la acción penal.\\n2. Los policías que realicen funciones de investigación están obligados a comunicar al Ministerio Público de las diligencias preliminares realizadas, así como apoyar al Ministerio Público para llevar a cabo la Investigación Preparatoria formalizada. El cumplimiento de las disposiciones fiscales en la investigación preliminar del delito no genera relación de subordinación por parte de los miembros de la Policía Nacional del Perú.\\n3. La investigación del delito a ejecutarse por personal de la Policía Nacional en la etapa de la Investigación Preparatoria, será a requerimiento del Fiscal competente para el caso concreto\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_67_01::q02\",\n  \"question\": \"Tengo miedo de que en la comisaría no me hagan caso si no hay un fiscal presente. ¿Ellos pueden investigar por su cuenta?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_67_01\",\n    \"title\": \"Artículo 67. Función de investigación de la Policía Nacional\",\n    \"text\": \"1. La Policía Nacional del Perú en cumplimiento de sus funciones debe, inclusive por propia iniciativa, tomar conocimiento de los delitos y comunicar inmediatamente al Fiscal, debiendo realizar, las diligencias de investigación urgentes o inaplazables, que formarán parte de las diligencias preliminares y de la carpeta fiscal, para impedir sus consecuencias, individualizar a sus autores y partícipes, así como reunir y asegurar los elementos de prueba que puedan servir para la aplicación de la ley penal.\\nSimilar función desarrollará tratándose de delitos dependientes de instancia privada o sujetas a ejercicio privado de la acción penal.\\n2. Los policías que realicen funciones de investigación están obligados a comunicar al Ministerio Público de las diligencias preliminares realizadas, así como apoyar al Ministerio Público para llevar a cabo la Investigación Preparatoria formalizada. El cumplimiento de las disposiciones fiscales en la investigación preliminar del delito no genera relación de subordinación por parte de los miembros de la Policía Nacional del Perú.\\n3. La investigación del delito a ejecutarse por personal de la Policía Nacional en la etapa de la Investigación Preparatoria, será a requerimiento del Fiscal competente para el caso concreto\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_34_01::q01\",\n  \"question\": \"Mi caso lo está viendo un juez de otra ciudad que creo que no le corresponde. ¿Puedo pedir que lo pase al juez correcto mientras investigan?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_34_01\",\n    \"title\": \"Artículo 34. Declinatoria de competencia\",\n    \"text\": \"1. Durante la Investigación Preparatoria el imputado, el actor civil o el tercero civil podrán pedir declinatoria de competencia.\\n2. La petición procede cuando el Juez se avoca al conocimiento de un delito que no le corresponde por razón de la materia, de jerarquía o de territorio. El Juez la resolverá, de conformidad con el trámite previsto —en lo pertinente— en el artículo 8 in fine , mediante resolución fundamentada.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_67_01::q01",
+     "chunk_tipo03_cpp_art_67_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_67_01::q02",
+     "chunk_tipo03_cpp_art_67_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_34_01::q01",
+     "chunk_tipo03_cpp_art_34_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__08e85e773de8.json"
+}

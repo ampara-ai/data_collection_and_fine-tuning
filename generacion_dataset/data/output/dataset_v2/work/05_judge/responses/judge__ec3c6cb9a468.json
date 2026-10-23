@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "parcial",
+      "rationale": "Regula la asistencia de sujetos procesales, pero no la autorización de familiares acompañantes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_338_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "si",
+      "rationale": "Faculta al fiscal a excluir asistentes que vulneren el orden y la disciplina."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

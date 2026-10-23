@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00458_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "si",
+      "rationale": "La mentira y el móvil no bastan sin indicios graves y corroboración externa."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "si",
+      "rationale": "Reconoce la negativa a declarar y dispone que el juicio continúe."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica garantías de ratificación de confesión sin resolver la prohibición de presión o preguntas capciosas."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "Regula servicios comunitarios."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "Tipifica apropiación ilícita."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata conducción de testigos, no el interrogatorio del sospechoso."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "Regula comparecencia simple."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "Sanciona incomparecencia de testigos y peritos."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza la retractación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula entrevista de la víctima, no interrogatorio del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio de testigos y peritos en juicio, no del sospechoso detenido."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Prohíbe medios coactivos e intimidatorios o técnicas que alteren la voluntad del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "Regula deberes de testigos, no el interrogatorio del detenido."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Analiza nulidad y valoración de la declaración de un menor."
+    },
+    {
+      "dataset_id": "case::jp_00458_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "si",
+      "rationale": "Prohíbe coacción y preguntas ambiguas, capciosas o sugestivas al imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Establece deber de investigar tortura y violencia sexual, sin tratar denuncias de pareja por golpes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula recusación judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce facultad y obligación de denunciar sin resolver la negativa policial a investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "Sanciona consumo involuntario de drogas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula proceso por faltas sin resolver la negativa a investigar violencia de pareja."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia de pareja y violencia tolerada por el Estado sin desarrollar el deber de investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece obligación estatal de investigar eficazmente la violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Establece deber de protección ante riesgo doméstico sin resolver directamente la negativa a investigar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "si",
+      "rationale": "Condena la falta de investigación y la promoción de reconciliación ante denuncias reiteradas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual, no el deber policial de investigar la denuncia descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "Regula inhabilitación accesoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registro personal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "si",
+      "rationale": "Considera incumplimiento estatal trivializar denuncias domésticas y no abrir investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00390_e0008_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "si",
+      "rationale": "Vincula la inacción investigativa ante violencia doméstica con la prohibición de tortura y malos tratos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

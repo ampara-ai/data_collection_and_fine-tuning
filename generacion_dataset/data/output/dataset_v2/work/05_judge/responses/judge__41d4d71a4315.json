@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "si",
+      "rationale": "Identifica la guía oficial aprobada para evaluaciones psicológicas forenses de violencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0022_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la resolución y la guía, pero no indica quién la elabora."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

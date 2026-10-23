@@ -1,0 +1,119 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00067_e0014::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula delitos de función de magistrados y no motivos nuevos en casación."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0014::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "Regula contenido del testimonio y no permisos laborales para declarar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "si",
+      "rationale": "Determina quién nombra al perito y la colaboración gratuita de especialistas estatales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "si",
+      "rationale": "Permite dos o más peritos por complejidad o necesidad de distintas disciplinas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica tocamientos a menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Analiza calificación de violación sexual y no elección de peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "Regula instalación de audiencia, no designación de especialistas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio de peritos ya designados y no sugerencias para su nombramiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "Tipifica libramiento indebido de cheques."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Explica presentación de denuncias sin regular elección de peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "Examina retractación de víctima y no nombramiento de especialistas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Tipifica abuso sexual de personas dependientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "Regula observación psiquiátrica del imputado sin reconocer propuesta de perito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "si",
+      "rationale": "Ordena considerar la propuesta o sugerencia de las partes al nombrar peritos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_173_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Regula tiempo de preparación del defensor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "Regula examen de inimputabilidad del procesado, no investigación de maltrato policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0088_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "Regula declaración de testigos por exhorto o videoconferencia, no credibilidad afectada por trauma."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

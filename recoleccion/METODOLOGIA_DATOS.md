@@ -106,4 +106,4 @@ La clasificación por tipos de dato responde a la necesidad de separar normas ce
 
 ## 7. Consideración metodológica sobre las fuentes
 
-En algunos casos se emplean fuentes operativas estructuradas como LP Derecho para facilitar la extracción y actualización. Esta decisión responde a criterios de viabilidad técnica y no reemplaza la necesidad de reconocer la primacía conceptual de las fuentes oficiales cuando ello resulte necesario para contraste, verificación o justificación académica.
+En algunos casos se emplean fuentes operativas estructuradas como LP Derecho para facilitar la extracción y actualización. Cuando sea necesario comprobar el texto vigente, estas fuentes deben contrastarse con la publicación oficial correspondiente.

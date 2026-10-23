@@ -1,0 +1,59 @@
+{
+ "questions": [
+  {
+   "query": "Mi esposo llega borracho y me pega. Si me deja muy lastimada, ¿que haya tomado hace que lo castiguen más o menos?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El artículo 121-B incluye como agravante que el agresor actúe en estado de ebriedad o bajo efecto de drogas, y que la víctima sea cónyuge. Esto responde directamente a la duda de la víctima.",
+   "expected_answer_focus": "Explicar que en lesiones graves en contexto familiar, la ebriedad del agresor y el vínculo conyugal son circunstancias que agravan la pena. Sin fijar cifras históricas.",
+   "victim_voice_rationale": "Una mujer cuyo marido bebe y la golpea quiere saber si la borrachera lo favorece o lo perjudica ante la ley."
+  },
+  {
+   "query": "Mi marido me atacó con un cuchillo y me dejó muy herida. ¿Haber usado un arma cambia en algo lo que le pueden hacer?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El artículo 121-B agrava las lesiones graves cuando se usa cualquier arma, objeto contundente o instrumento que ponga en riesgo la vida, y cuando la víctima es cónyuge. También prevé una pena mayor si concurren varias agravantes.",
+   "expected_answer_focus": "Indicar que el uso de un arma o instrumento peligroso, junto con el vínculo conyugal, es una circunstancia agravante, y que varias agravantes juntas elevan la pena.",
+   "victim_voice_rationale": "Una víctima atacada con un cuchillo quiere saber si la gravedad del medio usado pesa en el castigo."
+  },
+  {
+   "query": "Mi hija vio cómo su papá me golpeaba y ahora vive con miedo y muy nerviosa. ¿Eso también se considera grave para ella?",
+   "topic": "violencia_psicologica",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El numeral 7 del artículo 121-B agrava el daño psicológico causado a una niña, niño o adolescente en contextos de violencia familiar.",
+   "expected_answer_focus": "Señalar que el daño psicológico a menores en un contexto de violencia familiar es una circunstancia agravante de las lesiones graves.",
+   "victim_voice_rationale": "Una madre preocupada por el miedo de su hija quiere saber si ese sufrimiento también cuenta ante la ley."
+  },
+  {
+   "query": "La policía vino a casa cuando mi marido nos golpeó a mi hija y a mí, pero solo anotó y se fue. ¿El Estado responde si no me protegió?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0018_01"
+   ],
+   "positive_selection_reason": "La sentencia del TEDH sostiene que el Estado que no protege a las mujeres de la violencia doméstica vulnera su derecho a la igualdad de protección ante la ley, y que ello no requiere intención.",
+   "expected_answer_focus": "Explicar que, según este criterio internacional, la falta de protección estatal frente a la violencia doméstica puede constituir una violación de derechos de la mujer.",
+   "victim_voice_rationale": "Una víctima a quien la policía no ayudó quiere saber si esa omisión de las autoridades tiene consecuencias."
+  },
+  {
+   "query": "Siento que cuando denunciamos a nuestras parejas, a las mujeres no nos toman en serio. ¿Eso es un trato injusto que se pueda reclamar aunque no lo hagan con mala intención?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00051_e0018_01"
+   ],
+   "positive_selection_reason": "El criterio principal de la sentencia establece que no proteger a las mujeres de la violencia doméstica vulnera la igualdad ante la ley sin que se exija intencionalidad.",
+   "expected_answer_focus": "Indicar que la pasividad estatal ante la violencia doméstica puede ser discriminación contra la mujer, aunque no haya intención de discriminar.",
+   "victim_voice_rationale": "Una mujer desconfiada de que se tome en serio su denuncia pregunta si esa indiferencia es una injusticia reclamable."
+  }
+ ]
+}

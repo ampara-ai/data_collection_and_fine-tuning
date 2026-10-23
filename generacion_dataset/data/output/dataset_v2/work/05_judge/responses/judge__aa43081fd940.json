@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00259_e0006::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que riesgo para la agraviada e influencia familiar no bastan para transferir competencia y deben atenderse con medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al fiscal o juez y contempla riesgo para familiares, pero no precisa la extensión ordinaria de la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la autoridad que aprecia el peligro y la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la autoridad que aprecia el peligro y la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la autoridad que aprecia el peligro y la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Expone evaluación judicial de riesgo y extensión a personas dependientes vulnerables, pero corresponde al procedimiento de familia."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica medidas judiciales urgentes basadas en valoración objetiva del riesgo, sin abordar la cobertura a la madre."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la autoridad que aprecia el peligro y la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Atribuye al fiscal o juez la apreciación del peligro grave e incluye expresamente a ascendientes de la persona protegida."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de peligro inmediato en violencia doméstica, sin precisar quién decide en el proceso ni la cobertura familiar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Describe protección y su continuidad, pero no el criterio inicial de peligro ni su extensión a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de riesgo doméstico y responsabilidad por inacción, sin resolver la competencia procesal ni cobertura a la madre."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la autoridad que aprecia el peligro y la protección a ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección efectiva de víctima y familiares, pero no precisa quién debe apreciar el peligro."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera protección policial, cambio de residencia, ocultación del paradero y reserva de domicilio e identidad."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "parcial",
+      "rationale": "Encarga al auxiliar gestionar notificaciones y comparecencias, pero no establece si vale una citación telefónica."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye a la policía actos de investigación y citación, sin regular la validez de avisos telefónicos."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Autoriza citar por la policía y, en urgencia, por teléfono con constancia en autos."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la validez de una citación telefónica para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Respalda medidas urgentes sin audiencia del denunciado, pero no concreta el resguardo de víctima y madre."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "si",
+      "rationale": "Detalla ejecución policial, canal directo de resguardo y atención prioritaria de visitas y emergencias."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Enumera medidas concretas de protección policial, reserva de datos y cambio de residencia."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige que las medidas frente a amenazas procesales a víctima y familiares se ejecuten inmediata y constantemente."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "si",
+      "rationale": "Indica recurrir a medidas de protección de los artículos 247 y 248 cuando el riesgo no permite trasladar el caso."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige revisar periódicamente el riesgo y ofrece contexto sobre alejamiento, sin desarrollar resguardo procesal de familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "si",
+      "rationale": "Permite medidas de protección procesal por peligro grave para la agraviada y sus ascendientes."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibir al imputado aproximarse o comunicarse con la víctima y otras personas que determine el juez."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección adecuada al riesgo conocido, pero no identifica medidas concretas para el supuesto procesal consultado."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    },
+    {
+      "dataset_id": "case::jp_00259_e0006::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre las medidas de resguardo procesal de víctima y familiares."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

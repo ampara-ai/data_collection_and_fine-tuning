@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00067_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a apelar cuando la condena no fue notificada debidamente en el domicilio real."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "si",
+      "rationale": "Explica que la sola notificación electrónica no inicia el plazo de impugnación en el caso descrito."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q03",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "si",
+      "rationale": "El defecto de notificación conduce a admitir la apelación, sin disponer el archivo de la causa."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 479. Condiciones, Obligaciones y Control del beneficiado» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Lubricación indica consentimiento (STS 944/2019, España)» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 85. Reemplazo del abogado defensor» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo VIII.- Proporcionalidad de las sanciones» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 394.- Cohecho pasivo impropio» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 378. Examen de testigos y peritos» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 295. Solicitud del Fiscal» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "parcial",
+      "rationale": "Prevé conducción compulsiva del testigo citado, pero no la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "Establece el deber de concurrir con excepciones legales y justifica la ausencia al trabajo sin consecuencias adversas."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 8. Tipos de violencia» no establece el deber de comparecer como testigo y la justificación de la ausencia laboral."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "Prohíbe obligar al testigo a autoincriminarse o incriminar a los familiares protegidos."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "si",
+      "rationale": "Reconoce capacidad testimonial general y evaluación de idoneidad, sin excluir por ser niño."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_180_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 180. Reglas adicionales» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa)» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 386. Desarrollo de la discusión final» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Contradicciones en declaración (Exp. 02162-2021-6)» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 74. Minoría de edad» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Regula expresamente el testimonio de menores de dieciséis años y las garantías para recibirlo."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 136. Contenido del Expediente Judicial» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» no establece la aptitud de un niño testigo para declarar y aportar prueba."
+    },
+    {
+      "dataset_id": "case::jp_00067_e0023::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "si",
+      "rationale": "Atribuye al Ministerio Público el archivo mediante disposición y exige motivación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

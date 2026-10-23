@@ -1,0 +1,80 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Al principio denuncié a mi pareja por maltrato, pero en el juicio me eché para atrás por miedo. ¿Eso hace que ya no me crean y lo dejen libre?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La retractación en juicio es común en mujeres maltratadas y no invalida por sí sola la declaración inicial, que puede valorarse junto con otras pruebas."
+    },
+    {
+     "query": "Un juez dejó libre a un hombre que intentó matar a su conviviente con un cuchillo porque ella cambió su versión. ¿Se puede repetir ese juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la absolución por motivación insuficiente y ordenó un nuevo juicio con otros jueces."
+    },
+    {
+     "query": "Mi hija vio cuando su padre me amenazó con un cuchillo. ¿Lo que ella cuenta y los informes del psicólogo sirven aunque yo ya no quiera declarar contra él?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El testimonio de la hija, la pericia psicológica y la declaración inicial son pruebas que el juez debe valorar, considerando el contexto de violencia y dependencia de la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_113_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El auto que chocó a mi hijo es de una empresa y no del conductor. ¿Esa empresa también tendría que pagarme por el daño si el juicio sigue sin que ella se presente?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El tercero civil que no se presenta tras ser notificado no frena el proceso y queda obligado a pagar lo que fije la sentencia."
+    },
+    {
+     "query": "¿Si el agresor tenía un seguro, la aseguradora puede ser obligada a responder por lo que me deben pagar?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El asegurador puede ser llamado como tercero civilmente responsable si el seguro se contrató para cubrir la responsabilidad civil."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_67_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a la comisaría a avisar que mi esposo me golpea. ¿Los policías tienen que hacer algo o esperar a que el fiscal les diga?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La policía debe actuar por iniciativa propia, avisar de inmediato al fiscal y hacer las diligencias urgentes para reunir pruebas e identificar a los responsables."
+    },
+    {
+     "query": "¿Qué pasos debe hacer la policía apenas se entera de un delito para que no se pierdan las pruebas?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La policía debe tomar conocimiento, informar al fiscal, y realizar diligencias urgentes para impedir consecuencias del delito, individualizar autores y asegurar pruebas."
+    },
+    {
+     "query": "Tengo miedo de que en la comisaría no me hagan caso si no hay un fiscal presente. ¿Ellos pueden investigar por su cuenta?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La policía puede investigar por propia iniciativa las diligencias urgentes y debe apoyar al fiscal, sin estar subordinada a él."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_133_01",
+   "skip": true,
+   "skip_reason": "Trata de exhortos a autoridades extranjeras, un trámite técnico de cooperación internacional que una víctima de violencia familiar no preguntaría de forma natural.",
+   "questions": []
+  }
+ ]
+}

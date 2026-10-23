@@ -1,0 +1,27 @@
+{
+ "questions": [
+  {
+   "query": "Mi pareja me pegó con un fierro y quedé muy mal herida, ¿por usar eso en mi contra le tocará un castigo más fuerte?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El artículo enumera como agravante el uso de armas u objetos contundentes y el vínculo de pareja con la víctima.",
+   "expected_answer_focus": "Que las lesiones graves contra pareja o mujer se agravan si se usó arma u objeto contundente.",
+   "victim_voice_rationale": "Relato breve de una víctima que duda si el objeto usado cambia la gravedad."
+  },
+  {
+   "query": "Estoy embarazada y mi marido me golpeó estando borracho, ¿eso empeora lo que le pueden hacer a él?",
+   "topic": "violencia_fisica",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_121-b_01"
+   ],
+   "positive_selection_reason": "El artículo prevé como agravantes la gestación de la víctima y que el agresor actúe ebrio.",
+   "expected_answer_focus": "Que el embarazo de la víctima y la ebriedad del agresor son circunstancias que elevan la sanción por lesiones graves.",
+   "victim_voice_rationale": "Víctima embarazada con duda sobre si su estado y la embriaguez influyen."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

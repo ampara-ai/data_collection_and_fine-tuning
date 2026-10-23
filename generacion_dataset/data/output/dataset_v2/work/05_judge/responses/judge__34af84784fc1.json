@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "si",
+      "rationale": "Permite apelar la cesación de prisión preventiva dentro del tercer día de notificado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Trata la comunicación de delitos descubiertos en procesos extrapenales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "Regula prueba de oficio y no la excarcelación durante una apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelaciones de medidas de protección y no el cese de prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Define la trata de personas sin regular la excarcelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "si",
+      "rationale": "Distingue cuándo la apelación impide la excarcelación y cuándo no."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Analiza la apelación del actor civil contra una absolución, no la excarcelación provisional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Examina la protección de identidad de una testigo, no la libertad durante una apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula impedimentos de salida territorial, no la salida de prisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula prueba de oficio en apelación y no la excarcelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Analiza la suspensión de la prescripción por acusación directa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula secuestro conservativo de vehículos y no prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula la excusa absolutoria en delitos patrimoniales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_284_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula el interrogatorio del acusado en juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

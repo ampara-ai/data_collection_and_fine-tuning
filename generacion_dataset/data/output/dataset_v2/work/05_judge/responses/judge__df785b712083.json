@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0042::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "si",
+      "rationale": "Describe una reducción de pena que valoró matrimonio e hijo con la víctima junto con otras circunstancias especiales."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica la violación mediante amenazas y agrava la pena si el autor aprovecha su condición de cónyuge o conviviente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "Regula obligaciones de quienes reciben beneficios por colaboración eficaz, no violación sexual conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula inspecciones y pesquisas policiales, no la gravedad penal de la violación cometida por el esposo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "Sanciona beneficios provenientes de explotación sexual, delito distinto de la violación descrita."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "Aborda investigación de tortura y valoración de expresiones imprecisas, sin tratar la agravante por vínculo conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula alimentos provisionales para víctimas, no la calificación o agravación de la violación sexual conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves agravadas, delito distinto de la violación sexual consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "Establece criterios para medidas de protección, sin resolver la gravedad penal por vínculo conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo acreditar violencia sexual sin exigir lesiones, pero no aborda su agravación por ser el agresor esposo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa, sin tratar la violación sexual conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "Establece condiciones para protección procesal de intervinientes, no la gravedad penal de una violación conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "Aborda amenazas a quienes colaboran con la justicia, sin resolver la agravante por relación de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Rechaza penas discriminatorias por ser trabajadora sexual la víctima, sin abordar la agravante conyugal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Detalla los límites de pena, pronóstico favorable, antecedentes y exclusiones para suspender su ejecución."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0042::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "si",
+      "rationale": "Describe la valoración conjunta de confesión y largo tiempo sin nuevos delitos para justificar una pena menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

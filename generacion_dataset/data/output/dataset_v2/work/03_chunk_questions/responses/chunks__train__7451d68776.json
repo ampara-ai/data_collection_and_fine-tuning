@@ -1,0 +1,221 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi expareja presionó a nuestra hija para que eligiera con quién vivir tras separarnos. ¿Eso se puede considerar maltrato y llegar a un juicio?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El caso trata de un padre que presionó a su hija para elegir con quién quedarse tras el divorcio, denunciado como maltrato psicológico contra una menor."
+    },
+    {
+     "query": "El psicólogo escribió que mi hija sufre 'maltrato emocional'. ¿Eso basta para que el juez diga que hubo violencia psicológica?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El tribunal exige explicar por qué el maltrato emocional equivale a violencia psicológica; no se puede equiparar sin fundamentarlo."
+    },
+    {
+     "query": "Ganamos en dos instancias y luego el tribunal más alto anuló todo. ¿Por qué pasa eso y significa que perdimos el caso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la sentencia por falta de motivación y ordenó que la Sala Superior emita un nuevo pronunciamiento; no se resolvió definitivamente en contra."
+    },
+    {
+     "query": "¿Un padre que regaña a su hija por perder el celular ya comete violencia familiar?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El caso incluyó como hechos la reprimenda por perder el celular y la presión sobre la menor, que sirvieron de base a la demanda por maltrato psicológico."
+    },
+    {
+     "query": "¿Quién puede presentar la demanda cuando la víctima del maltrato es una niña y su mamá no se atreve?",
+     "topic": "canales_denuncia",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En el caso, la demanda por violencia familiar contra el padre fue interpuesta por el Ministerio Público en agravio de la hija menor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_342_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a mi pareja por golpearme. ¿Cuánto tiempo tiene el fiscal para investigar antes de decidir qué hacer con mi caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La etapa de investigación dura 120 días naturales, prorrogables una sola vez hasta 60 días más por causas justificadas."
+    },
+    {
+     "query": "Ya pasaron varios meses y el fiscal sigue investigando mi denuncia. ¿Puede alargar la investigación cuanto quiera?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El fiscal solo puede prorrogar una vez, hasta 60 días adicionales, con una disposición y causas justificadas."
+    },
+    {
+     "query": "¿Qué hace que un caso se considere muy complicado y se investigue por muchos más meses?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El fiscal declara complejo el caso si hay muchos actos de investigación, delitos, imputados o víctimas, pericias complicadas, diligencias en el extranjero, etc."
+    },
+    {
+     "query": "Si el caso se vuelve complicado, ¿hasta cuántos meses puede durar la investigación contra mi agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "En investigaciones complejas el plazo es de ocho meses y en casos de organizaciones criminales, treinta y seis meses, con prórroga concedida por el juez."
+    },
+    {
+     "query": "¿Quién decide si mi caso es complejo, el fiscal o el juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Corresponde al fiscal emitir la disposición que declara complejo el proceso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_430_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor fue condenado a cárcel efectiva y apeló a la Corte Suprema. ¿Se admite su recurso aunque le falten requisitos?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Excepcionalmente se admite el recurso sin exigir requisitos de procedibilidad cuando la sentencia impone pena de prisión efectiva."
+    },
+    {
+     "query": "Si la otra parte pide revisión ante la Corte Suprema, ¿cuánto tiempo tiene el tribunal para decidir si acepta revisar el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "La Sala Suprema decide si procede conocer el fondo mediante auto dentro de veinte días; bastan tres votos."
+    },
+    {
+     "query": "Me avisaron que el condenado presentó un recurso ante la Corte Suprema. ¿Tengo que hacer algo o ir a Lima?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se notifica a todas las partes y se les emplaza a comparecer; si el caso viene de fuera de Lima deben fijar nuevo domicilio procesal dentro de diez días."
+    },
+    {
+     "query": "¿Qué pasa si no informo una nueva dirección para que me lleguen las notificaciones del caso en la Corte Suprema?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si no se señala nuevo domicilio procesal, se tiene por notificado a la parte en la fecha en que se emiten las resoluciones."
+    },
+    {
+     "query": "¿De cuántos días dispongo para responder cuando la otra parte presenta su recurso ante el tribunal supremo?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Elevado el expediente se corre traslado del recurso a las demás partes por diez días, si cumplieron con señalar domicilio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_129_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Soy víctima y me llegó una llamada pidiéndome presentarme en la fiscalía. ¿Es válido que me citen solo por teléfono?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En caso de urgencia se puede citar verbalmente, por teléfono, correo electrónico, fax u otro medio, dejando constancia."
+    },
+    {
+     "query": "¿Quién puede ir a avisarme que me necesitan como testigo o víctima en el proceso contra mi pareja?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Las víctimas pueden ser citadas por la Policía o por personal oficial de la Fiscalía o del juzgado."
+    },
+    {
+     "query": "Mi agresor es policía en servicio. ¿Cómo lo citan para que vaya a declarar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los militares y policías en actividad son citados por conducto de su superior jerárquico, salvo disposición contraria."
+    },
+    {
+     "query": "Me avisaron por correo electrónico que debo presentarme a declarar. ¿Tengo que hacerlo aunque no me llegó nada por escrito?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La citación puede hacerse por medios como correo electrónico en caso de urgencia y se deja constancia en el expediente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor me sigue y me intimida, y vivo en la misma ciudad donde lo juzgan. ¿Puedo pedir que cambien el juicio a otra ciudad por mi seguridad?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El riesgo a la vida o salud de la víctima no es causal para trasladar el proceso a otra sede; solo se contempla la seguridad o salud del procesado."
+    },
+    {
+     "query": "Tengo miedo por mi vida mientras dura el juicio contra mi expareja. ¿Qué puede hacer el juez para cuidarme si no cambia el caso de lugar?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El riesgo de la víctima se atiende mediante medidas de protección, no mediante el cambio de juzgado."
+    },
+    {
+     "query": "Creo que los jueces de mi región favorecen a mi agresor porque su familia tiene influencia. ¿Puedo pedir que otro juzgado lleve mi caso?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La supuesta parcialidad de los jueces y la presión mediática no son causales para transferir la competencia del proceso."
+    },
+    {
+     "query": "¿En qué situaciones sí se puede mandar un juicio penal a otro lugar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo procede cuando circunstancias insalvables perturban gravemente el proceso, hay peligro real e inminente para el procesado o se afecta gravemente el orden público."
+    },
+    {
+     "query": "Sobreviví a un intento de matarme y a una violación, y el acusado me sigue acosando. ¿Qué me protege durante el juicio?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Aunque no se transfiera el caso, la víctima puede obtener medidas de protección del Código Procesal Penal frente al acoso y riesgo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_346_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El fiscal quiere cerrar mi denuncia contra mi pareja y no seguir con el caso. ¿Quién decide si eso procede y cuánto demora?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez se pronuncia en 15 días (30 en casos complejos o de crimen organizado) sobre el pedido del fiscal de archivar con sobreseimiento."
+    },
+    {
+     "query": "Si el juez no está de acuerdo con que se archive mi caso, ¿qué pasa después?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez eleva las actuaciones al Fiscal Superior, explicando sus razones, para que ratifique o rectifique el pedido."
+    },
+    {
+     "query": "Siento que no me hacen caso y quieren cerrar mi denuncia por violencia. ¿Hay otra autoridad que revise lo que decidió el fiscal?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un Fiscal Superior revisa el pedido del fiscal provincial en 10 días y puede ordenar que otro fiscal acuse."
+    },
+    {
+     "query": "¿Cuántos días tiene el fiscal de mayor rango para decidir si mantiene el archivo de mi denuncia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El Fiscal Superior se pronuncia en el plazo de diez días y con su decisión culmina el trámite."
+    },
+    {
+     "query": "Si el fiscal superior no está de acuerdo con cerrar mi caso, ¿alguien va a acusar al agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el Fiscal Superior discrepa del pedido de archivo, ordena a otro fiscal que formule acusación."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-d_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "si",
+      "rationale": "Obliga a recabar antecedentes de violencia y permite consultar al juzgado de familia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_16-d_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "si",
+      "rationale": "Ordena priorizar los casos de riesgo severo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "Regula la tramitación de casación, no beneficios por juventud."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica sin establecer un beneficio por la juventud consultada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "Resuelve absolución por insuficiencia probatoria, no por edad del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "no",
+      "rationale": "Delimita la competencia casacional, sin tratar reducción de pena por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves, sin regular reducción de pena por juventud."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata una absolución por duda probatoria, no reducción por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula la entrevista de la víctima, no la determinación de pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "Regula inadmisibilidad de casación, no reducción de pena por edad."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona incapaz de consentir, no el plazo de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "parcial",
+      "rationale": "Regula la revocación durante el período de prueba, pero no indica su duración."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición, no el plazo de suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0021::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula recusación judicial, no el período de prueba."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Califica los exámenes innecesarios y entrevistas repetidas de niñas víctimas como revictimización institucional."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Rechaza el trato forense discriminatorio y exige protección especial de la niña."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q03",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal y reparaciones por violencia institucional contra la víctima y su familia."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Enumera las facultades probatorias, participación en juicio y recursos del actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica las posibilidades y límites de impugnación de la víctima incluso ante conformidad fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "Regula alteración del estado civil, no impugnación de la agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "Regula la remisión de denuncias sin datos de ubicación, no recursos de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "parcial",
+      "rationale": "Explica el trámite de constitución en actor civil, sin reconocer ni regular recursos."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la acción civil del perjudicado, pero no su facultad de impugnar decisiones."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "Tipifica hurto, no recursos de la agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad por falta de declaración de la acusada, no facultades de impugnación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Regula conducción compulsiva de testigos, no la legitimación recursiva de la agraviada."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "no",
+      "rationale": "Regula representación común de herederos, no recursos procesales."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "si",
+      "rationale": "Autoriza al actor civil a deducir nulidad e interponer recursos impugnatorios."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "parcial",
+      "rationale": "Indica cómo solicitar constitución en actor civil, sin explicar sus recursos."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Define los límites de la apelación exclusiva del actor civil y preserva su pretensión civil."
+    },
+    {
+      "dataset_id": "case::jp_00672_e0015::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Reconoce reparación civil, pero no regula impugnaciones ni nulidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe coaccionar al imputado, pero la pregunta identifica a la persona interrogada como denunciante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "si",
+      "rationale": "Prohíbe forzar la declaración y dispone dejar constancia de la negativa en el acta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica, no interrogatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "Regula una audiencia de extradición, no el interrogatorio en investigación y juicio ordinarios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "si",
+      "rationale": "Distingue quién interroga en la etapa preparatoria y quién en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia sobre excepciones, no declaración del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata inicio de persecución penal y encubrimiento, no quién interroga."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones de víctimas en cámara Gesell, no el interrogatorio del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de la pena, no interrogatorios."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "parcial",
+      "rationale": "Regula el orden y separación de declaraciones de acusados, pero no quién interroga en cada etapa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Valora una manifestación policial defectuosa, sin determinar quién interroga antes y durante el juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo, no interrogatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata tiempo de preparación del defensor, no sujetos del interrogatorio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada de testigos y víctimas, no interrogatorio del acusado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_88_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Determina la presencia de las partes en juicio, sin atribuir funciones de interrogación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "si",
+      "rationale": "Establece que la mentira para evitar sospechas no basta como prueba de culpabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "si",
+      "rationale": "Establece que el móvil por sí solo es insuficiente y exige indicios externos corroborados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "si",
+      "rationale": "Absuelve al acusado ante coartada corroborada pese a su mentira inicial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,119 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00312_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibir comunicación y acercamiento en comparecencia con restricciones."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_301_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "si",
+      "rationale": "Modifica el control de sesenta a treinta días ante peligro concreto de obstaculización."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No resuelve el aumento de frecuencia del control del imputado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza ajustar restricciones y asegurar su cumplimiento, sin precisar la periodicidad de firmas."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Permite revocar la comparecencia e imponer prisión preventiva ante incumplimiento y previo requerimiento."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "si",
+      "rationale": "Exige autorización legal, proporcionalidad, elementos suficientes y necesidad para restringir derechos."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q05",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "si",
+      "rationale": "Tipifica solicitar ventajas indebidas a cambio de actos propios del cargo público."
+    },
+    {
+      "dataset_id": "case::jp_00312_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "si",
+      "rationale": "Los actos de obstaculización justifican intensificar el control biométrico y la caución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

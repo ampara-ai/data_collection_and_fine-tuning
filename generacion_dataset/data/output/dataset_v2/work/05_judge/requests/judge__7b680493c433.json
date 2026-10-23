@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__7b680493c433",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"case::jp_00390_e0008::q04\",\n  \"question\": \"Fui varias veces a denunciar y solo me mandan a arreglarme con él. ¿Las autoridades no deben averiguar lo ocurrido?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_371_01\",\n    \"title\": \"Artículo 371.- Negativa a colaborar con la administración de justicia\",\n    \"text\": \"El testigo, perito, traductor o intérprete que, siendo legalmente requerido, se abstiene de comparecer o prestar la declaración, informe o servicio respectivo, será reprimido con pena privativa de libertad no mayor de dos años o con prestación de servicio comunitario de veinte a treinta jornadas.\\nEl perito, traductor o intérprete será sancionado, además, con inhabilitación de seis meses a dos años conforme al artículo 36, incisos 1, 2 y 4.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_229_01\",\n    \"title\": \"Artículo 229.- Omisión de deberes de funcionarios públicos\",\n    \"text\": \"Las autoridades políticas, administrativas, aduaneras, municipales y miembros de la Fuerzas Armadas o de la Policía Nacional que, omitiendo los deberes de sus cargos, intervengan o faciliten la comisión de los delitos mencionados en este Capítulo, serán reprimidos con pena privativa de libertad no menor de tres ni mayor de seis años, con treinta a noventa días-multa e inhabilitación no menor de un año, conforme al artículo 36, incisos 1, 2 y 3.\\nSi el agente obró por culpa, la pena será privativa de libertad no mayor de dos años.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"case::jp_00390_e0008::q05\",\n  \"question\": \"Me da miedo ir yo misma a denunciar. ¿Mi vecina puede avisar a las autoridades por mí?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo02_cp_art_83_01\",\n    \"title\": \"Artículo 83.- Interrupción de la prescripción de la acción penal\",\n    \"text\": \"La prescripción de la acción se interrumpe por las actuaciones del Ministerio Público o de las autoridades judiciales, quedando sin efecto el tiempo transcurrido.\\nDespués de la interrupción comienza a correr un nuevo plazo de prescripción, a partir del día siguiente de la última diligencia.\\nSe interrumpe igualmente la prescripción de la acción por la comisión de un nuevo delito doloso.\\nSin embargo, la acción penal prescribe, en todo caso, cuando el tiempo transcurrido sobrepasa en una mitad al plazo ordinario de prescripción.\"\n   },\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_497_01\",\n    \"title\": \"Artículo 497. Regla general, excepción y recurso\",\n    \"text\": \"1. Toda decisión que ponga fin al proceso penal o la que resuelva un incidente de ejecución de conformidad con la Sección I de este Libro, establecerá quien debe soportar las costas del proceso.\\n2. El órgano jurisdiccional deberá pronunciarse de oficio y motivadamente sobre el pago de las costas.\\n3. Las costas están a cargo del vencido, pero el órgano jurisdiccional puede eximirlo, total o parcialmente, cuando hayan existido razones serias y fundadas para promover o intervenir en el proceso.\\n4. La decisión sobre las costas sólo será recurrible autónomamente, siempre que fuere posible recurrir la resolución principal que la contiene y por la vía prevista para ella.\\n5. No procede la imposición de costas en los procesos por faltas, inmediatos, terminación anticipada y colaboración eficaz. Tampoco procede en los procesos por ejercicio privado de la acción penal si culmina por transacción o desistimiento.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "case::jp_00390_e0008::q04",
+     "chunk_tipo02_cp_art_371_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00390_e0008::q04",
+     "chunk_tipo02_cp_art_229_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00390_e0008::q05",
+     "chunk_tipo02_cp_art_83_01"
+    ],
+    "negative"
+   ],
+   [
+    [
+     "case::jp_00390_e0008::q05",
+     "chunk_tipo03_cpp_art_497_01"
+    ],
+    "negative"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__7b680493c433.json"
+}

@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "El odio y la retractación no invalidan automáticamente la primera incriminación corroborada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Permite preferir la incriminación inicial si reúne los requisitos de credibilidad y corroboración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0044_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Identifica el certificado médico del embarazo como corroboración del relato junto con otras pruebas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige reforzar la protección durante la investigación del abuso sexual infantil intrafamiliar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "si",
+      "rationale": "Expone la responsabilidad estatal por falta de diligencia y protección ante el abuso infantil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

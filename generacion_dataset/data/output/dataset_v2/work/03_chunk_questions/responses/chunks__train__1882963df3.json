@@ -1,0 +1,221 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hija de 8 años la citaron a la sala especial donde entrevistan a niños el mismo día que avisaron al denunciado. ¿Eso puede botar el caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "En casos urgentes con menores víctimas es válido avisar el mismo día, y la entrevista no es ilícita salvo que cause indefensión concreta."
+    },
+    {
+     "query": "El abogado del denunciado dice que no tuvo tiempo de prepararse porque lo avisaron ese mismo día. ¿Cuándo sí lo perjudicaría eso de verdad?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo se invalida si se demuestra que el aviso tardío le impidió defenderse; si se enteró y pudo cuestionar la entrevista, no hay indefensión."
+    },
+    {
+     "query": "Absolvieron al hombre que tocó a mi sobrina porque dijeron que la entrevista se avisó muy apurada. ¿Se puede revertir eso?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la absolución y ordenó que la sala vuelva a resolver valorando la entrevista del menor."
+    },
+    {
+     "query": "¿La entrevista grabada de mi hijo con la psicóloga sirve como prueba en el juicio o la defensa puede hacer que no valga?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La entrevista no es ilícita por sí misma; se ve en juicio, la defensa puede cuestionarla y el juez la valora con sana crítica."
+    },
+    {
+     "query": "Si la policía avisa a la esposa del denunciado y no a él directamente, ¿se considera que ya le avisaron?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La notificación fue eficaz porque el imputado tomó conocimiento (su esposa la recibió y él presentó la citación)."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié que mi expareja me pega pero la policía no hace nada. ¿Las autoridades están obligadas a protegerme de verdad y no solo en el papel?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La protección legal debe funcionar eficazmente en la práctica y no existir solo en teoría."
+    },
+    {
+     "query": "¿Qué tan rápido deben investigar las autoridades cuando denuncio maltrato en mi casa?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La investigación debe hacerse con rapidez, sin demoras innecesarias."
+    },
+    {
+     "query": "Existe una ley que supuestamente me ampara, pero en la práctica nadie la aplica y sigo con miedo. ¿Puedo reclamar que el Estado cumpla?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El Estado incumple su deber si las medidas de protección no son eficaces en la práctica."
+    },
+    {
+     "query": "Si las autoridades dejan pasar meses sin hacer nada con mi denuncia de maltrato de mi ex, ¿eso es una falla de su parte?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las demoras innecesarias en investigar la violencia doméstica incumplen la obligación estatal de proteger."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_180_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me obliga a tener sexo con otros por dinero y se queda con todo lo que cobro. ¿Qué castigo tiene él?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Quien gestiona el beneficio económico de la prostitución de otra persona recibe de 4 a 8 años de cárcel, y más si es pareja o familiar."
+    },
+    {
+     "query": "¿Es delito vivir del dinero que gana otra persona ofreciendo servicios sexuales, aunque ella diga que lo hace por voluntad?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Gestionar el beneficio económico de la prostitución ajena es delito sancionado con pena privativa de libertad."
+    },
+    {
+     "query": "Mi esposo vive de lo que yo gano en esto y yo no tengo a dónde ir. ¿La pena es mayor por ser mi pareja?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La pena sube a 6-12 años si el agente es cónyuge, conviviente, expareja, familiar o vive en el mismo domicilio de la víctima."
+    },
+    {
+     "query": "Una mujer con discapacidad o ya mayor es explotada así por alguien. ¿Eso hace que el castigo sea más duro?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Es agravante que la víctima tenga discapacidad, sea adulta mayor, enferma grave, indígena o en otra situación de vulnerabilidad."
+    },
+    {
+     "query": "¿Qué pasa si el que se queda con el dinero pertenece a una banda y hay varias mujeres explotadas?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Actuar en banda u organización criminal o con varias personas en prostitución son agravantes con pena de 6 a 12 años."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Después de violarme, el hombre me amenazó con una navaja y me quitó el celular. ¿Eso también se castiga como robo además de la violación?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La sustracción del celular mediante amenazas en el contexto de violencia sexual encaja en robo agravado."
+    },
+    {
+     "query": "Los jueces absolvieron al agresor del robo de mi celular aunque estaba probado. ¿La Corte Suprema puede condenarlo sin hacer otro juicio?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si los hechos están probados y solo hay error en cómo se aplicó la ley, la Corte Suprema puede condenar directamente sin nuevo juicio."
+    },
+    {
+     "query": "¿Qué pena le pusieron al hombre que me quitó el celular con amenazas tras abusar de mí cuando lo condenaron en la Corte Suprema?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se lo condenó por robo agravado imponiéndole la pena mínima legal."
+    },
+    {
+     "query": "Temo que los jueces separen el robo de lo que pasó antes y digan que no fue tan grave. ¿Deben mirar todo el contexto de violencia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los jueces erraron al aislar el robo del contexto de violencia sexual y amenazas continuas."
+    },
+    {
+     "query": "¿Se puede condenar a alguien que ya había sido absuelto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Sí, en casación cuando los hechos probados no se discuten y solo hay infracción en la aplicación de la norma."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié que mi pareja me amenazó con un arma y no lo detuvieron. Si luego me hace daño, ¿las autoridades tienen responsabilidad?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El tribunal condenó al Estado por no adoptar medidas preventivas pese a denuncias y amenazas claras."
+    },
+    {
+     "query": "El agresor dice que sus derechos también cuentan y que no lo pueden encerrar. ¿Qué vale más, su libertad o mi seguridad?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Los derechos de los agresores no pueden prevalecer sobre el derecho de las víctimas a la vida y a la integridad física."
+    },
+    {
+     "query": "Cuando denuncio maltrato, ¿las autoridades deben medir qué tan peligroso es mi agresor antes de dejarme volver a casa?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las autoridades deben evaluar adecuadamente el riesgo y tomar medidas preventivas como detener al agresor."
+    },
+    {
+     "query": "Una mujer denunció varias veces y mataron a su madre sin que la policía actuara. ¿Qué se decidió sobre esa falta de protección?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró violado el derecho a la vida y la prohibición de maltratos por la inacción estatal, condenando al Estado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_359_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Quiero que me paguen por el daño que sufrí, pero no puedo ir a todas las audiencias del juicio. ¿Qué pasa si falto?",
+     "topic": "reparacion_civil",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El juicio sigue sin el actor civil; si no va a la instalación o a dos sesiones, se tiene por abandonada su constitución."
+    },
+    {
+     "query": "Si el acusado deja de ir a las audiencias del juicio, ¿se frena todo o siguen sin él?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si ya declaró o se acogió al silencio y no asiste, la audiencia continúa con su abogado, aunque puede ser conducido por la fuerza si es necesario."
+    },
+    {
+     "query": "¿El acusado puede levantarse e irse de la audiencia cuando quiera?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "No puede alejarse sin permiso del juez; si se le concede, lo representa su abogado."
+    },
+    {
+     "query": "El fiscal de mi caso no se presentó a la audiencia sin dar razón. ¿Qué pasa con el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el fiscal falta injustificadamente o a dos sesiones seguidas o tres no seguidas, se le excluye y su superior designa reemplazo."
+    },
+    {
+     "query": "Si el abogado del agresor falta sin justificación a la audiencia, ¿el juicio se suspende otra vez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si el abogado defensor se ausenta injustificadamente, se le excluye de la defensa conforme a las reglas previstas."
+    },
+    {
+     "query": "Uno de los jueces de mi caso se enfermó o se jubiló. ¿Hay que empezar el juicio de nuevo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se reemplaza por una sola vez al juez ausente sin suspender el juicio, y quienes tienen licencia o vacaciones pueden votar la sentencia."
+    }
+   ]
+  }
+ ]
+}

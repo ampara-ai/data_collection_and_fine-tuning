@@ -1,0 +1,226 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi mamá firmó un papel en una notaría diciendo que lo que denuncié no fue cierto. ¿Eso hace que el caso se caiga?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Una retractación firmada solo ante notario no tiene valor probatorio en el juicio; debe darse voluntariamente ante la autoridad judicial y con razones sólidas."
+    },
+    {
+     "query": "Mi familia me presiona para que diga que todo fue mentira. ¿Si me retracto ya no pueden condenarlo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La retractación inducida por familiares del acusado y no presentada ante el juez no vale para desvirtuar la acusación."
+    },
+    {
+     "query": "Mi hija era una niña cuando pasó, ¿tiene que presentarse otra vez al juicio a repetir todo lo que sufrió?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "No es necesario que la menor víctima declare en juicio oral, porque implicaría revictimizarla."
+    },
+    {
+     "query": "¿Cómo se comprueba que ocurrió un abuso si pasaron muchos años y solo hay lo que dijo la niña al principio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La primera declaración de la menor, corroborada por el examen médico legal con lesiones compatibles, sirvió de prueba para condenar."
+    },
+    {
+     "query": "Mi caso lleva muchísimos años sin resolverse. ¿Esa demora puede beneficiar al agresor?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El plazo excesivo del proceso justificó reducir la pena de 15 a 8 años, aunque se mantuvo la condena."
+    },
+    {
+     "query": "¿Qué hace válida una retractación de quien denunció?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe ser voluntaria, expresada ante autoridad judicial y con razones solventes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_208_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me golpearon en un lugar y la policía fue a revisar el sitio. ¿Pueden hacerlo sin que yo lo pida y qué buscan?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La policía, por sí o por orden del fiscal, puede inspeccionar lugares, cosas o personas cuando hay motivos para pensar que hay rastros del delito."
+    },
+    {
+     "query": "Sé que mi agresor se esconde en una casa. ¿La policía puede ir a buscarlo ahí?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La policía puede realizar pesquisas cuando considere que en determinado lugar se oculta el imputado o una persona prófuga."
+    },
+    {
+     "query": "Ya limpiaron todo y no quedan marcas de lo que pasó en mi casa. ¿Igual se puede dejar constancia de lo ocurrido?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si no hay rastros o fueron alterados, se describe el estado actual y se procura consignar el anterior, cómo y cuándo desaparecieron."
+    },
+    {
+     "query": "Después de que revisan el lugar, ¿queda algo por escrito de lo que encontraron?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Se levanta un acta describiendo lo ocurrido y se recogen o conservan los elementos útiles."
+    },
+    {
+     "query": "¿La policía puede tomar fotos o hacer dibujos del lugar donde me agredieron?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "De ser posible se levantan planos, descripciones y fotografías y otras operaciones técnicas necesarias."
+    },
+    {
+     "query": "Si la policía encuentra algo sospechoso al revisar, ¿a quién tiene que avisar?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Ante la comprobación de los supuestos, la policía debe comunicar de inmediato al fiscal."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me avisaron la sentencia por el buzón electrónico de noche, ya muy tarde. ¿Desde qué día cuentan mis días para apelar o reclamar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La notificación electrónica en hora inhábil se entiende hecha al día siguiente, y los plazos corren desde el primer día hábil posterior."
+    },
+    {
+     "query": "¿Cuántos días tiene el condenado para pedir que la Corte Suprema revise su caso después de que confirman la condena?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El plazo para interponer casación es de 10 días hábiles."
+    },
+    {
+     "query": "Al hombre que abusó de mi hija de 12 años lo condenaron a 10 años. ¿Puede librarse si presenta su recurso un día tarde?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un recurso presentado fuera de plazo es extemporáneo y se rechaza; en el caso la queja fue infundada y la condena quedó firme."
+    },
+    {
+     "query": "¿Qué pasa si presentan un recurso fuera de plazo en un caso de abuso a una menor?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El recurso se declara improcedente por extemporáneo y la queja contra ello se declara infundada."
+    },
+    {
+     "query": "Mi abogado dice que hay que fijarse en la hora en que llega el aviso electrónico. ¿Por qué importa tanto?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las notificaciones fuera del horario hábil se consideran efectuadas al día siguiente, y verificar la hora evita presentar recursos fuera de plazo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me está pegando ahora mismo en casa y la policía llegó. ¿Pueden entrar y llevárselo aunque sea su domicilio?",
+     "topic": "canales_denuncia",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Ante flagrante delito, la policía detiene de inmediato al agresor, incluso allanando el domicilio o el lugar de los hechos."
+    },
+    {
+     "query": "Mi vecino estaba golpeando a su esposa y lo sujetamos entre varios hasta que llegó la policía. ¿Eso está permitido?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "También procede el arresto ciudadano conforme al Código Procesal Penal."
+    },
+    {
+     "query": "Después de que se llevan detenido a mi agresor, ¿qué hace la policía y a quién avisa?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La policía redacta un acta de la entrega del detenido y comunica de inmediato a la fiscalía penal y al juzgado de familia."
+    },
+    {
+     "query": "Si lo detienen en el acto, ¿quién decide que no se me acerque y cómo me cuidan a mí y a mis hijos?",
+     "topic": "medidas_proteccion",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La policía comunica al juzgado de familia para que se pronuncie sobre medidas de protección y otras medidas para el bienestar de las víctimas."
+    },
+    {
+     "query": "¿La policía puede detener al agresor sin orden de un juez si lo ven pegándome?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En caso de flagrancia, la policía procede a la inmediata detención del agresor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_371_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citaron como testigo del maltrato a mi hermana pero no quiero ir. ¿Me pueden castigar por no presentarme?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El testigo legalmente requerido que se abstiene de comparecer o declarar puede recibir pena de hasta dos años de cárcel o servicio comunitario."
+    },
+    {
+     "query": "Soy la médica que debía hacer el informe de una víctima y no lo entregué. ¿Qué sanción me puede tocar?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El perito que no presta el informe requerido recibe pena, y además inhabilitación de seis meses a dos años."
+    },
+    {
+     "query": "No hablo bien castellano y me pidieron ayudar de intérprete en un caso. Si me niego, ¿qué me pasa?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El intérprete o traductor que se abstiene del servicio requerido es sancionado con pena y también con inhabilitación."
+    },
+    {
+     "query": "¿Qué pena hay si un testigo clave no quiere venir a declarar en un caso de violencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se castiga con hasta dos años de prisión o 20 a 30 jornadas de servicio comunitario."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_150_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor fue juzgado sin abogado aunque debía tenerlo. ¿Ese juicio puede anularse aunque nadie lo pida?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de defensor cuando su presencia es obligatoria es un defecto que puede declararse nulo incluso de oficio."
+    },
+    {
+     "query": "¿En qué casos un juez puede anular un proceso por su cuenta, sin que lo pida ninguna de las partes?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Defectos sobre intervención del imputado, constitución de jueces, acción penal, participación del fiscal o derechos constitucionales pueden declararse de oficio."
+    },
+    {
+     "query": "Si el fiscal no participó en una parte del caso donde era obligatorio que estuviera, ¿qué pasa con lo que se hizo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La falta de participación obligatoria del Ministerio Público es causa de nulidad absoluta."
+    },
+    {
+     "query": "Me preocupa que anulen mi caso por errores del juzgado y tener que empezar de nuevo. ¿Cuándo puede pasar eso?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Puede anularse cuando se violan derechos y garantías esenciales de la Constitución o hay defectos graves en la constitución del juez o la acción penal."
+    }
+   ]
+  }
+ ]
+}

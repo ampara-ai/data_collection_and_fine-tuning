@@ -1,0 +1,191 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Casación 178-2024, Tumbes, f. j. 12» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido de «El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur]» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 83.- Interrupción de la prescripción de la acción penal» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "si",
+      "rationale": "Establece veinticuatro horas para ordenar el desalojo y setenta y dos para ejecutarlo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 419.- Detención ilegal» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 386. Desarrollo de la discusión final» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido de «jp_00150_e0012» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 560. Detención provisional con fines de entrega» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 16. Proceso especial» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 92.- La reparación civil: Oportunidad de su determinación» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 235. Levantamiento del secreto bancario» no establece los plazos para el desalojo preventivo de una vivienda usurpada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "si",
+      "rationale": "Permite solicitar la restitución provisional durante las diligencias preliminares o la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "si",
+      "rationale": "Exige elementos de convicción sobre el delito de usurpación y el derecho del agraviado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "si",
+      "rationale": "La apelación suspende la ejecución y se fijan plazos de elevación y resolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 22. Objeto y tipos de medidas de protección» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No se debe justificar la imposición de una prisión preventiva con fines preventivo-generales o especiales, sino con un fin legítimo [J. vs. Perú]» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "si",
+      "rationale": "Dispone comunicación al fiscal, investigación policial, inspección fiscal y entrega de copias certificadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Casación 603-2019, Piura, ff. jj. 2-3» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 263. Deberes de la autoridad policial» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 235. Levantamiento del secreto bancario» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 152.- Secuestro» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "parcial",
+      "rationale": "Explica las pesquisas y el acta policial, pero no el trámite específico ante una usurpación ni la entrega de copias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 205.- Daño simple» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 63.- Efectos de la Reserva de Fallo Condenatorio» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_311_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 334. Calificación» no establece la actuación policial y la entrega de copias ante una usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 79. Contumacia y Ausencia» no establece la tipificación y pena de una agresión de tía a sobrina."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00458_e0002_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 50.- Concurso real de delitos» no establece la nulidad por falta de declaración de la acusada atribuible a su defensa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

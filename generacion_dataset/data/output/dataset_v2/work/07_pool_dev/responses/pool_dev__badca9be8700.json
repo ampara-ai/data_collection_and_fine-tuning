@@ -1,0 +1,683 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2451-2022, Cajamarca no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Analiza la dependencia de la menor y las influencias externas al decidir si su retractación es válida."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que el vínculo familiar puede explicar la retractación, pero exige corroboraciones y no desarrolla la dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 19. Declaración de la víctima y entrevista única no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 279. Cambio de comparecencia por prisión preventiva no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 86. Momento y carácter de la declaración no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata la flexibilidad al evaluar el relato infantil, pero no explica el efecto de la dependencia económica en la retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración de victima bajo las reglas de la prueba preconstituida tiene eficacia probatoria, no siendo necesaria su repetición [Casación 21-2019, Arequipa] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00178_e0030_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2062-2016, Ica no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "si",
+      "rationale": "Exige analizar la retractación dentro del contexto de violencia y dependencia de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo valorar la incriminación inicial pese a retractación en un contexto de maltrato, sin analizar el sustento económico."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No desistimiento por llanto de víctima (RN 1178-2018, Lima) no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reglas para la admisión y actuación de declaraciones previas de menores en juicio oral (doctrina jurisprudencial vinculante) [Casación 33-2014, Ucayali] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "si",
+      "rationale": "Exige valorar la dependencia económica y afectiva como explicación de la falta de incriminación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 88. Desarrollo de la declaración no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 166. Contenido de la declaración no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 470. Declaración inexistente no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza una retractación causada por presión familiar, pero no analiza la dependencia económica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de progresividad en declaraciones (RN 220-2025, Piura) no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 178.- Responsabilidad especial no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00118_e0063_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no resuelve cómo influye la dependencia económica en la valoración de una retractación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cooperadores necesarios (STS 6833/2005, España) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "si",
+      "rationale": "Establece que basta penetración parcial y no se exige rotura del himen para consumar la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Precisa que la penetración mínima o leve basta para configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "si",
+      "rationale": "Establece que la penetración hasta el himen sin perforarlo basta para consumar la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre STS 3147/2022 no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "si",
+      "rationale": "Establece que una penetración superficial basta para considerar el acto violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación no resuelve si una penetración incompleta permite configurar violación sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Aporta elementos del delito o distingue tentativa y actos sin penetración, pero no establece directamente que la penetración parcial consuma la violación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2030-2019 Lima no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124-B. Determinación de la lesión psicológica no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Establece valor probatorio de informes médicos, sin explicar cómo valorar una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena con desfloración antigua y penetración parcial, sin exigir penetración completa."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124.- Lesiones Culposas no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre GUÍA MÉDICO LEGAL DE VALORACIÓN INTEGRAL DE LESIONES CORPORALES no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 348. Sobreseimiento total y parcial no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte) no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios sobre credibilidad o prueba médica en delitos sexuales, sin resolver directamente el efecto de una lesión antigua y parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la exigencia de valoración conjunta ante pruebas insuficientes, pero no decide el efecto de una lesión antigua parcial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0024_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no resuelve si una lesión antigua y parcial impide creer a la menor y condenar por abuso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

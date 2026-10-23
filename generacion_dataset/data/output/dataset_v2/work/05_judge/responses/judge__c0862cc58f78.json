@@ -1,0 +1,245 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica trata de personas, sin evaluar el retorno de una víctima para capturar al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación internacional, no intervención policial en este caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "Regula operaciones encubiertas para otros delitos, no el uso de una víctima de violación en la captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Resuelve precisamente que el retorno de la menor y la intervención en flagrancia no constituyeron provocación que viciara el caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "Trata suficiencia del testimonio en delitos clandestinos, no la captura con participación de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula agravación por parentesco, no validez de una intervención policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata prescripción en omisión de alimentos, sin relación con la captura del profesor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula agentes especiales para criminalidad organizada y otros delitos, sin resolver la validez de este retorno de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula indicios penales en procesos extrapenales, no la actuación descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Examina sugilaciones y motivación probatoria, no la participación de la víctima en una captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "Regula testimonios fuera del lugar del proceso, no la captura del agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Examina validez de una entrevista en cámara Gesell, no el retorno de la víctima para una captura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación y agravantes, sin resolver la validez de la actuación policial descrita."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Precisa que la penetración mínima o leve basta para configurar violación sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata citación urgente para cámara Gesell, no autorización fiscal para intervenir en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula controles policiales públicos, un procedimiento distinto de la intervención en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación sexual, sin regular facultades policiales de intervención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Delimita controles de identidad y retención para identificación, no la autorización para captura en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Permite investigación policial por iniciativa propia, pero no precisa la intervención en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula explotación sexual de menores, sin abordar facultades policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuación fiscal y judicial posterior a la detención por flagrancia, sin resolver la necesidad de permiso previo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Valora sugilaciones y motivación judicial, sin tratar intervención policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves, sin regular capturas en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "Regula acceso a copias de actuaciones, no la intervención del agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada, no detención policial en flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la persecución puede empezar con la flagrancia sin apertura formal, pero no especifica el permiso fiscal para la intervención."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Afirma que la policía actuó en flagrancia sin requerir autorización fiscal para diligencias urgentes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves, un delito distinto del abuso sexual atribuido al profesor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata otro caso de violación sin indicar la pena y reparación del profesor consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata prescripción por omisión alimentaria, no esta condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de extradición, no la sanción del profesor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula garantías patrimoniales de reparación, sin precisar la condena ni su monto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "si",
+      "rationale": "Indica la condena del profesor a catorce años y reparación civil de cinco mil soles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación de indicios penales, sin datos de esta sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Analiza violencia y prueba en otro caso, sin dar la pena ni reparación consultadas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual, un delito distinto de los hechos consultados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de reparación civil, sin indicar el monto ni la pena impuestos al profesor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula oportunidad de constitución en actor civil en otro caso, sin datos de esta condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica tocamientos sin propósito de acceso carnal en menores de catorce, no la condena consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00406_e0002_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "Regula querella por delitos de acción privada, ajena al caso del profesor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

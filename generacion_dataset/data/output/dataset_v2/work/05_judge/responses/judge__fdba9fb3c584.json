@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye a excónyuges y exconvivientes entre los sujetos de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección de mujeres agredidas, pero no precisa su alcance respecto de exparejas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 208.- Excusa absolutoria. Exención de Pena y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Da contexto del protocolo de protección, sin definir si comprende vínculos conyugales terminados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 147. Renuncia de plazos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 404. Facultad de recurrir y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber de protección frente a violencia doméstica, sin aclarar el alcance legal respecto de excónyuges."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 468. Normas de aplicación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la relación entre víctima y denunciado entre los criterios de protección, sin enumerar las relaciones protegidas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 155. Actividad probatoria y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Bien jurídico libertad sexual (Casación 148-2010, Moquegua) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona incumplir medidas de protección, sin determinar si la separación extingue el amparo de la ley."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 53. Inhibición y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye ascendientes por afinidad y personas del mismo hogar sin vínculo laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 46.- Circunstancias de atenuación y agravación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 468. Normas de aplicación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Dinámica de violencia doméstica para evaluar riesgo [Kurt vs. Austria] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 481-A. Utilidad de la información en otros procesos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 41. Protocolo Base de Actuación Conjunta y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Protocolo para el otorgamiento de medidas de protección [RA 000071-2022-CE-PJ] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 53. Inhibición y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 40. Trámite y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye a quienes tienen hijos en común, sin exigir matrimonio o convivencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 29-A.- Cumplimiento de la pena de vigilancia electrónica personal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 147. Renuncia de plazos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Protege a las mujeres adultas mayores y a los miembros del grupo familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Investigación sobre violencia policial realizada por otra unidad policial [Hentschel y Stark vs. Alemania] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Opuz vs. Turquía, f.j. 147 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 170.- Violación sexual y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Protege a las mujeres durante todo su ciclo vital y excluye el vínculo laboral de la categoría de cohabitantes familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 157. Medios de prueba y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 155. Actividad probatoria y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 40. Trámite y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 481-A. Utilidad de la información en otros procesos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Dinámica de violencia doméstica para evaluar riesgo [Kurt vs. Austria] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula criterios de protección y dependencia, pero no define el ámbito subjetivo ante una relación laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Agrava lesiones por dependencia laboral, pero no determina la cobertura de la Ley 30364."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_7_01::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "si",
+      "rationale": "Incluye parientes colaterales hasta el cuarto grado de consanguinidad o adopción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "si",
+      "rationale": "Autoriza la inhibición para disponer o gravar bienes como garantía de la reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "si",
+      "rationale": "Identifica al fiscal y al actor civil como legitimados para solicitar la inhibición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 21.- Responsabilidad restringida y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 257. Impugnación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 8. Trámite de los medios de defensa y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Prevé restricciones sobre bienes comunes, pero no identifica quién solicita la inhibición para garantizar la reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "parcial",
+      "rationale": "Menciona al fiscal y al actor civil en la ejecución de la reparación, sin regular la solicitud de inhibición patrimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 20.- Inimputabilidad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 386. Desarrollo de la discusión final y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto aborda La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 13. Desistimiento y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "parcial",
+      "rationale": "Permite inhibir bienes del tercero civil, pero no convierte a cualquier receptor de una transferencia en tercero civil responsable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_310_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "si",
+      "rationale": "Dispone inscribir la orden de inhibición en los Registros Públicos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_497_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Impone las costas al vencido, con excepciones y posibilidad de exoneración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_497_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Permite eximir de costas cuando hubo razones serias y fundadas para promover el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_497_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Exige al órgano jurisdiccional decidir de oficio y motivadamente sobre las costas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_497_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Permite recurrir autónomamente las costas si también es recurrible la resolución principal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_497_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "si",
+      "rationale": "Excluye las costas en terminación anticipada y otros procedimientos enumerados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 368.- Resistencia o desobediencia a la autoridad y no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "si",
+      "rationale": "Sanciona el falso testimonio y permite atenuar o eximir si se rectifica espontáneamente antes de causar perjuicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "si",
+      "rationale": "Sanciona el falso testimonio y permite atenuar o eximir si se rectifica espontáneamente antes de causar perjuicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "si",
+      "rationale": "Establece prevención, protección y reparación a las víctimas además de sanción y reeducación del agresor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

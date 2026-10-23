@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "si",
+      "rationale": "Limita la revaloración de prueba personal en apelación y relata una condena inicial de treinta años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "si",
+      "rationale": "Limita la revaloración de prueba personal en apelación y relata una condena inicial de treinta años."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 170.- Violación sexual no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 425. Sentencia de segunda instancia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 424. Audiencia de apelación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00542_e0003_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada.- no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

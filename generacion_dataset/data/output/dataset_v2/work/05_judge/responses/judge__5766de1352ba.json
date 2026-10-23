@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00390_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "no",
+      "rationale": "Regula elección de vía indemnizatoria, no recepción de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0004::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "Regula control del plazo de investigación, no identificación ni registro policial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

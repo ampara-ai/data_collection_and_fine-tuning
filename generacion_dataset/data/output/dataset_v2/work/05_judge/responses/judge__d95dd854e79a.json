@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de trata de personas, no el delito de violación sexual planteado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de trata de personas, no el delito de violación sexual planteado."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_129-b_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "Regula agravantes de trata de personas, no el delito de violación sexual planteado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

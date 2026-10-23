@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_208_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "si",
+      "rationale": "Explica la excusa por convivencia y su exclusión en contextos de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_208_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "si",
+      "rationale": "Incluye los daños y sustracciones entre ascendientes y descendientes, exceptuando la violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_208_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "si",
+      "rationale": "Preserva expresamente la reparación civil aun cuando opere la excusa familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

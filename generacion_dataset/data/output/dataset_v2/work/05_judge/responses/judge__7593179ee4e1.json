@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "Trata inicio de prescripción penal, no plazos para impugnar resoluciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "Establece plazos del trámite de actor civil, no reglas generales de cómputo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Explica que una notificación inválida afecta la impugnación, pero no cómo contar desde un viernes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de vigilancia electrónica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula citación urgente a cámara Gesell, no cómputo de plazos de impugnación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "Regula prolongación de prisión preventiva, no inicio del plazo para reclamar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "Resuelve el cierre de la oportunidad de constituirse en actor civil, un trámite distinto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula audiencia de prueba anticipada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "si",
+      "rationale": "Dispone computar los días desde el día hábil siguiente a la notificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-a_01",
+      "relevance": "no",
+      "rationale": "Regula obligaciones de autoridades territoriales en concertación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "Tipifica alteración del estado civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Vincula el plazo de apelación a la notificación válida, pero no precisa el día hábil inicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "Regula medidas restrictivas de derechos, no cómputo del plazo de impugnación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_143_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "si",
+      "rationale": "Prorroga al siguiente día hábil el vencimiento en día inhábil con las excepciones previstas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "si",
+      "rationale": "Establece que aplicar oportunidad es facultad fiscal discrecional en omisión alimentaria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "si",
+      "rationale": "Aclara que el protocolo interinstitucional no puede contradecir el código."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

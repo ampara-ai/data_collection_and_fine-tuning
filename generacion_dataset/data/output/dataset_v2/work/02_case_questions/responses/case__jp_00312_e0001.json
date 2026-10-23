@@ -1,0 +1,72 @@
+{
+ "questions": [
+  {
+   "query": "Mi acosador sigue libre pero el juez le puso reglas. ¿Pueden prohibirle acercarse o escribirme aunque no esté preso?",
+   "topic": "medidas_proteccion",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_287_01"
+   ],
+   "positive_selection_reason": "El art. 287.4 permite prohibir comunicarse o aproximarse a la víctima en la comparecencia con restricciones.",
+   "expected_answer_focus": "Que el juez puede imponer restricciones, incluida la prohibición de acercarse o comunicarse con la víctima.",
+   "victim_voice_rationale": "Víctima que teme al agresor en libertad."
+  },
+  {
+   "query": "El hombre que me acosó está libre y solo firma cada cierto tiempo. ¿Pueden exigirle que vaya más seguido si me amenaza?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00312_e0001_01",
+    "chunk_tipo03_cpp_art_287_01"
+   ],
+   "positive_selection_reason": "La sentencia endurece el control periódico por riesgo de obstaculización y el art. 287 regula las restricciones.",
+   "expected_answer_focus": "Que las reglas pueden hacerse más estrictas según la conducta del imputado y el riesgo de obstaculizar.",
+   "victim_voice_rationale": "Víctima que desconfía de un control débil."
+  },
+  {
+   "query": "Mi agresor anda libre y se burla de las condiciones que le pusieron. ¿Qué le pueden hacer? ¿Va a la cárcel?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_287_01"
+   ],
+   "positive_selection_reason": "El art. 287.3 prevé revocar la medida y dictar prisión preventiva por incumplimiento.",
+   "expected_answer_focus": "Que el incumplimiento puede llevar a revocar la medida y ordenar prisión preventiva.",
+   "victim_voice_rationale": "Temor a que el agresor ignore las reglas."
+  },
+  {
+   "query": "El acusado reclama que no pueden limitarle su libertad mientras lo investigan. ¿Cuándo sí pueden hacerlo para protegerme?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_253_01"
+   ],
+   "positive_selection_reason": "El art. 253 fija las condiciones para restringir derechos: ley, proporcionalidad y riesgo de obstaculizar.",
+   "expected_answer_focus": "Que se puede restringir derechos si es necesario, proporcional y para evitar obstaculizar la verdad.",
+   "victim_voice_rationale": "Víctima confundida por los reclamos del acusado."
+  },
+  {
+   "query": "Un jefe del Estado me pidió un favor personal a cambio de renovarme el contrato. ¿Eso es delito aparte del acoso?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_394_01"
+   ],
+   "positive_selection_reason": "El art. 394 sanciona al servidor que solicita o acepta ventajas indebidas por actos de su cargo.",
+   "expected_answer_focus": "Que pedir o aceptar una ventaja indebida por un acto del cargo es delito con pena e inhabilitación.",
+   "victim_voice_rationale": "Trabajadora que duda si lo ocurrido es otro delito."
+  },
+  {
+   "query": "Mi acosador cambió de número y me amenaza para que retire la denuncia. ¿Eso influye en cómo lo controlan mientras sigue el caso?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00312_e0001_01"
+   ],
+   "positive_selection_reason": "La sentencia usa actos de obstaculización como base para mantener y endurecer restricciones.",
+   "expected_answer_focus": "Que los actos de obstaculización justifican restricciones y mayor control.",
+   "victim_voice_rationale": "Víctima amenazada que quiere saber si importa."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

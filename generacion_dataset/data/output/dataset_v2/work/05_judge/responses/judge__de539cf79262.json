@@ -1,0 +1,275 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0101::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento de consultas por lubricación o anticonceptivos en una relación de control."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica el acceso sexual impuesto mediante violencia psicológica o un entorno que impide consentir libremente."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "Enumera eximentes penales, sin explicar la relación entre ausencia de resistencia y consentimiento sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "Regula el contenido de una autorización judicial de otra medida, ajena al consentimiento sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "parcial",
+      "rationale": "Describe falta de resistencia por temor y valoración de pruebas, pero no establece si el silencio equivale a consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Exige libre consentimiento y contempla violencia psicológica y coacción, sin exigir resistencia física de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "Regula prueba anticipada, sin resolver cómo valorar el silencio o la ausencia de resistencia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Tipifica tocamientos a menores de catorce años, sin abordar el consentimiento en el supuesto planteado."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa de violación y tocamientos a partir de lesiones, sin abordar la ausencia de resistencia por miedo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Aborda el carácter excepcional del careo, no la inferencia de consentimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula alimentos anticipados, no la valoración del consentimiento sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "Regula el traslado de detenidos al extranjero y un consentimiento ajeno al sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Resuelve la calificación penal según la edad de la víctima, sin tratar la falta de resistencia por miedo."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "Tipifica incumplir medidas de protección, sin abordar consentimiento sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "no",
+      "rationale": "Regula necropsias, sin relación con la inferencia de consentimiento planteada."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que la ausencia de resistencia física no equivale a consentimiento en una relación de control."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Regula la suspensión de la pena y la excluye para agresiones contra mujeres o familiares y determinados delitos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0101::q05",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Fija el límite general de cinco años y la excepción de ocho para menores de veinticinco, junto con exclusiones por delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "si",
+      "rationale": "Permite identificar al imputado por testigos u otros medios útiles si oculta o falsea sus datos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula el inicio del proceso por faltas, sin referirse a la toma de impresiones digitales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula reconocimientos visuales, un procedimiento distinto a la identificación mediante huellas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula la presentación de la denuncia y la identificación del denunciante, no las huellas del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Regula la apertura del juicio y datos del acusado, sin indicar toma de huellas al ingresar al caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula la constitución en actor civil, sin establecer identificación mediante huellas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "si",
+      "rationale": "Prevé identificar al imputado desde su primer acto de intervención y tomar sus impresiones digitales cuando corresponda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata la investigación sin denuncias reiteradas, no las impresiones digitales del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "Regula una agravante por parentesco, sin relación con la identificación dactilar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "Define penetración sexual suficiente, sin tratar la toma de huellas identificatorias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona la difusión de contenido sexual, sin regular la identificación del denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "parcial",
+      "rationale": "Menciona impresión digital al finalizar el acta de declaración, pero no su toma identificatoria al ingresar al caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Explica la valoración de violencia sexual sin lesiones, no la identificación dactilar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Aborda medidas de protección por afectación psicológica, sin relación con la toma de huellas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve facultades para controles policiales de identidad, no la corrección de apellidos en el expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "Valida protección sin audiencia previa, sin referirse a errores de identidad en el expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza encubrimiento e inicio de persecución penal, no la subsanación de apellidos erróneos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "si",
+      "rationale": "Establece que las dudas sobre datos no alteran las actuaciones y que los errores pueden corregirse en cualquier oportunidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "Regula la identificación e interrogatorio de testigos, no errores en los datos del imputado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica el maltrato y sus agravantes, sin regular errores de identificación procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Aborda contradicciones periciales y duda probatoria, no errores en un apellido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de extradición activa, sin resolver la corrección del apellido del denunciado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "Establece reeducación de agresores, sin relación con errores en el expediente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones graves y agravantes familiares, no la continuidad ante errores de identificación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "Regula reserva y secreto de investigación, sin referirse a corregir datos personales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Exige anunciar los datos del acusado en juicio, pero no regula errores de apellidos ni sus efectos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_72_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula el cambio de procedimiento por minoría de edad, no un error en el apellido."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

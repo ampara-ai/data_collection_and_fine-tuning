@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "si",
+      "rationale": "Exige corroboración, abogado y registro audiovisual para valorar la confesión policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "si",
+      "rationale": "Exige confesión libre y facultades psíquicas normales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "si",
+      "rationale": "Exige otros elementos de convicción que corroboren la confesión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "si",
+      "rationale": "La formalización suspende la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "si",
+      "rationale": "Tras formalizar, el fiscal no puede archivar sin intervención judicial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

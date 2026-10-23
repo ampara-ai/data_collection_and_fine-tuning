@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_154_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 490. Cómputo de la pena privativa de libertad no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "si",
+      "rationale": "Rechaza el estereotipo de crimen pasional como justificación de la violencia contra la mujer."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "si",
+      "rationale": "Exige investigación diligente de desapariciones y rechaza culpabilizar a la víctima mediante estereotipos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0014_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "si",
+      "rationale": "Declara incompatibles con los derechos humanos las prácticas estatales que culpabilizan a la víctima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

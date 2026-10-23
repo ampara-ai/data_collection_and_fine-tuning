@@ -1,0 +1,154 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor nunca se presentó a la citación del juzgado por el maltrato en casa. ¿El juez puede dar su decisión sin esperar más?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Cuando el demandado es declarado rebelde y solo hay pruebas documentales, debe hacerse juzgamiento anticipado y el juez resuelve sin audiencia completa."
+    },
+    {
+     "query": "Solo presenté papeles y documentos como pruebas contra mi pareja. ¿Eso alcanza para que el juez resuelva sin una audiencia larga?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si solo se ofrecieron medios probatorios documentales y el demandado no comparece, corresponde el juzgamiento anticipado."
+    },
+    {
+     "query": "Si la persona que me maltrata ignora las citaciones, ¿mi caso se retrasa o se resuelve más rápido?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juzgamiento anticipado busca economía y celeridad, reduciendo el plazo para emitir sentencia cuando el demandado es rebelde."
+    },
+    {
+     "query": "¿Por qué en muchos juzgados casi nunca se hace la audiencia completa en los casos de maltrato familiar?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "En la práctica, la mayoría de las partes no asiste a la audiencia y casi todos los demandados son rebeldes, por lo que el juzgamiento anticipado resulta eficiente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_viii_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja ya tenía denuncias anteriores por pegarme y otra vez lo denunciaron. ¿Le pueden dar un castigo más fuerte por repetir?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El límite de que la pena no sobrepase la responsabilidad por el hecho no rige en caso de reincidencia ni de habitualidad."
+    },
+    {
+     "query": "¿Es verdad que el castigo nunca puede ser mayor que lo que la persona realmente hizo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La pena no puede sobrepasar la responsabilidad por el hecho, salvo en reincidencia o habitualidad."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_212_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Vi cómo golpearon a mi vecina y me piden revisar mi cuerpo por marcas. ¿Pueden hacerlo aunque yo no quiera?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "A los testigos no acusados se les puede examinar sin consentimiento para constatar huellas o secuelas del delito en su cuerpo."
+    },
+    {
+     "query": "Mi hija menor vio el maltrato y quieren sacarle sangre, pero su papá es el denunciado. ¿Quién decide si se hace?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si el representante legal es el imputado en el delito, decide el Juez sobre el examen del menor."
+    },
+    {
+     "query": "¿Me pueden sacar sangre a la fuerza para comprobar quién es el padre si yo no soy la acusada?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Sin consentimiento solo si no hay riesgo para la salud, es indispensable para la verdad, y lo hace un médico."
+    },
+    {
+     "query": "Si no quiero que me hagan un análisis de sangre dentro del proceso, ¿me puedo negar?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los exámenes o extracciones pueden rehusarse por los mismos motivos por los que se puede negar el testimonio."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_451_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico sobre denuncia constitucional de altos funcionarios, que una víctima no preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_441_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo me golpeó y el médico me dio 5 días de descanso. ¿Eso es delito o algo menor, y qué castigo le toca?",
+     "topic": "lesiones_secuelas_indemnizacion",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Una lesión dolosa de hasta diez días de descanso se sanciona con servicio comunitario de 40 a 60 jornadas, salvo circunstancias que la hagan delito."
+    },
+    {
+     "query": "Agredieron a mi hijo de 12 años y le quedó una lesión leve. ¿Cambia el castigo por ser un niño?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si la víctima es menor de catorce años, el servicio comunitario sube a ochenta jornadas."
+    },
+    {
+     "query": "Mi tío, que cuida a mi hermano, le hizo un moretón leve. ¿Se castiga más por ser el responsable de él?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Es agravante que el agresor sea tutor, guardador o responsable de la víctima; se eleva a ochenta jornadas."
+    },
+    {
+     "query": "La lesión que me causó fue sin querer y me dieron 4 días de descanso. ¿Qué castigo le toca?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La lesión culposa con hasta cinco días de incapacidad se castiga con 60 a 120 días-multa."
+    },
+    {
+     "query": "¿El daño psicológico leve también cuenta como lesión o solo los golpes?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Se incluye la lesión a la salud mental, como nivel leve de daño psíquico según prescripción facultativa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_169_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi única testigo vive en otra ciudad lejos y no puede viajar. ¿Puede declarar sin venir al juzgado?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Si no puede trasladarse, el testigo puede declarar por exhorto o por videoconferencia o filmación."
+    },
+    {
+     "query": "El testigo de lo que me hizo mi pareja se fue a vivir al extranjero. ¿Todavía puede contar lo que vio en mi caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el testigo está en el extranjero se procede por cooperación judicial internacional, usando videoconferencia si es posible."
+    },
+    {
+     "query": "¿El fiscal y los abogados pueden estar presentes cuando alguien declara por videollamada desde otro lugar?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El Fiscal y los abogados de las partes pueden asistir o intervenir en la declaración por videoconferencia o filmación."
+    }
+   ]
+  }
+ ]
+}

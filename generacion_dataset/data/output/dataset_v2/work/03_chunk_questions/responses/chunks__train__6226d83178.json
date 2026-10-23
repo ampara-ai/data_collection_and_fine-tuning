@@ -1,0 +1,202 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_182_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Dije una cosa y mi agresor dijo otra muy distinta. ¿Pueden ponernos frente a frente para aclarar quién dice la verdad?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Cuando hay contradicciones importantes entre las declaraciones, se puede hacer un careo para oír a ambos."
+    },
+    {
+     "query": "Mi hija de 12 años fue agredida por su padrastro. ¿La obligarán a verlo cara a cara en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "No procede el careo con una víctima menor de catorce años, salvo que su representante o defensa lo pidan expresamente."
+    },
+    {
+     "query": "Me da pánico tener que enfrentarme cara a cara con quien me golpeaba. ¿Es obligatorio?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El careo procede solo si hay contradicciones importantes cuyo esclarecimiento requiera oír a ambos; no es automático."
+    },
+    {
+     "query": "Mi vecina vio la agresión pero cuenta algo distinto a lo que yo dije. ¿Nos pueden confrontar a las dos?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El careo también procede entre víctimas, entre testigos o entre testigos y víctimas."
+    },
+    {
+     "query": "¿Cuándo es posible que juntan frente a frente a una niña víctima con quien la maltrató?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Solo si quien representa a la menor de 14 años o su defensa lo solicita expresamente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me humilla y me controla pero nunca me ha pegado. ¿Esa ley de protección también es para mí?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La ley se aplica a todos los tipos de violencia contra las mujeres por ser mujeres y contra integrantes del grupo familiar."
+    },
+    {
+     "query": "Mi papá mayor es maltratado por mi hermano que vive con nosotros. ¿Hay ley que lo ampare siendo hombre?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La ley protege también a los integrantes del grupo familiar, no solo a las mujeres."
+    },
+    {
+     "query": "¿A qué clases de maltrato se refiere la ley que protege a las mujeres y a la familia?",
+     "topic": "identificacion_delito",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se aplica a todos los tipos de violencia."
+    },
+    {
+     "query": "Soy mujer y me agreden en el trabajo por serlo. ¿Me cubre esta norma?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aplica a violencia contra las mujeres por su condición de tales."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_222_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi ex me quitó mi celular y mis cosas y la policía las recogió. ¿Cómo hago para que me las devuelvan?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El fiscal y la policía pueden devolver al agraviado los objetos incautados; los bienes sustraídos se entregan a la víctima."
+    },
+    {
+     "query": "El fiscal no quiere devolverme lo que me quitaron. ¿Cuánto tiempo tengo para reclamar ante un juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si el fiscal no accede, el afectado puede pedir la decisión del juez dentro del tercer día."
+    },
+    {
+     "query": "Me estafaron con una amenaza y deposité dinero. ¿Puedo recuperar lo que pagué si ya lo bloquearon?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los fondos congelados por extorsión deben devolverse al agraviado identificado que acredite el depósito, y el fiscal debe gestionarlo."
+    },
+    {
+     "query": "¿Me pueden devolver mis cosas aunque el caso siga abierto, aunque sea de forma temporal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La devolución puede ordenarse provisionalmente en calidad de depósito, con posible exhibición cuando se necesite."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_261_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor huyó y no lo agarraron en el momento, pero puede escaparse. ¿Puede un juez mandar que lo detengan?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez, a pedido del fiscal, puede ordenar detención preliminar si hay elementos de delito con pena mayor a cuatro años y riesgo de fuga u obstaculización."
+    },
+    {
+     "query": "Mi agresor se escapó de la comisaría donde lo tenían detenido. ¿Pueden ordenar que lo busquen de nuevo?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Procede mandato de detención si el detenido se fuga de un centro de detención."
+    },
+    {
+     "query": "La orden para buscar y capturar a quien me agredió, ¿se vence con el tiempo si no lo encuentran?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las requisitorias duran seis meses, pero en delitos de violencia contra mujeres y familia no caducan hasta la detención."
+    },
+    {
+     "query": "¿Qué datos de la persona hacen falta para que la policía pueda cumplir una orden de captura?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El imputado debe estar individualizado con nombres, apellidos, edad, sexo, lugar y fecha de nacimiento."
+    },
+    {
+     "query": "Tengo miedo de que el juicio demore y él quede libre. ¿Su orden de captura sigue vigente en mi caso de violencia?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "En delitos de competencia del sistema especializado de violencia contra mujeres y grupo familiar la requisitoria no caduca."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me gritó insultos horribles una sola noche al llegar a casa. ¿Eso puede ser delito aunque no me haya tocado?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Un solo acto de insultos puede configurar lesiones psicológicas si tiene entidad suficiente, sin requerir habitualidad ni secuelas."
+    },
+    {
+     "query": "¿El informe de la psicóloga del Centro de Emergencia Mujer sirve como prueba en el juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El informe psicológico del Centro de Emergencia Mujer es válido y suficiente como elemento de convicción."
+    },
+    {
+     "query": "Mi conviviente me reclamó con groserías por llegar tarde. El abogado de él dice que no hay pruebas. ¿Puede igual ir a juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juzgado rechazó el pedido de archivar el caso y dispuso juicio, pues había denuncia, declaración de la víctima e informe psicológico."
+    },
+    {
+     "query": "Si me insultan seguido pero no me quedó ninguna secuela, ¿cuenta igual como maltrato psicológico?",
+     "topic": "violencia_psicologica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No es necesaria la existencia de secuelas o daño psíquico ni habitualidad para configurar lesiones psicológicas."
+    },
+    {
+     "query": "¿Qué pasó en el caso de la mujer insultada por su conviviente cuando volvió a casa de noche?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "Se declaró infundado el sobreseimiento y se dispuso el enjuiciamiento del imputado por agresiones contra la mujer."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_370_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me citaron como testigo al juicio de mi hermana. ¿Voy a estar en la sala junto al agresor mientras esperan que declare?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Los testigos esperan en un ambiente contiguo y solo entran a la sala cuando son llamados."
+    },
+    {
+     "query": "¿Dónde se sienta cada uno en el juicio: el juez, el fiscal, el acusado y mi abogado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez tiene al frente al acusado; a su derecha fiscal y abogado de la parte civil; a su izquierda el abogado defensor."
+    },
+    {
+     "query": "Seré testigo y tengo miedo de que me presionen o me hablen otros testigos antes de declarar. ¿Eso se evita?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El auxiliar jurisdiccional toma medidas para que los testigos no dialoguen entre sí."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,803 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Regula el sobreseimiento y remite a sus requisitos, pero no establece expresamente cómo recurrir el auto de archivo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Muestra que la agraviada puede apelar una decisión judicial que termina el proceso y obtener su revocación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "si",
+      "rationale": "Reconoce que el tribunal superior puede anular el sobreseimiento por defectos constitucionales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo puede revisarse y anularse un sobreseimiento pese a la conformidad fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_416_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "No aborda la impugnación de la decisión judicial que archiva y pone fin al proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica la facultad revisora y corrección de errores, sin tratar expresamente la condena del absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo anular una absolución y ordenar nueva revisión, sin establecer la condena directa del absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Explica que la parte civil no puede impugnar el extremo penal de una absolución sin recurso fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la anulación de una absolución por defectos del juicio, sin establecer una condena directa en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que puede anularse una absolución en apelación, sin establecer la condena directa del absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Establece límites para revalorar prueba en apelación, sin resolver expresamente si se puede condenar al absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aborda la impugnación y anulación de absoluciones, sin resolver la posibilidad de condenar directamente en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente revocar una absolución y dictar condena dentro de los límites del recurso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo admitir testimonios en apelación que pueden variar el fallo, sin regular la condena del absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "parcial",
+      "rationale": "Regula el nuevo juicio tras anulación, sin resolver la condena directa del absuelto en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica facultades y límites de la sala al revisar una condena, sin resolver directamente la condena de un absuelto."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Resuelve expresamente que no puede condenarse al absuelto cuando solo apeló el actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No resuelve la posibilidad de revocar una absolución y condenar en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Establece que para resolver la apelación se requiere mayoría de votos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece la mayoría o el número de votos necesarios para cambiar la decisión en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_392_01",
+      "relevance": "parcial",
+      "rationale": "Establece mayoría para sentenciar y unanimidad para cadena perpetua, sin precisar los votos de la sala de apelación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

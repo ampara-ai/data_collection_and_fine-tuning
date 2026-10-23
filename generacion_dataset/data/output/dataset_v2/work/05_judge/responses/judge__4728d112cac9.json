@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_179_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "si",
+      "rationale": "Sanciona promover la prostitución ajena y agrava la pena por convivencia o subsistencia del agente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_179_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "si",
+      "rationale": "Establece de seis a doce años cuando el autor es pareja, expareja o conviviente de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_179_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "si",
+      "rationale": "Agrava la pena cuando la víctima tiene discapacidad o extrema necesidad económica."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "si",
+      "rationale": "Fija un intervalo mínimo de diez días y atribuye al Juzgado Penal la citación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_355_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "si",
+      "rationale": "Prevé declarar reo contumaz al acusado que no concurre sin justificación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

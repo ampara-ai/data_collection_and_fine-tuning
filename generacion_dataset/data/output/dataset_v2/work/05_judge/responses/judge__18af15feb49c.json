@@ -1,0 +1,149 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula actos del Ministerio Público y no penas por lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Prevé tres a seis años para lesiones de más de diez y menos de veinte días contra cónyuge."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "si",
+      "rationale": "Prevé tres a seis años para lesiones de quince días contra cónyuge."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones cuando se aprovecha la condición de adulta mayor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "si",
+      "rationale": "Agrava lesiones contra mayores de sesenta y cinco años aprovechando su condición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "No regula lesiones ni agravantes por edad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula disposiciones fiscales y no sanciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Fija ocho a catorce años si la víctima de lesiones agravadas muere y era previsible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_122_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "si",
+      "rationale": "Establece la pena por muerte previsible tras lesiones agravadas por género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma condena en un caso denunciado meses después del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "si",
+      "rationale": "La presencia del perito institucional no es obligatoria si no se cuestiona el mérito científico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Trata revisión de absolución y límites probatorios, sin establecer condena en segunda instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo y no revocación de absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Autoriza revocar una absolución y dictar condena en segunda instancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "parcial",
+      "rationale": "Describe trámite de apelación, sin señalar facultad de condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite anular absoluciones defectuosas y ordenar nuevo juicio, sin imponer directamente condena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin lesiones y no revisión de fallos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "si",
+      "rationale": "Relata una absolución revocada y una condena confirmada por tribunal superior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_454_01",
+      "relevance": "no",
+      "rationale": "Regula procesos por delitos funcionales de magistrados."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "La apelación de protección no determina culpabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de prisión preventiva y no de absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Describe reserva del fallo y su registro."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Precisa límites para revisar o anular absoluciones ante conformidad fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00468_e0005_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Trata dosificación de pena por daño emocional y no revisión de absolución."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

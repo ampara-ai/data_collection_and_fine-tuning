@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0014::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "si",
+      "rationale": "Rechaza estereotipos estatales que culpabilizan a la víctima y justifican violencia."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Considera ebriedad superior al umbral y concurrencia de agravantes en lesiones graves familiares."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prohibición de acuerdos sin determinar agravación por gestación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Agrava agresiones cuando la víctima está gestando."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "Regula alimentos provisionales sin penas por gestación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige respetar mínimo de pena en lesiones familiares sin agravante por embarazo."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "Interpreta violencia intrafamiliar del Código colombiano y no agravantes peruanas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Regula robo agravado."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "Regula procedencia de casación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Incluye gestación y vínculo de expareja o hijos comunes como agravantes de lesiones graves."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "Sanciona desobediencia a autoridad y medidas protectoras."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_36_01",
+      "relevance": "no",
+      "rationale": "Define funciones administrativas de la Comisión Multisectorial."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "Regula inhibición de jueces."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica necesidad de contexto familiar sin determinar agravación por gestación."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata salidas alternativas y no responsabilidad por conducta sin intención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de multas extranjeras."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de cumplir período de prueba de condena."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "Regula valoración de riesgo para protección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "Regula recusación judicial."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica de condenados."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "no",
+      "rationale": "Enumera penas limitativas de derechos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "Analiza intención de violar en un supuesto diferente sin régimen de culpa."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigar circunstancias que eximan o atenúen sin definir responsabilidad culposa."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Analiza retractación de víctima y no falta de intención del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "si",
+      "rationale": "Distingue infracción dolosa de culposa y limita punibilidad culposa a supuestos legales expresos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata prohibición de acuerdos sin definir responsabilidad por culpa."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "Regula extradición de personas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q05",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Sanciona ayuda dolosa aunque el cómplice no ejecute personalmente la agresión."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0014::q06",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Dispone pena del delito para quienes lo cometen conjuntamente, condicionada a esa participación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,179 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_223_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "La policía se llevó unas cosas como evidencia de mi caso y nadie sabe quién fue el culpable. ¿Pueden venderlas después de un tiempo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si no se identifica al autor o al perjudicado, el bien retenido se vende en subasta pasados seis meses."
+    },
+    {
+     "query": "Si no reclamo lo que la fiscalía guardó de mi caso, ¿cuánto esperan antes de ponerlo en venta?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El remate procede transcurridos seis meses cuando no se identificó al autor ni al perjudicado."
+    },
+    {
+     "query": "Cuando venden esas cosas guardadas de un caso, ¿a dónde va la plata y el dueño todavía puede reclamarla después?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El dinero del remate se deposita en el Banco de la Nación, y si pasado un año nadie acredita su derecho, las instituciones lo reparten como recursos propios."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_287_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor sigue libre mientras lo investigan. ¿El juez puede prohibirle que me escriba o se me acerque aunque no esté preso?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede prohibir al imputado comunicarse con la víctima o acercarse a ella sin dictar prisión, siempre que no afecte su defensa."
+    },
+    {
+     "query": "Si a mi expareja le pusieron reglas para seguir en libertad y no las cumple, ¿qué le puede pasar?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si incumple las restricciones, previo requerimiento, se revoca la medida y se dicta prisión preventiva."
+    },
+    {
+     "query": "¿El juez puede ponerle varias condiciones a la vez a la persona que denuncié, en vez de mandarla directamente a la cárcel?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez puede imponer una o combinar varias restricciones según el caso cuando el riesgo de fuga u obstaculización puede evitarse así."
+    },
+    {
+     "query": "¿Pueden prohibirle hablar conmigo sin dejarlo preso?",
+     "topic": "medidas_proteccion",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Sí, el juez puede imponer la prohibición de comunicarse o aproximarse a la víctima como restricción."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Condenaron a mi agresor y su abogado dice que aún puede apelar porque no le avisaron en su casa. ¿Eso es cierto?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El TC exige notificar en el domicilio real las sentencias que afectan la libertad; si solo se notificó en la casilla electrónica, el plazo para apelar no ha vencido."
+    },
+    {
+     "query": "¿Desde cuándo cuenta el tiempo que tiene un condenado para apelar si el aviso solo le llegó a su buzón electrónico?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El plazo para impugnar corre desde la notificación por cédula en el domicilio real, no desde la casilla electrónica."
+    },
+    {
+     "query": "A mi ex lo condenaron por maltratarme con pena suspendida. ¿Puede pedir que revisen el caso por un error al avisarle de la sentencia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró fundado un habeas corpus y se ordenó admitir la apelación de condenados por agresiones contra la mujer por defecto de notificación."
+    },
+    {
+     "query": "Me da miedo que el caso de violencia se reabra. ¿Pueden anular la denegatoria de una apelación del agresor condenado?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El TC anuló la resolución que denegó la apelación y ordenó tramitarla, protegiendo el derecho a la doble instancia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si una mujer está presa, ¿tiene derecho a que no le hagan daño físico ni la amenacen por ser mujer?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las mujeres detenidas deben ser protegidas contra toda forma de violencia y discriminación, incluidas agresiones físicas, mentales, sexuales y amenazas."
+    },
+    {
+     "query": "¿Maltratar o abusar de mujeres que están detenidas cuenta como violencia por el hecho de ser mujeres?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Esos actos contra mujeres detenidas constituyen violencia basada en el género según la Corte IDH."
+    },
+    {
+     "query": "Mi hermana está detenida y me preocupa que la traten mal. ¿El Estado está obligado a cuidarla de la violencia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe proteger a las mujeres privadas de libertad frente a la violencia y la discriminación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_394_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un policía me pidió dinero para tramitar mi denuncia por violencia, aunque era su trabajo. ¿Eso es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El funcionario que solicita ventaja indebida para un acto propio de su cargo comete cohecho pasivo impropio, con pena de 5 a 8 años."
+    },
+    {
+     "query": "¿Qué castigo tiene un funcionario que acepta un regalo después de atenderme, aunque no haya hecho nada ilegal?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Aceptar donativo o ventaja por un acto ya realizado se castiga con 4 a 6 años de prisión, inhabilitación y días-multa."
+    },
+    {
+     "query": "Un empleado del juzgado insinuó que le diera un 'agradecimiento' por mi trámite contra mi pareja. ¿Puedo denunciarlo?",
+     "topic": "identificacion_delito",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Pedir o recibir beneficios indebidos por un acto propio del cargo es delito sancionado con cárcel."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le tocan a un servidor público que pide plata por hacer lo que le corresponde?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Quien solicita la ventaja recibe de cinco a ocho años de prisión, inhabilitación y 365 a 730 días-multa."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 12 años estuvo con un hombre que dice que ella quiso. ¿Su consentimiento sirve para que no lo castiguen?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "El consentimiento es irrelevante cuando la víctima tiene menos de 14 años; el acto sigue siendo delito."
+    },
+    {
+     "query": "El acusado dice que creyó que mi hija tenía más de 14 años. ¿Eso lo libra de la condena?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si no se comprueba el error alegado sobre la edad, se mantiene la condena."
+    },
+    {
+     "query": "Mi hija no muestra daño emocional tras lo ocurrido. ¿Eso hace que el caso ya no cuente como delito?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La falta de afectación psicológica no desvirtúa el delito de violación de menor."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le dieron a un hombre que abusó de una niña de 12 en un hostal?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Se confirmó una condena de 30 años de prisión más reparación civil."
+    }
+   ]
+  }
+ ]
+}

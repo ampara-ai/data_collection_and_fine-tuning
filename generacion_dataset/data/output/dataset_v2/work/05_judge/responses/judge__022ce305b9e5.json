@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0018_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a la verdad como reparación y exige investigar mientras subsista incertidumbre sobre la persona desaparecida."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00672_e0018_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a la verdad como reparación y exige investigar mientras subsista incertidumbre sobre la persona desaparecida."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,119 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0087::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 100. Requisitos para constituirse en actor civil» no establece las condiciones de privacidad y no repetición de la declaración de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_121-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 53. Inhibición» no establece la pena por lesiones familiares seguidas de muerte previsible."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_430_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Fija veinte días para que la Corte Suprema decida la admisibilidad tras el traslado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_430_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Establece la notificación en la fecha de expedición si no se señala el nuevo domicilio requerido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_430_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Fija diez días de traslado del recurso a las demás partes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 253. Principios y finalidad» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "parcial",
+      "rationale": "Expone una vía indemnizatoria extrapenal y sus límites, sin regular el reclamo contra el archivo fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Expediente 03681-2022-HC/TC» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios]» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 138. Obtención de copias» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 174.- Violación de persona bajo autoridad o vigilancia» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 261-A. Impedimento de la detención preliminar judicial» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Exp. 00039-2018-57» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce diligencia y sanciones a autoridades, sin precisar el mecanismo contra la decisión fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite amparo contra decisiones fiscales firmes que vulneren derechos fundamentales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 268-B. Impedimento de la prisión preventiva» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas]» no establece las vías para cuestionar una decisión fiscal de archivo por insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00615_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "si",
+      "rationale": "Identifica el amparo como control judicial de decisiones fiscales firmes y del respeto a los derechos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

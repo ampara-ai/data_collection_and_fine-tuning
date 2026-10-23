@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0022::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento de la falta de resistencia o de la conducta de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica la violación y establece las penas y agravantes aplicables a adolescentes y contextos de violencia."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye la amenaza y el entorno coactivo que impiden el consentimiento sin exigir arma ni lesiones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravantes de violación, pero no establece que el alcohol suministrado a la víctima o su traslado agraven por sí solos la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 227. Ejecución» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 427. Procedencia» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Bien jurídico libertad sexual (Casación 148-2010, Moquegua)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 121.- Lesiones graves» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 53. Inhibición» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 294. Internamiento previo para observación y examen» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravación por crueldad o lesión grave, sin permitir concluir que los hechos descritos configuren esas circunstancias."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 205. Control de identidad policial» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 36. Inhabilitación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0022::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reparación civil junto con la pena y exige efectivizarla durante la condena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -23,7 +23,6 @@ REPO_ROOT = PROJECT_ROOT.parent
 UPDATES_JSONL = PROJECT_ROOT / "data" / "intermediate" / "jurisprudencia_chunk_updates.jsonl"
 INPUT_CHUNKS = PROJECT_ROOT / "data" / "input" / "document_chunks_all.jsonl"
 SOURCE_CHUNKS = REPO_ROOT / "recoleccion" / "data" / "processed" / "document_chunks_all.jsonl"
-BM25_CACHE = PROJECT_ROOT / "data" / "intermediate" / "bm25_document_chunks.pkl"
 
 
 def load_updates(updates_path: Path) -> dict[str, str]:
@@ -97,13 +96,8 @@ def main() -> None:
     else:
         print(f"[WARN] No se encontró el input de generación: {INPUT_CHUNKS}")
 
-    # Eliminar BM25 cache para forzar reconstrucción
-    if BM25_CACHE.exists():
-        BM25_CACHE.unlink()
-        print(f"[OK] BM25 cache eliminado (se reconstruirá en el próximo run): {BM25_CACHE}")
-
     print("\n[DONE] Actualizaciones aplicadas.")
-    print("       Ejecuta generate_colloquial_legal_questions.py con --rebuild-bm25 para regenerar el índice.")
+    print("       El generador reconstruirá el índice BM25 al iniciar.")
 
 
 if __name__ == "__main__":

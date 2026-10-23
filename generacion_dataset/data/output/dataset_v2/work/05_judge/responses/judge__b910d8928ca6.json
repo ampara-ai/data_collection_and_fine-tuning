@@ -1,0 +1,71 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "Regula revocación por nuevo delito, no si procede suspender inicialmente la pena del policía."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "Valora retractación en un delito sexual, no ejecución de condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento de una suspensión ya otorgada, no su procedencia inicial."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula cumplimiento de penas no privativas en el extranjero, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata suspensión de prescripción, no período de prueba de una pena suspendida."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución civil, no duración de suspensión penal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios de colaboración eficaz, otro procedimiento."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Fija plazos de reserva del fallo, institución distinta de la suspensión de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "Fija prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "Sanciona detención ilegal por un juez."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0095::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula medidas protectoras, no período de prueba de condena suspendida."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

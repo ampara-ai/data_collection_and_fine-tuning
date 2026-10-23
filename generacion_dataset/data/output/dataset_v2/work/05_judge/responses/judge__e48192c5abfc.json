@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0013_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "si",
+      "rationale": "El criterio permite acuerdos reparatorios y otras salidas alternativas para las lesiones leves descritas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0013_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Expone un criterio favorable a los acuerdos, pero no acredita su vigencia actual ni su alcance obligatorio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

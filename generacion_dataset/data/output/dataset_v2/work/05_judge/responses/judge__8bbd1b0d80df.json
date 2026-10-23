@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0016::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Establece quién recibe protección y el peligro requerido, sin precisar reserva de datos o mudanza."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00259_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Protege a la persona agraviada, pero no precisa protección de quienes la apoyan."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

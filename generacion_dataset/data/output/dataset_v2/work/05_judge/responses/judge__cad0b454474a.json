@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00118_e0001::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Describe valoración del relato infantil y corroboración periférica."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Enumera seguridad, concreción, claridad y ausencia de contradicciones."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Menciona corroboración periférica sin identificar qué otras evidencias la constituyen."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece reglas generales para indicios y corroboración, sin identificar evidencias del abuso infantil."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige lógica, ciencia, experiencia y explicación de los criterios adoptados."
+    },
+    {
+      "dataset_id": "case::jp_00118_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "si",
+      "rationale": "Exige otras pruebas para condenar sobre testimonios de referencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

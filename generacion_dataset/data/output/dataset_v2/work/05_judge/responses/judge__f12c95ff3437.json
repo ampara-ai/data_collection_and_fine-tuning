@@ -1,0 +1,125 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0089::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye introducir objetos por vía vaginal o anal dentro del delito de violación sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0089::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agravaba la violación cometida por agentes uniformados o funcionarios valiéndose de sus funciones."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0089::q03",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "si",
+      "rationale": "Incrementa penas por crueldad o degradación y fija treinta a treinta y cinco años por lesión grave previsible."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0089::q04",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "parcial",
+      "rationale": "Fija igual pena para coautores, pero no permite determinar si quien solo miró participó como tal."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0089::q05",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "si",
+      "rationale": "Reconoce reparación como derecho de la víctima y exige efectivizarla durante la condena."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0089::q06",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión para agresiones del artículo 122-B y lesiones leves contra mujeres o familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor preconstituido a la entrevista, pero no resuelve si basta por sí sola para condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una entrevista insuficiente por duración y defectos de identificación sin dar una regla general de suficiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Admite medios probatorios legales, pero no establece la suficiencia de una entrevista única."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Valida la declaración de una menor con coherencia, persistencia y corroboración psicológica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Analiza coherencia y corroboraciones del relato infantil, pero se centra en revaloración en apelación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El chunk no explica la suficiencia de la entrevista de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula entrevista única como prueba anticipada, sin establecer si basta para condenar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige que la entrevista sin formalidad anticipada no sea la única prueba y esté corroborada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00252_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Mantiene reparación civil de cinco mil soles junto con la cadena perpetua."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

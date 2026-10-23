@@ -1,0 +1,227 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 185.- Hurto simple no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Tentativa de violación (RN 316-2021, Lima Este) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo II. Presunción de inocencia no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 34.- Prestación de servicios a la comunidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza inferir consentimiento o falta de credibilidad de la relación sentimental o del trabajo de la víctima y admite condenar con otras pruebas; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 72. Identificación del imputado no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo I. Justicia Penal no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 457. Reglas especiales no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica la absolución por duda razonable valorando las versiones iniciales, sugilaciones y ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 28. Valoración del riesgo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica la absolución por duda razonable valorando las versiones iniciales, sugilaciones y ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica la absolución por duda razonable valorando las versiones iniciales, sugilaciones y ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica la absolución por duda razonable valorando las versiones iniciales, sugilaciones y ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Aplica la duda razonable y absuelve ante contradicciones esenciales e insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 371. Apertura del juicio y posición de las partes no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 376. Declaración del acusado no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 359. Concurrencia del Juez y de las partes no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "si",
+      "rationale": "Explica la absolución por duda razonable valorando las versiones iniciales, sugilaciones y ausencia de lesiones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "si",
+      "rationale": "Establece la presunción de inocencia y ordena resolver a favor del imputado cuando exista duda sobre su responsabilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada.- no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Violación sexual: prueba en delitos a puerta cerrada (Colombia) [Radicado 58187] aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 63.- Efectos de la Reserva de Fallo Condenatorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 480. Revocación de los beneficios no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0043_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Apelación 312-2023, Lima no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00641_e0023_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "si",
+      "rationale": "Considera irrazonable la demora en juzgar al detenido por alimentos en un caso simple y ordena su libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00641_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "si",
+      "rationale": "Considera irrazonable la demora en juzgar al detenido por alimentos en un caso simple y ordena su libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00641_e0023_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "si",
+      "rationale": "Considera irrazonable la demora en juzgar al detenido por alimentos en un caso simple y ordena su libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00641_e0023_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "si",
+      "rationale": "Considera irrazonable la demora en juzgar al detenido por alimentos en un caso simple y ordena su libertad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00698_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Reserva la acusación al fiscal, eleva la pena por lesiones graves y exige reparación proporcional al daño y al lucro cesante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00698_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Reserva la acusación al fiscal, eleva la pena por lesiones graves y exige reparación proporcional al daño y al lucro cesante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00698_e0004_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Reserva la acusación al fiscal, eleva la pena por lesiones graves y exige reparación proporcional al daño y al lucro cesante."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00698_e0004_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "si",
+      "rationale": "Reserva la acusación al fiscal, eleva la pena por lesiones graves y exige reparación proporcional al daño y al lucro cesante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

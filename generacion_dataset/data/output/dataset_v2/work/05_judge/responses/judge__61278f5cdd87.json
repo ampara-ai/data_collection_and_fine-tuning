@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_20_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "si",
+      "rationale": "Incluye tratamiento terapéutico de la víctima y especializado del condenado cuando corresponde."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_20_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Prevé restricciones y medidas locales para asegurar protección en una condena, pero no precisa la vigencia de las órdenes al concluir cualquier juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo01_ley30364_art_20_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "si",
+      "rationale": "Exige traducción de la sentencia o una persona que comunique su contenido en la lengua de las partes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

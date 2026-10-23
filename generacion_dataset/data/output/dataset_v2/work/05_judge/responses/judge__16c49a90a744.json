@@ -1,0 +1,299 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00187_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "Regula el nuevo juicio tras anulación y no la participación en reconstrucción."
+    },
+    {
+      "dataset_id": "case::jp_00187_e0001::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "Regula la lectura de actas en juicio, sin explicar cómo se inspecciona el lugar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Enumera prohibiciones de acercamiento y comunicación y otras medidas de protección."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "Trata de contradicciones periciales en una condena por violación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Regula protección de imágenes e identidad de testigos, no impedir llamadas de la pareja."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "Regula el desconocimiento del domicilio de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones sin regular la prohibición de comunicación solicitada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Autoriza prohibir llamadas, mensajes y comunicación mediante redes sociales."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Regula los derechos del imputado en la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "Define violación sexual y no medidas contra el contacto persistente."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "Regula la reserva de identidad y protección de testigos, sin abordar esa prohibición."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "Tipifica robo agravado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige medidas efectivas contra el hostigamiento, pero no precisa la prohibición de llamadas o redes."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Permite al juez prohibir la comunicación o aproximación a la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "Analiza anonimización de una declaración y no impedir contactos del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "Valida dictar medidas urgentes sin escuchar previamente al denunciado ante riesgo severo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "si",
+      "rationale": "Confirma que omitir la audiencia previa del denunciado no invalida por sí solo las medidas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Señala riesgo, urgencia, necesidad y peligro en la demora como criterios de protección."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q06",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Autoriza reservar identidad, domicilio y otros datos del protegido según el riesgo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0006::q07",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "parcial",
+      "rationale": "Indica los plazos máximos de prisión preventiva, pero no cuándo corresponde imponerla."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "si",
+      "rationale": "Suspende la prescripción cuando el proceso depende de una cuestión pendiente en otro procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Explica interrupción y prescripción extraordinaria, pero no el máximo de suspensión por otro trámite."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "Se refiere al plazo de un recurso y una huelga, no a prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Explica la excepción de prescripción sin determinar cuánto puede suspenderse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "si",
+      "rationale": "Fija expresamente un máximo de un año para la suspensión de la prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Indica cuándo comienza la prescripción, sin determinar cuánto puede suspenderse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de la pena, distinta de la prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "Analiza consentimiento sexual y suficiencia probatoria."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Examina el deber de denuncia de profesionales de salud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce un supuesto de suspensión por acusación directa, pero no su duración por otro trámite."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "Regula extradición y no el límite de suspensión consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "Fija plazos de medidas de suspensión de derechos y no prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "no",
+      "rationale": "Regula caducidad de plazos procesales, no suspensión de prescripción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "si",
+      "rationale": "Establece suspensión y su límite cuando el proceso depende de otro procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial por flagrancia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Describe la extinción por prescripción, pero no si otro proceso suspende su curso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión del juicio por cambios de acusación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata del deber de protección ante violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "Regula juzgamiento anticipado en violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Fija plazos de medidas de protección sin regular prescripción penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza inicio de persecución para encubrimiento y no suspensión por otro proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de la ejecución de la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "Regula plazos de extradición."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "si",
+      "rationale": "Dispone suspensión de prescripción si el proceso penal depende de otro procedimiento."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "Interpreta peligro inmediato para adoptar medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "Regula incumplimiento de reglas durante suspensión de pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_84_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Explica interrupción de prescripción, pero no la suspensión por cuestión pendiente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

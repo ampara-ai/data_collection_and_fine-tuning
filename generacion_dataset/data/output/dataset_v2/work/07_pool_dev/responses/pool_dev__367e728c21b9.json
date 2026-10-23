@@ -1,0 +1,659 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "parcial",
+      "rationale": "Regula la comunicación e investigación policial tras conocer un delito, sin precisar la recepción verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "si",
+      "rationale": "Admite expresamente la denuncia verbal ante cualquier dependencia policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 89. Tratamiento y pluralidad de imputados» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 178-2024, Tumbes, f. j. 12» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Permite denunciar verbalmente ante la Policía y exige levantar un acta sin otras formalidades."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce derechos de información y trato digno al denunciar, sin regular la recepción de denuncias verbales."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central]» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Tentativa de violación (RN 316-2021, Lima Este)» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 2528-2010, Junín, f. j. 6» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_213_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 213. Examen corporal para prueba de alcoholemia» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe la atención y tramitación policial de denuncias ya recibidas, sin resolver expresamente su forma verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Casación 2451-2022, Cajamarca» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Exp. 00199-2018-0» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Declaración víctima prueba directa (Apelación 41-2023)» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Guzmán Albarracín y otras vs. Ecuador, f. j. 119» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 160. Valor de prueba de la confesión» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 461. Investigación preliminar» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 483. Iniciación» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 327. No obligados a denunciar» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 188. Requerimiento de informes» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la facultad ciudadana de denunciar ante la autoridad, sin precisar la recepción policial verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 2013-2017, Lima Este, f. j. 3.10-3.12» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 70. Prohibición de informar» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «RN 508-2019, Lima, ff. jj. 5, 8» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 321. Finalidad» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber policial de conocer e investigar delitos, pero no regula expresamente la denuncia hablada."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 86. Momento y carácter de la declaración» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigar sin imponer denuncias reiteradas, pero no establece la forma de recepción policial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 210. Registro de personas» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "si",
+      "rationale": "Reconoce la denuncia verbal y establece que se siente el acta correspondiente."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 407.- Omisión de denuncia» no aporta la información necesaria para resolver la recepción policial de una denuncia verbal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 329. Formas de iniciar la investigación» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "parcial",
+      "rationale": "Regula el arresto ciudadano y entrega a la Policía, sin desarrollar la información de derechos al detener."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 205. Control de identidad policial» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 461. Investigación preliminar» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Exp. 00059-2019-0, f.j. 10» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 216. Desarrollo de la diligencia» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 442.- Maltrato» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Interpretación del peligro inmediato para medidas de protección [Kurt vs. Austria]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 67. Función de investigación de la Policía Nacional» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 86. Momento y carácter de la declaración» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205)» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Exp. 01386-2020-0» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 127. Notificación» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 210. Registro de personas» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "si",
+      "rationale": "Regula la detención en flagrancia y obliga a informar el delito atribuido y los derechos del detenido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Fija la duración de la detención policial, pero no sus presupuestos de flagrancia ni los derechos que deben comunicarse."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 70. Prohibición de informar» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 331. Actuación policial» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 207. Presupuestos y Ejecución» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 22. Delitos cometidos en un medio de transporte» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Ordena detener inmediatamente al agresor sorprendido en flagrancia en casos de violencia familiar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver la detención inmediata y la información de derechos."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 116. Lugar» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "si",
+      "rationale": "Permite a la Policía incautar objetos probatorios en flagrancia y exige comunicarlo inmediatamente al fiscal."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 28. Valoración del riesgo» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "parcial",
+      "rationale": "Regula la búsqueda y entrega de objetos relacionados con el delito mediante registro personal, sin proteger la escena doméstica."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "parcial",
+      "rationale": "Ordena custodiar y conservar bienes bajo dirección fiscal, sin desarrollar el deber policial sobre la escena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala]» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "parcial",
+      "rationale": "Explica el ingreso y registro domiciliario para localizar objetos relevantes, sin regular su preservación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 16-E. Proceso por faltas» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «STS 4001/2022 (España) - Excusa absolutoria no aplica a apoderamientos violentos o intimidatorios» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 311. Desalojo preventivo» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 14. Competencia» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 16-D. Investigación del delito» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua]» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Exige inspeccionar, documentar y recoger o conservar los rastros y elementos materiales útiles."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "si",
+      "rationale": "Obliga a la Policía a reunir y asegurar las pruebas mediante diligencias urgentes."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 17. Flagrancia» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «jp_00395_e0003» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 260. Arresto Ciudadano» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 205. Control de identidad policial» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "parcial",
+      "rationale": "Permite asegurar bienes muebles de valor probatorio mediante inmovilización judicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar documentos probatorios aportados por la víctima, sin explicar la preservación policial de la escena."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 207. Presupuestos y Ejecución» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 206. Controles policiales públicos en delitos graves» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 234. Aseguramiento e incautación de documentos contables y administrativos» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la inmovilización urgente de bienes por el fiscal, sin detallar la actuación policial en el lugar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 169. Testigos residentes fuera del lugar o en el extranjero» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_68_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre «Artículo 195. Levantamiento de Cadáver» no aporta la información necesaria para resolver la preservación policial del lugar y las pruebas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

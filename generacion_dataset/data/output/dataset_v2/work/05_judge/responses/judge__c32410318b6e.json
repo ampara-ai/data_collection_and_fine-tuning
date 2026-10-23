@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_425_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Permite revocar absolución y dictar condena dentro de los límites del recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_425_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Prohíbe aplazar la lectura y ordena realizarla con quienes asistan."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_425_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Reconoce apelación ante la Corte Suprema cuando se condena al previamente absuelto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_425_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "si",
+      "rationale": "Prohíbe revalorar prueba personal salvo cuestionamiento mediante prueba de segunda instancia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00381_e0011::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho de los familiares a conocer la verdad mediante una investigación diligente y una explicación efectiva."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Describe los actos con los que el fiscal conduce la investigación, pero no qué hechos busca esclarecer."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Define como fines de la investigación determinar el carácter delictivo, circunstancias, responsables, víctima y daño."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_268-b_01",
+      "relevance": "no",
+      "rationale": "No explica los objetivos de la investigación fiscal de la muerte denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Expone circunstancias de una muerte que deben investigarse con enfoque de género, sin precisar los fines generales de la investigación consultada."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Ordena al fiscal disponer inmediatamente diligencias preliminares policiales al conocer el delito y precisar su objeto."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Obliga a la Policía y a sus órganos especializados a prestar apoyo al fiscal en la investigación."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Exige cooperación y actuación conjunta y coordinada del Ministerio Público y la Policía para investigar delitos."
+    },
+    {
+      "dataset_id": "case::jp_00381_e0011::q05",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "si",
+      "rationale": "Considera vulneración de derechos la investigación de una muerte sin diligencia ni respeto del plazo razonable."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

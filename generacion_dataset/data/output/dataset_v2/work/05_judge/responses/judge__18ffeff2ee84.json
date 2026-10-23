@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "si",
+      "rationale": "Permite recurrir oralmente en el mismo acto y exige formalización escrita de resoluciones finales en cinco días."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "si",
+      "rationale": "Enumera legitimación, plazo, puntos impugnados, fundamentos y pretensión concreta para admitir el recurso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata prisión preventiva de un progenitor sin determinar quién está legitimado para recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_236_01",
+      "relevance": "no",
+      "rationale": "Regula el levantamiento de reserva tributaria y no el derecho a impugnar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula colaboración eficaz y no legitimación para recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "parcial",
+      "rationale": "Establece restricciones de admisión de la casación pero no quién puede impugnar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "Tipifica sustracción de bien propio sin relación con la legitimación procesal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Regula la apelación de sentencias sin definir la legitimación de una persona perjudicada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "Tipifica disposición ilegal de prenda sin relación con los recursos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "Los principios de protección frente a la violencia no establecen legitimación para recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "si",
+      "rationale": "Admite recursos de quien resulte agraviado, tenga interés directo y esté legalmente facultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "La gestión de explotación sexual no regula recursos procesales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "La ponderación del interés del niño en prisión preventiva no resuelve la legitimación para impugnar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "La validez de la entrevista en cámara Gesell no determina quién puede recurrir."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_405_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce acceso a recursos y principio pro actione sin fijar la legitimación de la persona perjudicada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

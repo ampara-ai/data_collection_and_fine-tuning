@@ -1,0 +1,160 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_52_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Están discutiendo qué juzgado debe llevar mi caso. Mientras tanto, ¿pueden decidir si el agresor sigue preso o lo sueltan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Aunque esté pendiente la decisión sobre qué juez es competente, se puede resolver sobre la libertad o privación de libertad del imputado."
+    },
+    {
+     "query": "Si hay duda sobre qué juez debe ver mi denuncia, ¿se paraliza todo o igual se pueden hacer actuaciones urgentes que no pueden esperar?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Mientras se define la competencia se pueden actuar diligencias urgentes que no podrían hacerse después o no admiten espera."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_457_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "La persona que me agredió tiene una enfermedad mental grave. ¿Igual lo juzgan o el caso se maneja de otra forma?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Hay un proceso especial para acusados con grave alteración mental, que sigue las reglas del proceso común salvo las particularidades previstas."
+    },
+    {
+     "query": "Si al acusado se le reconoce un problema mental que le impide entender, ¿quién lo representa y habla por él durante el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Sus facultades las ejerce un curador o la persona designada por el juez, salvo actos personales; en el juicio lo representa el curador."
+    },
+    {
+     "query": "¿El juicio contra alguien con trastorno mental es abierto al público o se hace a puertas cerradas?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juicio se realiza excluyendo al público."
+    },
+    {
+     "query": "¿Cómo termina un juicio cuando el acusado no está en su sano juicio: lo condenan a cárcel o pasa otra cosa?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La sentencia solo puede absolver o aplicar una medida de seguridad; el juez puede rechazar la medida si corresponde una pena."
+    },
+    {
+     "query": "¿Pueden hacer el juicio sin que el acusado esté presente si su salud no lo permite? Me da miedo que así no haya justicia.",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juicio puede hacerse sin el imputado por su salud o seguridad; se leen sus declaraciones previas y es indispensable interrogar al perito sobre su salud mental."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno sobre traslado de condenados nacionales desde el extranjero; ninguna víctima lo preguntaría de forma natural.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_74_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Se descubrió que el chico que abusó de mi hija todavía no tiene 18 años. ¿El caso sigue en el juzgado penal o pasa a otro lugar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si se establece la minoría de edad del acusado en la investigación, se corta el proceso penal y el adolescente pasa al Fiscal de Familia."
+    },
+    {
+     "query": "Si el agresor resulta ser adolescente, ¿pierdo mi derecho a reclamar que me paguen por el daño sufrido?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se deja a salvo el derecho del actor civil para hacerlo valer en la vía correspondiente."
+    },
+    {
+     "query": "¿Qué pasa con mi juicio si ya estaba muy avanzado y recién se comprueba que el acusado era menor de edad?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Si la minoría de edad se acredita en la etapa intermedia o el juicio oral, el juez decide tras una audiencia con las partes."
+    },
+    {
+     "query": "¿Quién se encarga del caso cuando el que agredió a mi hijo es un adolescente?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El adolescente es puesto a disposición del Fiscal de Familia, a pedido del fiscal o de cualquiera de las partes al juez."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_296_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Soy testigo clave en un caso de violencia y el juez me impuso una restricción. ¿Cuánto tiempo como máximo puede durar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En el caso de testigos importantes la medida no puede durar más de cuatro meses."
+    },
+    {
+     "query": "Si la restricción era solo para que yo declarara como testigo, ¿cuándo me la quitan?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Para testigos importantes la medida se levanta luego de realizada la declaración o actuación que la motivó."
+    },
+    {
+     "query": "¿Pueden alargar esa restricción a un testigo igual que a un acusado, o solo al acusado?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La prolongación solo procede para imputados, no para testigos importantes."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un hombre le tocó las partes íntimas a mi sobrina de 14 años mientras dormía y lo absolvieron porque no hubo violencia. ¿Eso se puede corregir?",
+     "topic": "violencia_sexual",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anuló la absolución porque el tribunal debió considerar cambiar el delito a uno menor, como actos contra el pudor, y no planteó esa posibilidad a las partes."
+    },
+    {
+     "query": "¿Cuenta la palabra de una niña abusada si no hubo más testigos, o necesitan otras pruebas?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Su declaración coherente, firme y persistente, corroborada por pericia psicológica y testimonio de la madre, tiene valor probatorio."
+    },
+    {
+     "query": "¿Pueden cambiarle el delito al acusado en plena sentencia sin avisarnos a las partes?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El tribunal debe plantear expresamente la tesis de cambio de delito a las partes; omitirlo afecta el debido proceso."
+    },
+    {
+     "query": "¿Qué condiciones deben cumplirse para que un juez califique el hecho con otro delito parecido en vez de dejar libre al acusado?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "otro",
+     "expected_answer_focus": "Se requiere mismo bien protegido, hechos y pruebas iguales, respeto al derecho de defensa y plantear la tesis a las partes."
+    },
+    {
+     "query": "Mi hija menor fue manoseada de noche en su cuarto por un desconocido que no la golpeó ni amenazó. ¿Igual es un delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Tocar partes íntimas de una menor sin violencia puede configurar actos contra el pudor, delito contra la libertad sexual."
+    }
+   ]
+  }
+ ]
+}

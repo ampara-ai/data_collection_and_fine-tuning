@@ -1,0 +1,113 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00065_e0004::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 162. Capacidad para rendir testimonio» no establece la conducción forzosa de una víctima o testigo que no comparece."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 163. Obligaciones del testigo» no establece las formas de citación para declarar."
+    },
+    {
+      "dataset_id": "case::jp_00065_e0004::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 378. Examen de testigos y peritos» no establece las consecuencias de negarse a concurrir o declarar como testigo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15. Denuncia» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Equipara la pena de quien realiza el hecho por medio de otro con la del autor directo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 330. Investigación preliminar» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022]» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 152.- Secuestro» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15.- Error de comprensión culturalmente condicionado» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 8. Trámite de los medios de defensa» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 523. Detención Preventiva con fines de extradición» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 6. Excepciones» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 525. Ámbito e Iniciación» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116)» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte)» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central]» no establece la responsabilidad de quien ejecuta una agresión por medio de otra persona."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Establece la pena de la infracción para quienes la cometen conjuntamente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_23autor_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "parcial",
+      "rationale": "Regula autoría mediata y coautoría, pero no la responsabilidad y pena por la mera ayuda o complicidad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

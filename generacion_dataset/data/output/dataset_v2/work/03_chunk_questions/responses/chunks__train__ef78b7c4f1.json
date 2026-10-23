@@ -1,0 +1,179 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Qué se supone que debe hacer el Estado por una mujer maltratada, además de castigar al agresor?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El sistema busca prevenir, atender, proteger y reparar a la víctima, y sancionar y reeducar al agresor."
+    },
+    {
+     "query": "Me dijeron que existe un sistema nacional contra la violencia hacia las mujeres y la familia. ¿Para qué sirve realmente?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se creó para coordinar y ejecutar acciones articuladas del Estado y erradicar la violencia contra mujeres e integrantes del grupo familiar."
+    },
+    {
+     "query": "¿El Estado también tiene que trabajar con el agresor para que cambie, o solo con la víctima?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "El sistema incluye la sanción y la reeducación del agresor junto con la protección de la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_490_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Condenaron a mi agresor a cárcel de verdad, pero sigue en la calle. ¿Qué pasa ahora para que lo detengan?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Si el condenado está libre con pena de cárcel efectiva, el juez ordena lo necesario para capturarlo."
+    },
+    {
+     "query": "Si mi expareja estuvo preso unos meses mientras lo juzgaban, ¿ese tiempo se le descuenta de la condena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Al calcular la pena se descuenta el tiempo de detención, de prisión preventiva y de arresto domiciliario cumplido."
+    },
+    {
+     "query": "¿Quién calcula cuántos años le toca cumplir en la cárcel al condenado y se puede corregir si hay error?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez hace el cálculo tras la captura y puede reformarlo, incluso de oficio, si hay error o nuevas circunstancias."
+    },
+    {
+     "query": "Cuando ya calcularon el tiempo de condena del agresor, ¿a quién se le avisa?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El cómputo se comunica de inmediato al juzgado que impuso la condena y al Instituto Nacional Penitenciario."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié que un compañero de trabajo me violó y el fiscal dijo que no había pruebas suficientes. ¿Puedo reclamar de alguna otra forma?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se puede acudir a un proceso constitucional de amparo para cuestionar decisiones fiscales firmes que afecten derechos fundamentales."
+    },
+    {
+     "query": "Ya me rechazaron mi queja contra el archivo de mi caso de violación. ¿Todavía puedo acudir al Tribunal Constitucional?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El amparo procede contra decisiones fiscales firmes, y el caso llegó al Tribunal Constitucional por recurso de agravio."
+    },
+    {
+     "query": "¿Se puede pedir que un juez revise si el fiscal investigó mal mi denuncia o ignoró señales de lo que me pasó?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El amparo permite analizar si las decisiones fiscales respetan los derechos y son proporcionales y razonables."
+    },
+    {
+     "query": "¿Cuándo se puede cuestionar la decisión de un fiscal de no seguir con mi denuncia?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo cuando la decisión fiscal ya es firme y no existe otra vía igualmente satisfactoria."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 13 años contó lo que le pasó, pero se equivocó en algunos detalles. ¿Eso hace que no le crean?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "No se exige exactitud en todos los detalles de la declaración de la menor, solo en lo sustancial."
+    },
+    {
+     "query": "El acusado dice que pensaba que mi hija tenía 16 años. ¿Eso puede librarlo de la responsabilidad?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Un error invencible sobre la edad de la menor excluye la responsabilidad penal y puede llevar a la absolución."
+    },
+    {
+     "query": "¿Qué tanto importan las contradicciones en lo que dice una adolescente víctima cuando declara?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se valora con rigor lo esencial, y las contradicciones sobre datos circunstanciales no anulan la declaración."
+    },
+    {
+     "query": "A veces la menor aparenta más edad y parece actuar con libertad. ¿Puede el juez absolver al hombre por eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si por la apariencia y el contexto el acusado pudo errar sobre la edad, se aplica el error de tipo y puede ser absuelto."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_31_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si al agresor no lo mandan a la cárcel, ¿qué otros tipos de castigo le pueden poner?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las penas limitativas de derechos son servicios a la comunidad, limitación de días libres e inhabilitación."
+    },
+    {
+     "query": "¿Hacer trabajo comunitario o quedar impedido de ejercer ciertos cargos cuenta como sanción penal?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Servicios a la comunidad e inhabilitación figuran entre las penas limitativas de derechos."
+    },
+    {
+     "query": "¿Cuáles son las penas que restringen derechos en vez de encerrar a la persona?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Enumera tres clases: prestación de servicios a la comunidad, limitación de días libres e inhabilitación."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hijo menor lo entrevistaron en una sala especial con psicólogo, pero no como prueba adelantada. ¿Eso hace que no valga?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La declaración en cámara Gesell no pierde validez ni se anula por no haberse hecho como prueba anticipada."
+    },
+    {
+     "query": "El abogado del agresor dice que anulen lo que dijo mi hija porque no se hizo con todas las formalidades. ¿Puede lograrlo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "No hay nulidad por esa formalidad salvo que se vulneren garantías constitucionales; la Corte rechazó el recurso."
+    },
+    {
+     "query": "¿Qué condiciones debe tener la entrevista a un niño víctima para que el juez la tome en cuenta?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Debe hacerse con garantías, como presencia del fiscal, psicólogo perito y defensa, y sin afectar derechos fundamentales."
+    },
+    {
+     "query": "¿Mi hija tendrá que declarar otra vez en el juicio si ya la entrevistaron en la sala especial?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "La entrevista especial con garantías puede ser valorada por el juez aunque no sea prueba anticipada, lo que permite usarla sin invalidarla."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,809 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Describe la preservación de la identidad del protegido, pero no el plazo probatorio tras revelarla."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "parcial",
+      "rationale": "Permite indagar la idoneidad del testigo para valorar su declaración, sin regular el plazo tras revelar su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Regula la reserva de identidad y el examen de circunstancias útiles para valorar el testimonio, sin indicar ese plazo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Permite el contrainterrogatorio y la confrontación del testigo, pero no fija el plazo posterior a revelar su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_180_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Explica quiénes pueden recibir protección y sus presupuestos, sin regular el ofrecimiento de pruebas tras identificar al protegido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_422_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_250_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "No regula el plazo para ofrecer pruebas sobre la credibilidad de un protegido tras conocerse su identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "parcial",
+      "rationale": "Regula la prolongación y revisión del plazo de prisión preventiva, sin indicar si pueden reiterarse solicitudes de cesación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Analiza la revocación de una prisión preventiva en apelación, sin resolver cuántas veces puede solicitarse la libertad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la libertad al vencer el plazo de prisión preventiva, pero no la reiteración de pedidos de cesación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No establece si el imputado puede solicitar reiteradamente la cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Permite solicitar la revocación de una medida de coerción al notificarse la acusación, sin desarrollar los requisitos para obtenerla."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "si",
+      "rationale": "Permite ordenar la libertad cuando el fiscal retira la acusación y el juez acepta el retiro durante el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "parcial",
+      "rationale": "Ordena la libertad cuando una casación hace cesar la detención, pero no especifica los presupuestos de cesación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "si",
+      "rationale": "Ordena la libertad si vence el plazo de prisión preventiva sin sentencia de primera instancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Permite solicitar tutela frente a restricciones indebidas de derechos, sin precisar los requisitos de cesación de prisión preventiva."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_283_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No explica un supuesto de libertad del imputado sujeto a prisión preventiva antes de concluir el juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,165 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija tiene 16 años y un hombre abusó de ella a la fuerza. ¿Se castiga igual que si fuera una mujer adulta o es otro delito distinto?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Para víctimas mayores de 14 años el hecho se califica como violación sexual por afectar la libertad sexual, no como violación de menor."
+    },
+    {
+     "query": "¿Cuántos años de cárcel le tocaron a un hombre que violó a una adolescente de entre 14 y 18 años en un caso que llegó hasta la Corte Suprema?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Corte Suprema condenó al agresor a 12 años de pena privativa de libertad por violación sexual con agravante."
+    },
+    {
+     "query": "Si una chica de 15 años tuvo relaciones porque ella quiso, ¿el chico igual va preso? No entiendo qué dice la ley con los adolescentes.",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Las relaciones voluntarias con adolescentes de 14 a 18 años no generan responsabilidad penal; la protección en ese grupo es la libertad sexual."
+    },
+    {
+     "query": "¿Por qué un juez puede cambiar el delito por el cual condenaron al agresor de una adolescente cuando el caso llega a una instancia más alta?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema puede revisar de oficio la calificación jurídica y corregirla, casando la sentencia anterior."
+    },
+    {
+     "query": "Cuando la víctima ya pasó los 14 años, ¿qué es lo que la ley busca proteger con el castigo al violador?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se protege la libertad sexual, es decir, la capacidad de decidir sobre el propio cuerpo, y no la indemnidad sexual."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi familiar desapareció a manos de agentes del Estado y nadie me dice qué pasó con él. ¿Tengo derecho a que me digan la verdad?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los familiares tienen derecho a la verdad sobre lo ocurrido y el Estado debe investigar y no negar información."
+    },
+    {
+     "query": "¿Hasta cuándo tiene que seguir investigando el Estado si todavía no sabemos qué pasó con mi pariente desaparecido?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe investigar mientras persista la incertidumbre sobre la suerte de la persona desaparecida."
+    },
+    {
+     "query": "Saber qué pasó con mi ser querido, ¿cuenta también como una forma de compensación para la familia además del dinero?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El derecho a la verdad es un medio de reparación para víctimas y familiares, junto con la investigación y sanción de responsables."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_301_01",
+   "skip": true,
+   "skip_reason": "Artículo técnico que solo remite a otro artículo sobre trámite de medidas; ninguna víctima haría una pregunta natural sobre él.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_258_01",
+   "skip": true,
+   "skip_reason": "Regla procesal interna sobre intervención de otros sujetos en el trámite de medidas ante el juez; no genera una pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_248_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Tengo miedo de declarar contra mi agresor porque sabe dónde vivo. ¿Qué pueden hacer para que no sepa quién soy ni dónde estoy?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se pueden reservar la identidad, el domicilio, el trabajo y otros datos del protegido, y ocultar su paradero."
+    },
+    {
+     "query": "Voy a ser testigo en un juicio y me están amenazando. ¿Puedo pedir que la policía me cuide?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Entre las medidas posibles está la protección policial, que el fiscal o juez dispone según el grado de riesgo."
+    },
+    {
+     "query": "¿Pueden mudarme a otro lugar o esconder dónde vivo si mi vida corre peligro por haber denunciado?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se puede disponer cambio de residencia y ocultación del paradero del protegido."
+    },
+    {
+     "query": "¿Se puede declarar sin tener al acusado enfrente, por pantalla o videollamada, para no sentirme en peligro?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se pueden usar videoconferencias u otros procedimientos tecnológicos, o impedir la identificación visual, si hay recursos."
+    },
+    {
+     "query": "Si mi vida y la de mis hijos corren un peligro gravísimo y nada más nos protege, ¿pueden ayudarnos a irnos a vivir a otro país?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "En caso de grave e inminente riesgo, se puede facilitar la salida del país con calidad migratoria que permita residir o trabajar."
+    },
+    {
+     "query": "No quiero que el acusado sepa mi dirección. ¿A dónde me pueden mandar las notificaciones del caso?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se puede fijar como domicilio la sede de la Fiscalía, que entrega las notificaciones de forma reservada."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi tío cobra dinero porque otros hombres abusan de mi prima de 15 años, aunque él no la toca. ¿Eso también es un delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien recibe un beneficio económico o de otra índole de la explotación sexual de un menor, sin participar en los actos, comete delito con pena de 10 a 15 años."
+    },
+    {
+     "query": "Mi hija adolescente dice que aceptó ir con esos hombres. ¿Su permiso evita que castiguen a quienes se aprovechan de ella?",
+     "topic": "violencia_sexual",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El consentimiento del adolescente no tiene efectos jurídicos."
+    },
+    {
+     "query": "¿Cuántos años de cárcel puede recibir alguien que gana dinero a costa de que un menor sea explotado sexualmente?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La pena base es de 10 a 15 años de prisión, con agravantes que la elevan hasta 20, 30 o más años."
+    },
+    {
+     "query": "Si el que se beneficia es el padrastro o el conviviente de la madre, ¿le dan más castigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si es familiar, cónyuge, conviviente, expareja o vive en el mismo domicilio, la pena es de 20 a 30 años."
+    },
+    {
+     "query": "¿La condena sube si la víctima tiene una discapacidad o es menor de 14 años?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La discapacidad, vulnerabilidad o ser menor de 14 años son agravantes con pena de 20 a 30 años."
+    },
+    {
+     "query": "¿Qué castigo reciben si la víctima muere o queda con daños graves en su salud por esa explotación?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "Si se causa la muerte o lesión grave física o mental, la pena es no menor de 35 años, además de inhabilitación."
+    }
+   ]
+  }
+ ]
+}

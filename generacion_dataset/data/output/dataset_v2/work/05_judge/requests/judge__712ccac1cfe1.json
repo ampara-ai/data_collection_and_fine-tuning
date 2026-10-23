@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__712ccac1cfe1",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"dev::chunk_tipo04_jp_00252_e0014_01::q01\",\n  \"question\": \"A mi hija la entrevistaron una sola vez en una sala especial con psicóloga. ¿Esa declaración sirve en el juicio o la anulan?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo04_jp_00252_e0014_01\",\n    \"title\": \"Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025\",\n    \"text\": \"Título: Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025\\nTipo de resolución: Acuerdo Plenario\\nProblema jurídico: ¿Tiene validez y eficacia probatoria la declaración de la víctima practicada bajo la técnica de entrevista única tomada en cámara Gesell que no haya sido actuada como prueba anticipada?\\nCriterio principal: Si la declaración de la víctima practicada bajo la técnica de Entrevista Única en cámara Gesell no fue actuada como prueba anticipada, resultará válida y con eficacia probatoria, si no se inobservó o lesionó garantías constitucionales ni derecho fundamental, y si en dicha diligencia se garantizó la participación del abogado defensor del imputado y bajo la conducción del representante del Ministerio Público, por lo que, la falta de dicha formalidad no implica su exclusión probatoria ni le resta valor probatorio, debiendo ser incorporada a través de la oralización y sometida al contradictorio del juicio oral.\\nRelevancia para violencia familiar: Relevante: trata sobre la validez de declaración de víctima en cámara Gesell bajo Ley 30364.\\nRelevancia procesal: Prueba anticipada, oralización, contradictorio.\\nNormas aplicables: Ley 30364 (Violencia contra la mujer) art(s). 28\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo04_jp_00252_e0014_01::q02\",\n  \"question\": \"Temo que mi relato grabado en la sala especial no cuente si no se hizo antes de tiempo como piden. ¿Aún lo toman en cuenta?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo04_jp_00252_e0014_01\",\n    \"title\": \"Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025\",\n    \"text\": \"Título: Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025\\nTipo de resolución: Acuerdo Plenario\\nProblema jurídico: ¿Tiene validez y eficacia probatoria la declaración de la víctima practicada bajo la técnica de entrevista única tomada en cámara Gesell que no haya sido actuada como prueba anticipada?\\nCriterio principal: Si la declaración de la víctima practicada bajo la técnica de Entrevista Única en cámara Gesell no fue actuada como prueba anticipada, resultará válida y con eficacia probatoria, si no se inobservó o lesionó garantías constitucionales ni derecho fundamental, y si en dicha diligencia se garantizó la participación del abogado defensor del imputado y bajo la conducción del representante del Ministerio Público, por lo que, la falta de dicha formalidad no implica su exclusión probatoria ni le resta valor probatorio, debiendo ser incorporada a través de la oralización y sometida al contradictorio del juicio oral.\\nRelevancia para violencia familiar: Relevante: trata sobre la validez de declaración de víctima en cámara Gesell bajo Ley 30364.\\nRelevancia procesal: Prueba anticipada, oralización, contradictorio.\\nNormas aplicables: Ley 30364 (Violencia contra la mujer) art(s). 28\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_409_01::q01\",\n  \"question\": \"Mi agresor fue sentenciado y ahora apeló. ¿Pueden aumentarle o bajarle la condena solo porque él pidió revisar el caso?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_409_01\",\n    \"title\": \"Artículo 409. Competencia del Tribunal Revisor\",\n    \"text\": \"1. La impugnación confiere al Tribunal competencia solamente para resolver la materia impugnada, así como para declarar la nulidad en caso de nulidades absolutas o sustanciales no advertidas por el impugnante.\\n2. Los errores de derecho en la fundamentación de la decisión recurrida que no hayan influido en la parte resolutiva no la anulará, pero serán corregidos. De igual manera se procederá en los casos de error material en la denominación o el cómputo de las penas.\\n3. La impugnación del Ministerio Público permitirá revocar o modificar la resolución aún a favor del imputado. La impugnación interpuesta exclusivamente por el imputado no permite modificación en su perjuicio.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_409_01::q02\",\n  \"question\": \"Si en la sentencia hubo un error de redacción pero la decisión final es correcta, ¿se cae todo el juicio contra mi pareja?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_409_01\",\n    \"title\": \"Artículo 409. Competencia del Tribunal Revisor\",\n    \"text\": \"1. La impugnación confiere al Tribunal competencia solamente para resolver la materia impugnada, así como para declarar la nulidad en caso de nulidades absolutas o sustanciales no advertidas por el impugnante.\\n2. Los errores de derecho en la fundamentación de la decisión recurrida que no hayan influido en la parte resolutiva no la anulará, pero serán corregidos. De igual manera se procederá en los casos de error material en la denominación o el cómputo de las penas.\\n3. La impugnación del Ministerio Público permitirá revocar o modificar la resolución aún a favor del imputado. La impugnación interpuesta exclusivamente por el imputado no permite modificación en su perjuicio.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "dev::chunk_tipo04_jp_00252_e0014_01::q01",
+     "chunk_tipo04_jp_00252_e0014_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo04_jp_00252_e0014_01::q02",
+     "chunk_tipo04_jp_00252_e0014_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_409_01::q01",
+     "chunk_tipo03_cpp_art_409_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_409_01::q02",
+     "chunk_tipo03_cpp_art_409_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__712ccac1cfe1.json"
+}

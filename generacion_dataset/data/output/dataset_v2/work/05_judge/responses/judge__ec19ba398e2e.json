@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona inconsciente, no responsabilidad estatal por falta de protección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Regula reparación civil junto con la pena, no responsabilidad estatal por omisión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_28_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Explica aplicación de ficha de riesgo y su evaluación judicial para medidas de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_28_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Exige actualizar la valoración de riesgo cuando cambian las circunstancias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

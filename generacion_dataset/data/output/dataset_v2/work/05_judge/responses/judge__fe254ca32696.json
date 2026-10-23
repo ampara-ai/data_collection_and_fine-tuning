@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la citación urgente a una entrevista Gesell, no la falta de citación de testigos de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata el valor de una manifestación policial sin fiscal ni abogado."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Expone nulidad por no asegurar testimonios esenciales de cargo, sin abordar la citación de testigos de defensa."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Exige verificar citaciones y concurrencia de testigos, pero no determina la nulidad por omitir testigos de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación de la intimidad."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite anular decisiones por vulneraciones al derecho a la prueba, dentro de un problema recursivo distinto."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "si",
+      "rationale": "Declara nula una condena por no citar testigos de descargo y vulnerar la igualdad de armas."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica la extorsión y sus agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Exige disponer la actuación oportuna de pruebas admitidas, sin resolver la nulidad por falta de citación."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula continuidad y suspensión del juicio, no la omisión de testigos de defensa."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Aporta principios de diligencia y protección de menores sin resolver el derecho a citar pruebas de descargo."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Regula alegatos fiscales y retiro de acusación, no citación de testigos."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ordena citar nuevamente a la agraviada, pero no explica la modalidad de su declaración ni su exposición pública."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "si",
+      "rationale": "Fija presupuestos de formalización y contenido de la disposición fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "si",
+      "rationale": "Establece plazos de investigación preparatoria y condiciones para sus prórrogas."
+    },
+    {
+      "dataset_id": "case::jp_00427_e0009::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "si",
+      "rationale": "Distingue la continuación de investigación y etapa intermedia del archivo provisional durante juicio por ausencia o contumacia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

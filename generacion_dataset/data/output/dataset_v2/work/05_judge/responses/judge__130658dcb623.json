@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica que un solo acto de insultos puede configurar agresión psicológica sin contacto físico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 189. Reconocimientos de personas no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 16-D. Investigación del delito no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 189.- Robo agravado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00199-2018-0 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo VIII.- Proporcionalidad de las sanciones no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 181. Examen pericial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 192. Objeto no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 371.- Negativa a colaborar con la administración de justicia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Conducta de víctima no indica consentimiento (Casación 539-2019, Junín) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15-C. Trámite de la denuncia presentada ante el juzgado de familia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 359. Concurrencia del Juez y de las partes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Contradicciones en declaración (Exp. 02162-2021-6) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 484. Audiencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 508-2019, Lima, ff. jj. 5, 8 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 87. Instrucciones preliminares no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica el maltrato psicológico sin lesión, pero no establece la suficiencia de pruebas para ir a juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 383. Lectura de la prueba documental no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Rechaza el sobreseimiento en ese supuesto por existir denuncia, declaración e informe psicológico suficientes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Señala que basta afectación psicológica sin exigir secuelas ni habitualidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0008_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "si",
+      "rationale": "Describe el caso y la decisión de desestimar el sobreseimiento y disponer el enjuiciamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

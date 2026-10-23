@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "si",
+      "rationale": "Establece ejecución provisional de la condena y la opción judicial de restricciones si el condenado estaba libre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_402_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "si",
+      "rationale": "Permite al juez optar por cárcel inmediata o restricciones mientras se resuelve el recurso según gravedad y fuga."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

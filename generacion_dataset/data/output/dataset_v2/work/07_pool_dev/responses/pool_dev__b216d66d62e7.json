@@ -1,0 +1,821 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 535. Prohibiciones» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "parcial",
+      "rationale": "Protege penalmente la intimidad, pero no establece la reserva procesal de la identidad de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente la preservación de la identidad y reserva de las actuaciones en casos de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona revelar intimidad conocida por trabajo o confianza, sin regular la reserva de identidad en el proceso."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 63.- Efectos de la Reserva de Fallo Condenatorio» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 03-2007, Huaura» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la afectación de la vida privada y la revictimización, pero no dispone la reserva del nombre."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "parcial",
+      "rationale": "Establece la reserva de la investigación, pero no la protección específica del nombre de la víctima."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 72. Identificación del imputado» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 165. Abstención para rendir testimonio» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Denuncia tardía resta fuerza (RN 2150-2015, Cusco)» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 205. Control de identidad policial» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-C.- Explotación sexual» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "parcial",
+      "rationale": "Exige autorización fiscal para informar a la prensa sobre víctimas, sin garantizar por sí solo la reserva de identidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Impide imágenes identificables y regula protección adicional bajo condiciones de riesgo, sin establecer reserva general por abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 170.- Violación sexual» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-G.- Gestión de la explotación sexual» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-F.- Beneficio p or explotación sexual» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 118. Juramento» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Prevé la reserva de identidad y datos personales, con claves y medidas para evitar identificar al protegido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Rigurosidad en declaración (RN 3175-2015, Lima Sur)» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_236_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 236. Levantamiento de la reserva tributaria» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso J. vs. Perú (Corte IDH 2013)» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Retractación notarial sin valor (RN 1179-2019, Lima)» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no permite establecer la reserva de identidad de la víctima de abuso sexual."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 263. Deberes de la autoridad policial» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Exige entrevista única en un ambiente privado y seguro, pero no establece el acompañamiento de una persona de confianza."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_456_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 456. Instauración del proceso de seguridad» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 133. Exhortos a autoridades extranjeras» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 512. Autoridad Central» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 205. Control de identidad policial» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza personal especializado y un ambiente que resguarde dignidad e intimidad, sin precisar quién puede acompañar a la niña."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 174.- Violación de persona bajo autoridad o vigilancia» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo IX.- Fines de la Pena y Medidas de Seguridad» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 28. Valoración del riesgo» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 247. Personas destinatarias de las medidas de protección» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 603-2019, Piura, ff. jj. 2-3» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Estado debe ofrecer medidas de protección eficaces en la práctica [Volodina vs. Rusia]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 189. Reconocimientos de personas» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 559. Plazo de la detención y libertad provisional» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige reforzar las medidas de protección de niñas víctimas, pero no concreta el acompañamiento durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 533. Traslado al extranjero de persona privada de libertad» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 25. Protección de las víctimas en las actuaciones de investigación» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 70. Prohibición de informar» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 89. Tratamiento y pluralidad de imputados» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 2451-2022, Cajamarca» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 211. Examen corporal del imputado» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige brindar soporte psicológico a la menor durante un interrogatorio que afecta su serenidad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 216. Desarrollo de la diligencia» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 813-2022, Madre de Dios» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 210. Registro de personas» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 178-2024, Tumbes, f. j. 12» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-A.- Trata de personas» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Declaración víctima prueba directa (Apelación 41-2023)» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_95_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no permite establecer el acompañamiento de la niña durante su declaración."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 367. Concurrencia del imputado y su defensor» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 469. Proceso con pluralidad de hechos punibles e imputados» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "si",
+      "rationale": "Aclara que el juicio sigue sin el actor civil, pero este puede ser emplazado a comparecer para declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 87. Instrucciones preliminares» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 423. Emplazamiento para la audiencia de apelación» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205)» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 48. Acumulación de oficio o a pedido de parte» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 370. Ubicación de las partes en la audiencia» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 88. Desarrollo de la declaración» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 182. Procedencia» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "si",
+      "rationale": "Establece la comparecencia del testigo citado y la conducción compulsiva ante su inasistencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 194. Participación de testigos y peritos» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se cita a las víctimas, pero no si constituirse en actor civil altera el deber de declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este)» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 384. Trámite de la oralización» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 86. Momento y carácter de la declaración» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Explica la constitución del perjudicado como actor civil, sin precisar su deber de declarar."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 26. Certificados e informes médicos» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 371. Apertura del juicio y posición de las partes» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que no se debe exigir a víctimas de violencia sexual repetir innecesariamente su relato, sin resolver el deber general del actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 473-A. Participación del agraviado» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El derecho a la verdad constituye un medio de reparación para las víctimas y sus familiares [Bámaca Velásquez vs. Guatemala]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 92.- La reparación civil: Oportunidad de su determinación» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 380. Examen especial del testigo o perito» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 216. Desarrollo de la diligencia» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 111. Citación a personas que tengan responsabilidad civil» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 205.- Daño simple» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 497. Regla general, excepción y recurso» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 211. Examen corporal del imputado» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 13. Desistimiento» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RFN 3963-2016-MP-FN Daño Psíquico» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "si",
+      "rationale": "Impone a toda persona citada como testigo el deber de concurrir y declarar con verdad."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 113. Derechos y garantías del tercero civil» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 504. Incidentes de ejecución y recursos» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 484. Audiencia» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 483. Iniciación» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_112_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 112. Trámite» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_96_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua]» no permite resolver el deber de comparecer y declarar de la víctima constituida en actor civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

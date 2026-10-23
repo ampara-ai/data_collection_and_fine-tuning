@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_381_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "si",
+      "rationale": "Permite examinar al testigo impedido en el lugar donde se encuentra."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_381_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "si",
+      "rationale": "Prevé videoconferencia para testigos ubicados en un lugar distinto al del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_381_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "si",
+      "rationale": "Contempla la representación e intervención de los abogados en estas diligencias especiales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

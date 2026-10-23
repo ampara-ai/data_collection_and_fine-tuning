@@ -1,0 +1,98 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_454_01",
+   "skip": true,
+   "skip_reason": "Regla de competencia sobre delitos de función de jueces y fiscales; ninguna víctima la preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_189_01",
+   "skip": true,
+   "skip_reason": "Robo agravado sin relación con violencia familiar y de contenido de pena general; no genera pregunta natural de una víctima.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_423_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico interno de la audiencia de apelación (asistencia de partes e inadmisibilidad).",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_180_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El médico legal dio un resultado que no refleja mi daño real. ¿Puedo presentar otra evaluación hecha por mi cuenta?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Existe el informe pericial de parte; si discrepa, se pone en conocimiento del perito oficial para que responda en cinco días."
+    },
+    {
+     "query": "El informe de las lesiones de mi hija quedó incompleto. ¿Se puede pedir que lo amplíen o lo haga otro profesional?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si el informe oficial es insuficiente se ordena ampliación por el mismo perito o nombra otro para uno nuevo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mataron a mi hermana y su amante dijo primero que ni la conocía. ¿Con esa mentira ya basta para sentenciarlo?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La mentira del acusado para excluir sospechas no es indicio suficiente de culpabilidad."
+    },
+    {
+     "query": "Nadie vio cuando asesinaron a esa mujer. ¿Pueden meter preso al sospechoso porque tenía razones para hacerlo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El móvil es indicio complementario pero insuficiente; se requiere un dato externo que ubique al acusado en el lugar o referencia fiable."
+    },
+    {
+     "query": "Si el sospechoso demuestra con testigos que estaba en otra ciudad, ¿puede quedar libre aunque haya mentido antes?",
+     "topic": "procedimiento_penal",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Con coartada corroborada y sin prueba fiable, suficiente y corroborada, se anula la condena y se absuelve."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Me pegaron y me curaron en la posta del barrio. ¿La hoja que me dio el doctor vale como prueba o debo ir a otro lado?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Los certificados de establecimientos públicos y privados autorizados tienen valor probatorio en estos procesos."
+    },
+    {
+     "query": "¿Tengo que pagar por el examen médico para probar el maltrato que sufrí?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "En el sector público la consulta, el certificado y los exámenes son gratuitos."
+    },
+    {
+     "query": "¿El psicólogo que me atiende tendrá que ir a declarar otra vez para que mi evaluación valga?",
+     "topic": "violencia_psicologica",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "No se requiere ratificación pericial; los informes psicológicos de los centros especializados valen sin presencia del profesional."
+    },
+    {
+     "query": "Si no tengo ningún certificado de lo que me hicieron, ¿alguien puede conseguir constancias de donde me atendieron?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Fiscalía o juzgado de paz pueden solicitar informes o constancias a los establecimientos de salud que atendieron a la víctima."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

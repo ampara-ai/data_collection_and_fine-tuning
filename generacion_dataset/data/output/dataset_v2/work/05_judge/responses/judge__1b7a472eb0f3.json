@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00462_e0003::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "si",
+      "rationale": "Dispone la conducción compulsiva del testigo oportunamente citado que no comparece."
+    },
+    {
+      "dataset_id": "case::jp_00462_e0003::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "si",
+      "rationale": "Tipifica los tocamientos a menores de catorce años sin acceso carnal y fija una pena de nueve a quince años."
+    },
+    {
+      "dataset_id": "case::jp_00462_e0003::q03",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "si",
+      "rationale": "Establece sanciones para el testigo legalmente requerido que se niega a comparecer o declarar."
+    },
+    {
+      "dataset_id": "case::jp_00462_e0003::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "si",
+      "rationale": "Dispone la conducción compulsiva del testigo oportunamente citado que no comparece."
+    },
+    {
+      "dataset_id": "case::jp_00462_e0003::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Describe la apertura del juicio y el orden de intervención del fiscal y de las defensas."
+    },
+    {
+      "dataset_id": "case::jp_00462_e0003::q05",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "si",
+      "rationale": "Anula la absolución y ordena nuevo juicio por no agotar la conducción de una testigo esencial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0022_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 432. Competencia aporta contexto relacionado, pero no contiene la información central consultada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

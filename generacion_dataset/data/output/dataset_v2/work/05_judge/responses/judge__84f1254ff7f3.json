@@ -1,0 +1,209 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_493_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "si",
+      "rationale": "Remite la ejecución de la reparación civil a las reglas civiles con intervención del fiscal y el actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_493_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "si",
+      "rationale": "Fija tres días para resolver los incidentes de ejecución, previa audiencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_493_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "si",
+      "rationale": "Permite apelar la resolución que resuelve el incidente de ejecución de la reparación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_493_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "si",
+      "rationale": "Contempla la ejecución forzosa del pago de multas conforme a las normas procesales civiles."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_493_01::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente la intervención del fiscal provincial y del actor civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza sustituir automáticamente la prisión preventiva por la sola condición de padre."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 79. Contumacia y Ausencia y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 271. Audiencia y resolución y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "parcial",
+      "rationale": "Regula motivos de detención domiciliaria, sin resolver el efecto de tener hijos sobre la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 419.- Detención ilegal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige una ponderación concreta y descarta que tener un hijo baste para evitar la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 284. Impugnación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 295-2019, Cusco y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el interés superior del niño y la proporcionalidad, sin determinar si la paternidad basta para evitar prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar la afectación directa al menor y ponderarla con los otros principios aplicables."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Regula la anulación y decisión en casación de forma general, sin abordar específicamente la comparecencia del caso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 36. Inhabilitación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "parcial",
+      "rationale": "Permite revocar restricciones por incumplimiento, supuesto diferente de la anulación por un tribunal superior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_278_01",
+      "relevance": "parcial",
+      "rationale": "Regula la apelación y nulidad de prisión preventiva, sin explicar la revisión de la comparecencia acordada por la Sala."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Casación 1442-2022, Puno y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto aborda El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 66.- Revocación del régimen de prueba y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Describe la anulación de la comparecencia restringida y la confirmación de la prisión preventiva."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 2. Principios rectores y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 485. Medidas de coerción y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo IX.- Fines de la Pena y Medidas de Seguridad y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto aborda No tiene valor probatorio la retractación de la víctima ante un psicólogo [Casación 1868-2018, Ucayali] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00285_e0007_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "si",
+      "rationale": "Descarta la libertad automática por paternidad y exige una ponderación justificada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

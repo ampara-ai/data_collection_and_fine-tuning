@@ -1,0 +1,83 @@
+{
+ "questions": [
+  {
+   "query": "Mi profesor, que es mucho mayor que yo, me dio cerveza hasta que casi no me podía sostener y luego abusó de mí mientras dormía. ¿Eso es violación aunque no me defendí?",
+   "topic": "identificacion_delito",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_171_01"
+   ],
+   "positive_selection_reason": "El art. 171 tipifica el acceso carnal tras poner a la persona en estado de inconsciencia o en imposibilidad de resistir, que es exactamente el hecho del caso (alcohol, sueño, despertar con el agresor encima).",
+   "expected_answer_focus": "Que tener relaciones con una persona a la que se ha dejado inconsciente o incapaz de resistirse es delito de violación y tiene pena propia, sin exigir que la víctima se haya defendido.",
+   "victim_voice_rationale": "La víctima duda si lo ocurrido cuenta como violación al no haber podido resistirse."
+  },
+  {
+   "query": "El hombre que abusó de mi hija de 17 años es su profesor de danza. ¿El hecho de que sea su maestro hace que le den más años de cárcel?",
+   "topic": "sancion_penal_al_agresor",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 170 contempla agravantes cuando el agente es docente del centro donde estudia la víctima, abusa de su oficio o de la confianza depositada, y cuando la víctima tiene entre 14 y 18 años.",
+   "expected_answer_focus": "Que la ley aumenta la pena cuando el agresor es docente o se aprovecha de la confianza y cuando la víctima es adolescente de 14 a menos de 18 años.",
+   "victim_voice_rationale": "Una madre o padre quiere saber si la posición de autoridad del agresor agrava su responsabilidad."
+  },
+  {
+   "query": "Tomamos alcohol juntos y desperté con él encima de mí. Tengo miedo de que digan que yo lo permití por haber bebido. ¿Qué dice la ley si no pude reaccionar?",
+   "topic": "identificacion_delito",
+   "barrier": "verguenza",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_171_01",
+    "chunk_tipo02_cp_art_170_01"
+   ],
+   "positive_selection_reason": "El art. 171 cubre la imposibilidad de resistir y el art. 170 el aprovechamiento de un entorno que impide dar libre consentimiento; ambos sustentan que haber bebido o no poder reaccionar no equivale a consentir.",
+   "expected_answer_focus": "Que la ley castiga el acto sexual cuando la persona no puede resistir o no puede dar libre consentimiento, y que el agresor no queda libre por el alcohol o la falta de resistencia.",
+   "victim_voice_rationale": "Expresa miedo a ser culpada por haber bebido y no haberse defendido."
+  },
+  {
+   "query": "El juez absolvió al hombre que abusó de mí diciendo que yo pude haberme resistido. ¿Se puede conseguir que repitan el juicio? Siento que no me creyeron.",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0079_01"
+   ],
+   "positive_selection_reason": "La sentencia declara nula la absolución por no aplicar enfoque de género y ordena un nuevo fallo, respondiendo directamente si se puede repetir el juicio y cómo se evalúan los estereotipos.",
+   "expected_answer_focus": "Que una absolución basada en estereotipos o sin enfoque de género puede anularse en apelación y ordenarse un nuevo juzgamiento con perspectiva de género.",
+   "victim_voice_rationale": "La víctima desconfía del sistema tras una absolución y quiere saber si hay remedio."
+  },
+  {
+   "query": "Me da miedo denunciar porque en el juicio me van a juzgar a mí por vivir sola lejos de mi familia. ¿Los jueces deben tomar en cuenta mi situación?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00138_e0079_01"
+   ],
+   "positive_selection_reason": "La sentencia señala que los jueces están obligados a aplicar el protocolo de género y que omitir la vulnerabilidad de la víctima perpetúa la discriminación y afecta su acceso a la justicia.",
+   "expected_answer_focus": "Que los jueces deben considerar la vulnerabilidad y el contexto de la víctima aplicando el enfoque de género, y que no hacerlo puede anular la sentencia.",
+   "victim_voice_rationale": "Teme ser juzgada por su condición y quiere saber si el tribunal debe valorar su contexto."
+  },
+  {
+   "query": "Si condenan al profesor que abusó de mí, ¿también tiene que pagarme algo por el daño? ¿Y hasta cuándo debe cumplirlo?",
+   "topic": "reparacion_civil",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_92_01"
+   ],
+   "positive_selection_reason": "El art. 92 establece que la reparación civil se fija junto con la pena, es derecho de la víctima y el juez garantiza su cumplimiento mientras dure la condena.",
+   "expected_answer_focus": "Que la reparación se decide junto con la pena, es un derecho de la víctima y el juez debe garantizar que se cumpla durante la condena.",
+   "victim_voice_rationale": "Pregunta por la compensación económica y su cumplimiento tras una condena."
+  },
+  {
+   "query": "Una amiga me acostó en la cama de él cuando estaba mareada. ¿Ella también tiene responsabilidad, o solo el que abusó de mí?",
+   "topic": "procedimiento_penal",
+   "barrier": "duda_si_es_delito",
+   "positive_candidate_ids": [
+    "chunk_tipo02_cp_art_25_01",
+    "chunk_tipo02_cp_art_23autor_01"
+   ],
+   "positive_selection_reason": "Los arts. 23 y 25 distinguen entre quien realiza el hecho (autor) y quien presta auxilio doloso (cómplice), lo que permite orientar sobre la responsabilidad de terceros que intervienen.",
+   "expected_answer_focus": "Que el autor es quien realiza el hecho y que quien dolosamente presta auxilio puede responder como cómplice, dependiendo de si actuó con intención y de su aporte.",
+   "victim_voice_rationale": "Se pregunta si la persona que la acostó tiene alguna responsabilidad."
+  }
+ ]
+}

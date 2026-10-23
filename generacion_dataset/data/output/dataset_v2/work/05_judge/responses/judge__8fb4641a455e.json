@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0008_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro sin analizar responsabilidad estatal por falta de protección."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0008_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "si",
+      "rationale": "Describe pérdida y manejo deficiente de evidencia y vincula la investigación ineficaz con discriminación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

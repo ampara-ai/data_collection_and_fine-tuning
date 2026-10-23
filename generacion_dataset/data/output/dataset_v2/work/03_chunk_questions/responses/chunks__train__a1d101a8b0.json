@@ -1,0 +1,141 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_203_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si la policía actuó de urgencia contra mi agresor sin orden de un juez, ¿alguien tiene que revisar después que eso estuvo bien hecho?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Cuando la Policía o la Fiscalía restringen derechos por urgencia sin orden judicial, el Fiscal debe pedir de inmediato que un juez lo confirme."
+    },
+    {
+     "query": "¿En cuánto tiempo un juez decide si aprueba lo que la policía hizo de urgencia contra la persona denunciada?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juez decide el mismo día o, a más tardar, al día siguiente, confirmando o rechazando la medida ejecutada."
+    },
+    {
+     "query": "El fiscal pidió una restricción contra mi expareja. ¿El juez puede aceptarla sin explicar sus motivos?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El pedido del fiscal y la resolución del juez deben estar motivados y sustentados, con proporcionalidad y suficientes elementos."
+    },
+    {
+     "query": "¿El acusado puede enterarse antes de que el juez decida sobre una medida que lo afecta, o se resuelve sin avisarle?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez suele decidir de inmediato sin trámite, pero si no hay riesgo de que la medida pierda su finalidad debe avisar antes a las partes, en especial al afectado; puede además convocar a una audiencia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_39-a_01",
+   "skip": true,
+   "skip_reason": "Texto administrativo sobre obligaciones de autoridades regionales y municipales de crear e instalar instancias de concertación; ninguna víctima lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_215_01",
+   "skip": true,
+   "skip_reason": "Trata del delito de cheques sin fondos, que no guarda relación con la violencia contra las mujeres o el grupo familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a un hombre por abusar de mi hija menor y la fiscalía lo soltó sin saber quién era. ¿Podía el fiscal retenerlo?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El fiscal no tiene facultad legal para retener a alguien con fines de identificación; solo la Policía puede hacerlo, por lo que liberarlo no fue ilegal."
+    },
+    {
+     "query": "¿Quién puede detener a una persona unas horas solo para averiguar su identidad, la policía o el fiscal?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Solo la Policía puede hacer el control de identidad y retener a la persona hasta cuatro horas; el fiscal no."
+    },
+    {
+     "query": "¿Cuánto tiempo puede la policía mantener a un sospechoso hasta confirmar quién es?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Policía puede retener a una persona hasta cuatro horas para identificarla."
+    },
+    {
+     "query": "Si una fiscal deja ir a un denunciado por violación sin identificarlo, ¿ella comete delito por ayudarlo a escapar?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La fiscal fue absuelta de encubrimiento personal: no podía retenerlo legalmente y no se probó la intención de ayudarlo."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja mandó a su hermano a golpearme para no ensuciarse las manos. ¿Se le castiga a mi pareja igual que si lo hubiera hecho él?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Quien comete el delito por medio de otra persona recibe la misma pena que establece la ley para ese delito."
+    },
+    {
+     "query": "Me agredieron dos personas al mismo tiempo. ¿Les corresponde el mismo castigo a los dos o solo al que me pegó más?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Quienes cometen el hecho conjuntamente son sancionados con la pena establecida para esa infracción."
+    },
+    {
+     "query": "¿Es culpable también quien ayuda a otro a cometer el abuso, aunque no sea el que me lo hizo directamente?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Se sanciona como autor tanto a quien realiza el hecho por sí mismo como a quien lo hace por medio de otro o junto con otros."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Existe una lista oficial donde figuren los hombres condenados por violencia, y puedo consultarla yo sin ser abogada?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Registro Nacional de Condenas incluye a los sentenciados por violencia y cualquier persona puede consultarlo sin restricción, siguiendo el procedimiento."
+    },
+    {
+     "query": "Si ya denuncié antes a mi pareja en otra oficina, ¿queda guardado para que me atiendan mejor en otras instituciones?",
+     "topic": "canales_denuncia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El registro único consigna datos de víctima y agresor, denuncias anteriores y atención en salud, para facilitar la atención en las distintas instituciones."
+    },
+    {
+     "query": "¿Para qué sirve que el Estado tenga una base de datos con las víctimas y los agresores de violencia?",
+     "topic": "otro",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El registro brinda información a jueces y entidades para decidir cómo prevenir, sancionar y erradicar la violencia, y orientar la acción preventiva e investigadora."
+    },
+    {
+     "query": "¿Qué instituciones se encargan de llevar el registro de los casos de violencia contra mujeres y familiares?",
+     "topic": "otro",
+     "barrier": "otro",
+     "expected_answer_focus": "Lo lleva el Ministerio Público en coordinación con la Policía, el INPE, el Poder Judicial, Salud y el Ministerio de la Mujer."
+    },
+    {
+     "query": "¿El registro de víctimas y agresores es lo mismo que el de personas ya sentenciadas por violencia?",
+     "topic": "otro",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Son registros diferentes: el de condenas solo incluye a quienes tienen sentencia condenatoria consentida o ejecutoriada."
+    }
+   ]
+  }
+ ]
+}

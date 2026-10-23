@@ -1,0 +1,815 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo02_cp_art_5_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No determina el lugar de comisión de amenazas enviadas por mensajes entre ciudades distintas."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Permite que el juicio continúe sin el tercero civil, pero no determina la responsabilidad de la empresa propietaria del vehículo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce al tercero civil y su interés en la reparación patrimonial, pero no establece cuándo responde la empresa ni el efecto de su inasistencia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_96_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_347_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No establece la obligación civil de la empresa propietaria del vehículo ni su responsabilidad pese a no asistir al juicio."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "parcial",
+      "rationale": "Prevé pagos anticipados a cargo del tercero civil, sin establecer que una aseguradora pueda ser incorporada como responsable."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a la reparación civil y su cumplimiento, sin determinar la obligación de una aseguradora."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién puede reclamar reparación en el proceso penal, pero no contra qué aseguradora puede exigirse."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_113_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No determina si una aseguradora puede ser obligada a cubrir la reparación civil por los hechos del agresor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

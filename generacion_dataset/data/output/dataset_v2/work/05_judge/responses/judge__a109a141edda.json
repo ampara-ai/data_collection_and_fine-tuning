@@ -1,0 +1,185 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00390_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Permite iniciar de oficio la investigación policial de delitos públicos al conocer su comisión."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Atribuye al Ministerio Público el ejercicio de oficio de la acción penal pública."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q03",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona la trivialización y el archivo de violencia doméstica, pero no determina la tipificación de un solo golpe."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Examina la validez de la confesión sincera del imputado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "Enumera consecuencias de la pena de inhabilitación."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la facultad de denunciar y ciertas obligaciones de denuncia, sin establecer el deber de investigar lo ya denunciado."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Ordena iniciar investigación policial ante la sospecha de delito conocida por denuncia o de oficio."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula técnicas especiales para bandas, organizaciones criminales y otros delitos específicos."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber de investigar con enfoque de género en un caso de desaparición y muerte, sin tratar la remisión a reconciliarse."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula el proceso por faltas y no la investigación de violencia de pareja denunciada."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula solicitudes y acuerdos de colaboración eficaz."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a valorar el riesgo en denuncias de violencia, sin desarrollar la investigación penal de los hechos."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula plazos y control de la detención."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "Trata el deber específico de investigar tortura y violencia sexual estatal, no la denuncia de violencia de pareja planteada."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece la obligación de realizar una investigación efectiva de la violencia doméstica."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Establece agravantes de delitos relativos a migrantes."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q04",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "si",
+      "rationale": "Condena la falta de investigación de denuncias reiteradas y los intentos oficiales de reconciliación."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual sin regular la denuncia por terceros."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "si",
+      "rationale": "Permite que cualquier persona denuncie en favor de la víctima sin representarla."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula comunicación judicial de delitos descubiertos durante otro juicio."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Delimita el acceso carnal en delitos sexuales contra menores."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "Fija requisitos de la querella particular, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "Describe las funciones de investigación fiscal y policial sin precisar quién puede denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Tipifica la extorsión y sus agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "si",
+      "rationale": "Permite promover la acción penal pública a instancia de cualquier persona."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "Analiza la calificación de violencia extrema como tortura sin regular denuncias de terceros."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "Regula la incautación de documentos privados."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección frente al riesgo, sin precisar la legitimación para denunciar."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata mecanismos de denuncia de violencia obstétrica, sin resolver la actuación de una vecina."
+    },
+    {
+      "dataset_id": "case::jp_00390_e0008::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "Regula la investigación preliminar en una querella privada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 404. Facultad de recurrir» y no aporta información para resolver la obligatoriedad de un acuerdo con el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 404.- Encubrimiento personal» y no aporta información para resolver la obligatoriedad de un acuerdo con el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 152.- Secuestro» y no aporta información para resolver la obligatoriedad de un acuerdo con el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 92.- La reparación civil: Oportunidad de su determinación» y no aporta información para resolver la obligatoriedad de un acuerdo con el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» y no aporta información para resolver la obligatoriedad de un acuerdo con el fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 80.- Plazos de prescripción de la acción penal» y no aporta información para resolver el acuerdo de pago en la primera audiencia del proceso inmediato."
+    },
+    {
+      "dataset_id": "case::jp_00196_e0008::q03",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El chunk trata de «Artículo 174.- Violación de persona bajo autoridad o vigilancia» y no aporta información para resolver el acuerdo de pago en la primera audiencia del proceso inmediato."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

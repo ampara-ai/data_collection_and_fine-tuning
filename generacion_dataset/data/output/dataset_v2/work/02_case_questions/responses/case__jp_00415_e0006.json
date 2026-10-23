@@ -1,0 +1,49 @@
+{
+ "questions": [
+  {
+   "query": "Dejaron libres a los que mataron a mi madre y el fiscal calló; yo reclamé, ¿pueden dejar sin efecto esa libertad?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00415_e0006_01"
+   ],
+   "positive_selection_reason": "La sentencia decide que el tribunal superior puede anular una absolución pese a la conformidad del fiscal superior.",
+   "expected_answer_focus": "Que la víctima puede lograr la nulidad por falta de motivación aunque el fiscal esté de acuerdo.",
+   "victim_voice_rationale": "Familiar de víctima que teme quedar sin justicia por pasividad del fiscal."
+  },
+  {
+   "query": "Si el fiscal no quiere seguir con mi denuncia, ¿yo como familiar puedo exigir que se investigue el delito?",
+   "topic": "canales_denuncia",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_1_01"
+   ],
+   "positive_selection_reason": "El artículo señala que la acción penal pública la ejerce el fiscal de oficio o por instancia del agraviado o de cualquier persona.",
+   "expected_answer_focus": "Que el agraviado o cualquier persona puede promover la acción penal en delitos públicos.",
+   "victim_voice_rationale": "Duda de quién puede impulsar una denuncia."
+  },
+  {
+   "query": "Presenté a una vecina que vio todo y el juez dijo que no la quería escuchar; ¿puedo reclamar ante otro juez?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_352_01"
+   ],
+   "positive_selection_reason": "El artículo indica que lo resuelto sobre admisión de pruebas en la audiencia previa no se puede recurrir.",
+   "expected_answer_focus": "Que la decisión sobre admisión de medios de prueba no es recurrible y qué requisitos se exigen.",
+   "victim_voice_rationale": "Víctima preocupada por que no se escuche su prueba."
+  },
+  {
+   "query": "A la fiscalía le pareció bien que liberaran a los que mataron a mi madre, ¿mi familia puede seguir peleando sola?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "desconfianza_sistema",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00415_e0006_01"
+   ],
+   "positive_selection_reason": "La sentencia reconoce el derecho de la víctima a impugnar frente a la conformidad fiscal.",
+   "expected_answer_focus": "Que la familia puede impugnar y el tribunal puede revisar aunque el fiscal no apele.",
+   "victim_voice_rationale": "Familia que se siente abandonada por el fiscal."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

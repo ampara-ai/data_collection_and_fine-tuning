@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_200_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 54. Requisitos de la recusación» no aporta la información necesaria para resolver esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0061_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre «Artículo 10. Indicios de delitos en proceso extra – penal» no aporta la información necesaria para resolver esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

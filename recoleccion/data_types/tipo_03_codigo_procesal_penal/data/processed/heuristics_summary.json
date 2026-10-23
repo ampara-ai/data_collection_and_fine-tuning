@@ -1,7 +1,16 @@
 {
-  "total_articles": 467,
-  "candidate_strong": 170,
-  "candidate_medium": 79,
-  "candidate_weak": 34,
-  "discarded": 184
+  "total_articles": 597,
+  "candidate_strong": 209,
+  "candidate_medium": 105,
+  "candidate_weak": 62,
+  "discarded": 221,
+  "coverage": {
+    "total_articles": 597,
+    "numeric_articles": 566,
+    "non_numeric_or_inserted_articles": 31,
+    "first_numeric_article": 1,
+    "last_numeric_article": 566,
+    "missing_numeric_articles": [],
+    "duplicate_article_ids": []
+  }
 }

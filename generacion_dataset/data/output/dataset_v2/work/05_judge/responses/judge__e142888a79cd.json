@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_336_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula la terminación anticipada posterior a la formalización, no los requisitos para iniciar formalmente la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

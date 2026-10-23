@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la falta de búsqueda inmediata como una deficiencia, pero no desarrolla el deber ni el plazo de búsqueda."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige investigar con enfoque de género y cuestiona tratar la muerte como un homicidio sin contexto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0010_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona fallas probatorias con la debida diligencia, pero no concreta qué solicitar ante la pérdida de evidencias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

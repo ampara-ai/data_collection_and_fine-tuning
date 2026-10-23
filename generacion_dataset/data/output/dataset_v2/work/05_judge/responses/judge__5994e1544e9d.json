@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "No regula los límites para aumentar o reducir una condena cuando los condenados recurren."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "No regula los límites para aumentar o reducir una condena cuando los condenados recurren."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00122_e0013_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No regula los límites para aumentar o reducir una condena cuando los condenados recurren."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0082_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No establece el deber judicial de prescindir de estereotipos sobre la vestimenta o conducta de la mujer."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

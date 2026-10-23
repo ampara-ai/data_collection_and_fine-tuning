@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Descarta presumir consentimiento por la conducta sexual anterior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Prohíbe inferir consentimiento del silencio o falta de resistencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige consentimiento libre y excluye el obtenido mediante amenazas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Descarta inferir disponibilidad sexual de la conducta posterior."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0007_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Prohíbe usar estereotipos de conducta anterior o posterior para presumir consentimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

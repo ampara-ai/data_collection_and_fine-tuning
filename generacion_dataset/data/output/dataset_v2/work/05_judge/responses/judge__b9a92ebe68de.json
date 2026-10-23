@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar la dependencia económica y afectiva como explicación de la falta de incriminación inicial."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo04_jp_00138_e0035_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "si",
+      "rationale": "Identifica testimonios, informes periciales y psicológicos e indicios como pruebas que deben valorarse sin exigir declaración previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_11_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "si",
+      "rationale": "Prohíbe el despido por causas relacionadas con violencia y reconoce justificación de inasistencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_11_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Precisa los límites de días y documentos para justificar ausencias, pero no garantiza que sean sin descuento salarial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

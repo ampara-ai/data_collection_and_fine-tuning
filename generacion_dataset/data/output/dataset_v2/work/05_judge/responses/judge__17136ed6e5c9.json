@@ -1,0 +1,41 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0010::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "Define quiénes son funcionarios públicos sin establecer el deber de asistencia consultado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "Regula el cohecho y no la protección de la ubicación de la víctima."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "Regula administración fraudulenta de personas jurídicas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce competencia judicial para medidas de protección, pero no precisa reserva de ubicación ni traslado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio, no detención sin flagrancia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0010::q05",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula el error culturalmente condicionado, no la detención."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

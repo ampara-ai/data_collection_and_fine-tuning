@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "si",
+      "rationale": "Obliga a evitar fotografías que identifiquen a las personas protegidas y retirar el material correspondiente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 481-A. Utilidad de la información en otros procesos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 324. Reserva y secreto de la investigación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 165. Abstención para rendir testimonio y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 50.- Concurso real de delitos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Gonzáles y otros vs. México, f.j. 401 y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Directiva 001-2014-CE-PJ y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Prevé alejamiento y otras medidas de protección, pero no un ambiente de espera reservado en el juzgado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Violencia sexual: líneas de investigación deben estar orientadas a evitar la revictimización [Fernández Ortega y otros vs. México] y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "si",
+      "rationale": "Prevé un ambiente reservado de uso exclusivo y custodiado para esperar la declaración."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 187.- Hurto de uso y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 206.- Formas agravadas y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 273. Libertad del imputado y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "si",
+      "rationale": "Autoriza al fiscal a mantener la protección después del proceso si persiste el peligro grave."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce medidas de protección frente al riesgo, sin regular su continuidad una vez finalizado el proceso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 10. Indicios de delitos en proceso extra – penal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber estatal de proteger ante riesgo inmediato, sin regular la protección después del juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 24. Incumplimiento de medidas de protección y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 356. Principios del Juicio y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluar continuamente el riesgo antes de levantar medidas, pero no regula expresamente el final del proceso penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-Ñ.- Esclavitud y otras formas de explotación y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 463. Medidas de coerción personal y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 274. Prolongación de la prisión preventiva y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto aborda Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes y no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_249_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "si",
+      "rationale": "Prevé facilitar vehículos adecuados para el traslado de las personas protegidas a las diligencias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

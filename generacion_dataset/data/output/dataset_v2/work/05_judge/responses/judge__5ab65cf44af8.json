@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_394_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "si",
+      "rationale": "Sanciona solicitar ventajas indebidas para realizar actos propios del cargo sin faltar a la obligación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "si",
+      "rationale": "Establece pena e inhabilitación por aceptar una ventaja indebida incluso después del acto funcional."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_394_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "si",
+      "rationale": "Tipifica la solicitud directa o indirecta de ventajas indebidas por actos propios del cargo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

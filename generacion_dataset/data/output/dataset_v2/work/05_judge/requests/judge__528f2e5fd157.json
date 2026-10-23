@@ -1,0 +1,38 @@
+{
+ "task_id": "judge__528f2e5fd157",
+ "system": "Eres un juez de relevancia para un sistema de recuperación (RAG) sobre violencia contra las mujeres y el grupo familiar en el Perú.\n\nRecibirás varias PREGUNTAS de ciudadanos; para cada una, una lista de CHUNKS. Decide, para cada par (pregunta, chunk), si el chunk por sí solo permite responder la pregunta:\n- \"si\": responde directamente o contiene la información central que se necesita.\n- \"parcial\": solo da contexto relacionado o responde una parte menor.\n- \"no\": no ayuda a responder.\n\nReglas: lee el texto COMPLETO de cada chunk antes de decidir. Juzga únicamente el contenido frente a la pregunta; no asumas nada sobre por qué el chunk aparece en la lista. Sé estricto con \"si\": debe contener la información central, no solo tocar el tema; una norma de otro delito o procedimiento es \"no\" aunque comparta palabras. Si un chunk es una versión distinta del mismo artículo y responde igual, es \"si\".\n\nFORMATO DE SALIDA: responde ÚNICAMENTE con JSON, un veredicto por cada par pedido, copiando dataset_id y chunk_id exactamente:\n{\"judgments\": [{\"dataset_id\": \"...\", \"chunk_id\": \"...\", \"relevance\": \"si|parcial|no\", \"rationale\": \"una frase\"}]}\nSi eres un agente que escribe el archivo de respuesta, añade además la clave \"_model\" con el nombre real del modelo que responde (por ejemplo \"claude-sonnet-5-5\" o el que corresponda); el pipeline la registra como procedencia.\n",
+ "user": "Juzga estos pares:\n\n[\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_416_01::q01\",\n  \"question\": \"Si el juez dicta una sentencia con la que no estoy conforme, ¿puedo pedir que otro tribunal más alto la revise?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_416_01\",\n    \"title\": \"Artículo 416. Resoluciones apelables y exigencia formal\",\n    \"text\": \"1. El recurso de apelación procederá contra:\\na) Las sentencias;\\nb) Los autos de sobreseimiento y los que resuelvan cuestiones previas, cuestiones prejudiciales y excepciones, o que declaren extinguida la acción penal o pongan fin al procedimiento o la instancia;\\nc) Los autos que revoquen la condena condicional, la reserva del fallo condenatorio o la conversión de la pena;\\nd) Los autos que se pronuncien sobre la constitución de las partes y sobre aplicación de medidas coercitivas o de cesación de la prisión preventiva;\\ne. Los autos expresamente declarados apelables o que causen gravamen irreparable.\\n2. Cuando la Sala Penal Superior tenga su sede en un lugar distinto del Juzgado, el recurrente deberá fijar domicilio procesal en la sede de Corte dentro del quinto día de notificado el concesorio del recurso de apelación. En caso contrario, se le tendrá por notificado en la misma fecha de la expedición de las resoluciones dictadas por la Sala Penal Superior.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"dev::chunk_tipo03_cpp_art_416_01::q02\",\n  \"question\": \"Me archivaron el caso de mi hija y el juez dio por terminado el proceso. ¿Se puede reclamar esa decisión?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_416_01\",\n    \"title\": \"Artículo 416. Resoluciones apelables y exigencia formal\",\n    \"text\": \"1. El recurso de apelación procederá contra:\\na) Las sentencias;\\nb) Los autos de sobreseimiento y los que resuelvan cuestiones previas, cuestiones prejudiciales y excepciones, o que declaren extinguida la acción penal o pongan fin al procedimiento o la instancia;\\nc) Los autos que revoquen la condena condicional, la reserva del fallo condenatorio o la conversión de la pena;\\nd) Los autos que se pronuncien sobre la constitución de las partes y sobre aplicación de medidas coercitivas o de cesación de la prisión preventiva;\\ne. Los autos expresamente declarados apelables o que causen gravamen irreparable.\\n2. Cuando la Sala Penal Superior tenga su sede en un lugar distinto del Juzgado, el recurrente deberá fijar domicilio procesal en la sede de Corte dentro del quinto día de notificado el concesorio del recurso de apelación. En caso contrario, se le tendrá por notificado en la misma fecha de la expedición de las resoluciones dictadas por la Sala Penal Superior.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_251_01::q01\",\n  \"question\": \"El fiscal le ordenó a mi pareja que se aleje de mí, pero él dice que es injusto. ¿Puede pedirle a un juez que lo revise?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_251_01\",\n    \"title\": \"Artículo 251. Reexamen e Impugnaciones\",\n    \"text\": \"1. Contra la disposición del Fiscal que ordena una medida de protección, procede que el afectado recurra al Juez de la investigación preparatoria para que examine su procedencia.\\n2. Contra las resoluciones referidas a las medidas de protección procede recurso de apelación con efecto devolutivo.\"\n   }\n  ]\n },\n {\n  \"dataset_id\": \"test::chunk_tipo03_cpp_art_251_01::q02\",\n  \"question\": \"Si el juez decide sobre la orden de alejamiento y una de las partes no está conforme, ¿puede reclamar a un tribunal superior?\",\n  \"chunks\": [\n   {\n    \"chunk_id\": \"chunk_tipo03_cpp_art_251_01\",\n    \"title\": \"Artículo 251. Reexamen e Impugnaciones\",\n    \"text\": \"1. Contra la disposición del Fiscal que ordena una medida de protección, procede que el afectado recurra al Juez de la investigación preparatoria para que examine su procedencia.\\n2. Contra las resoluciones referidas a las medidas de protección procede recurso de apelación con efecto devolutivo.\"\n   }\n  ]\n }\n]",
+ "meta": {
+  "roles": [
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_416_01::q01",
+     "chunk_tipo03_cpp_art_416_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "dev::chunk_tipo03_cpp_art_416_01::q02",
+     "chunk_tipo03_cpp_art_416_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_251_01::q01",
+     "chunk_tipo03_cpp_art_251_01"
+    ],
+    "origin"
+   ],
+   [
+    [
+     "test::chunk_tipo03_cpp_art_251_01::q02",
+     "chunk_tipo03_cpp_art_251_01"
+    ],
+    "origin"
+   ]
+  ]
+ },
+ "write_response_to": "/Users/renato/universidad/tp/peru-legal-rag-data/generacion_dataset/data/output/dataset_v2/work/05_judge/responses/judge__528f2e5fd157.json"
+}

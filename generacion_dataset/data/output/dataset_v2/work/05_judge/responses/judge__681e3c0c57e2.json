@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "si",
+      "rationale": "Atribuye al Ministerio Público el control de la ejecución de las sanciones penales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula excusas absolutorias patrimoniales y no la ejecución de una indemnización."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata la responsabilidad internacional por investigación deficiente, no cobro de una reparación ordenada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé asegurar y ejecutar la reparación mediante vehículos secuestrados, pero no establece la vía general de reclamo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "Regula recaudos de requerimientos fiscales durante la investigación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Describe el alcance de la reparación integral, pero no cómo exigir el pago incumplido."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula acuerdos y sentencias de terminación anticipada, no ejecución de un pago ya ordenado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "si",
+      "rationale": "Identifica al Juzgado de Investigación Preparatoria como competente para ejecutar la sentencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "Regula la asistencia judicial solicitada por autoridades extranjeras."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución policial de medidas de protección, no indemnizaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata la desvinculación de la calificación jurídica en un juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de suspensión de la pena y no cobro de reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "si",
+      "rationale": "Permite a las partes legitimadas reclamar ante el juez la ejecución de la reparación civil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata responsabilidad internacional por violencia de género, no ejecución de indemnización al agresor."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_488_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente al condenado a plantear requerimientos y observaciones sobre la ejecución de su sanción."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

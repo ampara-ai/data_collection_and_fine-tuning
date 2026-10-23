@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_16_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 16. Potestad jurisdiccional no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 205. Control de identidad policial no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_451_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 451. Conversión del procedimiento común y acumulación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Incluye el parentesco por afinidad entre las agravantes, pero no define cuándo existe contexto de violencia familiar."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "si",
+      "rationale": "Examina la agresión del padre y suegro a adultos independientes y explica la exclusión del contexto familiar."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo III. Interdicción de la persecución penal múltiple no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Exige responsabilidad, confianza o poder, pero no resuelve expresamente el supuesto de adultos que viven aparte."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 176-B.- Acoso sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 314. Pensión anticipada de alimentos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "si",
+      "rationale": "Establece agravantes por parentesco y empleo de instrumentos que pongan en riesgo la vida."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Contempla el instrumento peligroso como agravante de lesiones graves, sin resolver el parentesco ni la entidad de estas heridas."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22. Objeto y tipos de medidas de protección no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 248. Medidas de protección no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 334. Calificación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 179.- Favorecimiento a la prostitución no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 1865-2015, Huancavelica no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 556. Consultas y acuerdos con la Corte Penal Internacional no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Regula el careo por contradicciones importantes y la excepción para víctimas menores de catorce años."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la eficacia de una disposición a su notificación, sin explicar el cómputo general ni los feriados."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 162. Capacidad para rendir testimonio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 274. Prolongación de la prisión preventiva no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 334. Calificación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_143_01",
+      "relevance": "si",
+      "rationale": "Determina el inicio en el siguiente día hábil y la prórroga cuando el vencimiento es inhábil."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 83.- Interrupción de la prescripción de la acción penal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "parcial",
+      "rationale": "Señala un plazo desde la notificación de medidas de protección, sin regular feriados ni el cómputo general."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona el inicio del plazo con la notificación domiciliaria de condenas, sin resolver el cómputo solicitado."
+    },
+    {
+      "dataset_id": "case::jp_00055_e0009::q04",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 82.- Inicio de los plazos de prescripción no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "si",
+      "rationale": "Aclara que la violación de adolescentes mayores de catorce años se subsume en el delito contra la libertad sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 1381-2022, Moquegua no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 387. Alegato oral del Fiscal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-N.- Publicación en los medios de comunicación sobre delitos de libertad sexual contra niñas, niños y adolescentes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 419.- Detención ilegal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 1442-2022, Puno no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 430. Interposición y admisión no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Omitir prueba de ADN no descarta responsabilidad (Casación 5-2021, Puno) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 242. Supuestos de prueba anticipada no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "si",
+      "rationale": "Explica que las relaciones voluntarias con adolescentes de catorce a dieciocho años están exentas de responsabilidad penal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0033_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no resuelve la cuestión planteada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

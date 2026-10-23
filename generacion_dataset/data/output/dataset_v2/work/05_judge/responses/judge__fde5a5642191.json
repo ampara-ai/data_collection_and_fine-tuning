@@ -1,0 +1,95 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Fija veinte a veintiséis años por violación con arma y contempla agravación por parentesco."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye embarazo y vínculo conyugal entre las circunstancias agravantes."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 314. Pensión anticipada de alimentos no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Agrava la violación cuando existe relación laboral o la víctima presta servicios como trabajadora del hogar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 261. Detención Preliminar Judicial no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica la relevancia de la autoridad en la coerción sexual, pero no la agravación de pena por relación laboral."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 479. Condiciones, Obligaciones y Control del beneficiado no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 289. La caución no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no resuelve lo consultado en esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_170_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Omisión, rehusamiento o demora de actos funcionales no resuelve lo consultado en esta pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

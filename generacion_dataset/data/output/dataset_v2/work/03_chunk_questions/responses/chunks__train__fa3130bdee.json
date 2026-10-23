@@ -1,0 +1,196 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Un policía me metió los dedos cuando me tuvieron detenida, pero no fue algo profundo. ¿Eso igual se considera una violación?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Basta una penetración superficial, incluso con los dedos o en los labios genitales, para que sea violación sexual."
+    },
+    {
+     "query": "¿Si no hubo una penetración completa, ya no cuenta como violación?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No se exige penetración completa; cualquier penetración vaginal o anal sin consentimiento, aunque sea superficial, es violación."
+    },
+    {
+     "query": "Mi agresor usó un objeto y no su cuerpo. ¿Puedo decir que me violaron o se considera otra cosa?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La violación incluye la penetración con cualquier parte del cuerpo u objetos, sin consentimiento."
+    },
+    {
+     "query": "Nos desnudaron y nos revisaron a todas las mujeres detenidas metiéndonos los dedos. ¿Eso es algo que se puede reclamar como delito grave?",
+     "topic": "violencia_sexual",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Estos actos de revisión con penetración digital a mujeres detenidas fueron considerados violación sexual colectiva."
+    },
+    {
+     "query": "Me da vergüenza contar que solo fue con los dedos, pienso que no me van a creer que fue una violación. ¿Qué criterio se usa?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "El estándar amplio reconoce como violación los actos de penetración digital o superficial sin consentimiento."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_1_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Vi que el vecino golpea a su esposa. ¿Puedo avisar yo a las autoridades aunque no sea de su familia?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "En delitos de persecución pública cualquier persona, natural o jurídica, puede promover la acción penal ante el Ministerio Público."
+    },
+    {
+     "query": "Si mi pareja me maltrató y yo no quiero denunciar, ¿el fiscal puede investigarlo igual por su cuenta?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El Ministerio Público puede ejercer la acción penal de oficio en los delitos de persecución pública."
+    },
+    {
+     "query": "¿Quién se encarga de llevar el caso contra el agresor, yo o el fiscal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En delitos de persecución pública corresponde al Ministerio Público ejercer la acción penal."
+    },
+    {
+     "query": "En algunos delitos me dijeron que tengo que denunciar yo misma directamente ante el juez. ¿Eso por qué es?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "En los delitos de persecución privada el ofendido debe ejercer la acción ante el juez mediante querella."
+    },
+    {
+     "query": "¿Hay delitos en que el fiscal no puede actuar hasta que yo, la víctima, lo autorice o lo pida?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En delitos que requieren instancia previa del ofendido, el fiscal solo actúa con su denuncia, aunque puede pedirle la autorización."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_167_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El hombre que me agrede es congresista. ¿Tendrá que ir al juzgado a declarar como cualquier persona?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los altos funcionarios, como congresistas, declaran a su elección en su domicilio o despacho, y el juez puede recibir su testimonio por escrito."
+    },
+    {
+     "query": "Un testigo importante de mi caso es obispo. ¿Puede declarar desde su oficina o por escrito?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Autoridades religiosas superiores pueden declarar en su domicilio o despacho, o por escrito con un pliego de preguntas."
+    },
+    {
+     "query": "¿Hay personas con cargos muy altos que no están obligadas a presentarse en el juzgado para declarar?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los altos dignatarios tienen un trato especial para declarar, aunque el juez puede exigir su presencia si es indispensable para reconocimientos o confrontaciones."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui enamorada de mi agresor y ahora dice que no pudo ser violación porque éramos pareja. ¿Eso lo libra de responsabilidad?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Una relación sentimental previa no legitima el acto sexual ni equivale a consentimiento."
+    },
+    {
+     "query": "Trabajo atendiendo clientes en un bar de noche. ¿Me van a creer menos si denuncio que me forzaron?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "verguenza",
+     "expected_answer_focus": "El trabajo como dama de compañía no afecta la credibilidad de la víctima; se juzga con perspectiva de género."
+    },
+    {
+     "query": "Me amenazaron con un arma después de tomar alcohol juntos y abusaron de mí. ¿Se puede condenar al agresor?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Se confirmó una condena de 12 años por violación bajo amenaza con arma tras consumo de alcohol."
+    },
+    {
+     "query": "Tengo miedo de volver a declarar y revivir todo. ¿Se puede condenar al agresor si yo ya no hablo en el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La ausencia de declaración de la víctima no vicia la condena si hay otras pruebas suficientes como testimonios, pericias y documentos."
+    },
+    {
+     "query": "¿Mi vida sexual anterior puede usarse en mi contra para decir que no soy creíble?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La credibilidad de la víctima no puede inferirse de su comportamiento sexual anterior."
+    },
+    {
+     "query": "El abogado del acusado apeló diciendo que la condena estuvo mal. ¿Pueden anularla fácilmente?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema desestimó el recurso y confirmó la condena porque la prueba era suficiente."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_239_01",
+   "skip": true,
+   "skip_reason": "Trata del contenido técnico de la resolución judicial que autoriza una diligencia sobre locales o bienes; ninguna víctima haría una pregunta natural al respecto.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_468_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El fiscal y el acusado quieren hacer un acuerdo para terminar el caso rápido. ¿Yo tengo que estar presente en esa audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La asistencia de la víctima y demás partes es facultativa; solo son obligatorios el fiscal, el acusado y su abogado."
+    },
+    {
+     "query": "¿Puedo oponerme si el acusado negocia con el fiscal para que le den una pena menor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Las partes son notificadas y tienen cinco días para pronunciarse sobre la procedencia del acuerdo y formular sus pretensiones."
+    },
+    {
+     "query": "Si hay acuerdo, ¿cuánto demora el juez en dar la sentencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez dicta la sentencia anticipada dentro de las cuarenta y ocho horas de la audiencia."
+    },
+    {
+     "query": "Me parece muy poco lo que me van a pagar por el daño en el acuerdo con el agresor. ¿Puedo reclamar?",
+     "topic": "reparacion_civil",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La sentencia puede ser apelada por los demás sujetos procesales, y la Sala puede aumentar la reparación civil dentro de lo pedido."
+    },
+    {
+     "query": "¿El juez está obligado a aceptar lo que pactan el fiscal y el acusado, aunque la pena parezca baja?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez evalúa que la calificación y la pena sean razonables y puede desvincularse de la pena pactada si no cumple los parámetros legales."
+    },
+    {
+     "query": "En esa audiencia de acuerdo, ¿se presentan pruebas o testigos para decidir si el acusado es culpable?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En la audiencia de terminación anticipada no se actúan pruebas; el acusado acepta o rechaza los cargos y se busca un acuerdo."
+    }
+   ]
+  }
+ ]
+}

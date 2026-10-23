@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0013_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00260_e0013_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

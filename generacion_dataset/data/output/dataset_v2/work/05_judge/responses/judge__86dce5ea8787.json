@@ -1,0 +1,131 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0017::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece el deber estatal de realizar una investigación efectiva de la violencia doméstica conocida."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el deber de proteger a la persona agraviada, pero no desarrolla la responsabilidad por omitir prevención."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "Regula pesquisas e inspecciones para obtener rastros del delito, no la responsabilidad por desprotección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Las agravantes del tráfico de migrantes no responden a la desprotección ante violencia de pareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Sanciona el maltrato cometido por el agresor, sin abordar la responsabilidad estatal por inacción."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Describe omisiones estatales ante vigilancia y amenazas domésticas, aunque se centra en calificarlas como tortura."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "Regula medidas coercitivas contra policías por uso reglamentario de armas, ajenas a la pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber estatal de proteger frente a amenazas que obstaculizan investigaciones, en un contexto distinto."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la violencia tolerada por agentes estatales, pero no desarrolla los deberes preventivos ni su incumplimiento."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_550_01",
+      "relevance": "no",
+      "rationale": "Regula la entrega vigilada internacional, sin relación con protección frente a la expareja."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve sanciones por maltrato mutuo, no la responsabilidad del Estado ante amenazas."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Analiza una agravante de actos contra el pudor, no el incumplimiento estatal del deber de protección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "Regula el arresto ciudadano, no los deberes preventivos ni la responsabilidad estatal."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece la obligación de prevenir malos tratos conocidos o previsibles y de investigar efectivamente."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q03",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce agravación por el vínculo de expareja en lesiones graves, sin permitir clasificar los moretones descritos."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0017::q04",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Contempla el uso de objetos que ponen en riesgo la vida y la ebriedad como agravantes de lesiones graves."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_22_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "si",
+      "rationale": "Atribuye competencia al juez del lugar de llegada más próximo y prevé comunicación policial y fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_22_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "si",
+      "rationale": "Obliga al conductor a avisar a la policía y a esta a informar inmediatamente al fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "si",
+      "rationale": "Excluye conciliación y acuerdos reparatorios en violencia de género e intrafamiliar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0006_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "si",
+      "rationale": "Prohíbe a los jueces de paz realizar acuerdos conciliatorios en estas denuncias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00196_e0006_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica que el interés público impide cerrar estos casos por conciliación o acuerdo reparatorio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

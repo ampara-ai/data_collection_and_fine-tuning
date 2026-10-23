@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona el fuero militar y exige investigación efectiva, sin resolver la independencia entre unidades policiales."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "si",
+      "rationale": "Examina la independencia entre unidades de la misma policía y los vínculos relevantes."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la independencia de la investigación de violencia policial."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "si",
+      "rationale": "Valora la supervisión fiscal, especialización y ausencia de vínculos directos para afirmar independencia."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Describe el control fiscal y carácter no vinculante del informe, sin resolver la independencia institucional."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "No determina la independencia de una unidad que investiga a otros policías."
+    },
+    {
+      "dataset_id": "case::jp_00393_e0009::q03",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige una investigación independiente y eficaz de las denuncias de malos tratos policiales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

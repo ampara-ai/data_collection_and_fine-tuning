@@ -1,0 +1,196 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Me pueden obligar a sentarme frente a mi agresor para que cada uno cuente su versión durante la investigación?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Está prohibido poner cara a cara a la víctima con el agresor en el proceso."
+    },
+    {
+     "query": "Mi pareja me golpeó y ahora me piden \"arreglar las cosas\" con él delante de la autoridad. ¿Tengo que aceptar eso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Está prohibido el acuerdo o la conciliación entre la víctima y el agresor en estos procesos."
+    },
+    {
+     "query": "Cuando reconstruyan lo que pasó, ¿tengo que estar yo presente con el agresor ahí?",
+     "topic": "procedimiento_penal",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La reconstrucción de los hechos se hace sin la víctima, salvo que ella lo pida y sea mayor de catorce años."
+    },
+    {
+     "query": "Mi hija de 15 años quiere estar presente cuando representen cómo ocurrieron los hechos. ¿Se lo permiten?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Una víctima mayor de catorce años puede pedir estar presente en la reconstrucción."
+    },
+    {
+     "query": "¿Una menor de 12 años puede estar presente cuando reconstruyen lo que le pasó?",
+     "topic": "procedimiento_penal",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Solo la víctima mayor de catorce años puede solicitar estar presente; en los demás casos se hace sin ella."
+    },
+    {
+     "query": "Me da pánico volver a ver a quien me maltrató. ¿La ley me protege de encontrármelo durante la investigación?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "La norma evita el contacto directo mediante la prohibición de confrontación y conciliación y la reconstrucción sin la víctima."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿Existe alguna guía oficial que le diga al juez cómo dar las medidas para que mi agresor no se me acerque?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Poder Judicial aprobó un protocolo con criterios y procedimientos para otorgar medidas de protección y cautelares."
+    },
+    {
+     "query": "¿Los jueces siguen reglas fijas al decidir si me protegen o no de mi pareja violenta?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Hay un protocolo que establece criterios y procedimientos para otorgar estas medidas."
+    },
+    {
+     "query": "Además de que no me moleste, ¿hay otras medidas que el juez pueda darme mientras dura mi caso?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El protocolo abarca tanto medidas de protección como medidas cautelares en el marco de la ley contra la violencia."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_383_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si no puedo ir al juicio, ¿se puede leer lo que denuncié o los documentos que presenté para que valgan como prueba?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Se pueden leer en juicio la denuncia y la prueba documental, informes, certificaciones y constataciones."
+    },
+    {
+     "query": "El médico que me examinó se enfermó y no puede ir a la audiencia. ¿Se pierde mi certificado como prueba?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Los informes periciales pueden leerse si el perito no pudo asistir por enfermedad, fallecimiento, ausencia u otras causas ajenas."
+    },
+    {
+     "query": "¿Las actas que hizo la policía el día que detuvieron a mi agresor sirven en el juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Las actas policiales o fiscales de diligencias objetivas e irreproducibles, como detención o registro, pueden leerse en el juicio."
+    },
+    {
+     "query": "¿Se puede usar en el juicio lo que un testigo declaró ante el fiscal si ya no puede venir?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Las declaraciones ante el fiscal pueden leerse si se cumplen las condiciones previstas y las partes fueron citadas."
+    },
+    {
+     "query": "Si alguien trae un papel cualquiera al juicio y lo quiere leer, ¿el juez le da valor?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Todo documento o acta que no esté permitido y se pretenda introducir leyéndolo no tiene ningún valor."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija fue abusada y en la investigación la hicieron contar lo mismo una y otra vez. ¿Eso está permitido?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Las entrevistas repetitivas y los exámenes innecesarios a una niña víctima constituyen revictimización y violencia institucional."
+    },
+    {
+     "query": "¿Puede el propio Estado hacerle más daño a una víctima durante la investigación si la trata mal?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado puede incurrir en violencia institucional si revictimiza a la víctima durante el proceso."
+    },
+    {
+     "query": "El médico que examinó a mi hija la hizo sentir culpable por lo que le pasó. ¿Qué se supone que debe hacer una autoridad?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El actuar culpabilizante y discriminatorio del médico forense fue considerado violación de derechos; se exige atención con perspectiva de género."
+    },
+    {
+     "query": "Me da miedo denunciar porque siento que las autoridades me van a hacer sufrir más. ¿Esto ya ha pasado antes?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Un tribunal internacional declaró responsable a un Estado por revictimizar a una niña en la investigación de una violación."
+    },
+    {
+     "query": "Si el que abusó de mi niña es su padre y el sistema falla, ¿qué reparación pueden ordenar a favor de la familia?",
+     "topic": "reparacion_civil",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se declaró responsable al Estado y se ordenaron reparaciones integrales a favor de las víctimas."
+    },
+    {
+     "query": "¿Qué obligación tiene el Estado cuando la víctima de una violación es una niña pequeña?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Estado debe actuar con debida diligencia reforzada, protección especial y perspectiva de género, evitando la revictimización."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_521_01",
+   "skip": true,
+   "skip_reason": "Trata sobre el procedimiento de extradición pasiva entre Estados, trámite técnico que una víctima de violencia familiar no preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_85_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El abogado de mi agresor no llegó a la audiencia. ¿Se suspende todo o siguen sin él?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Si la audiencia es inaplazable se reemplaza al abogado en el acto y continúa; si no, se da 24 horas para nombrar reemplazo y se reprograma una sola vez."
+    },
+    {
+     "query": "¿Cuántas veces pueden postergar mi audiencia porque el abogado del acusado no se presenta?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Si no hay justificación, se le da 24 horas al procesado para designar otro y la diligencia se reprograma por única vez."
+    },
+    {
+     "query": "Si mi agresor no tiene dinero para abogado, ¿quién lo defiende en la audiencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Si no designa reemplazo, se nombra un defensor público."
+    },
+    {
+     "query": "¿Qué le pasa al abogado que falta sin motivo a una audiencia o se va a mitad de ella?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El juez sanciona al abogado que no asiste o abandona injustificadamente, y la sanción se comunica a la Corte Superior y al Colegio de Abogados."
+    },
+    {
+     "query": "Parece que el abogado del acusado renuncia justo antes de la audiencia para demorar el caso. ¿Eso lo libera de sus obligaciones?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La renuncia no libera al abogado de los actos urgentes para evitar la indefensión y debe comunicarse al juez 24 horas antes."
+    }
+   ]
+  }
+ ]
+}

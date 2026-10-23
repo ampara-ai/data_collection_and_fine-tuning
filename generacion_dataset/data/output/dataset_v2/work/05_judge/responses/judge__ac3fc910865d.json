@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce pruebas físicas y psicológicas válidas, sin abordar ausencia de huellas tras un año."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar pericia psicológica y no inferir consentimiento de conductas, sin resolver efectos del tiempo y ausencia de signos visibles."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "Tipifica homicidio culposo, no prueba de abuso sexual."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "Tipifica favorecer explotación sexual de menores, no define modalidades de violación ni tocamientos."
+    },
+    {
+      "dataset_id": "case::jp_00138_e0023::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula exámenes corporales, no la calificación de actos sexuales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

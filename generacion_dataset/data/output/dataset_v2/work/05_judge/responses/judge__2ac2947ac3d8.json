@@ -1,0 +1,107 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00615_e0002::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_64_01",
+      "relevance": "si",
+      "rationale": "Exige decisiones fiscales motivadas y específicas y su formulación escrita fuera de audiencias."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Explica las causales y la impugnación del archivo, pero no evalúa la ausencia de resistencia."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Examina contradicciones y denuncia tardía, no la falta de resistencia como razón para archivar."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Tipifica un supuesto de violación bajo autoridad o vigilancia que no corresponde al motivo de archivo consultado."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata la admisibilidad temporal de recursos y no la suficiencia de la motivación del archivo."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_64_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivación fiscal, pero no determina si la falta de resistencia justifica archivar."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "Resuelve sobre cámara Gesell y tutela de derechos, no sobre el fundamento del archivo."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "Regula la ejecución de sentencias condenatorias, no el archivo de denuncias."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Enumera medidas de protección sin valorar la motivación del archivo fiscal."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "parcial",
+      "rationale": "Permite reexaminar un archivo ante nuevas pruebas o investigación deficiente, pero no aborda la falta de resistencia."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica el control constitucional del archivo fiscal, sin resolver si la falta de resistencia es una razón suficiente."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia electrónica de condenados, ajena al motivo del archivo."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "Regula los documentos de requerimientos dirigidos al juez, no la suficiencia del archivo."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona una violación tras provocar imposibilidad de resistir, pero no establece el estándar general para archivar por falta de resistencia."
+    },
+    {
+      "dataset_id": "case::jp_00615_e0002::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "Regula prisión preventiva y su motivación, no decisiones fiscales de archivo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Describe la acción civil del perjudicado, pero no su derecho a apelar una absolución."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00013_e0009_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Describe las facultades del tribunal de apelación, sin establecer expresamente el aumento de una reparación civil ya fijada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

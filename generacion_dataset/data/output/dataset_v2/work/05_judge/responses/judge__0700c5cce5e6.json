@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_329_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Exige comunicar inmediatamente al fiscal el inicio de la investigación por denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_329_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Permite iniciar de oficio la investigación de delitos de persecución pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_329_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "La investigación puede iniciarse de oficio, sin exigir una denuncia escrita."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

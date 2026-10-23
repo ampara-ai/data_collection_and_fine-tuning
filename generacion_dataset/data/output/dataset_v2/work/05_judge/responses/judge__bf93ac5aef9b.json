@@ -1,0 +1,11 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_46_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46_01",
+      "relevance": "si",
+      "rationale": "Obliga a los medios a proteger la dignidad de las víctimas y sus hijos y cuidar especialmente las imágenes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

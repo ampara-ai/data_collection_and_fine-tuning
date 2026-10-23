@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00260_e0015::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "si",
+      "rationale": "Incluye protección policial, cambio de residencia y ocultación del paradero según el riesgo."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "Valida medidas de protección sin audiencia previa, no órdenes de detención."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521_01",
+      "relevance": "no",
+      "rationale": "Regula detención en extradición pasiva."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Valora retractación notarial y no detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata reiteración de denuncias sexuales, no detención del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona detenciones judiciales ilegales, pero no establece cuándo ordenar la detención solicitada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Examina retención fiscal para identificación y no mandato judicial de detención preliminar."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "Establece un régimen específico para policías en uso reglamentario de armas, ajeno al supuesto."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de prueba anticipada."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención con fines de extradición."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Describe la ejecución y garantías de detención judicial sin desarrollar sus supuestos de procedencia."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "Regula protección de víctimas en flagrancia y no la captura posterior del agresor."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "si",
+      "rationale": "Permite detención preliminar sin flagrancia y cuando el sorprendido evita ser detenido, con los requisitos indicados."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "si",
+      "rationale": "Fija los límites ordinario, complejo y de criminalidad organizada de prisión preventiva."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "parcial",
+      "rationale": "Establece legalidad y proporcionalidad, pero no exige expresamente la motivación de la resolución."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "si",
+      "rationale": "Exige motivación de la resolución judicial y del requerimiento fiscal restrictivos de derechos."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "Tipifica secuestro y no garantías de medidas judiciales."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sanción disciplinaria a un abogado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Regula suspensión de ejecución de la pena."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula proceso inmediato y sus decisiones orales, sin resolver el deber general de motivar estas medidas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "Regula recurso de reposición."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "Regula constitución en actor civil."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula registros de víctimas, agresores y condenas."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "si",
+      "rationale": "Exige resolución especialmente motivada y detalla sus fundamentos obligatorios bajo nulidad."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Examina anulación de absolución y sobreseimiento, no restricciones durante investigación."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "parcial",
+      "rationale": "Establece razones para levantar el secreto bancario, pero no el deber general de motivación consultado."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "Fija estándares para investigar violencia sexual sin regular motivación de restricciones."
+    },
+    {
+      "dataset_id": "case::jp_00260_e0015::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Analiza retractación notarial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

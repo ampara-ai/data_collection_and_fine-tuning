@@ -1,0 +1,227 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_434_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Si el tribunal más alto anula solo una parte de la sentencia de mi caso, ¿lo que no se anuló queda firme o hay que repetir todo el juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La anulación puede ser parcial, y las partes de la sentencia sin vínculo esencial con lo anulado quedan firmes con valor de cosa juzgada."
+    },
+    {
+     "query": "¿Quién dice qué partes de la sentencia ya no se pueden cambiar cuando el máximo tribunal revisa el caso de mi agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La Sala Penal de la Corte Suprema indica en la parte final de su decisión qué partes de la sentencia quedan firmes, cuando es necesario."
+    },
+    {
+     "query": "Mi agresor logró que le revisaran la sentencia. ¿Puede perderse toda la condena o solo una parte?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La anulación puede ser total o solo parcial; lo no anulado y sin relación esencial con lo anulado permanece firme."
+    },
+    {
+     "query": "¿Se puede anular solo un pedazo de la sentencia?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "Sí, la anulación de la sentencia o auto puede ser total o parcial."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "A mi hija de 9 años abusaron de ella y quieren llevarla al lugar para repetir cómo pasó todo. ¿Es correcto obligarla a eso?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Obligar a una niña víctima a participar en la inspección y reconstrucción de los hechos es una forma de victimización; solo deben exigirse diligencias estrictamente necesarias."
+    },
+    {
+     "query": "Tengo miedo de que mi hija, que sufrió una violación, tenga que revivir todo en las diligencias de la investigación. ¿Qué debe evitar el Estado?",
+     "topic": "violencia_sexual",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "El Estado debe evitar que la niña vuelva a sufrir por diligencias innecesarias; es responsable si no evita esa revictimización."
+    },
+    {
+     "query": "Las autoridades me dijeron que, como madre, yo debía convencer a mi hija de colaborar con la reconstrucción del abuso. ¿Es mi responsabilidad?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El Estado no puede trasladar a la madre la responsabilidad de que la niña participe; la obligación de evitar la revictimización es estatal."
+    },
+    {
+     "query": "¿Qué pasa con el país si obliga a una niña abusada a repetir lo vivido durante la investigación?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró la responsabilidad internacional del Estado por violar derechos humanos al no evitar la revictimización."
+    },
+    {
+     "query": "¿Una niña víctima de violación tiene que ir a todas las diligencias del caso?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Solo debe participar en las diligencias estrictamente necesarias, no en todas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a contar a la fiscalía que mi hija desapareció y que sospecho de un hombre que abusó de ella, pero dejaron que se fuera. ¿Es legal que lo suelten así?",
+     "topic": "canales_denuncia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Una denuncia verbal con solo sospechas, sin indicios ni evidencia, no inicia la persecución penal; además el denunciado había sido retenido ilegalmente sin flagrancia ni orden judicial."
+    },
+    {
+     "query": "Si solo sospecho que alguien abusó de mi hija pero no tengo pruebas, ¿mi denuncia ya cuenta como el inicio del proceso contra esa persona?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "La sospecha sin indicios ni evidencia no constituye el inicio de la persecución penal."
+    },
+    {
+     "query": "¿Se puede detener a una persona que denunciaron si no lo agarraron en el momento ni hay una orden de un juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La detención sin flagrancia ni mandato judicial es ilegal."
+    },
+    {
+     "query": "Una fiscal dejó ir al hombre que denuncié y luego no apareció. ¿Ella pudo ser castigada por eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La fiscal fue condenada en primera instancia por encubrimiento, pero fue absuelta en apelación porque no se había iniciado la persecución penal."
+    },
+    {
+     "query": "¿Hay que esperar a que abran una investigación formal para que se considere que ya persiguen el delito, o puede ser antes?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La persecución penal puede empezar antes de una investigación formal, por ejemplo cuando atrapan al autor en el acto."
+    },
+    {
+     "query": "Mi hija de 13 años sufrió tocamientos. ¿Esa denuncia la ve un fiscal de familia o uno penal?",
+     "topic": "canales_denuncia",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El caso trata la competencia entre fiscal de familia y fiscal penal; la fiscal acusada no era competente para investigar el delito denunciado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_68_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "¿El juez puede dejar libre de castigo a quien cometió un delito leve si dice que su culpa fue muy pequeña?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El juez puede eximir de sanción cuando el delito tiene pena baja (hasta dos años), pena limitativa de derechos o multa, y la responsabilidad del autor es mínima."
+    },
+    {
+     "query": "Mi pareja me agredió una vez y dice que fue algo mínimo. ¿Podría salir sin ninguna pena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Solo si el delito tiene pena baja y la responsabilidad es mínima el juez puede eximir de sanción; no es automático."
+    },
+    {
+     "query": "¿Para qué delitos puede el juez no poner ninguna pena?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Para delitos sancionados con prisión no mayor de dos años, penas limitativas de derechos o multa, si la responsabilidad es mínima."
+    },
+    {
+     "query": "Me da miedo que el juez perdone al que me hizo daño. ¿Quién decide si lo exime de castigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Es el juez quien puede decidir eximir de sanción, bajo las condiciones previstas."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_149_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "El papá de mis hijos no paga la pensión que le ordenó el juez. ¿Puede ir preso por eso?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Quien no cumple la pensión de alimentos fijada por un juez puede recibir hasta tres años de prisión o servicio comunitario, además de tener que pagar."
+    },
+    {
+     "query": "Mi ex dejó su trabajo a propósito para no darle pensión a nuestro hijo. ¿Eso le agrava el castigo?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Si renuncia o abandona maliciosamente su trabajo, o simula otra deuda de alimentos, la pena sube a entre uno y cuatro años."
+    },
+    {
+     "query": "Si él cumple una condena por no pasar la pensión, ¿igual me tiene que pagar lo que debe?",
+     "topic": "reparacion_civil",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "La sanción penal es sin perjuicio de cumplir el mandato judicial de pagar los alimentos."
+    },
+    {
+     "query": "Mi hijo se enfermó gravemente porque su papá no mandó dinero para su atención. ¿Eso cambia la pena del padre?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Si resulta lesión grave o muerte previsible, la pena es de 2 a 4 años por lesión grave y de 3 a 6 años por muerte."
+    },
+    {
+     "query": "Mi pareja inventó que le debe plata a un amigo para decir que no le alcanza para la pensión. ¿Eso es delito?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Simular otra obligación de alimentos en connivencia con otra persona agrava la pena a entre uno y cuatro años."
+    },
+    {
+     "query": "¿Qué castigo tiene no pagar la pensión de alimentos?",
+     "topic": "violencia_economica",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Hasta tres años de prisión o servicio comunitario de 20 a 52 jornadas, sin perjuicio de pagar lo ordenado."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Denuncié a mi pareja por golpearme y presenté mi declaración en la comisaría y el certificado médico. ¿Con eso basta para que lo lleven a juicio?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La declaración policial de la víctima es solo un acto de investigación y, junto con el certificado médico, puede no alcanzar para acusar directamente; se requiere sospecha suficiente."
+    },
+    {
+     "query": "Un juez archivó definitivamente el caso de golpes contra mi pareja porque dijo que faltaban pruebas. ¿Por qué pasó eso si yo conté todo?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se declaró el sobreseimiento porque los elementos no alcanzaban el estándar de sospecha suficiente; lo dicho ante la Policía no es prueba salvo que cumpla requisitos de prueba anticipada."
+    },
+    {
+     "query": "¿Para qué sirve el certificado médico si no prueba quién me golpeó?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El certificado médico acredita la materialidad del delito (la lesión), pero no la intervención del imputado."
+    },
+    {
+     "query": "Lo que le conté a la policía sobre las agresiones, ¿vale como prueba en el juicio o tengo que repetirlo ante un juez?",
+     "topic": "procedimiento_penal",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "La declaración ante la Policía es solo acto de investigación; para que valga como prueba debe cumplir las exigencias de la prueba anticipada."
+    },
+    {
+     "query": "Tengo miedo de que mi caso de violencia familiar se caiga por falta de pruebas. ¿Qué se necesita para acusar directamente al agresor?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Para acusar directamente se requiere sospecha suficiente, es decir, que la probabilidad de condena sea mayor que la de absolución."
+    }
+   ]
+  }
+ ],
+ "_model": "claude-sonnet-4-5"
+}

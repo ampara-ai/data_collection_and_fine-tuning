@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_13_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "si",
+      "rationale": "Enumera los códigos procesales y de niñez aplicables supletoriamente a las denuncias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_13_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "parcial",
+      "rationale": "Incluye supletoriamente el Código de los Niños y Adolescentes, pero no precisa cuándo se aplica por tener un hijo adolescente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Excluye la suspensión para agresiones contra mujeres o familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Fija prisión por agresiones familiares, pero no explica si puede suspenderse."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Relata una condena suspendida por agresiones, pero el criterio central trata notificaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Prohíbe suspender la ejecución por agresiones contra la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Regula otro mecanismo o materia y no resuelve la suspensión por maltrato a la esposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No establece cómo las condenas previas afectan el otorgamiento de la suspensión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Exige no ser reincidente ni habitual para suspender la pena."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_57_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "si",
+      "rationale": "Prohíbe suspender la pena para las agresiones y lesiones familiares indicadas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

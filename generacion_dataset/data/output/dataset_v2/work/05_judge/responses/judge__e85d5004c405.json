@@ -1,0 +1,101 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "si",
+      "rationale": "Contiene la regla o el criterio central necesario para responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_490_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Trata una cuestión distinta y no permite responder la pregunta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

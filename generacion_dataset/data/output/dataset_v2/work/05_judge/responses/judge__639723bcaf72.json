@@ -1,0 +1,35 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_155_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "si",
+      "rationale": "Exige que toda actuación probatoria considere el estado físico y emocional de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_155_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "si",
+      "rationale": "Atribuye al juez la admisión motivada de pruebas y precisa las causas para excluirlas o limitarlas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_243_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "parcial",
+      "rationale": "Describe la solicitud de prueba anticipada por imposibilidad de actuación en juicio, pero no determina si el viaje del testigo habilita ese supuesto."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_243_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "si",
+      "rationale": "Permite pedir prueba anticipada hasta antes de remitir la causa al Juzgado Penal si existe tiempo suficiente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_243_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente la asistencia obligatoria del Ministerio Público a la audiencia de prueba anticipada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

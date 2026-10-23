@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento o falta de credibilidad de la relación sentimental o del trabajo de la víctima y admite condenar con otras pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento o falta de credibilidad de la relación sentimental o del trabajo de la víctima y admite condenar con otras pruebas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0017_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento o falta de credibilidad de la relación sentimental o del trabajo de la víctima y admite condenar con otras pruebas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

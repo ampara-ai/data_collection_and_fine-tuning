@@ -1,0 +1,29 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_230_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "si",
+      "rationale": "Regula trámite urgente ante amenaza a la vida y geolocalización con autorización judicial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_230_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "si",
+      "rationale": "Fija sesenta días, una prórroga por igual plazo y causales de interrupción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_230_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "si",
+      "rationale": "Obliga a las operadoras a facilitar inmediatamente la geolocalización ordenada judicialmente."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_230_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "si",
+      "rationale": "Exige delito con pena superior a cuatro años, necesidad absoluta y autorización judicial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

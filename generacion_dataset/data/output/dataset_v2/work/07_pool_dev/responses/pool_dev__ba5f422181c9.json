@@ -1,0 +1,761 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00199-2018-0 no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Implementar medidas de protección no inmediatas ni constantes son inefectivas [López Soto y otros vs. Venezuela] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23.-Autoría, autoría mediata y coautoría no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Penetración parcial configura violación (Casación 1111-2018, Ayacucho) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cooperadores necesarios (STS 6833/2005, España) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contacto supera labios mayores (RN 534-2013, Huancavelica) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Penetración hasta himen (RN 28-2016, Ayacucho) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una condena apoyada en mensajes de admisión junto con otras pruebas, sin formular los requisitos generales de la confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre jp_00051_e0006 no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 291. Comparecencia simple no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Valora el reconocimiento parcial del acusado como corroboración, pero no establece cuándo basta su confesión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 476. El Acta de colaboración eficaz – denegación del Acuerdo no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2451-2022, Cajamarca no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 523. Detención Preventiva con fines de extradición no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No desistimiento por llanto de víctima (RN 1178-2018, Lima) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 469. Proceso con pluralidad de hechos punibles e imputados no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "Regula la aceptación de cargos con abogado y control judicial para concluir el juicio, supuesto más específico que una mera admisión."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 1865-2015, Huancavelica no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_160_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Obligaciones positivas de protección a la vida [Opuz vs. Turquía] no explica si la mera confesión del imputado basta para condenarlo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre López Soto y otros vs. Venezuela (Corte IDH) no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129. Citaciones no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de proteger ante amenaza real e inmediata [Malagić v. Croacia] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza la incautación policial en flagrancia, pero no regula el acceso al contenido del celular."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 259. Detención Policial no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 260. Arresto Ciudadano no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada.- no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68-A. Operativo de revelación del delito no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración de victima bajo las reglas de la prueba preconstituida tiene eficacia probatoria, no siendo necesaria su repetición [Casación 21-2019, Arequipa] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 234. Aseguramiento e incautación de documentos contables y administrativos no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 413.- Evasión mediante violencia o amenaza no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Regula el aseguramiento de instrumentos de telecomunicaciones y el control judicial, sin explicar el acceso especial por extorsión flagrante."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "parcial",
+      "rationale": "Exige asegurar documentos privados sin examinar su contenido, pero no resuelve el acceso a dispositivos del extorsionador detenido."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 265. Detención preliminar incomunicada no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia] no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 263. Deberes de la autoridad policial no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116) no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 119-A. Audiencia no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184. Incorporación no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 207. Presupuestos y Ejecución no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 67. Función de investigación de la Policía Nacional no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 331. Actuación policial no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 71. Derechos del imputado no explica si la policía puede acceder al contenido del celular del extorsionador detenido en flagrancia."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_220_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 220. Diligencia de secuestro o exhibición no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 156.- Revelación de la intimidad personal y familiar no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 249. Medidas adicionales no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 207. Presupuestos y Ejecución no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 227. Ejecución no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_553_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 553. Autorización para utilizar la entrega vigilada no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 562. Asistencia Judicial no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 07371-2020 no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 343. Control del Plazo no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 931-2016, Cusco no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 288. Las restricciones no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 195. Levantamiento de Cadáver no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Identifica quién autoriza la incautación y sus excepciones, pero no quién permite revisar el contenido de un dispositivo."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_43_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 43. Observatorio Nacional de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 225. Copia de documentos incautados no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios que fijan un plazo para efectuar las diligencias que requieran la presencia del imputado [Exp. 00488-2022-0] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "parcial",
+      "rationale": "Prevé examen judicial de documentos privados asegurados, pero no regula específicamente el acceso al celular o laptop por secuestro."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la verdad constituye un medio de reparación para las víctimas y sus familiares [Bámaca Velásquez vs. Guatemala] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 557. Recepción y trámite no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 216. Desarrollo de la diligencia no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 248. Medidas de protección no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 555. Trámite inicial de las solicitudes de Cooperación no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 234. Aseguramiento e incautación de documentos contables y administrativos no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 265. Detención preliminar incomunicada no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC] no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 311. Desalojo preventivo no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 312-A. Secuestro conservativo no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_230-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos no explica quién autoriza el acceso al contenido del celular o laptop de un secuestrador."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

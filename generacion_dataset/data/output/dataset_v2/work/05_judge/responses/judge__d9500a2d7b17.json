@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que la Policía informa al fiscal y cumple el plazo que este otorga, pero no precisa quién ordena las diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Atribuye al fiscal disponer las diligencias y fijar su objeto y plazos, coordinando con la Policía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata la fiabilidad de la entrevista Gesell y no quién ordena las averiguaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Regula derechos del imputado y tutela judicial sin atribuir la dirección de las averiguaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la omisión de denuncia de un médico, no la dirección de la investigación policial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuaciones investigativas de la fiscalía y solicitudes a la Policía, pero no la distribución de dirección jurídica y operativa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "Define lesiones graves y sus penas sin regular la dirección de investigaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza la suspensión de la prescripción por acusación directa, no las órdenes a la Policía."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Establece que la Policía realiza la investigación preliminar bajo conducción jurídica del fiscal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Analiza una demora de detención y juicio inmediato sin establecer quién ordena averiguaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "Regula la incoación del proceso inmediato sin resolver la dirección de las averiguaciones policiales tras la denuncia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "Regula la pena de vigilancia electrónica sin relación con la dirección de las pesquisas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "Regula la conclusión y control del plazo de investigación preparatoria, no la dirección de averiguaciones policiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_65_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "Exige actuación conjunta y coordinada de fiscales y policías y distribuye las estrategias jurídica y operativa."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

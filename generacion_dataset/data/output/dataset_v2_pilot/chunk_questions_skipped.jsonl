@@ -1,0 +1,4 @@
+{"chunk_id": "chunk_tipo03_cpp_art_137_01", "split": "test", "reason": "Trámite técnico interno sobre la formación del expediente judicial que una víctima no preguntaría."}
+{"chunk_id": "chunk_tipo03_cpp_art_475_01", "split": "test", "reason": "Trata sobre beneficios por colaboración eficaz en organizaciones criminales; ninguna víctima de violencia familiar lo preguntaría."}
+{"chunk_id": "chunk_tipo04_jp_00190_e0007_01", "split": "test", "reason": "Guía administrativa forense sobre restos humanos en violaciones de derechos humanos, sin relación con violencia familiar."}
+{"chunk_id": "chunk_tipo03_cpp_art_472_01", "split": "train", "reason": "Trámite técnico de colaboración eficaz entre fiscal y colaborador, sin pregunta natural de una víctima."}

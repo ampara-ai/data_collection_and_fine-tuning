@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "si",
+      "rationale": "Autoriza a la Sala Superior a revocar una absolución y dictar condena revisable en apelación."
+    },
+    {
+      "dataset_id": "dev::chunk_tipo03_cpp_art_419_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "si",
+      "rationale": "Indica que bastan dos votos conformes para resolver el grado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,257 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "si",
+      "rationale": "Prevé de cuatro a seis años e inhabilitación por lesiones culposas con vehículo bajo efectos del alcohol."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "parcial",
+      "rationale": "Menciona las lesiones culposas como delito, pero regula el aseguramiento patrimonial sin explicar la conducta culposa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre si causar lesiones por descuido constituye delito."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "si",
+      "rationale": "Tipifica y sanciona causar por culpa un daño en el cuerpo o la salud."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_124_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "si",
+      "rationale": "Establece de uno a tres años cuando las lesiones culposas resultan de infringir reglas de profesión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal y reparaciones por omitir protección y diligencia frente a violencia de género."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad por no investigar, pero su regla específica se refiere a denuncias reiteradas de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Sanciona expresamente la omisión de actos funcionales en casos de violencia familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Ordena sancionar a las autoridades que incumplen la debida diligencia y exige intervención inmediata."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad estatal por no proteger frente a un riesgo conocido de violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre la responsabilidad por omitir ayuda frente a violencia conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Expone la obligación estatal de protección e investigación efectiva frente al maltrato doméstico."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra responsabilidad estatal por investigación deficiente de violencia sexual, sin abordar la protección ante amenazas del esposo."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Menciona fallas y estándares de investigación de violencia doméstica, pero se concentra en su calificación como tortura."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Explica que una denuncia basta para investigar violencia sexual, sin desarrollar el deber ante maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Regula denuncias e intervención de oficio en determinados supuestos, sin establecer el deber general de investigación consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica evaluación del riesgo y protección doméstica, sin desarrollar el inicio de investigación de oficio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece la obligación estatal de realizar una investigación oficial efectiva ante violencia doméstica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Dispone iniciar la investigación por denuncia y de oficio ante delitos de persecución pública."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento no aporta información sobre el deber de investigar de oficio una denuncia de maltrato conyugal."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00051_e0017_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección frente a violencia doméstica y menciona el divorcio, pero no establece expresamente su continuidad tras la separación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

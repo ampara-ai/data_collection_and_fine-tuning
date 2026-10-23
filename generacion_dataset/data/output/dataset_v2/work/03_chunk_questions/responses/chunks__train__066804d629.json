@@ -1,0 +1,141 @@
+{
+ "_model": "claude-sonnet-4-5",
+ "results": [
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_557_01",
+   "skip": true,
+   "skip_reason": "Trámite judicial interno de detención y entrega de una persona a la Corte Penal Internacional; no es algo que una víctima de violencia familiar preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_197_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hermana murió y sospechamos que su pareja la mató. ¿La fiscalía puede disponer que se conserve el cuerpo mientras investigan?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En muerte dolosa o sospechosa de criminalidad, el Fiscal, con informe médico, puede autorizar o disponer el embalsamamiento si lo considera útil para el proceso."
+    },
+    {
+     "query": "Mi madre murió en circunstancias sospechosas y queremos cremarla ya. ¿Nos dejan hacerlo o hay que esperar a que se resuelva el caso?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "En esos casos la cremación solo puede autorizarla el Juez después de que exista sentencia firme."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo02_cp_art_196_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja me convenció de prestarle mis ahorros para un negocio que no existía y desapareció con todo. ¿Eso es un delito?",
+     "topic": "violencia_economica",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Obtener un provecho ilícito perjudicando a otro mediante engaño o ardid es delito de estafa."
+    },
+    {
+     "query": "Me engañaron con mentiras para quedarse con mi dinero. ¿Cuántos años de cárcel le pueden dar a esa persona?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "otro",
+     "expected_answer_focus": "La pena de prisión es de uno a seis años."
+    },
+    {
+     "query": "Mi ex usó trucos y mentiras para que le diera mi plata. ¿Qué tiene que haber hecho exactamente para que lo consideren un fraude?",
+     "topic": "identificacion_delito",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Debe haber inducido o mantenido en error a la víctima mediante engaño, astucia, ardid u otra forma fraudulenta para conseguir un provecho ilícito."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_532_01",
+   "skip": true,
+   "skip_reason": "Trámite de cooperación judicial internacional entre autoridades; ninguna víctima lo preguntaría.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi esposo me golpeó y la casa es de los dos. ¿Pueden sacarlo de la casa aunque él diga que es suya?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "El juzgado puede ordenar que salga del domicilio y no vuelva, según el nivel de riesgo, aunque él sea el dueño; la policía puede entrar a ejecutarlo."
+    },
+    {
+     "query": "Mi ex me escribe todo el día por WhatsApp y redes aunque le dije que no. ¿Se puede prohibir que me contacte?",
+     "topic": "medidas_proteccion",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "Se puede dictar la prohibición de comunicarse con la víctima por carta, teléfono, medios electrónicos, chat y redes sociales, y de acercarse a ella."
+    },
+    {
+     "query": "Mi pareja tiene un revólver y me amenaza con él. ¿Qué pasa con esa arma si lo denuncio?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se le prohíbe tener y portar armas, se deja sin efecto la licencia y se incautan las armas; si es militar o policía, se oficia a su institución."
+    },
+    {
+     "query": "No tengo trabajo y dependo de él para dar de comer a mis hijos. ¿Puedo pedir que me dé dinero urgente mientras dura el caso?",
+     "topic": "medidas_proteccion",
+     "barrier": "dependencia_economica",
+     "expected_answer_focus": "Existe una asignación económica de emergencia para las necesidades básicas de la víctima y sus dependientes, pagada por depósito judicial o banco para no exponerla."
+    },
+    {
+     "query": "Tengo miedo de que me encuentre si me voy de mi casa. ¿Hay algún lugar seguro donde me puedan alojar?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Se puede disponer el albergue de la víctima en un establecimiento que garantice su seguridad."
+    },
+    {
+     "query": "Temo que mi marido venda las cosas de la casa o se lleve a los niños para presionarme. ¿Qué puede ordenar el juez para evitarlo?",
+     "topic": "medidas_proteccion",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Se puede prohibir vender, ocultar o hipotecar bienes comunes, ordenar inventario de bienes y prohibir retirar a niños del cuidado familiar."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Fui a la comisaría por violencia y me dijeron que volviera otro día porque faltaban papeles. ¿Pueden dejarme sin ayuda por un trámite?",
+     "topic": "canales_denuncia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Policía y operadores de justicia deben actuar de inmediato ante un hecho o amenaza de violencia, sin demorar por razones formales o procedimentales."
+    },
+    {
+     "query": "Me da miedo ir a un juzgado porque me imagino todo muy complicado y frío. ¿El proceso tiene que ser tan formal?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Los procesos deben tener mínimo formalismo y desarrollarse en espacios amigables para que las víctimas confíen y colaboren."
+    },
+    {
+     "query": "Si un funcionario no hace caso a mi denuncia y me deja desprotegida, ¿le pasa algo por no cumplir su trabajo?",
+     "topic": "desconfianza_en_justicia",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El Estado debe actuar sin dilaciones y deben imponerse sanciones a las autoridades que incumplan la debida diligencia."
+    },
+    {
+     "query": "Mi hijo de ocho años presenció toda la violencia. ¿Las autoridades deben pensar primero en lo que es mejor para él?",
+     "topic": "hijos_y_tenencia",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "En toda medida sobre niñas y niños se debe considerar de manera primordial su interés superior."
+    },
+    {
+     "query": "El juez me dio una decisión que no me protege de verdad. ¿No debería tomar en cuenta mi situación y el peligro que corro?",
+     "topic": "medidas_proteccion",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Fiscal o juez debe ponderar razonablemente las circunstancias y emitir decisiones que protejan efectivamente la vida, salud y dignidad de la víctima, según el ciclo de violencia."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "si",
+      "rationale": "Establece criterios obligatorios para valorar pericias en violación, incluida acreditación y cientificidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar las pericias bajo criterios obligatorios, pero apartarse de esos criterios no equivale a ignorar o seguir las conclusiones de los especialistas."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0020_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Menciona acreditación del perito y estándares científicos como criterios, sin desarrollar cómo verificarlos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

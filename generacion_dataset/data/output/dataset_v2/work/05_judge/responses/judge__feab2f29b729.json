@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0072_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Expone los criterios contrapuestos sobre testimonio de oídas y corroboración del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0072_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "si",
+      "rationale": "Explica la disidencia por falta de corroboración objetiva y testimonio indirecto."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

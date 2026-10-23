@@ -1,0 +1,61 @@
+{
+ "questions": [
+  {
+   "query": "El abogado del que abusó de mi hija insiste en que se vean cara a cara. ¿El juez está obligado a aceptarlo?",
+   "topic": "doctrina_jurisprudencial",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo04_jp_00163_e0006_01",
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "La sentencia señala el carácter excepcional del careo y el art. 182 limita su procedencia con menores.",
+   "expected_answer_focus": "Que el careo es excepcional y no procede con víctima menor de catorce salvo pedido expreso de su representante.",
+   "victim_voice_rationale": "Madre que teme un encuentro traumático."
+  },
+  {
+   "query": "Mi hija tiene doce años y el agresor pide enfrentarla. ¿La pueden obligar a verlo de frente?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "El art. 182.3 prohíbe el careo con víctima menor de catorce salvo solicitud expresa de su representante.",
+   "expected_answer_focus": "Que no procede con menores de catorce salvo pedido de quien la representa o su defensa.",
+   "victim_voice_rationale": "Preocupación por revictimizar a la hija."
+  },
+  {
+   "query": "Mi hija tuvo que contar lo que le hicieron. ¿Se puede grabar su relato con una psicóloga para que no lo repita en el juicio?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "preocupacion_hijos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_242_01"
+   ],
+   "positive_selection_reason": "El art. 242.1.d permite declaración anticipada de menores agraviados con psicólogos y grabación.",
+   "expected_answer_focus": "Prueba anticipada de menores en cámara Gesell, con especialistas y grabada para evitar revictimización.",
+   "victim_voice_rationale": "Madre que quiere evitar que su hija repita el trauma."
+  },
+  {
+   "query": "Me están presionando para que cambie lo que dije y temo no llegar al juicio. ¿Se puede adelantar mi declaración?",
+   "topic": "pruebas_y_certificados",
+   "barrier": "miedo_agresor",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_242_01"
+   ],
+   "positive_selection_reason": "El art. 242 permite prueba anticipada cuando hay violencia, amenaza u ofertas para no declarar o declarar falsamente.",
+   "expected_answer_focus": "Que se puede pedir al juez actuar la testimonial antes del juicio ante amenazas o presiones.",
+   "victim_voice_rationale": "Víctima presionada que busca asegurar su testimonio."
+  },
+  {
+   "query": "Lo que dije y lo que dijo mi vecino se contradice en varias cosas. ¿El juez puede juntarnos para aclarar quién tiene razón?",
+   "topic": "procedimiento_penal",
+   "barrier": "desconocimiento_derechos",
+   "positive_candidate_ids": [
+    "chunk_tipo03_cpp_art_182_01"
+   ],
+   "positive_selection_reason": "El art. 182 establece cuándo procede el careo ante contradicciones importantes entre agraviado y testigos.",
+   "expected_answer_focus": "Que procede entre agraviados, testigos e imputado ante contradicciones importantes.",
+   "victim_voice_rationale": "Duda sobre qué hace el juez con versiones distintas."
+  }
+ ],
+ "_model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Regula el interrogatorio y preguntas útiles para valorar el testimonio, sin precisar los criterios de credibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "Evalúa riesgo de violencia doméstica y no la credibilidad de una niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo recibir la declaración infantil, pero no cómo valorar su veracidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Describe fines de la pena sin tratar la prueba."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la retractación ante psicólogos, sin desarrollar el examen inicial de credibilidad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "si",
+      "rationale": "Expone coherencia, persistencia y corroboración psicológica para valorar el relato infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Contiene reglas generales de valoración, sin el examen específico del relato de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "Regula complicidad y no valoración testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "Regula revisión de sentencias y no credibilidad del relato infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Precisa seguridad, claridad, ausencia de contradicciones y corroboración periférica del relato."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "si",
+      "rationale": "Explica el peso de contradicciones, persistencia y corroboraciones al valorar una denuncia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "parcial",
+      "rationale": "Delimita el contenido testimonial, sin criterios de credibilidad infantil."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves sin tratar la prueba del abuso."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica la evaluación del relato y su corroboración mediante pruebas periféricas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

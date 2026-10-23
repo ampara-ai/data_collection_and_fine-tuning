@@ -1,0 +1,89 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "Regula duración de detenciones, no el derecho de familiares a conocer la verdad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Expone deber de investigación efectiva y reparación, pero se centra en evitar revictimización sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "Regula prueba judicial de oficio, no el derecho familiar a una investigación oportuna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Establece responsabilidad por investigación deficiente de una muerte con enfoque de género, sin desarrollar el derecho familiar a la verdad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficios de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho de familiares a conocer la verdad y exige investigación diligente en plazo razonable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica agresiones a mujeres y familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Resuelve demora de una audiencia de detenido, no el derecho de familiares de una persona asesinada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias de los juzgados sin reconocer el derecho a la verdad consultado."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "Regula entrevista única de la víctima."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "Regula desalojo preventivo por usurpación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica exigencias de investigación diligente de una muerte, pero no el derecho de familiares a conocer la verdad en plazo razonable."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00381_e0011_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por investigación prolongada y respuesta insuficiente a familiares de un adolescente muerto por un policía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

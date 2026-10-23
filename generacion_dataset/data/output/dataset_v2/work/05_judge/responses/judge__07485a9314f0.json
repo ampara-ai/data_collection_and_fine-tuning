@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_157_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "si",
+      "rationale": "Permite acreditar los hechos por cualquier medio lícito, sin limitar la prueba a documentos oficiales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_157_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "si",
+      "rationale": "Prohíbe métodos que alteren la voluntad o la capacidad de recordar, incluso con consentimiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

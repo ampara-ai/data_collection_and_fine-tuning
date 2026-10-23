@@ -1,0 +1,176 @@
+{
+ "results": [
+  {
+   "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi hija de 7 años vio cómo su papá me empujaba, pero recién lo contó pasado un tiempo. ¿Los jueces pueden dejar de creerle por haber hablado tarde?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "preocupacion_hijos",
+     "expected_answer_focus": "Que una niña declare tiempo después no hace que su palabra pierda valor por sí solo; hay que mirar el contexto de violencia y su afectación emocional."
+    },
+    {
+     "query": "¿Los jueces deben tener en cuenta que un niño que vio violencia en su casa puede demorar en contar lo que vio por miedo o trauma?",
+     "topic": "violencia_psicologica",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Al valorar el relato de la menor se debe considerar el contexto de violencia familiar y el daño emocional que pudo causar la demora."
+    },
+    {
+     "query": "Absolvieron a mi pareja después de que me tiraron desde un segundo piso, porque dijeron que faltaban pruebas. ¿Se puede lograr que se haga otro juicio?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema puede anular las sentencias absolutorias mal motivadas y ordenar un nuevo juicio oral con otros jueces."
+    },
+    {
+     "query": "Si anulan una sentencia que dejó libre al agresor, ¿los mismos jueces vuelven a juzgar o lo ve otro tribunal?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "El nuevo juicio oral se realiza por otro personal judicial distinto al que dictó las sentencias anuladas."
+    },
+    {
+     "query": "¿Cómo deben revisar los jueces todas las pruebas, como lo que dicen los peritos, los testigos y la niña, para decidir si hubo agresión?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "La prueba debe valorarse en conjunto y de forma razonable, integrando periciales y testimonios, y no cada una por separado."
+    },
+    {
+     "query": "Los jueces dijeron que la acusación no era clara y que no había pruebas suficientes. ¿Eso se puede cuestionar si no explicaron bien su decisión?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Una sentencia con motivación insuficiente o irracional puede ser casada y anulada, como ocurrió en este caso."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_415_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico de un recurso procesal contra decretos, sin pregunta natural para una víctima o familiar.",
+   "questions": []
+  },
+  {
+   "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi padrastro me amenazó con un arma y abusó de mí, y me quedaron marcas de chupetones. Los jueces dijeron que fue consentido. ¿Eso es posible?",
+     "topic": "violencia_sexual",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Las marcas en el cuello no prueban consentimiento; deben analizarse junto con la amenaza, la resistencia y la declaración de la víctima."
+    },
+    {
+     "query": "Tenía 16 años, me resistí pero cedí por miedo al arma de mi padrastro. ¿Eso cuenta como violencia aunque no haya gritado ni peleado?",
+     "topic": "violencia_sexual",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "Debe considerarse el contexto de violencia y amenaza con arma, y que la víctima cediera por temor no implica consentimiento."
+    },
+    {
+     "query": "El fiscal apeló porque absolvieron al agresor y los jueces no le respondieron sus argumentos. ¿Qué pasa con una decisión así?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "La Corte Suprema anula las decisiones que no responden a los agravios de las partes y ordena un nuevo juicio de apelación."
+    },
+    {
+     "query": "¿Los jueces pueden decir que no hubo violación solo porque las marcas parecen de una relación normal entre pareja?",
+     "topic": "doctrina_jurisprudencial",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "No pueden interpretar las lesiones de forma aislada; deben valorar la amenaza, la declaración de la víctima y el contexto."
+    },
+    {
+     "query": "Sentí vergüenza de denunciar porque tengo marcas que parecen de una relación consentida. ¿Mi declaración igual cuenta como prueba?",
+     "topic": "violencia_sexual",
+     "barrier": "verguenza",
+     "expected_answer_focus": "La declaración de la víctima debe ser valorada junto con el contexto de amenaza y violencia, no descartada por las marcas."
+    },
+    {
+     "query": "Si un tribunal absolvió al acusado y el caso se anuló, ¿se vuelve a hacer el juicio de apelación?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconfianza_sistema",
+     "expected_answer_focus": "Se anuló la sentencia de vista y se ordenó un nuevo juicio de apelación que atienda los agravios del Ministerio Público."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_211_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi agresor se niega a que le saquen sangre o le hagan pruebas de ADN para la investigación. ¿Lo pueden obligar aunque no quiera?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Con orden del juez, a pedido del fiscal, se pueden hacer pruebas de sangre o genéticas al acusado sin su consentimiento si el delito tiene pena mayor de cuatro años."
+    },
+    {
+     "query": "¿Quién decide si al denunciado se le hacen exámenes en el cuerpo para investigar lo que me hizo?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "no_sabe_como_denunciar",
+     "expected_answer_focus": "El juez a solicitud del fiscal, y en casos urgentes el fiscal puede ordenarlo y luego pedir la confirmación judicial."
+    },
+    {
+     "query": "Hay urgencia porque se podrían perder las huellas en el cuerpo del agresor. ¿Hay que esperar la orden de un juez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Si hay urgencia o peligro por la demora, el fiscal puede ordenar el examen y pedir de inmediato la confirmación del juez."
+    },
+    {
+     "query": "¿La policía puede sacarle un poquito de sangre o cabello al sospechoso sin permiso de un juez?",
+     "topic": "pruebas_y_certificados",
+     "barrier": "otro",
+     "expected_answer_focus": "Solo mínimas intervenciones sin riesgo para la salud, con conocimiento del fiscal; si son riesgosas se requiere orden judicial y dictamen pericial."
+    },
+    {
+     "query": "Si la sospechosa es una mujer y el examen de su cuerpo le da vergüenza, ¿puede pedir que esté presente otra mujer o un familiar?",
+     "topic": "procedimiento_penal",
+     "barrier": "verguenza",
+     "expected_answer_focus": "A petición de la mujer examinada, se debe admitir a otra mujer o a un familiar cuando el examen pueda ofender su pudor."
+    },
+    {
+     "query": "¿El abogado del denunciado puede estar presente cuando le hacen estos exámenes y qué pasa si no va?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "El abogado defensor debe estar presente, salvo que no concurra tras ser citado o haya peligro para la prueba; entonces puede acudir una persona de confianza, y todo consta en acta."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_293_01",
+   "skip": false,
+   "skip_reason": "",
+   "questions": [
+    {
+     "query": "Mi pareja violenta tiene problemas mentales graves y es peligroso. ¿Pueden internarlo en un hospital psiquiátrico mientras lo investigan?",
+     "topic": "medidas_proteccion",
+     "barrier": "miedo_agresor",
+     "expected_answer_focus": "El juez puede ordenar el internamiento en un establecimiento psiquiátrico si un peritaje comprueba una grave alteración mental que lo hace peligroso."
+    },
+    {
+     "query": "¿Qué tiene que demostrarse para que internen al agresor en un psiquiátrico en lugar de dejarlo libre?",
+     "topic": "procedimiento_penal",
+     "barrier": "desconocimiento_derechos",
+     "expected_answer_focus": "Pruebas de que probablemente cometió el hecho, que podría recibir una medida de internación y que no se someterá al proceso o obstruirá la investigación."
+    },
+    {
+     "query": "Si el agresor está tan mal de salud mental que no entiende lo que hizo, ¿igual lo juzgan o lo mandan a un centro de salud?",
+     "topic": "sancion_penal_al_agresor",
+     "barrier": "duda_si_es_delito",
+     "expected_answer_focus": "Si es inimputable, el juez informa al juzgado penal competente para que decida sobre su inimputabilidad e internación."
+    },
+    {
+     "query": "¿El denunciado tiene que presentarse a la audiencia si está enfermo? ¿Quién lo representa?",
+     "topic": "procedimiento_penal",
+     "barrier": "otro",
+     "expected_answer_focus": "No es necesaria su presencia si su salud no lo permite, pero sí la de su defensor, y puede ser representado por un familiar."
+    }
+   ]
+  },
+  {
+   "chunk_id": "chunk_tipo03_cpp_art_495_01",
+   "skip": true,
+   "skip_reason": "Trámite técnico-registral sobre ejecución de sentencias de falsedad de documentos públicos, sin relación directa con una pregunta natural de una víctima.",
+   "questions": []
+  }
+ ]
+}

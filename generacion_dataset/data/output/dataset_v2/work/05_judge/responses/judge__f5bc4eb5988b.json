@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00252_e0001::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Establece la entrevista única de menores como prueba anticipada en ambiente privado y seguro."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Prevé psicólogos especializados, cámara Gesell y grabación para evitar revictimización."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 437. Procedencia y efectos no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 176-B.- Acoso sexual no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Prohíbe el careo con víctimas menores de catorce años salvo solicitud expresa de su representante o defensa."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Casación 603-2019, Piura, ff. jj. 2-3 no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 427. Procedencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 497. Regla general, excepción y recurso no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Regula garantías y documentación de prueba anticipada, sin resolver directamente la negativa posterior a declarar."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 361. Oralidad y registro no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 88. Desarrollo de la declaración no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Admite valorar la entrevista incorporada válidamente y sometida a contradicción sin repetirla como única prueba."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Otorga carácter de prueba anticipada a la entrevista única, sin regular su incorporación posterior al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 404.- Encubrimiento personal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 457. Reglas especiales no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Distingue actos de investigación y prueba anticipada, sin resolver por sí solo el uso de esa grabación concreta."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 83.- Interrupción de la prescripción de la acción penal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones grabadas para evitar revictimización, sin especificar su incorporación al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "si",
+      "rationale": "Reconoce la entrevista única como prueba preconstituida apta para el proceso."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "si",
+      "rationale": "Reconoce valor de prueba para sentencia a pruebas anticipadas y actuaciones irreproducibles incorporables al juicio."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q04",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Aclara que omitir el trámite de prueba anticipada no invalida automáticamente la entrevista si existen garantías."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q05",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Enumera requisitos del recurso de casación y el plazo de veinte días para resolver su admisión."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q06",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Describe una sentencia que impuso reparación civil de cinco mil soles a favor de la menor."
+    },
+    {
+      "dataset_id": "case::jp_00252_e0001::q07",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "si",
+      "rationale": "Describe abusos reiterados a una menor de catorce años y confirma cadena perpetua."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "si",
+      "rationale": "Reconoce expresamente el derecho de las mujeres a una vida libre de violencia y discriminación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 45-A.- Individualización de la pena no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15.- Error de comprensión culturalmente condicionado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce igualdad de protección frente a violencia doméstica, pero no desarrolla estereotipos de inferioridad en el hogar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza estereotipos estatales que justifican violencia y culpabilizan, sin resolver directamente la subordinación doméstica alegada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 71. Derechos del imputado no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a estar libre de patrones basados en inferioridad y subordinación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe estereotipos discriminatorios en operadores judiciales, sin definir el derecho general en relaciones familiares."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Dinámica de violencia doméstica para evaluar riesgo [Kurt vs. Austria] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo I. Justicia Penal no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo IX. Derecho de Defensa no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 79. Contumacia y Ausencia no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "si",
+      "rationale": "Extiende el derecho a una vida libre de violencia a todos los integrantes del grupo familiar."
+    },
+    {
+      "dataset_id": "train::chunk_tipo01_ley30364_art_9_01::q04",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "si",
+      "rationale": "Reconoce protección frente a discriminación, estigmatización y estereotipos de inferioridad."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_154-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 294. Internamiento previo para observación y examen no resuelve la cuestión planteada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_291_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "si",
+      "rationale": "Dispone prescindir de restricciones cuando la sanción es leve o la investigación no las justifica."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_291_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "si",
+      "rationale": "Prevé conducción compulsiva policial por incumplimiento de comparecencia a declaración u otras diligencias."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_291_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "si",
+      "rationale": "Autoriza conducción compulsiva para asegurar asistencia a diligencias ante incumplimiento de comparecencia."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_291_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "si",
+      "rationale": "Explica que se prescinde de restricciones si los actos de investigación no las justifican."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

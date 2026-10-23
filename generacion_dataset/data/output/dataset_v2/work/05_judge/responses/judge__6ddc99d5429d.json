@@ -1,0 +1,167 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "si",
+      "rationale": "Tipifica la destrucción de bienes total o parcialmente ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas para resguardar bienes de la víctima, sin tipificar su destrucción."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No tipifica el daño intencional de bienes ajenos."
+    },
+    {
+      "dataset_id": "train::chunk_tipo02_cp_art_205_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "si",
+      "rationale": "Sanciona destruir o inutilizar bienes ajenos con prisión y multa."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "si",
+      "rationale": "Exige respetar las características culturales de las víctimas en investigaciones de violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00138_e0096_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece el respeto de la cultura de víctimas indígenas al investigar violencia sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

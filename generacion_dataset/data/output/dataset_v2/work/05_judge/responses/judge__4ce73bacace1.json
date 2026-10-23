@@ -1,0 +1,251 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "case::jp_00051_e0007::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "si",
+      "rationale": "Exige que la violencia familiar se produzca en una relación de responsabilidad, confianza o poder."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00199-2018-0 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 53. Inhibición no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 122. Lesiones leves aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige contexto de violencia familiar y una relación asimétrica, sin considerar suficiente el parentesco."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00039-2018-57 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 170. Desarrollo del interrogatorio no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 442.- Maltrato no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 210. Registro de personas no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 352. Decisiones adoptadas en la audiencia preliminar no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "si",
+      "rationale": "Regula las excepciones de improcedencia de acción, cosa juzgada y prescripción y sus efectos de sobreseimiento."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "parcial",
+      "rationale": "El texto sobre Artículo 7. Oportunidad de los medios de defensa aporta contexto relacionado, pero no contiene la información central consultada."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q04",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "si",
+      "rationale": "Tipifica las agresiones familiares, fija penas y contempla agravantes por armas, presencia de menores e incumplimiento de protección."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q05",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece las penas de lesiones graves familiares e incluye la ebriedad entre las circunstancias agravantes."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q06",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige contexto de violencia familiar y una relación asimétrica, sin considerar suficiente el parentesco."
+    },
+    {
+      "dataset_id": "case::jp_00051_e0007::q06",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "parcial",
+      "rationale": "Exige que la violencia familiar se produzca en una relación de responsabilidad, confianza o poder; aporta información relacionada, pero no resuelve íntegramente la cuestión específica consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Admite citaciones urgentes por teléfono o correo y regula quién cita y el conducto jerárquico para policías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Admite citaciones urgentes por teléfono o correo y regula quién cita y el conducto jerárquico para policías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 36. Inhabilitación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre jp_00395_e0003 no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-G.- Gestión de la explotación sexual no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 144. Caducidad no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Admite citaciones urgentes por teléfono o correo y regula quién cita y el conducto jerárquico para policías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 334. Calificación no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 163. Obligaciones del testigo no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 245. Audiencia de prueba anticipada no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q03",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 425.- Funcionario o servidor público no aporta la regla ni los hechos necesarios para responder esta pregunta."
+    },
+    {
+      "dataset_id": "train::chunk_tipo03_cpp_art_129_01::q04",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "si",
+      "rationale": "Admite citaciones urgentes por teléfono o correo y regula quién cita y el conducto jerárquico para policías."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0038_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la descalificación del testimonio tardío infantil y exige valoración conjunta y racional, ordenando nuevo juicio ante otros jueces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0038_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la descalificación del testimonio tardío infantil y exige valoración conjunta y racional, ordenando nuevo juicio ante otros jueces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0038_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la descalificación del testimonio tardío infantil y exige valoración conjunta y racional, ordenando nuevo juicio ante otros jueces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0038_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la descalificación del testimonio tardío infantil y exige valoración conjunta y racional, ordenando nuevo juicio ante otros jueces."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00118_e0038_01::q05",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "si",
+      "rationale": "Cuestiona la descalificación del testimonio tardío infantil y exige valoración conjunta y racional, ordenando nuevo juicio ante otros jueces."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

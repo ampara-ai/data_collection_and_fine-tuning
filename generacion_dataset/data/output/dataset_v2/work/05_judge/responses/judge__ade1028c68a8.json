@@ -1,0 +1,173 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones graves agravadas, no valoración de retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula presencia de partes en juicio, no credibilidad de una retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata excepcionalidad del careo en España, no influencia familiar en la retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula indicios delictivos en procesos extrapenales, no retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Tipifica lesiones leves, no prueba de tocamientos ni retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata casación y validez de pericias o cámara Gesell, no retractación por influencia paterna."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición, ajena a la prueba consultada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula el proceso por faltas, no retractación en delitos sexuales."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "Fija agravantes de delitos sexuales sin tratar retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige examinar si el acercamiento del padre acusado influyó en la declaración exculpatoria de la niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar conjuntamente el testimonio infantil y el contexto familiar, pero trata testimonio tardío y no retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula transformación de un proceso de seguridad, no retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata desvinculación del tipo penal y una declaración persistente, no retractación por presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula concurrencia de las partes al juicio, no el análisis de retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula declaración del acusado, no retractación de una niña."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Anula una absolución porque no se examinó la posible influencia paterna en la retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula garantías para recoger la declaración infantil, sin fijar cómo valorar una retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio, no retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula revocación del régimen de prueba, no valoración testimonial."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "Describe efectos de nulidades sin establecer cómo valorar una retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Regula apertura del juicio y derechos del acusado, no retractaciones."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "Examina ausencia de ADN, no presión sobre una niña que cambia su versión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Resuelve validez formal de cámara Gesell, no retractaciones por presión."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Examina violencia requerida para el acceso carnal, no cambio de versión en juicio."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Exige análisis lógico de versiones y evita considerar detalles nuevos como incoherencias, pero no aborda presión en una retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Prevé interrogatorio sin presiones y confrontación con declaraciones anteriores, sin resolver la absolución ante retractación."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q03",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Describe una casación fiscal fundada que anuló la absolución basada en una retractación mal evaluada."
+    },
+    {
+      "dataset_id": "train::chunk_tipo04_jp_00149_e0007_01::q04",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige examinar influencia familiar cuando el padre es el acusado, pero no aborda específicamente al padre como denunciante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}
