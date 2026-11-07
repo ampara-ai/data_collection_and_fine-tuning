@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-22T00:21:05.439930+00:00",
+ "generated_at": "2026-11-06T22:52:32.587455+00:00",
  "prompt_version": "v2-chunk-holdout-same-type-negatives-judged",
  "seed": 520,
- "generator_model": "anthropic/claude-sonnet-5.5",
- "judge_model": "anthropic/claude-sonnet-5.5",
+ "generator_model": [
+  "anthropic/claude-sonnet-5.5",
+  "claude-sonnet-4-5",
+  "claude-sonnet-5-5"
+ ],
+ "judge_model": [
+  "gpt-6.1-sol"
+ ],
  "inputs_sha256": {
   "document_chunks_all": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
   "chunk_split": "7f5e3854b67d26b3c1561326baeda76081386bb7e1b452e756cbb0324b1e0f59"
  },
  "outputs_sha256": {
   "training.json": "c9b9a95f9bcb879a4f53ed2a3c1915c56803b0485d1e93cbb287d2efad5b22f8",
-  "eval_dev_dataset.jsonl": "6dc639eef99d7fa7d0c48cdb7797431ee38999e7806a2f29bfe1771b2b71a13d",
-  "eval_test_dataset.jsonl": "3c0ba866883751c3f030e8de967ac26125ee9002f3d98e6c0939ee71016c6b64"
+  "eval_dev_dataset.jsonl": "4c0dfb4b75e7aed5a7d9ebf51b59e74db9412c742d0127c69f596402ed120c46",
+  "eval_test_dataset.jsonl": "2f91f07eae938f38eef008b4a2764d21609d4208578c99013e454b88692aef73"
  },
  "params": {
   "TEST_FRAC": 0.2,
