@@ -1,0 +1,3 @@
+# Archivos generados por build_naive_dataset.py (deterministas): se regeneran, no se versionan.
+*.json
+!build_report.json

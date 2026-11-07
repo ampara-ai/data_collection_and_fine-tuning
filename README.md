@@ -20,7 +20,7 @@ creating train/test files grouped by court decision.
 │   ├── data/input/         # Inputs copied from recoleccion
 │   ├── data/intermediate/  # PDFs, summaries, and candidate data
 │   └── data/output/        # Questions and training triples
-├── entrenamiento/          # Train/test preparation and experiment notebooks
+├── entrenamiento/          # v2 training (paper) and legacy v1 material
 ├── pyproject.toml          # Python project and dependencies
 └── uv.lock                 # Locked dependency versions
 ```
@@ -31,7 +31,7 @@ The repository is divided into three stages:
 |---|---|
 | [`recoleccion/`](recoleccion/README.md) | Collect and normalize legal sources, case law, and institutional documents |
 | [`generacion_dataset/`](generacion_dataset/README.md) | Build candidate sets and generate colloquial legal questions |
-| [`entrenamiento/`](entrenamiento/README.md) | Create the sentence-level train/test split and model-ready files |
+| [`entrenamiento/`](entrenamiento/README.md) | Train BGE-M3 on dataset v2 (`v2/`); the v1 split by court decision is kept in `legacy_v1/` |
 
 ## Data sources
 
@@ -77,7 +77,7 @@ PYTHONPATH=recoleccion/data_types/tipo_03_codigo_procesal_penal/src \
   -s recoleccion/data_types/tipo_03_codigo_procesal_penal/tests -v
 
 uv run --frozen python generacion_dataset/scripts/audit_candidate_resolution.py
-uv run --frozen python entrenamiento/scripts/audit_training_split.py
+uv run --frozen python entrenamiento/legacy_v1/scripts/audit_training_split.py
 uv run --frozen python scripts/audit_markdown_links.py
 ```
 
@@ -217,13 +217,15 @@ generacion_dataset/data/output/legal_questions_dataset/
 
 ## Prepare training and evaluation files
 
-The split is performed by `case_id`, so every question derived from the same
-court decision remains entirely in either train or test.
+**The paper uses dataset v2**, built by `generacion_dataset/pipeline_v2/` with a split by chunk made before any question
+is generated (`dataset_v2/chunk_split.json`), and trained with [`entrenamiento/v2/`](entrenamiento/v2/README.md).
+The commands below are the legacy v1 split by `case_id` (800 training rows, 100 test questions); they are kept for
+history and do not produce the paper's data.
 
 ```bash
-uv run --frozen python entrenamiento/scripts/preprocesing_dataset.py \
+uv run --frozen python entrenamiento/legacy_v1/scripts/preprocesing_dataset.py \
   --input generacion_dataset/data/output/legal_questions_dataset/training_triples.jsonl \
-  --output entrenamiento/data \
+  --output entrenamiento/legacy_v1/data \
   --test_size 0.1 \
   --seed 520
 ```
@@ -231,7 +233,7 @@ uv run --frozen python entrenamiento/scripts/preprocesing_dataset.py \
 Outputs:
 
 ```text
-entrenamiento/data/
+entrenamiento/legacy_v1/data/
 ├── training.json
 ├── corpus.jsonl
 ├── test_queries.jsonl
@@ -251,7 +253,8 @@ These commands access external services or replace generated files:
 | `download_pdf_candidates.py` | Downloads candidate court-decision PDFs |
 | `run_resumeai_batch.py` | Sends PDFs to ResumeAI-Legal |
 | `generate_colloquial_legal_questions.py` | Calls OpenRouter and rewrites dataset outputs |
-| `preprocesing_dataset.py` | Rewrites files under `entrenamiento/data/` |
+| `preprocesing_dataset.py` | Rewrites files under `entrenamiento/legacy_v1/data/` |
+| `entrenamiento/v2/run_training.sh` | Fine-tunes BGE-M3 on a GPU and writes a run folder |
 
 LP Derecho is an operational source. When an authoritative current legal text
 is required, compare it against the corresponding official publication.
