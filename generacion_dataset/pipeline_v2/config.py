@@ -25,7 +25,8 @@ PROMPT_VERSION = "v2-chunk-holdout-same-type-negatives-judged"
 
 # --- Modelos (en modo "session" son informativos: quedan registrados en cada fila) ---
 GENERATOR_MODEL = "anthropic/claude-sonnet-5.5"       # vía OpenRouter
-JUDGE_MODEL = "anthropic/claude-sonnet-5.5"           # idealmente otro modelo/familia que el generador
+JUDGE_MODEL = "openai/gpt-6.1-sol"                    # juez independiente (otra familia que el generador); el juez real
+                                                     # de cada veredicto queda en judgments.jsonl (campo judge_model)
 GEN_TEMPERATURE = 0.4
 JUDGE_TEMPERATURE = 0.0
 

@@ -56,6 +56,8 @@ train_q = load("case_questions.jsonl", "chunk_questions_train.jsonl")
 eval_q = {"dev": load("chunk_questions_dev.jsonl"), "test": load("chunk_questions_test.jsonl")}
 negs = {r["dataset_id"]: r for r in load("negatives.jsonl")}
 J = {(r["dataset_id"], r["chunk_id"]): r["relevance"] for r in load("judgments.jsonl")}
+# modelo que emitió cada veredicto: la procedencia se toma de los juicios, no de config.JUDGE_MODEL
+JM = {(r["dataset_id"], r["chunk_id"]): r["judge_model"] for r in load("judgments.jsonl")}
 problems, report = [], Counter()
 
 # ----------------------------------------------------------------- entrenamiento
@@ -129,7 +131,7 @@ for s, qs in eval_q.items():
                      "positive_chunk_ids": q["positive_chunk_ids"],
                      "positive_source_types": sorted({p["source_type"] for p in pcs}), "positive_chunks": pcs,
                      "generation": {"method": "llm_synthetic_from_chunk", "generator": q["generator_model"],
-                                    "judge": config.JUDGE_MODEL, "split": s, "seen_in_training": False,
+                                    "judge": JM.get((q["dataset_id"], origin), config.JUDGE_MODEL), "split": s, "seen_in_training": False,
                                     "qrels_complete": False, "lexical_overlap": q["lexical_overlap"],
                                     "prompt_version": q["prompt_version"]}})
     eval_out[s] = kept
@@ -209,7 +211,10 @@ cov = {
 write_json(out_dir / "build_report.json", {"cobertura": cov, "contadores": dict(report), "problemas": problems})
 write_json(out_dir / "manifest.json", {
     "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(), "prompt_version": config.PROMPT_VERSION,
-    "seed": config.SEED, "generator_model": config.GENERATOR_MODEL, "judge_model": config.JUDGE_MODEL,
+    "seed": config.SEED,
+    # modelos realmente usados (los registra cada pregunta y cada veredicto), no los valores por defecto de config.py
+    "generator_model": sorted({q["generator_model"] for q in final_q} | {r["generation"]["generator"] for rs in eval_out.values() for r in rs}),
+    "judge_model": sorted({r["judge_model"] for r in load("judgments.jsonl")}),
     "inputs_sha256": {"document_chunks_all": sha256_file(Path(args.chunks)), "chunk_split": sha256_file(out_dir / "chunk_split.json")},
     "outputs_sha256": {n: sha256_file(out_dir / n) for n in ["training.json", "eval_dev_dataset.jsonl", "eval_test_dataset.jsonl"]},
     "params": {k: getattr(config, k) for k in ["TEST_FRAC", "DEV_FRAC", "CHUNK_QUESTIONS", "MAX_LEXICAL_OVERLAP", "N_NEG_SELECT",
