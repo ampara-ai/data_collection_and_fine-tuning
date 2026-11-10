@@ -7,7 +7,7 @@ Estructura de entrada (training_triples.jsonl):
     {"id": str, "query": str, "pos": List[str] | str, "neg": List[str],
      "prompt": str, "case_id": str, ...campos_extra}
 
-Archivos de salida en entrenamiento/data/:
+Archivos de salida en entrenamiento/legacy_v1/data/:
     training.json       → casos de entrenamiento (formato FlagEmbedding)
     test_queries.jsonl  → queries de casos de test  {"id", "text", "case_id"}
     corpus.jsonl        → todos los positivos       {"id", "text", "case_id"}
@@ -18,9 +18,9 @@ El split se realiza por ``case_id``: todas las preguntas derivadas de una misma
 sentencia quedan exclusivamente en entrenamiento o exclusivamente en test.
 
 Uso:
-    python entrenamiento/scripts/preprocesing_dataset.py \
+    python entrenamiento/legacy_v1/scripts/preprocesing_dataset.py \
         --input  generacion_dataset/data/output/legal_questions_dataset/training_triples.jsonl \
-        --output entrenamiento/data \
+        --output entrenamiento/legacy_v1/data \
         --test_size 0.1 \
         --seed 520
 """
@@ -295,7 +295,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("entrenamiento/data"),
+        default=Path("entrenamiento/legacy_v1/data"),
         help="Directorio de salida para los archivos generados.",
     )
     parser.add_argument(
