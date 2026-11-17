@@ -55,7 +55,10 @@ def main() -> None:
     train_chunks = sorted(c for c, s in split["assignments"].items() if s == "train")
     group = {c: set(g) for g in split["duplicate_groups"] for c in g}
     full = read_jsonl(DV2 / "training.json")
-    prompt = full[0].get("prompt")
+    # Prompt de consulta de ENTRENAMIENTO vacío: en FlagEmbedding (same_dataset_within_batch) la consulta se arma como
+    # "{prompt}{query}" aunque no se pase query_instruction_for_retrieval, y si la clave falta entra el texto "None". Con "" la
+    # consulta entra limpia, igual que en producción (el sistema desplegado no antepone ningún prefijo).
+    prompt = ""
 
     naive, problems = [], []
     for q in sorted(read_jsonl(DV2 / "chunk_questions_train.jsonl"), key=lambda r: r["dataset_id"]):
@@ -66,12 +69,12 @@ def main() -> None:
         row = {"id": f"naive::{q['dataset_id']}", "dataset_id": q["dataset_id"], "query": q["query"],
                "pos": [corpus[pos]["text"]], "neg": [corpus[c]["text"] for c in neg],
                "pos_chunk_ids": [pos], "neg_chunk_ids": neg, "source": "naive_chunk"}
-        if prompt is not None:
-            row["prompt"] = prompt  # misma clave que training.json (FlagEmbedding la ignora sin query_instruction_for_retrieval)
+        row["prompt"] = prompt
         naive.append(row)
 
     rng = random.Random(SEED)
     matched = sorted(rng.sample(full, len(naive)), key=lambda r: r["id"])
+    matched = [{**r, "prompt": prompt} for r in matched]   # dataset_v2/training.json trae el prefijo de BGE; aquí se vacía
 
     for name, rows in (("naive", naive), ("full_matched", matched)):
         for r in rows:
@@ -89,7 +92,7 @@ def main() -> None:
     write_jsonl(out / "training_naive.json", naive)
     write_jsonl(out / "training_full_matched.json", matched)
     report = {
-        "seed": SEED, "rows": len(naive), "n_neg": args.n_neg,
+        "seed": SEED, "rows": len(naive), "n_neg": args.n_neg, "query_prompt": prompt,
         "naive": {"questions": len({r["dataset_id"] for r in naive}), "distinct_positives": len({r["pos_chunk_ids"][0] for r in naive}),
                   "positive_source_types": dict(Counter(corpus[r["pos_chunk_ids"][0]]["source_type"] for r in naive))},
         "full_matched": {"from": "dataset_v2/training.json", "full_rows": len(full),
