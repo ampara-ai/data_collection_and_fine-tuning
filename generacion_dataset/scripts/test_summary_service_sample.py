@@ -11,17 +11,17 @@ TIPO04_SRC = ROOT / "recoleccion" / "data_types" / "tipo_04_jurisprudencia" / "s
 if str(TIPO04_SRC) not in sys.path:
     sys.path.insert(0, str(TIPO04_SRC))
 
-from legal_data.resumeai_client import (  # type: ignore
-    ResumeAILegalAnalysisRequest,
-    analyze_pdf_with_resumeai_legal,
+from legal_data.summary_service_client import (  # type: ignore
+    SummaryAnalysisRequest,
+    analyze_pdf_with_summary_service,
     persist_enriched_case,
 )
 
 GEN_DIR = ROOT / "generacion_dataset"
 INTERMEDIATE_DIR = GEN_DIR / "data" / "intermediate"
-SAMPLE_DIR = INTERMEDIATE_DIR / "resumeai_sample"
+SAMPLE_DIR = INTERMEDIATE_DIR / "summary_service_sample"
 INPUT_JSON = INTERMEDIATE_DIR / "pdf_download_manifest_217.json"
-SUMMARY_JSON = SAMPLE_DIR / "resumeai_sample_summary.json"
+SUMMARY_JSON = SAMPLE_DIR / "summary_service_sample_summary.json"
 
 
 def pick_target(items: list[dict], entry_id: str | None = None) -> dict:
@@ -38,13 +38,13 @@ def pick_target(items: list[dict], entry_id: str | None = None) -> dict:
 
 def main() -> None:
     entry_id = sys.argv[1] if len(sys.argv) > 1 else None
-    api_base_url = os.environ.get("RESUMEAI_API_BASE_URL", "http://127.0.0.1:8000")
-    similarity_threshold = float(os.environ.get("RESUMEAI_SIMILARITY_THRESHOLD", "0.85"))
+    api_base_url = os.environ.get("SUMMARY_SERVICE_API_BASE_URL", "http://127.0.0.1:8000")
+    similarity_threshold = float(os.environ.get("SUMMARY_SERVICE_SIMILARITY_THRESHOLD", "0.85"))
 
     items = json.loads(INPUT_JSON.read_text(encoding="utf-8"))
     target = pick_target(items, entry_id=entry_id)
 
-    request = ResumeAILegalAnalysisRequest(
+    request = SummaryAnalysisRequest(
         pdf_path=target["local_pdf_path"],
         source_url=target.get("entry_url"),
         title=target.get("title"),
@@ -54,7 +54,7 @@ def main() -> None:
         similarity_threshold=similarity_threshold,
     )
 
-    enriched = analyze_pdf_with_resumeai_legal(
+    enriched = analyze_pdf_with_summary_service(
         request,
         api_base_url=api_base_url,
         timeout_sec=1800,
@@ -71,8 +71,8 @@ def main() -> None:
         "api_base_url": api_base_url,
         "output_path": str(output_path),
         "factual_density_signals": enriched.factual_density_signals,
-        "resumeai_status": enriched.resumeai_run.status,
-        "run_id": enriched.resumeai_run.run_id,
+        "summary_service_status": enriched.summary_service_run.status,
+        "run_id": enriched.summary_service_run.run_id,
     }
     SUMMARY_JSON.write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False, indent=2))

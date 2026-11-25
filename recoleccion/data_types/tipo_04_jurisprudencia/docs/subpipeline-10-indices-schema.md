@@ -11,7 +11,7 @@ Llegar de forma controlada hasta este punto:
 5. resolver y descargar los PDFs de las entradas aceptadas.
 
 Todavía no incluye:
-- resumen con ResumeAI-Legal,
+- resumen con SummaryService,
 - construcción del JSON final `case + context`,
 - generación de dataset.
 
@@ -257,4 +257,4 @@ Al final de esta corrida de 10 índices deberíamos tener:
 - URLs PDF resueltas,
 - PDFs locales descargados.
 
-Ese es el punto correcto antes de pasar a resumen con ResumeAI-Legal.
+Ese es el punto correcto antes de pasar a resumen con SummaryService.

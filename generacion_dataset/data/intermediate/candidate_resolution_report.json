@@ -1,7 +1,7 @@
 {
   "check_type": "deterministic_candidate_resolution_no_llm",
   "resolver_version": "deterministic-legal-candidates-v1",
-  "case_id_source": "resumeai_case_files",
+  "case_id_source": "summary_service_case_files",
   "case_count": 178,
   "case_count_skipped_not_dataset_candidate": 33,
   "source_files": {

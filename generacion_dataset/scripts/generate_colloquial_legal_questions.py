@@ -34,7 +34,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 REPO_ROOT = PROJECT_ROOT.parent
 
 DEFAULT_CHUNKS_PATH = PROJECT_ROOT / "data" / "input" / "document_chunks_all.jsonl"
-DEFAULT_CASES_DIR = PROJECT_ROOT / "data" / "intermediate" / "resumeai_batch" / "cases"
+DEFAULT_CASES_DIR = PROJECT_ROOT / "data" / "intermediate" / "summary_service_batch" / "cases"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "data" / "output" / "legal_questions_dataset"
 DEFAULT_UPDATES_PATH = PROJECT_ROOT / "data" / "intermediate" / "jurisprudencia_chunk_updates.jsonl"
 DEFAULT_CONTEXT_UNITS_PATH = PROJECT_ROOT / "data" / "input" / "jurisprudence_context_units.json"
@@ -399,7 +399,7 @@ def resolve_case_jurisprudence(
 
     Fuente:
     - source_trace.resolution_reference_raw
-    - resumeai_run.resolution_reference_raw
+    - summary_service_run.resolution_reference_raw
 
     Match contra:
     - chunk["source_type"] == "tipo_04_jurisprudencia"
@@ -407,11 +407,11 @@ def resolve_case_jurisprudence(
     """
 
     source_trace = case_data.get("source_trace") or {}
-    resumeai_run = case_data.get("resumeai_run") or {}
+    summary_service_run = case_data.get("summary_service_run") or {}
 
     raw_resolution = (
         source_trace.get("resolution_reference_raw")
-        or resumeai_run.get("resolution_reference_raw")
+        or summary_service_run.get("resolution_reference_raw")
         or ""
     )
 
@@ -1451,7 +1451,7 @@ def parse_args() -> argparse.Namespace:
         "--cases-dir",
         type=Path,
         default=DEFAULT_CASES_DIR,
-        help="Carpeta con JSONs resumidos por ResumeAI.",
+        help="Carpeta con JSONs resumidos por SummaryService.",
     )
     parser.add_argument(
         "--output-dir",

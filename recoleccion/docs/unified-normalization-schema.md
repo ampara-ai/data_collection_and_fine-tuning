@@ -14,7 +14,7 @@ Definir una estructura común para todos los tipos de dato de `recoleccion/` de 
 
 # 1. Principio metodológico
 
-La fase de recolección debe producir una **base documental limpia y chunked**. Esta base es independiente de la fase posterior donde se seleccionan jurisprudencias con hechos ricos, se descargan PDFs y se usa `ResumeAI-Legal`.
+La fase de recolección debe producir una **base documental limpia y chunked**. Esta base es independiente de la fase posterior donde se seleccionan jurisprudencias con hechos ricos, se descargan PDFs y se usa `SummaryService`.
 
 Por tanto, la salida esperada aquí es una base homogénea de documentos normalizados y chunks, no todavía preguntas ni casos finales.
 
@@ -298,7 +298,7 @@ Todas las jurisprudencias deben entrar a la base documental chunked, tengan o no
 - opcional `jurisprudence_excerpt` si luego se necesita granularidad adicional
 
 ### Nota crítica
-Este resumen base documental **no** es el de `ResumeAI-Legal`.
+Este resumen base documental **no** es el de `SummaryService`.
 Es un resumen de retrieval hecho desde el HTML de LP Derecho.
 
 ---
@@ -368,7 +368,7 @@ Este pipeline llega hasta:
 No incluye todavía:
 - filtrado final de casos reales,
 - descarga obligatoria de PDFs para todas las jurisprudencias,
-- enriquecimiento con `ResumeAI-Legal`,
+- enriquecimiento con `SummaryService`,
 - generación de preguntas,
 - armado del dataset contrastivo.
 

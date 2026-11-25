@@ -9,8 +9,8 @@ Esta fase transforma jurisprudencia con hechos suficientemente detallados en eje
 | 1 | `prepare_base_inputs.py` | copia snapshots de `recoleccion/` | no | sí |
 | 2 | `filter_jurisprudence_candidates.py` | filtra casos de violencia con hechos | no | sí |
 | 3 | `download_pdf_candidates.py` | descarga resoluciones | sí | sí |
-| 4 | `test_resumeai_sample.py` | prueba un PDF contra ResumeAI-Legal | servicio externo | sí |
-| 5 | `run_resumeai_batch.py` | resume el lote y calcula elegibilidad | servicio externo | sí |
+| 4 | `test_summary_service_sample.py` | prueba un PDF contra SummaryService | servicio externo | sí |
+| 5 | `run_summary_service_batch.py` | resume el lote y calcula elegibilidad | servicio externo | sí |
 | 6 | `audit_candidate_resolution.py` | verifica candidatos sin LLM | no | no por defecto |
 | 7 | `generate_colloquial_legal_questions.py` | genera preguntas y selecciona positivos | LLM externo | sí |
 

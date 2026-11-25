@@ -8,7 +8,7 @@ SCRIPTS_V1 = ROOT / "scripts"                        # resolver y utilidades del
 # --- Insumos (los mismos que el pipeline v1) ---
 # Fuente de verdad del corpus: la salida consolidada de la fase de recolección (no la copia de data/input, que puede quedar vieja).
 CHUNKS_PATH = REPO / "recoleccion" / "data" / "processed" / "document_chunks_all.jsonl"
-CASES_DIR = ROOT / "data" / "intermediate" / "resumeai_batch" / "cases"
+CASES_DIR = ROOT / "data" / "intermediate" / "summary_service_batch" / "cases"
 CONTEXT_UNITS_PATH = ROOT / "data" / "input" / "jurisprudence_context_units.json"
 _PROC = REPO / "recoleccion" / "data_types"
 CP_ARTICLES_PATH = _PROC / "tipo_02_codigo_penal" / "data" / "processed" / "all_articles.json"

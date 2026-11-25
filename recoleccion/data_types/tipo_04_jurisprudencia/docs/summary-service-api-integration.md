@@ -1,8 +1,8 @@
-# Integración con ResumeAI-Legal API
+# Integración con SummaryService API
 
 ## Objetivo
 
-Usar `ResumeAI-Legal` como motor externo de análisis de PDFs jurídicos escaneados sin depender de paths compartidos entre máquinas.
+Usar `SummaryService` como motor externo de análisis de PDFs jurídicos escaneados sin depender de paths compartidos entre máquinas.
 
 ## Contrato de integración
 
@@ -10,7 +10,7 @@ Usar `ResumeAI-Legal` como motor externo de análisis de PDFs jurídicos escanea
 - el PDF por `multipart/form-data`
 - flags simples (`verbose`, `similarity_threshold`)
 
-`ResumeAI-Legal` responde con JSON que incluye:
+`SummaryService` responde con JSON que incluye:
 - `status`
 - `run_id`
 - `warnings`
@@ -21,17 +21,17 @@ Usar `ResumeAI-Legal` como motor externo de análisis de PDFs jurídicos escanea
 ## Cliente implementado
 
 Archivo:
-- `src/legal_data/resumeai_client.py`
+- `src/legal_data/summary_service_client.py`
 
 Funciones principales:
-- `analyze_pdf_with_resumeai_legal(...)`
+- `analyze_pdf_with_summary_service(...)`
 - `persist_enriched_case(...)`
 
 ## Output enriquecido local
 
-El cliente construye un objeto `ResumeAILegalEnrichedCase` con:
+El cliente construye un objeto `SummaryEnrichedCase` con:
 - `source_trace`
-- `resumeai_run`
+- `summary_service_run`
 - `report`
 - `metrics`
 - `factual_density_signals`
@@ -53,11 +53,11 @@ Se calculan heurísticas simples a partir de `legal_analysis`:
 
 1. filtrar tipos de jurisprudencia útiles,
 2. descargar PDF,
-3. enviar PDF a ResumeAI-Legal API,
+3. enviar PDF a SummaryService API,
 4. persistir respuesta enriquecida en `tipo_04`,
 5. decidir si el caso entra al JSON final `case + context`.
 
 ## Nota metodológica
 
-La API de `ResumeAI-Legal` enriquece y resume.
+La API de `SummaryService` enriquece y resume.
 La decisión final de aceptar o rechazar una jurisprudencia para dataset debe seguir viviendo en `peru-legal-rag-data`.

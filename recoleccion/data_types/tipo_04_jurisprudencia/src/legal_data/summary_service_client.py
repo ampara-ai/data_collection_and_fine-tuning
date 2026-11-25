@@ -9,7 +9,7 @@ import requests
 from pydantic import BaseModel, Field
 
 
-class ResumeAILegalAnalysisRequest(BaseModel):
+class SummaryAnalysisRequest(BaseModel):
     pdf_path: str | Path
     source_url: str | None = None
     title: str | None = None
@@ -19,7 +19,7 @@ class ResumeAILegalAnalysisRequest(BaseModel):
     similarity_threshold: float = 0.85
 
 
-class ResumeAILegalRunMetadata(BaseModel):
+class SummaryRunMetadata(BaseModel):
     status: Literal["success", "error"]
     run_id: str | None = None
     source_url: str | None = None
@@ -33,9 +33,9 @@ class ResumeAILegalRunMetadata(BaseModel):
     errors: list[str] = Field(default_factory=list)
 
 
-class ResumeAILegalEnrichedCase(BaseModel):
+class SummaryEnrichedCase(BaseModel):
     source_trace: dict[str, Any]
-    resumeai_run: ResumeAILegalRunMetadata
+    summary_service_run: SummaryRunMetadata
     report: dict[str, Any]
     metrics: dict[str, Any]
     factual_density_signals: dict[str, Any]
@@ -86,12 +86,12 @@ def _build_factual_density_signals(report: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def analyze_pdf_with_resumeai_legal(
-    request: ResumeAILegalAnalysisRequest,
+def analyze_pdf_with_summary_service(
+    request: SummaryAnalysisRequest,
     *,
     api_base_url: str = "http://127.0.0.1:8000",
     timeout_sec: int = 1800,
-) -> ResumeAILegalEnrichedCase:
+) -> SummaryEnrichedCase:
     pdf_path = Path(request.pdf_path)
     if not pdf_path.exists() or not pdf_path.is_file():
         raise FileNotFoundError(f"PDF no encontrado: {pdf_path}")
@@ -116,7 +116,7 @@ def analyze_pdf_with_resumeai_legal(
     warnings = payload.get("warnings", []) or []
     errors = payload.get("errors", []) or []
 
-    return ResumeAILegalEnrichedCase(
+    return SummaryEnrichedCase(
         source_trace={
             "source_url": request.source_url,
             "title": request.title,
@@ -124,7 +124,7 @@ def analyze_pdf_with_resumeai_legal(
             "jurisprudence_type": request.jurisprudence_type,
             "pdf_filename": pdf_path.name,
         },
-        resumeai_run=ResumeAILegalRunMetadata(
+        summary_service_run=SummaryRunMetadata(
             status=payload.get("status", "success"),
             run_id=payload.get("run_id"),
             source_url=request.source_url,
@@ -144,7 +144,7 @@ def analyze_pdf_with_resumeai_legal(
 
 
 def persist_enriched_case(
-    enriched_case: ResumeAILegalEnrichedCase,
+    enriched_case: SummaryEnrichedCase,
     *,
     output_path: str | Path,
 ) -> None:

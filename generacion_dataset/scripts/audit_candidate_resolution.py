@@ -24,7 +24,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 REPO_ROOT = PROJECT_ROOT.parent
 
 DEFAULT_CHUNKS_PATH = PROJECT_ROOT / "data" / "input" / "document_chunks_all.jsonl"
-DEFAULT_CASES_DIR = PROJECT_ROOT / "data" / "intermediate" / "resumeai_batch" / "cases"
+DEFAULT_CASES_DIR = PROJECT_ROOT / "data" / "intermediate" / "summary_service_batch" / "cases"
 DEFAULT_ELIGIBLE_CASES_MANIFEST = REPO_ROOT / "entrenamiento" / "data" / "split_manifest.json"
 DEFAULT_CONTEXT_UNITS_PATH = PROJECT_ROOT / "data" / "input" / "jurisprudence_context_units.json"
 DEFAULT_CP_ARTICLES_PATH = REPO_ROOT / "recoleccion" / "data_types" / "tipo_02_codigo_penal" / "data" / "processed" / "all_articles.json"
@@ -81,7 +81,7 @@ def build_report(args: argparse.Namespace) -> dict[str, Any]:
     if case_info:
         eligible_case_ids = [case_id for case_id, is_candidate in case_info if is_candidate]
         skipped_not_candidate = sum(not is_candidate for _, is_candidate in case_info)
-        case_id_source = "resumeai_case_files"
+        case_id_source = "summary_service_case_files"
     else:
         split_manifest = json.loads(args.eligible_cases_manifest.read_text(encoding="utf-8"))
         eligible_case_ids = sorted(
@@ -202,7 +202,7 @@ def parse_args() -> argparse.Namespace:
         "--eligible-cases-manifest",
         type=Path,
         default=DEFAULT_ELIGIBLE_CASES_MANIFEST,
-        help="Fallback versionado con train_cases/test_cases cuando no están los JSON de ResumeAI.",
+        help="Fallback versionado con train_cases/test_cases cuando no están los JSON de SummaryService.",
     )
     parser.add_argument("--cp-articles-path", type=Path, default=DEFAULT_CP_ARTICLES_PATH)
     parser.add_argument("--cpp-articles-path", type=Path, default=DEFAULT_CPP_ARTICLES_PATH)
