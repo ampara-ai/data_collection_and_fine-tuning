@@ -62,7 +62,7 @@ Install the locked environment from the repository root:
 uv sync --frozen
 ```
 
-Scripts that call OpenRouter or ResumeAI also require the corresponding values
+Scripts that call OpenRouter or SummaryService also require the corresponding values
 from [`.env.example`](.env.example). Do not commit `.env` or API keys.
 
 ## Local checks
@@ -251,7 +251,7 @@ These commands access external services or replace generated files:
 |---|---|
 | `run_recoleccion.py` | Downloads or updates source material |
 | `download_pdf_candidates.py` | Downloads candidate court-decision PDFs |
-| `run_resumeai_batch.py` | Sends PDFs to ResumeAI-Legal |
+| `run_summary_service_batch.py` | Sends PDFs to SummaryService |
 | `generate_colloquial_legal_questions.py` | Calls OpenRouter and rewrites dataset outputs |
 | `preprocesing_dataset.py` | Rewrites files under `entrenamiento/legacy_v1/data/` |
 | `entrenamiento/v2/run_training.sh` | Fine-tunes BGE-M3 on a GPU and writes a run folder |

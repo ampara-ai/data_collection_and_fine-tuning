@@ -3,7 +3,7 @@
   "title": "NUEVO: La notificación al agraviado y/o perjudicado de la disposición de conclusión de la investigación restringe su derecho a solicitar la constitución en actor civil [Casación 482-2022, Puno, ff. jj. 1.10, 1.11]",
   "local_pdf_path": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/raw/pdf_candidates/jp_00008_e0002.pdf",
   "api_base_url": "http://127.0.0.1:8000",
-  "output_path": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/intermediate/resumeai_sample/jp_00008_e0002.json",
+  "output_path": "/home/renato/.openclaw/workspace/projects/peru-legal-rag-data/generacion_dataset/data/intermediate/summary_service_sample/jp_00008_e0002.json",
   "factual_density_signals": {
     "has_case_background": true,
     "has_reported_acts": true,
@@ -15,6 +15,6 @@
     "is_fact_rich_minimum": true,
     "is_dataset_candidate": true
   },
-  "resumeai_status": "success",
+  "summary_service_status": "success",
   "run_id": "370fc099c60c"
 }

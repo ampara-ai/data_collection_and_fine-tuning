@@ -4,5 +4,5 @@ __pycache__/
 .venv/
 *.pdf
 *.html
-generacion_dataset/data/intermediate/resumeai_batch/cases/*
+generacion_dataset/data/intermediate/summary_service_batch/cases/*
 .DS_Store

@@ -23,7 +23,7 @@ Este subárbol ya no debe leerse solo como una recolección plana de URLs. La di
 2. parsear sus entries de forma estructurada,
 3. clasificar cuáles entries sí apuntan a casos con antecedentes útiles,
 4. resolver y descargar sus PDFs,
-5. recién después enriquecer esos PDFs con `ResumeAI-Legal`.
+5. recién después enriquecer esos PDFs con `SummaryService`.
 
 ## Estado actual
 
@@ -56,7 +56,7 @@ Se consideran parte del flujo principal o reutilizable:
 - `show_index_entries_stats.py`
 - `show_jurisprudence_stats.py`
 - `show_parsed_jurisprudence_stats.py`
-- `enrich_case_with_resumeai_api_sample.py`
+- `enrich_case_with_summary_service_api_sample.py`
 - `build_seed_urls_from_tipo_02_03.py`
 - `fetch_all_index_pages.py`
 - `llm_parse_index_entries.py`

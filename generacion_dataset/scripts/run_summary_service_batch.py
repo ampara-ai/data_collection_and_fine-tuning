@@ -12,19 +12,19 @@ TIPO04_SRC = ROOT / "recoleccion" / "data_types" / "tipo_04_jurisprudencia" / "s
 if str(TIPO04_SRC) not in sys.path:
     sys.path.insert(0, str(TIPO04_SRC))
 
-from legal_data.resumeai_client import (  # type: ignore
-    ResumeAILegalAnalysisRequest,
-    analyze_pdf_with_resumeai_legal,
+from legal_data.summary_service_client import (  # type: ignore
+    SummaryAnalysisRequest,
+    analyze_pdf_with_summary_service,
     persist_enriched_case,
 )
 
 GEN_DIR = ROOT / "generacion_dataset"
 INTERMEDIATE_DIR = GEN_DIR / "data" / "intermediate"
-BATCH_DIR = INTERMEDIATE_DIR / "resumeai_batch"
+BATCH_DIR = INTERMEDIATE_DIR / "summary_service_batch"
 OUTPUT_CASES_DIR = BATCH_DIR / "cases"
 INPUT_JSON = INTERMEDIATE_DIR / "pdf_download_manifest_217.json"
-MANIFEST_JSON = BATCH_DIR / "resumeai_batch_manifest.json"
-SUMMARY_JSON = BATCH_DIR / "resumeai_batch_summary.json"
+MANIFEST_JSON = BATCH_DIR / "summary_service_batch_manifest.json"
+SUMMARY_JSON = BATCH_DIR / "summary_service_batch_summary.json"
 
 
 def load_json(path: Path, default: Any):
@@ -52,9 +52,9 @@ def build_summary(manifest: list[dict[str, Any]]) -> dict[str, Any]:
 
 
 def main() -> None:
-    api_base_url = os.environ.get("RESUMEAI_API_BASE_URL", "http://127.0.0.1:8000")
-    similarity_threshold = float(os.environ.get("RESUMEAI_SIMILARITY_THRESHOLD", "0.85"))
-    timeout_sec = int(os.environ.get("RESUMEAI_TIMEOUT_SEC", "1800"))
+    api_base_url = os.environ.get("SUMMARY_SERVICE_API_BASE_URL", "http://127.0.0.1:8000")
+    similarity_threshold = float(os.environ.get("SUMMARY_SERVICE_SIMILARITY_THRESHOLD", "0.85"))
+    timeout_sec = int(os.environ.get("SUMMARY_SERVICE_TIMEOUT_SEC", "1800"))
 
     items = load_json(INPUT_JSON, [])
     previous_manifest = load_json(MANIFEST_JSON, [])
@@ -64,7 +64,7 @@ def main() -> None:
     manifest = list(previous_manifest)
 
     OUTPUT_CASES_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"ResumeAI batch: {len(targets)} PDFs descargados elegibles")
+    print(f"SummaryService batch: {len(targets)} PDFs descargados elegibles")
     print(f"Resultados previos detectados: {len(previous_manifest)}")
     print("-" * 60)
 
@@ -76,7 +76,7 @@ def main() -> None:
 
         print(f"[{idx}/{len(targets)}] {entry_id} -> processing", flush=True)
         try:
-            request = ResumeAILegalAnalysisRequest(
+            request = SummaryAnalysisRequest(
                 pdf_path=item["local_pdf_path"],
                 source_url=item.get("entry_url"),
                 title=item.get("title"),
@@ -85,7 +85,7 @@ def main() -> None:
                 verbose=False,
                 similarity_threshold=similarity_threshold,
             )
-            enriched = analyze_pdf_with_resumeai_legal(
+            enriched = analyze_pdf_with_summary_service(
                 request,
                 api_base_url=api_base_url,
                 timeout_sec=timeout_sec,
@@ -100,10 +100,10 @@ def main() -> None:
                 "entry_url": item.get("entry_url"),
                 "pdf_url": item.get("pdf_url"),
                 "local_pdf_path": item.get("local_pdf_path"),
-                "resumeai_output_path": str(output_path),
+                "summary_service_output_path": str(output_path),
                 "status": "success",
-                "run_id": enriched.resumeai_run.run_id,
-                "resumeai_status": enriched.resumeai_run.status,
+                "run_id": enriched.summary_service_run.run_id,
+                "summary_service_status": enriched.summary_service_run.status,
                 "factual_density_signals": enriched.factual_density_signals,
                 "document_kind_standardized": item.get("document_kind_standardized"),
                 "detected_case_number": item.get("detected_case_number"),
@@ -123,7 +123,7 @@ def main() -> None:
                 "entry_url": item.get("entry_url"),
                 "pdf_url": item.get("pdf_url"),
                 "local_pdf_path": item.get("local_pdf_path"),
-                "resumeai_output_path": None,
+                "summary_service_output_path": None,
                 "status": "error",
                 "error": str(exc),
                 "document_kind_standardized": item.get("document_kind_standardized"),
